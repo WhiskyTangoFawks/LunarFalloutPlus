@@ -1,5 +1,6 @@
 # LunarFalloutPlus
 Wabbajack Modlist for Fallout 4, for a moderate difficulty survival playthrough based on Lunar Fallout Overhaul, with a little extra spice.
+Requires wabbajack - https://www.wabbajack.org/#/
 
 Key Mods - Lunar Fallout Plus, Sim Settlements 2, Lore Based Power Armor Overhaul, Creative Perks, Unique Creatures and Monsters, Gunmetal Weapon,  Armor, and Clothing Skins.
 
