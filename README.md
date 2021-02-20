@@ -16,6 +16,8 @@ Additional Setup (post wabbajack installation)
 1) HighFPSFix.ini - adjust vsync and FPS cap to your desired settings, based on your monitor framerate, and whether you need vsync
 2) Disable PaintTheCommonwealth if you do not have the required creation club skins, disable CC-FoundOnly.esp if you have the skins, and want to be able to craft them.
 
+When making a new game, after initial character creation a number of installation messages will display. DO NOT DO ANYTHING UNTIL THESE HAVE FINISHED. The FO4 script engine is fragile, and needs a minute to run through all the startup. If you get a message from Sim Settlements 2 that it hasn't started correctly, it is probably because you didn't wait here.
+
 In Game Setup and MCM
 1) Backpacks of the Commonwealth - Select your chosen distribution when it comes up. I like backpacks being completely unique, but whatever you want.
 2) Companion heal thyself - I recommend setting the stun to 95%, the reduced stimpack distribution makes it difficult to keep a companion up if you have to constantly stim them.
@@ -24,3 +26,6 @@ In Game Setup and MCM
 
 Optional, but Recommended
 1) Download and install the Strigidae and Break Action Laser skin packs from https://gumroad.com/niero. They're available for free (use the discount code), but a donation is suggested. The man makes some fantastic mods, and you can probably afford to buy him a coffee.
+
+Known Issues
+1) Missing textures from Gunmetal Clothing. Currently waiting for release of 2.0
