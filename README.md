@@ -14,15 +14,15 @@ Things you should know...
 7) At character creation, select "This i a memory" to play the vanilla quest line, select "This is a dream" for a non-vault dweller start. Warning: non-vault dweller starts are currently untested, I don't know how well it will play with mods that need to run startup routines.
 
 Additional Setup (post wabbajack installation)
-1) Move the Fame Files Folder into your game directory, to complete installation of F4SE and ENB
+1) Move the "Game Files Folder", found inside the MO2 folder, into your game directory, to complete installation of F4SE and ENB
 2) HighFPSFix.ini - adjust vsync and FPS cap to your desired settings, based on your monitor framerate, and whether you need vsync (if you don't have a g-sync or free-sync compatible monitor and graphics card, you need v-sync)
 3) Disable PaintTheCommonwealth if you do not have the required creation club skins, disable CC-FoundOnly.esp if you have the skins, and want to be able to craft them.
 
 When making a new game, after initial character creation a number of installation messages will display. DO NOT DO ANYTHING UNTIL THESE HAVE FINISHED. The FO4 script engine is fragile, and needs a minute to run through all the startup. If you get a message from Sim Settlements 2 that it hasn't started correctly, it is probably because you didn't wait here- restart with a new game and wait until the messages have finished displaying.
 
 Mod Configuration Menu
-2) Companion heal thyself - I recommend setting the stun to 95%, the reduced stimpack distribution makes it difficult to keep a companion up if you have to constantly stim them.
-3) Animated Ingestibles - Turn on to close pipboy, play when mouth covered in 1st person, and play animations during combat
+1) Companion heal thyself - I recommend setting the stun to 95%, the reduced stimpack distribution makes it difficult to keep a companion up if you have to constantly stim them.
+2) Animated Ingestibles - Turn on to close pipboy, play when mouth covered in 1st person, and play animations during combat
 
 In Game Setup
 1) Backpacks of the Commonwealth - When you exit vault 111, this will inject backpacks into the levelled lists. Select your chosen distribution when it comes up. I like backpacks being completely unique, but whatever you want.
@@ -35,6 +35,5 @@ Known Issues
 -Mod added settlers do not benefit from Lunar Fallout Overhaul's settler changes- this is intended, as vanilla named settlers also don't benefit..
 -Selecting "This is only a dream" is currently untested, and some of the mods that require start up routines to run may not start correctly.
 
-
-Mods in Testing: These probably work, but I haven't tested them yet, and therefore they are not included in the main modlist yet
+Mods in Testing: These probably work, but I haven't tested them yet, and therefore they are not included in the main modlist yet, feel free to add them and let me know if they work
 -Better Goodneighbor, Better Third Rail, Bettery Skylines Flight, Nuka World Plus, Prydwen Overhaul, Better Atom Cats Garage, Better Boston Airport, Combat Zone Restored, Doc Drumlin, Fall UI Map, Sim Settlements 2 expansion packs
