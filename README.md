@@ -36,4 +36,4 @@ Known Issues
 -Selecting "This is only a dream" is currently untested, and some of the mods that require start up routines to run may not start correctly.
 
 Mods in Testing: These probably work, but I haven't tested them yet, and therefore they are not included in the main modlist yet, feel free to add them and let me know if they work
--Better Goodneighbor, Better Third Rail, Bettery Skylines Flight, Nuka World Plus, Prydwen Overhaul, Better Atom Cats Garage, Better Boston Airport, Combat Zone Restored, Doc Drumlin, Fall UI Map, Sim Settlements 2 expansion packs
+-Bettery Skylines Flight, Nuka World Plus, Better Boston Airport, Combat Zone Restored, Sim Settlements 2 expansion packs
