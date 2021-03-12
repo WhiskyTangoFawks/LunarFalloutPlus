@@ -2,7 +2,7 @@
 Wabbajack Modlist for Fallout 4, for a moderate difficulty survival playthrough based on Lunar Fallout Overhaul, with a little extra spice.
 Requires wabbajack - https://www.wabbajack.org/#/
 
-Key Mods - Lunar Fallout Plus, Start Me Up, Sim Settlements 2, Lore Based Power Armor Overhaul, Creative Perks & Lunar Creative Perks, Unique Creatures and Monsters, Gunmetal Weapon,  Armor, and Clothing Skins.
+Key Mods - Lunar Fallout Plus, Start Me Up, Sim Settlements 2, Tales from the Commonwealth, Lore Based Power Armor Overhaul, Creative Perks & Lunar Creative Perks, Unique Creatures and Monsters, Gunmetal Weapon,  Armor, and Clothing Skins.
 
 Things you should know...
 1) The game is balanced for a Survival playthrough that feels more like Normal or Hard, using a controller (rather than mouse and keyboard). If you find it too easy, increase the incoming damage value in the LunarFallout-LessDeadlySurvival.esp in FO4Edit.
@@ -26,19 +26,16 @@ In Game Setup
 2) Mod Configuration Menu - Animated Ingestibles - Turn on to close pipboy, play when mouth covered in 1st person, and play animations during combat
 3) Backpacks of the Commonwealth - When you exit vault 111, this will inject backpacks into the levelled lists. Select your chosen distribution when it comes up. I like backpacks being completely unique, but whatever you want.
 3) Utility Belt- equip the utility belt.
-4) Run the Cross Courser Strigidae install holotape
 
 Optional, but Recommended
-1) Download and install the Strigidae, Brotherhood Recon and Break Action Laser skin packs from https://gumroad.com/niero. They're available for free (use the discount code), but a donation is suggested. The man makes some fantastic mods, and you can probably afford to buy him a coffee.
+1) Download and install the Strigidae, Brotherhood Recon Expeditionary Suit, and Break Action Laser skin packs from https://gumroad.com/niero. They're available for free (use the discount code), but a donation is suggested. The man makes some fantastic mods, and you can probably afford to buy him a coffee.
 
 Known Issues
 -Mod added recruitable settlers do not benefit from Lunar Fallout Overhaul's settler changes- this is intended, as vanilla recruitable settlers (e.g. Sheffield) also don't benefit.
 -Selecting "This is only a dream" is currently untested, and some of the mods that require start up routines to run may not start correctly.
 -Red Rockets in Lexington and Cambridge may have some weirdness with unremovable objects - this is an engine limitation, and requries rebuilding precombines to fix correctly (which is on my to-do list, but way, way at the bottom)
--Cait is missing her shotgun after being recruited. This is a bug with Combat Zone Restored, after recruiting her run the following console command, then open her inventory and equip the shotgun
+-Cait is missing her shotgun after being recruited. This is a bug with Combat Zone Restored, after recruiting her run the following console command
 00079305.additem 0005df30 1
--Companion weapons use a hidden ammo type by default that is not available to the player. Changing the ammo type at the crafting bench will remove their ability to use the weapon without consuming standard ammo (until you change it back).
--When a companion is stunned, you will still get the Heal survival quest, and if it's for dogmeat it doesn't go away, just disable it in the quest menu
 
 Mods in Testing: These probably work, but I haven't tested them yet, and therefore they are not included in the main modlist yet, feel free to add them and let me know if they work
 -Bettery Skylines Flight, Nuka World Plus, Better Boston Airport, Father Companion, Sim Settlements 2 expansion packs
