@@ -28,12 +28,12 @@ When making a new game, after initial character creation a number of installatio
 
 In Game Setup
 1) Mod Configuration Menu - Animated Ingestibles - Turn on to close pipboy, play when mouth covered in 1st person, and play animations during combat
-2) Mod Configuration Menu - Survival Configuration Menu - turn ON savegame -> timed save
+2) Mod Configuration Menu - Survival Configuration Menu - turn ON savegame -> timed save, turn OFF Companion Heal
 2) Backpacks of the Commonwealth - When you exit vault 111, this will inject backpacks into the levelled lists. Select your chosen distribution when it comes up. I like backpacks being completely unique, but whatever you want.
 3) Utility Belt- equip the utility belt.
 
 Optional, but Recommended
-1) Download and install the Strigidae, Brotherhood Recon Expeditionary Suit, and Break Action Laser skin packs from https://gumroad.com/niero. They're available for free (use the discount code), but a donation is suggested. The man makes some fantastic mods, and you can probably afford to buy him a coffee.
+1) Download and install the Strigidae, Brotherhood Recon Expeditionary Suit, Railroad Handmaiden, and Break Action Laser skin packs from https://gumroad.com/niero. They're available for free (use the discount code), but a donation is suggested. The man makes some fantastic mods, and you can probably afford to buy him a coffee.
 
 Known Issues
 -Settlers recruited via dialog do not benefit from Lunar Fallout Overhaul's settler changes- this is intended, as vanilla recruitable settlers (e.g. Sheffield) also don't benefit.
@@ -43,7 +43,7 @@ Known Issues
 -SimSettlements has quest dialog that references having a son that is still available if you select a non-vault start in StartMeUp
 
 Mods in Testing: These probably work, but I haven't tested them yet, and therefore they are not included in the main modlist yet, feel free to add them and let me know if they work
--Bettery Skylines Flight, Nuka World Plus, Better Boston Airport, Father Companion, Sim Settlements 2 expansion packs
+-Bettery Skylines Flight, Nuka World Plus, Father Companion, Sim Settlements 2 expansion packs
 
 Notable Missing Mods
 -CBBE- I find barbie doll proportions unimmersive. Women don't look look like that in real life.

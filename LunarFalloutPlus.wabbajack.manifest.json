@@ -8,8 +8,8 @@
   "GameName": "Fallout4",
   "ModManager": 0,
   "ModManagerName": "MO2",
-  "DownloadSize": 83920087194,
-  "InstallSize": 84734091237,
+  "DownloadSize": 85284983111,
+  "InstallSize": 87064304743,
   "IsNSFW": false,
   "Archives": [
     {
@@ -256,6 +256,26 @@
         "ModID": 14327,
         "FileID": 68940,
         "PrimaryKeyString": "NexusDownloader+State|Fallout4|14327|68940"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "CPAqDv0QE4Q=",
+      "Meta": null,
+      "Name": "Diverse Children-16289-1-0.rar",
+      "Size": 52426781,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "ANiceOakTree's Diverse Children",
+        "Author": "ANiceOakTree",
+        "Version": "1.0.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/16289-0-1468340174.jpg",
+        "IsNSFW": false,
+        "Description": "Overhauls existing children to have new face and body textures, as well a face diversity with 4 possible faces meshes and textures for each gender. Also gives children new hairstyles, and adds child settlers.",
+        "GameName": "Fallout4",
+        "ModID": 16289,
+        "FileID": 65858,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|16289|65858"
       }
     },
     {
@@ -1116,6 +1136,26 @@
         "ModID": 27418,
         "FileID": 114435,
         "PrimaryKeyString": "NexusDownloader+State|Fallout4|27418|114435"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "3+DOiLL+8mQ=",
+      "Meta": null,
+      "Name": "CROSS_CoA_091a_ESP-37820-091a-1554080866.zip",
+      "Size": 314290919,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "CROSS_Chosen_Of_Atom",
+        "Author": "Niero",
+        "Version": "91.0.0.0a",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/37820/37820-1551772072-825997013.png",
+        "IsNSFW": false,
+        "Description": ".",
+        "GameName": "Fallout4",
+        "ModID": 37820,
+        "FileID": 155367,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|37820|155367"
       }
     },
     {
@@ -2100,42 +2140,82 @@
     },
     {
       "$type": "Archive, Wabbajack.Lib",
-      "Hash": "EPbl/6MaiG0=",
+      "Hash": "AzSMlCA1x9A=",
       "Meta": null,
-      "Name": "Look At Me IE x White Version-45704-1-0-1615317019.7z",
-      "Size": 161403965,
+      "Name": "Look At Me GE-45705-1-1-1616011901.7z",
+      "Size": 18572686,
       "State": {
         "$type": "NexusDownloader, Wabbajack.Lib",
-        "Name": "Look At Me - Institute Edition",
+        "Name": "Look At Me - Gunner Edition",
         "Author": "SaiSei",
-        "Version": "1.0.0.0",
-        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/45704/45704-1615255008-715773417.png",
+        "Version": "1.1.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/45705/45705-1615922218-1052750421.png",
         "IsNSFW": false,
-        "Description": "Entirely new catalogue of clothing for the organization known as the institute.",
+        "Description": "Entirely new catalogue of clothing for the organization known as the gunners.",
         "GameName": "Fallout4",
-        "ModID": 45704,
-        "FileID": 203277,
-        "PrimaryKeyString": "NexusDownloader+State|Fallout4|45704|203277"
+        "ModID": 45705,
+        "FileID": 203928,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|45705|203928"
       }
     },
     {
       "$type": "Archive, Wabbajack.Lib",
-      "Hash": "aX8bQgS8/IQ=",
+      "Hash": "27ilB+5VqFo=",
       "Meta": null,
-      "Name": "Look At Me IE x Lunar Fallout Overhaul-45704-1-0-1615318403.7z",
-      "Size": 6993,
+      "Name": "Look At Me IE-45704-1-1-1616011463.7z",
+      "Size": 161404028,
       "State": {
         "$type": "NexusDownloader, Wabbajack.Lib",
         "Name": "Look At Me - Institute Edition",
         "Author": "SaiSei",
-        "Version": "1.0.0.0",
+        "Version": "1.1.0.0",
         "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/45704/45704-1615255008-715773417.png",
         "IsNSFW": false,
         "Description": "Entirely new catalogue of clothing for the organization known as the institute.",
         "GameName": "Fallout4",
         "ModID": 45704,
-        "FileID": 203287,
-        "PrimaryKeyString": "NexusDownloader+State|Fallout4|45704|203287"
+        "FileID": 203923,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|45704|203923"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "2+LQhN9CAco=",
+      "Meta": null,
+      "Name": "Look At Me RE-45706-1-1-1616003289.7z",
+      "Size": 14133602,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Look At Me - Railroad Edition",
+        "Author": "SaiSei",
+        "Version": "1.1.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/45706/45706-1615508709-1158537888.png",
+        "IsNSFW": false,
+        "Description": "Entirely new catalogue of clothing for the organization known as the railroad.",
+        "GameName": "Fallout4",
+        "ModID": 45706,
+        "FileID": 203902,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|45706|203902"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "n5xvVc0Vtzo=",
+      "Meta": null,
+      "Name": "Look At Me IE x Lunar Fallout Overhaul-45704-1-1-1616011280.7z",
+      "Size": 7023,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Look At Me - Institute Edition",
+        "Author": "SaiSei",
+        "Version": "1.1.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/45704/45704-1615255008-715773417.png",
+        "IsNSFW": false,
+        "Description": "Entirely new catalogue of clothing for the organization known as the institute.",
+        "GameName": "Fallout4",
+        "ModID": 45704,
+        "FileID": 203920,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|45704|203920"
       }
     },
     {
@@ -2760,6 +2840,86 @@
     },
     {
       "$type": "Archive, Wabbajack.Lib",
+      "Hash": "LZHGMWzeipc=",
+      "Meta": null,
+      "Name": "Nexus PMC 3.0-41332-3-0-1583059749.rar",
+      "Size": 320990066,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Private Military Company",
+        "Author": "EvTital - TomaHawk - Neto - HeroicPie - i_Code_i - Cyrisus",
+        "Version": "3.0.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/41332/41332-1583057708-1846802691.png",
+        "IsNSFW": false,
+        "Description": "Adds a new outfit with custom camouflages and gloves.",
+        "GameName": "Fallout4",
+        "ModID": 41332,
+        "FileID": 176830,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|41332|176830"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "HAj63oGV6ME=",
+      "Meta": null,
+      "Name": "Nexus PMC 3.0.2 Hotfix-41332-3-0-2-1583663353.zip",
+      "Size": 5841,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Private Military Company",
+        "Author": "EvTital - TomaHawk - Neto - HeroicPie - i_Code_i - Cyrisus",
+        "Version": "3.0.2.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/41332/41332-1583057708-1846802691.png",
+        "IsNSFW": false,
+        "Description": "Adds a new outfit with custom camouflages and gloves.",
+        "GameName": "Fallout4",
+        "ModID": 41332,
+        "FileID": 177197,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|41332|177197"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "aeXjkCI7oKs=",
+      "Meta": null,
+      "Name": "Private Military Company Extended-44126-1-0-1585708954.7z",
+      "Size": 502167096,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Private Military Company Extended",
+        "Author": "Chefs Camp",
+        "Version": "1.0.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/44126/44126-1585717042-1614910068.png",
+        "IsNSFW": false,
+        "Description": "An expansion of Evtitals Private Military Company mod, adding Camos, Patches and a new vest loadout.",
+        "GameName": "Fallout4",
+        "ModID": 44126,
+        "FileID": 178541,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|44126|178541"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "p1zoPJIooY0=",
+      "Meta": null,
+      "Name": "Private Military Company Extended Hot fix-44126-1-1-1586183922.7z",
+      "Size": 9608,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Private Military Company Extended",
+        "Author": "Chefs Camp",
+        "Version": "1.1.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/44126/44126-1585717042-1614910068.png",
+        "IsNSFW": false,
+        "Description": "An expansion of Evtitals Private Military Company mod, adding Camos, Patches and a new vest loadout.",
+        "GameName": "Fallout4",
+        "ModID": 44126,
+        "FileID": 178881,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|44126|178881"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
       "Hash": "xrbEp2So/9M=",
       "Meta": null,
       "Name": "Project Reality Footsteps FO4 1.7 BA2-35904-1-7-1555770045.zip",
@@ -3316,6 +3476,26 @@
         "ModID": 48136,
         "FileID": 193935,
         "PrimaryKeyString": "NexusDownloader+State|Fallout4|48136|193935"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "kIJ3LFuV0K0=",
+      "Meta": null,
+      "Name": "SimSettlements2ChildSupport-49037-1-0-1608769651.zip",
+      "Size": 5302,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Sim Settlements 2 Child Support",
+        "Author": "Pendan",
+        "Version": "1.0.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/49037/49037-1608769139-759414082.jpeg",
+        "IsNSFW": false,
+        "Description": "Allow child settlers to interact with more objects in Sim Settlement 2 plots and settlements.",
+        "GameName": "Fallout4",
+        "ModID": 49037,
+        "FileID": 197529,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|49037|197529"
       }
     },
     {
@@ -3896,6 +4076,26 @@
         "ModID": 10826,
         "FileID": 51477,
         "PrimaryKeyString": "NexusDownloader+State|Fallout4|10826|51477"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "WWLpML0hezM=",
+      "Meta": null,
+      "Name": "TheKite_Railroad_Handmaiden_091a-29348-091a2.zip",
+      "Size": 142293222,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "TheKite's Handmaiden",
+        "Author": "TheKite and Niero",
+        "Version": "91.0.0.0a2",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/29348/29348-1517529836-1234945364.jpeg",
+        "IsNSFW": true,
+        "Description": "Adds the Railroad Handmaiden outfit based on TheKite's own character Cécile Rose de Ségur. Has both female and male versions of all parts. Each part of the outfit (Fedora/Cigarette/Gloves/Underarmor/Overcoat) has it's own customization options.",
+        "GameName": "Fallout4",
+        "ModID": 29348,
+        "FileID": 121650,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|29348|121650"
       }
     },
     {
@@ -4760,22 +4960,22 @@
     },
     {
       "$type": "Archive, Wabbajack.Lib",
-      "Hash": "y6pP+Rlanw4=",
+      "Hash": "8OWgfS8lT50=",
       "Meta": null,
-      "Name": "Buffout 4-47359-1-21-0-1615098232.zip",
-      "Size": 626539,
+      "Name": "Buffout 4-47359-1-22-0-1616045382.zip",
+      "Size": 627240,
       "State": {
         "$type": "NexusDownloader, Wabbajack.Lib",
         "Name": "Buffout 4",
         "Author": "Ryan",
-        "Version": "1.21.0.0",
+        "Version": "1.22.0.0",
         "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/47359/47359-1599900935-173191707.png",
         "IsNSFW": false,
         "Description": "It's like buffout but for the engine",
         "GameName": "Fallout4",
         "ModID": 47359,
-        "FileID": 203068,
-        "PrimaryKeyString": "NexusDownloader+State|Fallout4|47359|203068"
+        "FileID": 203949,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|47359|203949"
       }
     },
     {
@@ -5460,26 +5660,6 @@
     },
     {
       "$type": "Archive, Wabbajack.Lib",
-      "Hash": "eQAdmhUI5qU=",
-      "Meta": null,
-      "Name": "2c. Main Reapack - Part Three-23556-1-0-1565605113.7z",
-      "Size": 3100799827,
-      "State": {
-        "$type": "NexusDownloader, Wabbajack.Lib",
-        "Name": "Fallout 4 Mod List and Load Order Guide (BiRaitBec Modlist)",
-        "Author": "BiRaitBec",
-        "Version": "1.0.0.0",
-        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/23556/23556-1561383176-1822793169.jpeg",
-        "IsNSFW": false,
-        "Description": "Complete Modlist and Load Order Guide for Best Fallout 4 Modding Experience. Extreme Fallout 4 Engine &amp; Textures Mods Optimization.",
-        "GameName": "Fallout4",
-        "ModID": 23556,
-        "FileID": 164241,
-        "PrimaryKeyString": "NexusDownloader+State|Fallout4|23556|164241"
-      }
-    },
-    {
-      "$type": "Archive, Wabbajack.Lib",
       "Hash": "sKpeRQSJXsA=",
       "Meta": null,
       "Name": "2a. Quality Addon - Part One-23556-1-0-1565546826.7z",
@@ -5500,46 +5680,6 @@
     },
     {
       "$type": "Archive, Wabbajack.Lib",
-      "Hash": "qtCRL23uOxU=",
-      "Meta": null,
-      "Name": "PhyOp (Light) DLC 1.2a-27038-1-2a.7z",
-      "Size": 1559078431,
-      "State": {
-        "$type": "NexusDownloader, Wabbajack.Lib",
-        "Name": "PhyOp - Overhauled Optimized Textures",
-        "Author": "Phylith",
-        "Version": "1.2.0.0a",
-        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/27038-8-1507495510.png",
-        "IsNSFW": false,
-        "Description": "Overhaul optimization of all Base Game and DLC Texture BA2's. \r\n\n40,962 textures. 4.54 -7.66 GB total.",
-        "GameName": "Fallout4",
-        "ModID": 27038,
-        "FileID": 112201,
-        "PrimaryKeyString": "NexusDownloader+State|Fallout4|27038|112201"
-      }
-    },
-    {
-      "$type": "Archive, Wabbajack.Lib",
-      "Hash": "ye9Y24kt+24=",
-      "Meta": null,
-      "Name": "2a. Main Repack - Part One-23556-1-0-1565616028.7z",
-      "Size": 6461194212,
-      "State": {
-        "$type": "NexusDownloader, Wabbajack.Lib",
-        "Name": "Fallout 4 Mod List and Load Order Guide (BiRaitBec Modlist)",
-        "Author": "BiRaitBec",
-        "Version": "1.0.0.0",
-        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/23556/23556-1561383176-1822793169.jpeg",
-        "IsNSFW": false,
-        "Description": "Complete Modlist and Load Order Guide for Best Fallout 4 Modding Experience. Extreme Fallout 4 Engine &amp; Textures Mods Optimization.",
-        "GameName": "Fallout4",
-        "ModID": 23556,
-        "FileID": 164245,
-        "PrimaryKeyString": "NexusDownloader+State|Fallout4|23556|164245"
-      }
-    },
-    {
-      "$type": "Archive, Wabbajack.Lib",
       "Hash": "2v1bXP4xT2c=",
       "Meta": null,
       "Name": "luxor8071's HD Texture Pack AIO Pt 5-48528-1-0-1605860970.rar",
@@ -5556,196 +5696,6 @@
         "ModID": 48528,
         "FileID": 195326,
         "PrimaryKeyString": "NexusDownloader+State|Fallout4|48528|195326"
-      }
-    },
-    {
-      "$type": "Archive, Wabbajack.Lib",
-      "Hash": "Ak+Injsi1cM=",
-      "Meta": null,
-      "Name": "Alternative Magazine Covers_Complete_Package-20374-.zip",
-      "Size": 138323140,
-      "State": {
-        "$type": "NexusDownloader, Wabbajack.Lib",
-        "Name": "Alternative Magazine Covers and more",
-        "Author": "Apolocrato",
-        "Version": "",
-        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/20374-0-1480941874.jpg",
-        "IsNSFW": true,
-        "Description": "Replaces the images that have a childish sense of humor or that don´t fit in the Fallout atmosphere (in my opinion) .  Images are also added to the back covers of magazines .",
-        "GameName": "Fallout4",
-        "ModID": 20374,
-        "FileID": 83534,
-        "PrimaryKeyString": "NexusDownloader+State|Fallout4|20374|83534"
-      }
-    },
-    {
-      "$type": "Archive, Wabbajack.Lib",
-      "Hash": "tyLRjoIIfxU=",
-      "Meta": null,
-      "Name": "Data_DLCNukaWorld - Textures.ba2",
-      "Size": 2348553100,
-      "State": {
-        "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-        "Game": "Fallout4",
-        "GameFile": "Data\\DLCNukaWorld - Textures.ba2",
-        "Hash": "tyLRjoIIfxU=",
-        "GameVersion": "1.10.163.0",
-        "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.163.0|data\\dlcnukaworld - textures.ba2"
-      }
-    },
-    {
-      "$type": "Archive, Wabbajack.Lib",
-      "Hash": "F5yETiPLBzg=",
-      "Meta": null,
-      "Name": "Hair Tones Redux - Bethesda v2 Darker Brows-36637-2-01-1546183270.zip",
-      "Size": 19325,
-      "State": {
-        "$type": "NexusDownloader, Wabbajack.Lib",
-        "Name": "Hair Tones Redux - A Hair Color Overhaul",
-        "Author": "radbeetle",
-        "Version": "f2.01",
-        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/36637/36637-1545961942-675471323.png",
-        "IsNSFW": false,
-        "Description": "A refresh of all the hair colors, with a focus on distinct and realistic, though slightly exaggerated tones. Also includes an optional file for the LMCC colors.",
-        "GameName": "Fallout4",
-        "ModID": 36637,
-        "FileID": 148989,
-        "PrimaryKeyString": "NexusDownloader+State|Fallout4|36637|148989"
-      }
-    },
-    {
-      "$type": "Archive, Wabbajack.Lib",
-      "Hash": "zYaZD421JpI=",
-      "Meta": null,
-      "Name": "Data_DLCCoast - Textures.ba2",
-      "Size": 1335731328,
-      "State": {
-        "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-        "Game": "Fallout4",
-        "GameFile": "Data\\DLCCoast - Textures.ba2",
-        "Hash": "zYaZD421JpI=",
-        "GameVersion": "1.10.163.0",
-        "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.163.0|data\\dlccoast - textures.ba2"
-      }
-    },
-    {
-      "$type": "Archive, Wabbajack.Lib",
-      "Hash": "2DhUK1o7Yw4=",
-      "Meta": null,
-      "Name": "PhyOp (Light) Base Game 1.2a (2k Brahmin Pack Textures)-27038-1-2a.7z",
-      "Size": 739535322,
-      "State": {
-        "$type": "NexusDownloader, Wabbajack.Lib",
-        "Name": "PhyOp - Overhauled Optimized Textures",
-        "Author": "Phylith",
-        "Version": "1.2.0.0a",
-        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/27038-8-1507495510.png",
-        "IsNSFW": false,
-        "Description": "Overhaul optimization of all Base Game and DLC Texture BA2's. \r\n\n40,962 textures. 4.54 -7.66 GB total.",
-        "GameName": "Fallout4",
-        "ModID": 27038,
-        "FileID": 113318,
-        "PrimaryKeyString": "NexusDownloader+State|Fallout4|27038|113318"
-      }
-    },
-    {
-      "$type": "Archive, Wabbajack.Lib",
-      "Hash": "eSJIc0P2BFo=",
-      "Meta": null,
-      "Name": "Data_Fallout4 - Textures1.ba2",
-      "Size": 2703605715,
-      "State": {
-        "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-        "Game": "Fallout4",
-        "GameFile": "Data\\Fallout4 - Textures1.ba2",
-        "Hash": "eSJIc0P2BFo=",
-        "GameVersion": "1.10.163.0",
-        "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.163.0|data\\fallout4 - textures1.ba2"
-      }
-    },
-    {
-      "$type": "Archive, Wabbajack.Lib",
-      "Hash": "C02YyoI9G1U=",
-      "Meta": null,
-      "Name": "Data_Fallout4 - Textures5.ba2",
-      "Size": 1963767149,
-      "State": {
-        "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-        "Game": "Fallout4",
-        "GameFile": "Data\\Fallout4 - Textures5.ba2",
-        "Hash": "C02YyoI9G1U=",
-        "GameVersion": "1.10.163.0",
-        "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.163.0|data\\fallout4 - textures5.ba2"
-      }
-    },
-    {
-      "$type": "Archive, Wabbajack.Lib",
-      "Hash": "9hQSwQke0ic=",
-      "Meta": null,
-      "Name": "Data_Fallout4 - Textures2.ba2",
-      "Size": 2410629991,
-      "State": {
-        "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-        "Game": "Fallout4",
-        "GameFile": "Data\\Fallout4 - Textures2.ba2",
-        "Hash": "9hQSwQke0ic=",
-        "GameVersion": "1.10.163.0",
-        "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.163.0|data\\fallout4 - textures2.ba2"
-      }
-    },
-    {
-      "$type": "Archive, Wabbajack.Lib",
-      "Hash": "0K1s57AHFzQ=",
-      "Meta": null,
-      "Name": "Immersive Mouth and Teeth - 6.0-903-6-0-1547555098.7z",
-      "Size": 75287512,
-      "State": {
-        "$type": "NexusDownloader, Wabbajack.Lib",
-        "Name": "Immersive Mouth and Teeth",
-        "Author": "ClearanceClarence",
-        "Version": "6.0.0.0",
-        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/903/903-1536697631-259484240.jpeg",
-        "IsNSFW": false,
-        "Description": "A HD retexture of the human teeth found in Fallout 4. Available in 4K, 2K, 1K and 512.",
-        "GameName": "Fallout4",
-        "ModID": 903,
-        "FileID": 150119,
-        "PrimaryKeyString": "NexusDownloader+State|Fallout4|903|150119"
-      }
-    },
-    {
-      "$type": "Archive, Wabbajack.Lib",
-      "Hash": "sIfJk31bhOU=",
-      "Meta": null,
-      "Name": "WX - Face Paints and Dirt-13649-1-0.rar",
-      "Size": 5610306,
-      "State": {
-        "$type": "NexusDownloader, Wabbajack.Lib",
-        "Name": "WX Face Paints and Dirt",
-        "Author": "Wyn Xombii",
-        "Version": "1.0.0.0",
-        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/13649-4-1463506306.jpg",
-        "IsNSFW": false,
-        "Description": "Redid the face paint textures to make them less opaque and aged them considerably. Makes Joker paint a viable option. New optional less cracked version.",
-        "GameName": "Fallout4",
-        "ModID": 13649,
-        "FileID": 53937,
-        "PrimaryKeyString": "NexusDownloader+State|Fallout4|13649|53937"
-      }
-    },
-    {
-      "$type": "Archive, Wabbajack.Lib",
-      "Hash": "US7beXF4oY4=",
-      "Meta": null,
-      "Name": "Data_Fallout4 - Textures4.ba2",
-      "Size": 1999988681,
-      "State": {
-        "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-        "Game": "Fallout4",
-        "GameFile": "Data\\Fallout4 - Textures4.ba2",
-        "Hash": "US7beXF4oY4=",
-        "GameVersion": "1.10.163.0",
-        "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.163.0|data\\fallout4 - textures4.ba2"
       }
     },
     {
@@ -5790,6 +5740,21 @@
     },
     {
       "$type": "Archive, Wabbajack.Lib",
+      "Hash": "eSJIc0P2BFo=",
+      "Meta": null,
+      "Name": "Data_Fallout4 - Textures1.ba2",
+      "Size": 2703605715,
+      "State": {
+        "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+        "Game": "Fallout4",
+        "GameFile": "Data\\Fallout4 - Textures1.ba2",
+        "Hash": "eSJIc0P2BFo=",
+        "GameVersion": "1.10.163.0",
+        "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.163.0|data\\fallout4 - textures1.ba2"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
       "Hash": "pvuWF9IKkQE=",
       "Meta": null,
       "Name": "2b. Quality Overhaul - Part Two-23556-1-0-1565980973.7z",
@@ -5806,6 +5771,261 @@
         "ModID": 23556,
         "FileID": 164486,
         "PrimaryKeyString": "NexusDownloader+State|Fallout4|23556|164486"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "9hQSwQke0ic=",
+      "Meta": null,
+      "Name": "Data_Fallout4 - Textures2.ba2",
+      "Size": 2410629991,
+      "State": {
+        "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+        "Game": "Fallout4",
+        "GameFile": "Data\\Fallout4 - Textures2.ba2",
+        "Hash": "9hQSwQke0ic=",
+        "GameVersion": "1.10.163.0",
+        "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.163.0|data\\fallout4 - textures2.ba2"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "ye9Y24kt+24=",
+      "Meta": null,
+      "Name": "2a. Main Repack - Part One-23556-1-0-1565616028.7z",
+      "Size": 6461194212,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Fallout 4 Mod List and Load Order Guide (BiRaitBec Modlist)",
+        "Author": "BiRaitBec",
+        "Version": "1.0.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/23556/23556-1561383176-1822793169.jpeg",
+        "IsNSFW": false,
+        "Description": "Complete Modlist and Load Order Guide for Best Fallout 4 Modding Experience. Extreme Fallout 4 Engine &amp; Textures Mods Optimization.",
+        "GameName": "Fallout4",
+        "ModID": 23556,
+        "FileID": 164245,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|23556|164245"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "2DhUK1o7Yw4=",
+      "Meta": null,
+      "Name": "PhyOp (Light) Base Game 1.2a (2k Brahmin Pack Textures)-27038-1-2a.7z",
+      "Size": 739535322,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "PhyOp - Overhauled Optimized Textures",
+        "Author": "Phylith",
+        "Version": "1.2.0.0a",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/27038-8-1507495510.png",
+        "IsNSFW": false,
+        "Description": "Overhaul optimization of all Base Game and DLC Texture BA2's. \r\n\n40,962 textures. 4.54 -7.66 GB total.",
+        "GameName": "Fallout4",
+        "ModID": 27038,
+        "FileID": 113318,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|27038|113318"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "C02YyoI9G1U=",
+      "Meta": null,
+      "Name": "Data_Fallout4 - Textures5.ba2",
+      "Size": 1963767149,
+      "State": {
+        "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+        "Game": "Fallout4",
+        "GameFile": "Data\\Fallout4 - Textures5.ba2",
+        "Hash": "C02YyoI9G1U=",
+        "GameVersion": "1.10.163.0",
+        "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.163.0|data\\fallout4 - textures5.ba2"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "0K1s57AHFzQ=",
+      "Meta": null,
+      "Name": "Immersive Mouth and Teeth - 6.0-903-6-0-1547555098.7z",
+      "Size": 75287512,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Immersive Mouth and Teeth",
+        "Author": "ClearanceClarence",
+        "Version": "6.0.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/903/903-1536697631-259484240.jpeg",
+        "IsNSFW": false,
+        "Description": "A HD retexture of the human teeth found in Fallout 4. Available in 4K, 2K, 1K and 512.",
+        "GameName": "Fallout4",
+        "ModID": 903,
+        "FileID": 150119,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|903|150119"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "F5yETiPLBzg=",
+      "Meta": null,
+      "Name": "Hair Tones Redux - Bethesda v2 Darker Brows-36637-2-01-1546183270.zip",
+      "Size": 19325,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Hair Tones Redux - A Hair Color Overhaul",
+        "Author": "radbeetle",
+        "Version": "f2.01",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/36637/36637-1545961942-675471323.png",
+        "IsNSFW": false,
+        "Description": "A refresh of all the hair colors, with a focus on distinct and realistic, though slightly exaggerated tones. Also includes an optional file for the LMCC colors.",
+        "GameName": "Fallout4",
+        "ModID": 36637,
+        "FileID": 148989,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|36637|148989"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "sIfJk31bhOU=",
+      "Meta": null,
+      "Name": "WX - Face Paints and Dirt-13649-1-0.rar",
+      "Size": 5610306,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "WX Face Paints and Dirt",
+        "Author": "Wyn Xombii",
+        "Version": "1.0.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/13649-4-1463506306.jpg",
+        "IsNSFW": false,
+        "Description": "Redid the face paint textures to make them less opaque and aged them considerably. Makes Joker paint a viable option. New optional less cracked version.",
+        "GameName": "Fallout4",
+        "ModID": 13649,
+        "FileID": 53937,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|13649|53937"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "US7beXF4oY4=",
+      "Meta": null,
+      "Name": "Data_Fallout4 - Textures4.ba2",
+      "Size": 1999988681,
+      "State": {
+        "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+        "Game": "Fallout4",
+        "GameFile": "Data\\Fallout4 - Textures4.ba2",
+        "Hash": "US7beXF4oY4=",
+        "GameVersion": "1.10.163.0",
+        "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.163.0|data\\fallout4 - textures4.ba2"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "eQAdmhUI5qU=",
+      "Meta": null,
+      "Name": "2c. Main Reapack - Part Three-23556-1-0-1565605113.7z",
+      "Size": 3100799827,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Fallout 4 Mod List and Load Order Guide (BiRaitBec Modlist)",
+        "Author": "BiRaitBec",
+        "Version": "1.0.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/23556/23556-1561383176-1822793169.jpeg",
+        "IsNSFW": false,
+        "Description": "Complete Modlist and Load Order Guide for Best Fallout 4 Modding Experience. Extreme Fallout 4 Engine &amp; Textures Mods Optimization.",
+        "GameName": "Fallout4",
+        "ModID": 23556,
+        "FileID": 164241,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|23556|164241"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "qtCRL23uOxU=",
+      "Meta": null,
+      "Name": "PhyOp (Light) DLC 1.2a-27038-1-2a.7z",
+      "Size": 1559078431,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "PhyOp - Overhauled Optimized Textures",
+        "Author": "Phylith",
+        "Version": "1.2.0.0a",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/27038-8-1507495510.png",
+        "IsNSFW": false,
+        "Description": "Overhaul optimization of all Base Game and DLC Texture BA2's. \r\n\n40,962 textures. 4.54 -7.66 GB total.",
+        "GameName": "Fallout4",
+        "ModID": 27038,
+        "FileID": 112201,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|27038|112201"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "Ak+Injsi1cM=",
+      "Meta": null,
+      "Name": "Alternative Magazine Covers_Complete_Package-20374-.zip",
+      "Size": 138323140,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "Alternative Magazine Covers and more",
+        "Author": "Apolocrato",
+        "Version": "",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/20374-0-1480941874.jpg",
+        "IsNSFW": true,
+        "Description": "Replaces the images that have a childish sense of humor or that don´t fit in the Fallout atmosphere (in my opinion) .  Images are also added to the back covers of magazines .",
+        "GameName": "Fallout4",
+        "ModID": 20374,
+        "FileID": 83534,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|20374|83534"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "tyLRjoIIfxU=",
+      "Meta": null,
+      "Name": "Data_DLCNukaWorld - Textures.ba2",
+      "Size": 2348553100,
+      "State": {
+        "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+        "Game": "Fallout4",
+        "GameFile": "Data\\DLCNukaWorld - Textures.ba2",
+        "Hash": "tyLRjoIIfxU=",
+        "GameVersion": "1.10.163.0",
+        "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.163.0|data\\dlcnukaworld - textures.ba2"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "zYaZD421JpI=",
+      "Meta": null,
+      "Name": "Data_DLCCoast - Textures.ba2",
+      "Size": 1335731328,
+      "State": {
+        "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+        "Game": "Fallout4",
+        "GameFile": "Data\\DLCCoast - Textures.ba2",
+        "Hash": "zYaZD421JpI=",
+        "GameVersion": "1.10.163.0",
+        "PrimaryKeyString": "GameFileSourceDownloader+State|Fallout4|1.10.163.0|data\\dlccoast - textures.ba2"
+      }
+    },
+    {
+      "$type": "Archive, Wabbajack.Lib",
+      "Hash": "u7T6utAA0rw=",
+      "Meta": null,
+      "Name": "PhyOp (Light) Base Game 1.2a-27038-1-2a.7z",
+      "Size": 6315310616,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Name": "PhyOp - Overhauled Optimized Textures",
+        "Author": "Phylith",
+        "Version": "1.2.0.0a",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/27038-8-1507495510.png",
+        "IsNSFW": false,
+        "Description": "Overhaul optimization of all Base Game and DLC Texture BA2's. \r\n\n40,962 textures. 4.54 -7.66 GB total.",
+        "GameName": "Fallout4",
+        "ModID": 27038,
+        "FileID": 112212,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|27038|112212"
       }
     },
     {
@@ -5860,22 +6080,22 @@
     },
     {
       "$type": "Archive, Wabbajack.Lib",
-      "Hash": "u7T6utAA0rw=",
+      "Hash": "0KBTdiLSTmk=",
       "Meta": null,
-      "Name": "PhyOp (Light) Base Game 1.2a-27038-1-2a.7z",
-      "Size": 6315310616,
+      "Name": "Summer Green Cubemap-34318-1.rar",
+      "Size": 192406,
       "State": {
         "$type": "NexusDownloader, Wabbajack.Lib",
-        "Name": "PhyOp - Overhauled Optimized Textures",
-        "Author": "Phylith",
-        "Version": "1.2.0.0a",
-        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/27038-8-1507495510.png",
+        "Name": "PBR Materials Project",
+        "Author": "dpillari",
+        "Version": "1.0.0.0",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/34318/34318-1535137785-846893400.jpeg",
         "IsNSFW": false,
-        "Description": "Overhaul optimization of all Base Game and DLC Texture BA2's. \r\n\n40,962 textures. 4.54 -7.66 GB total.",
+        "Description": "a rebuild of a mod of mine of which purpose is to change out the vanilla default environment map with all new ones. So pick your poison. is your game a blistering desert?, we got that, a freezing wasteland?, we got that too. all with the notion of being pbr painting program friendly.",
         "GameName": "Fallout4",
-        "ModID": 27038,
-        "FileID": 112212,
-        "PrimaryKeyString": "NexusDownloader+State|Fallout4|27038|112212"
+        "ModID": 34318,
+        "FileID": 139607,
+        "PrimaryKeyString": "NexusDownloader+State|Fallout4|34318|139607"
       }
     },
     {
@@ -5937,2492 +6157,2521 @@
         "FileID": 13244,
         "PrimaryKeyString": "NexusDownloader+State|Fallout4|4006|13244"
       }
-    },
-    {
-      "$type": "Archive, Wabbajack.Lib",
-      "Hash": "0KBTdiLSTmk=",
-      "Meta": null,
-      "Name": "Summer Green Cubemap-34318-1.rar",
-      "Size": 192406,
-      "State": {
-        "$type": "NexusDownloader, Wabbajack.Lib",
-        "Name": "PBR Materials Project",
-        "Author": "dpillari",
-        "Version": "1.0.0.0",
-        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/34318/34318-1535137785-846893400.jpeg",
-        "IsNSFW": false,
-        "Description": "a rebuild of a mod of mine of which purpose is to change out the vanilla default environment map with all new ones. So pick your poison. is your game a blistering desert?, we got that, a freezing wasteland?, we got that too. all with the notion of being pbr painting program friendly.",
-        "GameName": "Fallout4",
-        "ModID": 34318,
-        "FileID": 139607,
-        "PrimaryKeyString": "NexusDownloader+State|Fallout4|34318|139607"
-      }
     }
   ],
   "InlinedFiles": [
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "99f58ee2-d1e1-4bb5-9b0b-cdfb3a205386",
+      "SourceDataID": "44b9da87-0c7c-4a7a-b25d-11c3b2e2ae5b",
       "Hash": "2PvRytabfWU=",
       "Size": 47,
       "To": "dump_running_process.bat"
     },
     {
       "$type": "RemappedInlineFile, Wabbajack.Lib",
-      "SourceDataID": "ec65ab38-0aaf-4cc1-b188-ee0767bb61ba",
-      "Hash": "ZCOJ4CufPL8=",
-      "Size": 14248,
+      "SourceDataID": "fc65fa4b-88d5-4ec6-a696-e6d685716f04",
+      "Hash": "wVJJvW0JOS0=",
+      "Size": 14582,
       "To": "ModOrganizer.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "a74e24f5-d394-4503-809e-7a4643b3c9d9",
+      "SourceDataID": "e3a4c626-b58e-4e30-b80b-81ef6362f1aa",
       "Hash": "huFwtUDCduk=",
       "Size": 1613,
       "To": "mods\\10mm Pistol Reanimation Pack\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "a1a9548f-b3b6-437b-a0f5-9564c2cc583f",
+      "SourceDataID": "0d889b38-6ac5-4aee-b7e2-bde4860b5c74",
       "Hash": "Id/LNJ0ojtw=",
       "Size": 997,
       "To": "mods\\10mm Pistol Resize\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "05b49c34-ea1f-4b8c-9bfa-2c75cab55a42",
+      "SourceDataID": "50a0a184-e3d0-4df2-90d7-a81d16d129f4",
       "Hash": "if8fltwGhG0=",
       "Size": 515,
       "To": "mods\\10mm SMG\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "f970a154-36eb-4b76-b6b4-a2a96d5ae081",
+      "SourceDataID": "dc628151-5d04-4478-aac4-d2369e0dfc1d",
       "Hash": "fTqJNjy3GBg=",
       "Size": 628,
       "To": "mods\\3rd Person Beard Fix\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "64a0a8c5-b7a4-476c-bfdf-a7cb9210d932",
+      "SourceDataID": "c5b9b4e8-e8d5-4ecc-a122-8d8a59ce282e",
       "Hash": "1jPYpJ8WaEE=",
       "Size": 553,
       "To": "mods\\A Diamond City Story - Armor Keywords patch .98\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "3af298ed-b485-4164-a80b-ecf0a5330d96",
+      "SourceDataID": "f3b3a30a-35a6-4eb2-a9fe-c552c7735586",
       "Hash": "FSm6o+jB+qM=",
       "Size": 548,
       "To": "mods\\A Diamond City Story - Smaller Textures\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "ac80b63d-3d1e-481a-898e-73430dccd06e",
+      "SourceDataID": "2d3b3b31-8e27-44dc-a914-67d93f414b02",
       "Hash": "48BsHvD/vgo=",
       "Size": 571,
       "To": "mods\\A Variety of Containers (UFO4 Smashed)\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "3d9dc95a-d0f7-41ca-a64c-9c99638a23bd",
+      "SourceDataID": "49982695-f63e-49ad-baab-d2ca5f1f8390",
       "Hash": "nrwKwB4jUak=",
       "Size": 748,
       "To": "mods\\Address Library for F4SE Plugins\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "160e08fd-b08b-4fc4-a2a5-e39ab0962e1f",
+      "SourceDataID": "f5cf0b7b-378f-4ac9-8bba-490232fd2442",
       "Hash": "EJfoZhvAYgY=",
       "Size": 10071,
       "To": "mods\\Adrenaline Rush\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "1f855035-c87e-4c1b-abd1-d914c252f584",
+      "SourceDataID": "6ecfdc46-0564-4032-82e4-d9fea3f8075e",
       "Hash": "8qklwB/tNYY=",
       "Size": 2003,
       "To": "mods\\Alternative Walk Animation\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "c71b14a1-eed3-4acb-893a-5cf8f97f0b45",
+      "SourceDataID": "5bc87142-cf93-449c-be02-743e32931064",
+      "Hash": "+xTlo1qik8Y=",
+      "Size": 5164,
+      "To": "mods\\ANiceOakTree's Diverse Children\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "c8865f36-8ddb-49bc-8bc2-028291ebb529",
       "Hash": "GDJ9khriqIA=",
       "Size": 7217,
       "To": "mods\\Animated Chems Redone\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "2f63f3a4-d90a-4d63-a15f-9a790465ad30",
+      "SourceDataID": "799308a4-daa6-40f1-80a9-71846196332d",
       "Hash": "rWgvpMpq9ro=",
       "Size": 595,
       "To": "mods\\Animated Ingestibles\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "731e8a4c-5f23-4f30-9c8d-ff6ba1c91378",
+      "SourceDataID": "c28a05f6-ec42-4a15-b863-266f1988bce7",
       "Hash": "QQC2fXvULa0=",
       "Size": 532,
       "To": "mods\\Animated Radaway\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "240b9887-f5ab-4208-a495-0ee8239b5cc5",
+      "SourceDataID": "057ddc76-07ca-4a51-83ac-b85e60e5f383",
       "Hash": "7NfdJqPKj38=",
       "Size": 105,
       "To": "mods\\Animations_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "b6ebf73e-fdd2-45e9-9134-0f16175c86de",
+      "SourceDataID": "acd2ab2b-9653-4166-8263-3c70f4aa38d6",
       "Hash": "qE/c6oLpT8U=",
       "Size": 622,
       "To": "mods\\Armor and Weapon Keywords Community Resource (AWKCR)\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "f62ce42e-799e-4136-8f18-8ec47945d33d",
+      "SourceDataID": "b435d36c-73fd-4936-9349-d5419b7d5ffa",
       "Hash": "7NfdJqPKj38=",
       "Size": 105,
       "To": "mods\\Armor&Clothing_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "c3b5424a-0bb0-4641-893d-a20fdfa36a80",
+      "SourceDataID": "9a12164f-d125-43c4-9fcf-9e73335166cc",
       "Hash": "Njno6N/bSrw=",
       "Size": 546,
       "To": "mods\\Atom's Glory Threads - Vanilla\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "f4173bff-a7d0-4c46-ba9e-9f20c0b3e90a",
+      "SourceDataID": "360db8f0-3e3f-4b35-a180-b639c3216b24",
       "Hash": "7NfdJqPKj38=",
       "Size": 105,
       "To": "mods\\Audio_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "1987d766-fd1f-4dc1-bd9c-a38c083de085",
+      "SourceDataID": "67d1f7d5-bd13-4931-9531-1e26e05459fd",
       "Hash": "5tKgI5+PN1Q=",
       "Size": 2825,
       "To": "mods\\Auto Hack\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "8660ea5b-3d58-4908-8893-25458aa373cf",
+      "SourceDataID": "fd2b5b56-8a81-4d61-a305-0ab1a0500dcc",
       "Hash": "wZwrw2lVwcs=",
       "Size": 533,
       "To": "mods\\Automatically Lowered Weapons\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "b45e4a11-f8f0-47cf-b8fb-af545eaff9d9",
+      "SourceDataID": "448c4a96-3084-4b06-a488-601065a93d35",
       "Hash": "oN/15obhvBE=",
       "Size": 8638,
       "To": "mods\\Automatron Randomized Bots\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "84d17819-d90d-482f-b01a-1e6e51bb95af",
+      "SourceDataID": "5ef3991c-1801-441f-be97-fde8ba6ecb44",
       "Hash": "RsfqLUmh7WA=",
       "Size": 3963,
       "To": "mods\\AWKCR - Lite\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "32406250-483a-4361-8ea3-e2fac5836753",
+      "SourceDataID": "56d5f8c3-8adb-4ca8-ab15-8eb8a3a979d1",
       "Hash": "fG6ue/QJW4A=",
       "Size": 576,
       "To": "mods\\Backpacks of the Commonwealth\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "8a617def-ab26-4db1-a4ad-8df900a97a46",
+      "SourceDataID": "f96ed6ed-b30c-4b6c-af28-657be45e410b",
       "Hash": "vzFHugyyyng=",
       "Size": 528,
       "To": "mods\\Baka ScrapHeap - Script Memory Limit Expander\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "169c80d4-4696-45ef-8b27-d7adb5495824",
+      "SourceDataID": "bab3cb44-9080-4c27-9f46-34e573ac9d66",
       "Hash": "lj7pF8MKFvI=",
       "Size": 2956,
       "To": "mods\\Barber and Surgeon Camera Fix\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "84de5a56-bcfc-4327-8eaa-99582a6000a8",
+      "SourceDataID": "1e5d47ac-5042-4d7d-a5ae-6133a7d69650",
       "Hash": "wsxDOIn7CSg=",
       "Size": 532,
       "To": "mods\\Beretta M9-FS Pistol (92FS)\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "e12c02ae-e2f0-4b5d-af34-a93a269f6a1a",
+      "SourceDataID": "5044fc23-3726-4fe6-9a54-d1d64a8046ef",
       "Hash": "tcVJhVit8sM=",
       "Size": 2374,
       "To": "mods\\Better Atom Cats Garage\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "4b8c5d0a-725d-4776-bea2-ce9b94ae8095",
+      "SourceDataID": "4ec9c0de-2264-424c-abc1-916772af00fb",
       "Hash": "myYOdtbrDMQ=",
       "Size": 2367,
       "To": "mods\\Better Atom Cats Garage - cleaned esp\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "91bdb2ae-e2f3-4386-9b14-bfb9fb6b4c11",
+      "SourceDataID": "c49e54b8-198d-4626-927b-fbaa531f0f21",
       "Hash": "XXhcUStdiGg=",
       "Size": 3213,
       "To": "mods\\Better Goodneighbor\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "67adb09a-26d3-455d-a63b-3977d7945cf4",
+      "SourceDataID": "880c4666-4ed6-4155-9885-8778f2b8a2c4",
       "Hash": "HdqcUz7BZa0=",
       "Size": 373812,
       "To": "mods\\Better Goodneighbour Fix\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "bb9b16f7-2166-4d83-a997-61405037de53",
+      "SourceDataID": "0d88ec24-6697-4153-aff1-839cc48367b8",
       "Hash": "7gYMsGZt+mE=",
       "Size": 531,
       "To": "mods\\Better Legendary Mutations\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "be003962-ac32-4d0e-b519-637e8e880ac1",
+      "SourceDataID": "8f750020-7ecc-4292-910a-c9a8a452e4b2",
       "Hash": "7NfdJqPKj38=",
       "Size": 105,
       "To": "mods\\Better Locations_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "d7ae1dda-65aa-4ccf-9063-e3f840bb708b",
+      "SourceDataID": "1ff55e3c-3714-400e-a357-bb0985eb2ce0",
       "Hash": "HACSVTafl8Q=",
       "Size": 523,
       "To": "mods\\Better Notes\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "3e45e32d-995f-40d2-9ab0-8369cbb074ba",
+      "SourceDataID": "130ee816-7843-40a2-beaa-233cb2098f82",
       "Hash": "HQ0orC2KPWo=",
       "Size": 2805,
       "To": "mods\\Better The Third Rail - cleaned esp\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "c7b637e1-1e76-4290-aad5-154a22572f8d",
+      "SourceDataID": "c5b11ff6-5de4-4137-bed1-eb7364bae5aa",
       "Hash": "PnC3pevnsBQ=",
       "Size": 8970,
       "To": "mods\\Boston Natural Surroundings\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "6ae468d5-2e7a-45ff-92ac-39f899ef04e8",
-      "Hash": "T+4Eq99y6fU=",
+      "SourceDataID": "4bfa618f-dbac-44b1-83af-31172aa181a7",
+      "Hash": "qpZPDuFYT1s=",
       "Size": 1295,
       "To": "mods\\Buffout 4\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "dc57bca8-db00-459d-9a3e-d7003a5a42e3",
+      "SourceDataID": "e444c71a-da17-4c65-b59c-b2121e4a3345",
       "Hash": "pyoFCh+0ATc=",
       "Size": 545,
       "To": "mods\\Bullet Counted Reload System (BCR)\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "501b15b9-2c19-4623-9048-6a3509eb7346",
+      "SourceDataID": "abe5cf23-b223-419e-ac89-4b7900839af5",
       "Hash": "+/zkLbvz0T0=",
       "Size": 509,
       "To": "mods\\Bullpup Bozar\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "ec0d7022-b26f-41c9-b44b-5ab5389d3e46",
+      "SourceDataID": "f1f9f8b9-6dcc-4ea2-9895-85e36830ed73",
       "Hash": "3F+QIDKQd2E=",
       "Size": 1544,
       "To": "mods\\Burly Bunkers (2K - 4K)\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "ec9e2a25-41dd-4e68-9a51-05ca145a26ef",
+      "SourceDataID": "dc51cb78-0594-4c2c-848f-342be2789919",
       "Hash": "5XsFmBFW9XM=",
       "Size": 1058,
       "To": "mods\\Burnt Magazines and Comics Retexture\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "590e3206-3d59-4039-948e-3ce10f4dbfbf",
+      "SourceDataID": "ad874340-e4e0-40ad-ae03-52728c35b4a6",
       "Hash": "fuBUrubm1JU=",
       "Size": 12132,
       "To": "mods\\Cait with Full body Tattoos for Females added (Standalone)\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "21145643-9b62-40b4-8438-2078abeccb63",
+      "SourceDataID": "dcddb3db-8003-4c75-ab86-ffe1655a9b16",
       "Hash": "FIysA8t/WBI=",
       "Size": 5512,
       "To": "mods\\Canary Save File Monitor\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "c2f9e6f6-bc52-48e3-933e-f80bab0baed2",
+      "SourceDataID": "149f9cc0-ce78-40e9-9514-c86bf1fa6c70",
       "Hash": "Y+qYUH0Odlg=",
       "Size": 2930,
       "To": "mods\\Capital Wasteland Behemoths\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "9edeec2b-e9ac-4f5a-8438-960628a3012d",
+      "SourceDataID": "5736f7fc-65ff-4c52-9bd6-cbc52559acdd",
       "Hash": "UHwLwsYcWA8=",
       "Size": 5798,
       "To": "mods\\Captivating Companions\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "488526e5-c64d-4334-9e4a-6a51c40eb826",
+      "SourceDataID": "a1bf6635-95a7-4ea5-883a-454216b611bb",
       "Hash": "Bo4nFfhnuVc=",
       "Size": 29268,
       "To": "mods\\CCKCR - Cooking and Chemistry Keywords Community Resource (LunarPlus version)\\CCKCR.esm"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "208d15fa-9104-4c64-85e0-bff5597cd05f",
+      "SourceDataID": "c562a799-6703-4f0d-9bba-7dcd39190a03",
       "Hash": "zcloEyz4vNI=",
       "Size": 2159,
       "To": "mods\\CCKCR - Cooking and Chemistry Keywords Community Resource (LunarPlus version)\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "cbd927c7-d5d4-432f-af16-cd001ada22f4",
+      "SourceDataID": "ff2f085d-d438-4500-a5af-116a568415e5",
       "Hash": "Z5kbPP1PpIc=",
       "Size": 1709,
       "To": "mods\\Charming Cito\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "3c77149e-4894-4d01-a902-ba8b88ffcb6f",
+      "SourceDataID": "aa081982-dd81-4df2-a0d5-a6060174e35c",
       "Hash": "sgLmk+DSyNA=",
       "Size": 533,
       "To": "mods\\Cinematic Sounds - Explosions\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "29df4b13-00e0-40f9-9061-fa15fa0b8da0",
+      "SourceDataID": "6f0c5d3e-3e52-4836-ac75-91133bc17bba",
       "Hash": "o+TmNO1ptto=",
       "Size": 9567,
       "To": "mods\\Clarity - A Visual Overhaul\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "0bc0613f-89b0-4513-b2ed-7f91b744477f",
+      "SourceDataID": "15e7ca4f-f7b1-422f-814a-2a938620013b",
       "Hash": "ixVqh6w5pxQ=",
       "Size": 548,
       "To": "mods\\Classic Holstered Weapons System (CHW)\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "ff0300ce-b53d-4046-8a70-b9120c696845",
+      "SourceDataID": "54f890d5-8f52-420c-9f41-ad8dd7b0ebe1",
       "Hash": "Qair0cCL23w=",
       "Size": 2620,
       "To": "mods\\Clothing Color Variety\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "96adf6d3-ba69-46e5-9bfe-a00ad5e81fd3",
+      "SourceDataID": "904f401f-00b7-47b8-acdb-06a122e29c40",
       "Hash": "3/0LgfZVPUI=",
       "Size": 518,
       "To": "mods\\Combat Zone Restored\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "c25a39be-e948-43fd-a67f-ebd20dda9fae",
+      "SourceDataID": "bd5a1700-180d-46f3-95aa-f7af7c292408",
       "Hash": "hGyPAkxTyZI=",
       "Size": 10620,
       "To": "mods\\Commonwealth Gunfire Overhaul - realistic weapon sounds\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "201770b7-0e9e-4c9c-a5eb-1cff34857276",
+      "SourceDataID": "62efafec-eb0f-4acf-8569-6d19b75a65d1",
       "Hash": "lzrOL2gLzug=",
       "Size": 3246,
       "To": "mods\\Commonwealth Wilderness Overhaul\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "6df7202a-e890-49f8-90bd-839a47ec616b",
+      "SourceDataID": "f0e95590-bdc9-4f78-b5b0-4fc89674b12e",
       "Hash": "JEY7VgRlRzg=",
       "Size": 535,
       "To": "mods\\Companion Status HUD\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "71e2388a-23c7-48d1-9ba8-541ff60da74c",
+      "SourceDataID": "862c3055-3b69-4494-b9b7-85e577e62b19",
       "Hash": "DdEGusl0dEE=",
       "Size": 1256,
       "To": "mods\\Companion Status UI Remastered\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "5321a2a4-71fe-4111-b97f-531816909b32",
+      "SourceDataID": "6b6a82f3-1b35-4e53-8673-060a0d25272c",
       "Hash": "nmE1g5fXKXY=",
       "Size": 566,
       "To": "mods\\Companion Stealth Distance Fix (No Free Hugs) - Now with No Dogmeat in Crosshairs\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "9761062c-948d-4fe3-8f96-7868ef984412",
+      "SourceDataID": "275644ef-a2b4-4363-9f03-a5d6ede6b3f5",
       "Hash": "CqZz9CE7loI=",
       "Size": 566,
       "To": "mods\\Companion Whistle\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "dcc5a599-a206-4977-8cf9-6a52dd8b8169",
+      "SourceDataID": "23ab4c73-dd6e-4e55-994a-26941e0dca61",
       "Hash": "MspT0QKwnkA=",
       "Size": 5256,
       "To": "mods\\Complex Vendors\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "79b94ed3-35b7-4701-8122-e350833f6e19",
+      "SourceDataID": "7b40733b-1dae-4e0d-8f9d-998801a4f11e",
       "Hash": "FaBCJsEGEUA=",
       "Size": 570,
       "To": "mods\\Components Redone\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "ed68f231-d8f0-4de1-92fb-622aa1c29e73",
+      "SourceDataID": "3e876203-3549-4bea-9bfb-227d83743b1e",
       "Hash": "dRlI6jbzRXU=",
       "Size": 544,
       "To": "mods\\Crafting Highlight Fix\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "4da8a030-cbdb-41b1-b94c-9e8f9a92d354",
+      "SourceDataID": "8fa18917-f8a1-4000-9b95-e9837168fc83",
       "Hash": "7NfdJqPKj38=",
       "Size": 105,
       "To": "mods\\CreationClubPaintjobs (disable this if you don't have them)_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "7e2528b7-2a5e-4a64-84a3-8284206109bd",
+      "SourceDataID": "6c518d67-0b35-4cfa-8c83-4b553afb6d47",
       "Hash": "CTWYLrLAyTA=",
       "Size": 9489,
       "To": "mods\\Creative Lunar Perks\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "b372c3ed-8b1f-469a-8ad8-c0ebae46ba3d",
+      "SourceDataID": "b3e9bf80-50b0-43fe-bee4-d22da4797eaa",
       "Hash": "P2RNXDCu+RY=",
       "Size": 9496,
       "To": "mods\\Creative Lunar Perks - Locky Bastard\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "947804d6-a254-496e-bb4e-7a4a89e96f2b",
+      "SourceDataID": "e9662d0e-6643-4607-a68f-cde08972c886",
       "Hash": "xhM79dCAHdY=",
       "Size": 70350,
       "To": "mods\\Creative Perks\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "08c8438a-b236-4f2e-8640-3338e6ab7d70",
+      "SourceDataID": "f0e38229-a4f3-4f94-8de7-857225eec225",
       "Hash": "00TWFsQigM8=",
       "Size": 517,
       "To": "mods\\CROSS Crit Gore-verhaul\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "97d3b474-18bb-4d4a-9eb5-908067ced5a0",
+      "SourceDataID": "c6e9b271-d826-4f3e-bb78-4ce02af88c07",
       "Hash": "KwLDo4lJsnc=",
       "Size": 535,
       "To": "mods\\Crossbows of the Commonwealth\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "f55bbf15-f41b-403b-9fd0-eb517dae6acf",
+      "SourceDataID": "7d0d14f6-1c2f-459a-8af8-9d7acf104b83",
       "Hash": "KYqic623ywo=",
       "Size": 12164,
       "To": "mods\\Crossbows of the Commonwealth - Stand-alone Weapon Optimization Project SWOP\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "7f51fead-f6e5-4ce3-b138-b182524e22df",
+      "SourceDataID": "3b6217c7-7d84-4d92-8bb2-d6481f13ac8d",
       "Hash": "YesZCC7zS6g=",
       "Size": 21063,
       "To": "mods\\CROSS_BreakActionLaser\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "4f0836ec-3c15-4916-9cad-390c371af04f",
+      "SourceDataID": "f9792a32-00b1-432e-8cb3-aa6692504d70",
       "Hash": "Hir0xcfLN88=",
       "Size": 21198,
       "To": "mods\\CROSS_BrotherhoodRecon\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "ac91d9c9-7145-49af-9d6a-fd3264b48219",
+      "SourceDataID": "672c927e-2e3a-494d-b17e-9ddc0fde598c",
       "Hash": "C57p7ataVOs=",
       "Size": 21197,
       "To": "mods\\CROSS_BrotherhoodRecon_VanillaFemaleMeshes\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "d2178464-0b4d-4c86-950c-a1ec6c183d3b",
+      "SourceDataID": "84186644-816f-4693-b704-4b4222bfb5ab",
+      "Hash": "Zo7ohvLWeUw=",
+      "Size": 14795,
+      "To": "mods\\CROSS_Chosen_Of_Atom\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "2e3bbc2a-32bb-47f8-a793-e14d70da9998",
       "Hash": "70IRUpEuf1o=",
       "Size": 19509,
       "To": "mods\\CROSS_Courser Strigidae\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "a211e5c0-c39c-44bb-a3f1-008e4f3face4",
+      "SourceDataID": "631c15f5-dfe5-4e18-b70b-a136aeb1c461",
       "Hash": "dqHESrHvU8A=",
       "Size": 19512,
       "To": "mods\\CROSS_CourserStrigidae_VanillaFemaleMeshes\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "132bc080-d2f9-4879-907e-49159850bb2e",
+      "SourceDataID": "7f68b46d-fdef-42ab-818c-9b411b438e04",
       "Hash": "MGfQWGHSzEI=",
       "Size": 545,
       "To": "mods\\CROSS_InstituteExpeditionarySuit\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "3f36434d-4784-4e0f-b457-0a0b228d9ec3",
+      "SourceDataID": "5bed2b19-f5af-4db3-9383-87b43ca15fcc",
       "Hash": "aTa9xJmB3RE=",
       "Size": 6221,
       "To": "mods\\Crows and Ceatures Collection\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "4c892ee6-05b9-42f0-a704-ebe1a3fec51e",
+      "SourceDataID": "ad150107-3949-4fa1-9352-73090d38be88",
       "Hash": "XaZvPfmQH04=",
       "Size": 529,
       "To": "mods\\CSM's Vanilla Leaders (SS2)\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "11f17d1d-081b-4638-9664-476d62f22346",
+      "SourceDataID": "58db820a-8e33-4b50-b710-bc9bdd4b9bfa",
       "Hash": "0s4O4O/uOuo=",
       "Size": 12857,
       "To": "mods\\D.E.C.A.Y - Better Ghouls\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "44171a10-6dc6-4965-bc2f-a245d1ecf4b3",
+      "SourceDataID": "cea9580c-f71f-4889-b348-357b34a138f6",
       "Hash": "hTfGNUVW9H4=",
       "Size": 2709,
       "To": "mods\\DC and West Coast Supermutants\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "a32d12fc-b253-487c-8c83-e8f6b4ed34e7",
+      "SourceDataID": "c3655c53-a06c-4124-bc22-0223f2b8a7a4",
       "Hash": "jIlv60xBpCE=",
       "Size": 531,
       "To": "mods\\DC Guard Extended Wardrobe\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "d471bde7-1262-447e-b659-9574d670ba0f",
+      "SourceDataID": "1f4f406a-6f8b-4eeb-875f-ad75c0ba34db",
       "Hash": "TaW6tsCBqaA=",
       "Size": 4841,
       "To": "mods\\Decreased Automatron Bullshit Encounters and Minor Rust Devil Tweaks\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "725c4f7e-59b2-4254-a90a-839e7784ede6",
+      "SourceDataID": "2a5907bb-bcfa-40f5-8d7e-643ce64a126b",
       "Hash": "VGUxlNW45tc=",
       "Size": 586,
       "To": "mods\\DEF_UI\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "daf020da-398d-4c3f-95fb-8f80601a5cc0",
+      "SourceDataID": "c27e47f7-92d0-4e71-aa57-7ec713c8d2ac",
       "Hash": "2YF4UHOnl8Q=",
       "Size": 5227,
       "To": "mods\\DEF_UI Compatibility Patch\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "2d3b14e8-6cec-4e54-a73d-20d8fa4642c1",
+      "SourceDataID": "87e9b68e-3e5f-4cc6-a2db-632f487e547c",
       "Hash": "cZWJn5UbQko=",
       "Size": 5954,
       "To": "mods\\DEF_UI Iconlibs Rescaled and Fixed\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "1fac7556-b49d-44f3-9864-bfd7320ddc41",
+      "SourceDataID": "db0f2f60-99e9-4708-ad00-a9f4fe67ea96",
       "Hash": "09YaFcpzgLE=",
       "Size": 559,
       "To": "mods\\def_ui_translations\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "eb01f17f-6f66-4547-b956-51a8ed956895",
+      "SourceDataID": "b37ff1cd-d900-42c2-900f-92b4e285953b",
       "Hash": "gmx7qVxFpjU=",
       "Size": 4692,
       "To": "mods\\Determined Desdemona\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "cb48aee5-f89c-4e15-894c-fe64414667f8",
+      "SourceDataID": "b0bdc175-0b5d-46a6-9975-34343e7097c7",
       "Hash": "xtToLbn9NvY=",
       "Size": 1277,
       "To": "mods\\Diamond City Auto Close Gate\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "34d474f5-81a1-4d81-96b2-0ee91d9fc71f",
+      "SourceDataID": "07de8115-a29b-4b74-90e5-acc67cc35190",
       "Hash": "qFR9u0rmFnQ=",
       "Size": 556,
       "To": "mods\\Diamond City Expansion\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "cd7f2051-038e-4715-adca-2e8ce44d2f14",
+      "SourceDataID": "be79374f-b35d-4f8f-a282-7deeb90198f3",
       "Hash": "/WhR76wamaI=",
       "Size": 4703,
       "To": "mods\\Diamond City Outskirts (The Hole REDUX)\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "e6a6f8ee-1ebf-4770-b10f-6a25850faf12",
+      "SourceDataID": "28a43cb9-f3d3-44e3-8c46-3e9c990d3c73",
       "Hash": "Sc341ofx1N0=",
       "Size": 573,
       "To": "mods\\Diamond City Vendor Clutter\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "91a8de2b-e5b7-48e5-8dcf-3ef852259ce4",
+      "SourceDataID": "06f2212d-5e08-4d4d-b4e2-b29dbf5b0f2d",
       "Hash": "7NfdJqPKj38=",
       "Size": 105,
       "To": "mods\\Difficulty & Customization_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "541f8b4e-e52f-4ecd-844c-d78efaacdb6e",
+      "SourceDataID": "f087caae-18c6-493f-a237-7c35007f8a49",
       "Hash": "zcgHKllMBpk=",
       "Size": 432,
       "To": "mods\\Difficulty (Pick an optional file)\\Difficulty-Normal.esp"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "4a95d5e9-67e9-45d8-be39-72fde3c59e08",
+      "SourceDataID": "054f6ddd-f573-4470-84bb-989416710f20",
       "Hash": "kWwyGKLfLoU=",
       "Size": 437,
       "To": "mods\\Difficulty (Pick an optional file)\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "c6fabd7f-35de-42d6-bf14-6d56ab0b1606",
+      "SourceDataID": "237178d9-a860-4a9f-8a4e-7f4809beaaac",
       "Hash": "x6n/GY4/Smc=",
       "Size": 1994,
       "To": "mods\\Dilapidated Roads (2K - 4K)\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "4c410866-e34a-4259-a812-4fbdf2a74c7e",
+      "SourceDataID": "a8ca8f58-c63f-456f-8341-a9a9a0fe5743",
       "Hash": "ziwzlo008Fg=",
       "Size": 44731,
       "To": "mods\\DLC Commentary for TFTC\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "f90c8cb2-f62a-4cc8-a960-d25adb1f198a",
+      "SourceDataID": "28b223b4-b351-4a7f-ad3c-75c76a300719",
       "Hash": "yolFaFE0s9I=",
       "Size": 518,
       "To": "mods\\Doc Drumlin by SKK\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "87d35fd7-b74e-468b-b5c7-30d901935bae",
+      "SourceDataID": "064349cf-a138-4d14-b726-7bdee9d843e1",
       "Hash": "gyZEpjUDUFw=",
       "Size": 1553,
       "To": "mods\\DoubleBarrel Shotgun Reload Animation\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "9f9d48c8-1276-4bba-ac08-308e25dc9e39",
+      "SourceDataID": "4b8c9bc3-2db8-4706-94f5-6574b91c35c4",
       "Hash": "vu1z0jXJheY=",
       "Size": 4409,
       "To": "mods\\Encounter Zone Recalculation\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "90d820f0-5fd6-4ef6-a48d-40c1b7bdabc8",
+      "SourceDataID": "1ea6d2fa-acb5-42e0-9733-ce8a2156dbb7",
       "Hash": "7NfdJqPKj38=",
       "Size": 105,
       "To": "mods\\Environment_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "bd1c44a6-d5f1-474d-a529-c3537c35d3fa",
+      "SourceDataID": "43bd8e11-3974-45fe-ab7f-f91fca33990f",
       "Hash": "m/ySpQJx64E=",
       "Size": 1671,
       "To": "mods\\EVB - Nevernude Female\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "1dc0ea06-a8e7-464e-b9e5-503805bcf042",
+      "SourceDataID": "4d78fbc9-ae58-4695-a42c-876094024235",
       "Hash": "g8MO7JisGts=",
       "Size": 1669,
       "To": "mods\\EVB - Nevernude Male\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "15e18b5d-5a01-43f1-89aa-a48abe165d6c",
+      "SourceDataID": "9be80f60-a42c-451a-b172-048d6780f4f5",
       "Hash": "8jqaTqf5mHI=",
       "Size": 6162,
       "To": "mods\\Everyone's Best Friend (Dogmeat and Companion At Same Time - No Console - No Hack)\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "1a29a95f-f51f-4960-bfc3-2ce80aa8736e",
+      "SourceDataID": "7eecbaa7-3d21-43d3-848c-878ff5dc15a0",
       "Hash": "hz18lo84O5E=",
       "Size": 518,
       "To": "mods\\Eyewear and mask retexture - Plugin free version\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "6c0a6c0c-a85a-4c41-ab19-487d37545965",
+      "SourceDataID": "d4289961-4b90-4fe3-a23f-b3f2dac79c48",
       "Hash": "WU1WgUHK+5k=",
       "Size": 512,
       "To": "mods\\F4SE\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "8ebb2a46-9f96-4eaa-b26f-f29227872099",
+      "SourceDataID": "466e4c19-fef6-4bbc-b457-8dd533585353",
       "Hash": "7NfdJqPKj38=",
       "Size": 105,
       "To": "mods\\F4SE_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "5ca071f0-d4e9-4768-a6a5-0fbbcd80b972",
+      "SourceDataID": "fa2a3638-8967-4836-9d7f-8f7dc8e26fc1",
       "Hash": "QpNjhXK2cPk=",
       "Size": 606,
       "To": "mods\\Face Fixes Compendium\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "03cbf8ac-502e-435c-a0ee-1789454a3af9",
+      "SourceDataID": "58abe3d0-d90e-42ff-aa36-814a99b474e1",
       "Hash": "6bR3wXM+pNo=",
       "Size": 551,
       "To": "mods\\Face Presets Incomparable\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "e2588734-6005-4fc5-bd87-b5a2de94dd66",
+      "SourceDataID": "0b616593-c39e-4a26-95a3-09bfbbdb1ab8",
       "Hash": "QnoUsrig3Ao=",
       "Size": 1258,
       "To": "mods\\Faces of commonwealth - Presets for LooksMenu\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "4466ac7a-a297-4f91-b26c-c0a9f898756a",
+      "SourceDataID": "24d1fd2e-f584-414e-948d-b5613780a1d3",
       "Hash": "oY0AsnwbALg=",
       "Size": 3982,
       "To": "mods\\Facials for Everyone - Less than Fresh Faces\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "f3565f00-b8ea-4bb2-ac9f-35865950e8f9",
+      "SourceDataID": "e780aa5a-dab1-4002-b80b-09b83d24afc5",
       "Hash": "PV2KyN4EA5c=",
       "Size": 573,
       "To": "mods\\Faded Glory - A Post-Apocalyptic Soundscape\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "32398f7f-e8b9-4f4e-a48f-cd75004651bb",
+      "SourceDataID": "fb3f7ac9-6815-4171-a736-35b8f0d2f3d6",
       "Hash": "knsBOeVlvJA=",
       "Size": 511,
       "To": "mods\\Fallout 4 Enhanced Color Correction\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "3484fe4b-bb67-4faf-b7b1-95c1511fe91a",
+      "SourceDataID": "9db5fcb7-bdf3-496c-bfd5-0dd0380ad7e2",
       "Hash": "8HlnaZFrzG0=",
       "Size": 521,
       "To": "mods\\Fallout Suite - Soundtrack Extension for Fallout 4\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "4b787a41-6741-4132-8efe-b2e6dac1c341",
+      "SourceDataID": "d03bbaa1-1e53-4435-b454-500dc447b38f",
       "Hash": "xFJLhimrjic=",
       "Size": 572,
       "To": "mods\\FallUI\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "17995a56-4a87-4d8a-9b08-63d027dbb613",
+      "SourceDataID": "91b44ffc-8e0f-45f1-98e4-41890531d8a0",
       "Hash": "Mbi2tKOCihA=",
       "Size": 529,
       "To": "mods\\FallUI - Map\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "eb1f0dba-dbdb-46d2-9ea2-aef7553e0960",
+      "SourceDataID": "c82ce8a3-1791-4e54-a679-7190e244c998",
       "Hash": "qaAWuP3rpwI=",
       "Size": 531,
       "To": "mods\\FallUI Workbench\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "f6e5554c-3cd1-4f85-b249-473073f14d66",
+      "SourceDataID": "308e40be-62e6-43fa-8990-8f2354375898",
       "Hash": "5feNlnP3gN0=",
       "Size": 2198,
       "To": "mods\\Female Rear Head Clipping Fix\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "a0d5f146-d12a-47d8-a013-e25b0161c27b",
+      "SourceDataID": "c2d0b3af-fe5c-4bc2-a988-637e2b96f2eb",
       "Hash": "Sy1M8lxUmLY=",
       "Size": 1563,
       "To": "mods\\Fiddler's Beretta M9FS Animation Overhaul\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "2f9efa6f-6f48-4a56-8130-4831799dbc54",
+      "SourceDataID": "b7f90198-968c-4efd-bf46-4d67be3d8657",
       "Hash": "/oGYj13NqV0=",
       "Size": 539,
       "To": "mods\\Fiddler's Deliverer Animation Replacer\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "9143cbe8-e382-41c2-833e-f781ec35474b",
+      "SourceDataID": "a5d18cea-2ecc-46d0-b443-78edc9befd58",
       "Hash": "D/aAQ6hZ5Hc=",
       "Size": 1489,
       "To": "mods\\Fill'em Up Again (Dynamic Bottle Recyclation)\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "bfb5989e-28cc-4be7-a57f-a7d6da87a9aa",
+      "SourceDataID": "92afe2e3-7fa7-4731-bcde-d12a89638f0f",
       "Hash": "iJ193svkUmg=",
       "Size": 545,
       "To": "mods\\Flashy(JoeR) - Molerat Disease Fix\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "5a0365da-8ae0-42e0-a80a-6089cd6e0a49",
+      "SourceDataID": "f7252b46-af7f-47fc-b09d-735eb877bd5a",
       "Hash": "ocM9HWvHR/g=",
       "Size": 581,
       "To": "mods\\Flicker Fixer ESL v5.6\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "8383afea-ae62-4f95-8d41-38d52355384a",
+      "SourceDataID": "5561e55c-1537-4166-9f3c-2948d9ead4dd",
       "Hash": "LO4y2Czk6aw=",
       "Size": 3983,
       "To": "mods\\Gameplay QoL Tweaks (Pick whichever you want in the optional files)\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "be6b0917-efc4-4450-9914-1ed46b54ee40",
+      "SourceDataID": "675bec65-9c6f-443c-a568-5c3787774752",
       "Hash": "WTnLHIE8SoM=",
       "Size": 40343,
       "To": "mods\\Gameplay QoL Tweaks (Pick whichever you want in the optional files)\\QoL-VanillaRedRocket.esp"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "0d90137f-ee73-4484-9edd-2956b51ede0e",
+      "SourceDataID": "7f5c6259-0c82-401e-99e4-0fecdfe514a8",
       "Hash": "7NfdJqPKj38=",
       "Size": 105,
       "To": "mods\\Gameplay_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "5392eebc-eb1f-4d25-8f79-77b88e7d04ac",
+      "SourceDataID": "d46b20d0-b228-4151-9402-bf55e3590a61",
       "Hash": "AY0KArX4+RY=",
       "Size": 2866,
       "To": "mods\\Grass Reworked\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "65221d62-64f1-46bd-88aa-e72b6587666a",
+      "SourceDataID": "52a59323-d8f6-4080-97b4-98cdb9ab78fb",
       "Hash": "Pu3BbjR/WT0=",
       "Size": 5274,
       "To": "mods\\Grease Rat Garbs - Raider Leveled List Patch\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "fe2a7aa6-e140-4ec4-ae6e-2ce171ebc8dc",
+      "SourceDataID": "a6c9843e-9d0f-4c44-8ffe-06db691bf4f3",
       "Hash": "zbnR7wM+FQk=",
       "Size": 5285,
       "To": "mods\\Grease Rat Garbs - Vanilla\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "f3c170bd-e981-41ca-a4c1-c9280fb7b605",
+      "SourceDataID": "98d8cf15-b27d-41fe-a958-42c4f3edfc4d",
       "Hash": "nIZfzb3Ldg4=",
       "Size": 2327,
       "To": "mods\\Gritty Subway Stations (2K - 4K)\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "35f4d73d-c233-4130-ba2d-952b5af4f543",
+      "SourceDataID": "e32fa5c6-d73a-44fa-9dc5-842825abc015",
       "Hash": "3wDWkdYOCAs=",
       "Size": 2079,
       "To": "mods\\Grungy Gage\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "0a1b3e51-fe3a-4138-a9a5-fe491d66e049",
+      "SourceDataID": "d92a96a2-b694-49d0-be2b-925957cb7e4e",
       "Hash": "abXv21bpTsI=",
       "Size": 574,
       "To": "mods\\Gunmetal Armor Skins - Armor Paints pack\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "95ea3301-46d0-4228-90c7-19373b9c7231",
+      "SourceDataID": "deebf8b7-668e-4039-bc9a-7b24a56acc68",
       "Hash": "YlqfTtc0Kq4=",
       "Size": 562,
       "To": "mods\\Gunmetal Armor Skins - Raider Armor Paint Pack\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "5dfbbaed-f2e1-4b0e-a2b5-98688c41461b",
+      "SourceDataID": "eedfb88b-a60f-4fb7-ae53-2c8240808be2",
       "Hash": "+KDJjtnlIME=",
       "Size": 6009,
       "To": "mods\\Gunmetal Weapon Skins\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "7f9244ac-9c27-484e-a804-e5c57ee7cf6f",
+      "SourceDataID": "987ede21-3904-4f6e-b32f-4460d32f17f0",
       "Hash": "aYC9S3lTmWk=",
       "Size": 6041,
       "To": "mods\\Gunmetal Weapon Skins 1.5.6 update patch\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "d3bc67f4-f437-4af8-a842-a62518530e19",
+      "SourceDataID": "31a75af7-ee5a-4f9b-bba2-dd56884a90b2",
       "Hash": "w4DnwjrmGOQ=",
       "Size": 3512,
       "To": "mods\\GWS - Handmade Rifle Paints Pack\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "74107ce3-096e-4b89-9f8f-2897fff10e0f",
+      "SourceDataID": "a31a42df-0d06-4115-bbcf-8daa9464db3c",
       "Hash": "7wzHs+NrLEE=",
       "Size": 10042,
       "To": "mods\\High FPS Physics Fix\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "ae269445-cd63-4575-8747-3d2baa617379",
+      "SourceDataID": "a9c268d7-7671-4d98-a069-0eaf28fd6a6d",
       "Hash": "WaUJlf5284c=",
       "Size": 5262,
       "To": "mods\\HUDFramework\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "6868bb3f-2e5f-4335-8a1c-981e312b1f6d",
+      "SourceDataID": "7f5f3474-c9c6-4ec3-b94e-2138315e4799",
       "Hash": "3BjJSKWgIaQ=",
       "Size": 2493,
       "To": "mods\\Hunting Rifle Animation Replacer\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "c0997bd4-7880-43e2-94fb-4e0cf08878e7",
+      "SourceDataID": "73fda383-7bc0-43ae-bdbb-db046b4fb1fc",
       "Hash": "B9QLaTUS8Og=",
       "Size": 8450,
       "To": "mods\\Immersive Burning Molotovs and Flamers!\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "fe6221ab-d754-4c04-8cb2-b5df2cc744b3",
+      "SourceDataID": "b3ca4b62-2340-4f00-9159-3d913b17f39a",
       "Hash": "zzSBl8E4SAY=",
       "Size": 531,
       "To": "mods\\Immersive Drumlin Diner\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "d7ad549b-10e4-4fa2-96e6-38f6b60a45ce",
+      "SourceDataID": "d0765f17-a6b1-4bdb-a3fb-d89084728612",
       "Hash": "ePZH5vdbbpY=",
       "Size": 524,
       "To": "mods\\Immersive HUD - iHUD\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "5be1ed78-0489-494c-b6e6-09a044ee0946",
+      "SourceDataID": "b08cc88c-6c80-4d17-8f4c-0a2b181ddeee",
       "Hash": "vcp5CtXUI1k=",
       "Size": 548,
       "To": "mods\\Inner City Ambience - An Urban Soundscape\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "e4af85d2-0888-4c52-b74b-686b92776c09",
+      "SourceDataID": "fb890ab8-0090-483f-910d-2945a660b7a4",
       "Hash": "SWtWCCfvGHM=",
       "Size": 582,
       "To": "mods\\Inside Jobs - Commonwealth Interiors Add-On\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "e4a4207a-20c3-46e2-acd6-28f01a7c2154",
+      "SourceDataID": "53ce669c-3fd1-467e-a69e-e878c6822a19",
       "Hash": "kToZn0E6v1k=",
       "Size": 514,
       "To": "mods\\Institute Weapons Redone\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "ea1d5a32-ce79-49fd-bdf9-b501f6f0c14a",
+      "SourceDataID": "55576a20-a75c-421f-a0f6-79cc50d433a4",
       "Hash": "7cEquLzeRlE=",
       "Size": 4360,
       "To": "mods\\Just a hairy male body\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "06b237a1-4748-4f13-b854-2b164dec4e45",
+      "SourceDataID": "4d881721-23cb-4dc2-bed2-8ad98c7bc2af",
       "Hash": "wkjMEeZKu1w=",
       "Size": 1592,
       "To": "mods\\Kind Kasumi\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "8baeeade-0016-43ee-9e06-80b90f49672b",
+      "SourceDataID": "62815551-d5b9-4f67-b6b3-2759def88ac9",
       "Hash": "2n/ndFg4HTQ=",
       "Size": 532,
       "To": "mods\\Laser weapons 1st person reposition\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "5912da14-3a2b-45eb-8e49-f6a4ff0db526",
+      "SourceDataID": "6d4b98d8-ee31-42d9-b8b7-5d4860567a01",
       "Hash": "ZMEL7p2MabI=",
       "Size": 514,
       "To": "mods\\Locky Bastard\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "4bc08b9d-d973-4dd6-85cc-f90927026838",
-      "Hash": "txyUoc5gTvk=",
-      "Size": 10343,
+      "SourceDataID": "aad8d138-5ff0-43cb-bcc7-d8ffb7a60202",
+      "Hash": "4Pb1at6h7fE=",
+      "Size": 526,
+      "To": "mods\\Look At Me - Gunner Edition\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "5458846a-fef0-4eed-89f7-44ab119c8a71",
+      "Hash": "ldHbJ871w/g=",
+      "Size": 10456,
       "To": "mods\\Look At Me - Institute Edition\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "a4619108-e121-4262-9118-4f44ce326062",
-      "Hash": "4SgE0ArGWiI=",
-      "Size": 10345,
+      "SourceDataID": "6d32f6cd-38b8-4946-a0c9-23d6088fe47b",
+      "Hash": "TGyhbZXbIPg=",
+      "Size": 526,
+      "To": "mods\\Look At Me - Railroad Edition\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "a0e17e0b-2653-4d2f-9af9-47b3c12466f0",
+      "Hash": "4X1Dp4T8mnU=",
+      "Size": 10481,
       "To": "mods\\Look At Me IE x Lunar Fallout Overhaul\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "38823bb8-9edf-4e94-9e66-09736ae33a0e",
+      "SourceDataID": "1996d372-856d-4f1e-b41b-a955616a978f",
       "Hash": "+a7XlKpwBFA=",
       "Size": 4214,
       "To": "mods\\Looks Menu Customization Compendium\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "328f9f06-ef95-4409-aa90-5e2dec78045d",
+      "SourceDataID": "c271a95b-68f7-4a78-b867-5778095f0d55",
       "Hash": "J09ndpG4S8o=",
       "Size": 548,
       "To": "mods\\LooksMenu\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "7508d360-6af4-4a32-a4a3-a70a08ea9551",
+      "SourceDataID": "8860c0e7-03a2-4ab5-b4dc-a21d1426727e",
       "Hash": "nnN5UGni6oI=",
       "Size": 599,
       "To": "mods\\Lore-Based Power Armor Changes\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "6f889b7f-6a2d-405d-91bb-1bd8e5936f35",
+      "SourceDataID": "03162291-d1c4-4ab8-8956-d09cb7683c38",
       "Hash": "byJs4jK/cjg=",
       "Size": 535,
       "To": "mods\\Lots More Facial Hair\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "0d72b3de-1ccd-4134-a3f5-0bf795733ff5",
+      "SourceDataID": "16cdf1a4-bf14-4b88-8571-9d901057a6dc",
       "Hash": "4ihZEZ3t1Qw=",
       "Size": 548,
       "To": "mods\\Lots More Male Hairstyles\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "ac3a63a9-e658-4b8e-9bec-2d032e1dcc46",
+      "SourceDataID": "d83f85f8-70ae-4ff6-a9e8-28599af92aaa",
       "Hash": "pHtrcwvWaDs=",
       "Size": 9494,
       "To": "mods\\Lunar Creative Autohack (Replacer)\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "9f37b220-e2d8-4449-a85e-79773c9c36a6",
+      "SourceDataID": "0ece7f90-909c-448b-8251-cdcf6cf9a080",
       "Hash": "UJXvpEY7Poo=",
       "Size": 11320,
       "To": "mods\\Lunar Fallout All in One Overhaul\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "312bbb08-3434-4d9e-bb37-f29862099c20",
+      "SourceDataID": "5d9d765d-c77a-4d2e-a3f5-4783c8d00092",
       "Hash": "YLYIgD2CA4A=",
       "Size": 2991,
       "To": "mods\\Lunar Fallout Overhaul - See-Through Scopes - Compatibility\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "9728fbfd-98a4-4d1c-81e1-8adff596f2e5",
+      "SourceDataID": "d7e0c190-7d4a-4777-bd05-68f94f273d59",
       "Hash": "qcQWkk9qqbo=",
       "Size": 539,
       "To": "mods\\Lunar Fallout Weapon Pack\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "1bdd4275-6ccc-4950-a283-ebec00ed7974",
+      "SourceDataID": "c6ef7c76-3b26-417e-8a7c-3b94b5bcaae8",
       "Hash": "NFTimTwv20A=",
       "Size": 711,
       "To": "mods\\LunarFalloutPlus - Patches\\CCKCR-Crossbow.esp"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "1195efa1-b83c-4c1f-bdc0-e4cb82629976",
+      "SourceDataID": "a12f3d19-861c-4b73-9d97-27fec5e460db",
       "Hash": "7ezaH2j32xo=",
       "Size": 2564,
       "To": "mods\\LunarFalloutPlus - Patches\\ConcordPAExplosion.esp"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "5c8abc9f-d071-4e5b-b599-1d9f28532d5a",
+      "SourceDataID": "75f5ea4f-4f2c-40c5-8973-21cd4dd44e85",
       "Hash": "jvaBpt4ymZo=",
       "Size": 38706,
       "To": "mods\\LunarFalloutPlus - Patches\\ConcordRustyMinigun.esp"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "aaf29d66-cd13-44d8-8207-eaa9d8703cee",
+      "SourceDataID": "167999be-b0c4-4fa9-a79f-9fc4e9647497",
       "Hash": "ICx1uK2FDbs=",
       "Size": 14262,
       "To": "mods\\LunarFalloutPlus - Patches\\DCExpansion-ResidentNames.esp"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "982a3a47-0e54-4345-9f6f-d9b3273d148e",
+      "SourceDataID": "2e1508cb-0d55-4495-b628-20d80ffa362d",
       "Hash": "0iWAmTxHhFc=",
       "Size": 89383,
       "To": "mods\\LunarFalloutPlus - Patches\\LunarFalloutPlus.esp"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "6f8a9563-68bf-4d40-970e-19da3a37684d",
+      "SourceDataID": "6b1dfc1b-9e61-4668-a8fc-fc37410384f1",
       "Hash": "jWEo9lxNxII=",
       "Size": 6169,
       "To": "mods\\LunarFalloutPlus - Patches\\LunarPlus-3DNPCs.esp"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "0041ebe4-7ad7-427f-b1e3-c742e80902b3",
+      "SourceDataID": "7b088b59-e3a2-4f28-9ef9-ea251dfa4a5e",
       "Hash": "H3pnRTIhIH8=",
       "Size": 4329,
       "To": "mods\\LunarFalloutPlus - Patches\\LunarPlus-BackpacksOfTheCommonwealth.esp"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "183d5a5d-a01a-44af-9c28-4874c6fd3943",
+      "SourceDataID": "09111734-8c74-498a-9a02-52603b5f12f3",
       "Hash": "xRfIb4QCMcI=",
       "Size": 74701,
       "To": "mods\\LunarFalloutPlus - Patches\\LunarPlus-CookingConsistencyPatch.esp"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "6a971d6d-cf24-4c5d-97c2-8f91d2f8aa34",
+      "SourceDataID": "4540a65e-f4e8-482d-a074-2bf3045d37a5",
       "Hash": "FuEaJFBcg84=",
       "Size": 81789,
       "To": "mods\\LunarFalloutPlus - Patches\\LunarPlus-DamageLocalizationTweaks.esp"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "0347d2de-97ba-489b-be6b-8c0a7b5c0cf4",
-      "Hash": "j2/WTjiLSCc=",
-      "Size": 540580,
+      "SourceDataID": "1d254676-6996-45a9-beee-76cfaaaea81a",
+      "Hash": "gOHHR29UPq8=",
+      "Size": 540774,
       "To": "mods\\LunarFalloutPlus - Patches\\LunarPlus-NPC NamesHeightsWeights.esp"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "ad021581-867e-4b9f-a947-efb24a007659",
+      "SourceDataID": "1e844feb-1e43-4ef7-a2a4-914203206ebd",
       "Hash": "c4ou2/OdDLM=",
       "Size": 6818,
       "To": "mods\\LunarFalloutPlus - Patches\\LunarPlus-PaintTheCommonwealth.esp"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "b65a3ba4-f2eb-45b4-b304-2b2751bd8b13",
+      "SourceDataID": "4a7134e2-9e6d-4c79-b55b-9e892ce8c6b4",
       "Hash": "BnHjb7TU4b8=",
       "Size": 276129,
       "To": "mods\\LunarFalloutPlus - Patches\\LunarPlus-QuestConsistencyPatch.esp"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "049e94e5-ea2b-47b1-90be-679c2597c90c",
+      "SourceDataID": "30f3705d-1979-43f7-941e-c859f1ce1692",
       "Hash": "pNTo+ozXIl4=",
       "Size": 36268,
       "To": "mods\\LunarFalloutPlus - Patches\\LunarPlus-SettlersConsistencyPatch.esp"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "8b3af18d-72ce-4b6f-a987-f491adf89c08",
+      "SourceDataID": "0fe9b9ba-0f23-42cb-98b7-1d8732b235e2",
       "Hash": "KGXeTm5tanE=",
       "Size": 47367,
       "To": "mods\\LunarFalloutPlus - Patches\\LunarPlus-TrueStorms.esp"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "ddab1c22-585d-435e-a430-f888a81f1e19",
+      "SourceDataID": "2d29234f-8126-4626-9ca2-610169ce50c1",
       "Hash": "MBENLlv1uGs=",
       "Size": 69616,
       "To": "mods\\LunarFalloutPlus - Patches\\LunarPlus-WeaponsConsistencyPatch.esp"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "28639c14-84bf-4175-a3e4-2f0a47477068",
+      "SourceDataID": "a273bc2d-7d8f-4e42-944b-f3185a12d393",
       "Hash": "I8eqtq9zsZM=",
       "Size": 3992,
       "To": "mods\\LunarFalloutPlus - Patches\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "5b753991-144c-4416-bcc1-4dcbeebb32fe",
+      "SourceDataID": "bc42a9a3-08e7-41eb-8ca6-20fd2a52df3a",
       "Hash": "7NfdJqPKj38=",
       "Size": 105,
       "To": "mods\\LunarWeapons Pack_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "ce084f57-6b0a-49bf-b371-1cf1ca055a64",
+      "SourceDataID": "b277b20c-f61f-4da6-92a3-f77602e38eeb",
       "Hash": "oMC/oIm4nW0=",
       "Size": 1800,
       "To": "mods\\Lush Ambience - A Green Soundscape\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "b6c257a8-20a4-4c11-b2c2-8214b4007961",
+      "SourceDataID": "beece37b-6cdb-44e4-8705-f88fa1017e80",
       "Hash": "FnDbhyJdyew=",
       "Size": 590,
       "To": "mods\\M2019 PKD Detective Special - That Gun\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "71599b77-64ca-4133-9f13-b174f7f59bd4",
+      "SourceDataID": "834ffdcf-e1d0-4f34-8eb8-aa6677fd8739",
       "Hash": "ZRyuWt+q08o=",
       "Size": 548,
       "To": "mods\\M8r98a4f2's Complex Item Sorter\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "16c9fa6c-8d70-4dfd-82a3-891109d38cd9",
+      "SourceDataID": "5467a31f-1523-4d61-9168-0a432871bd76",
       "Hash": "z9vaucfMKtU=",
       "Size": 547,
       "To": "mods\\Main Quest Choices Extended\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "cb5f15e9-d6df-4b7c-a84d-41cb1854ab6e",
+      "SourceDataID": "aa9cc02f-23c7-4d5f-99f5-293d4582ec23",
       "Hash": "3i/kgxi7yCU=",
       "Size": 690,
       "To": "mods\\Marine Wet suit Material Fix\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "2b6c0f84-2703-40e1-bad7-ad9012b16556",
+      "SourceDataID": "760274c9-cce0-44e3-9012-f781e9ee4697",
       "Hash": "7NfdJqPKj38=",
       "Size": 105,
       "To": "mods\\Master Patches_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "b6093f83-f4ed-40c5-8820-8c9a2a8a24f9",
+      "SourceDataID": "036f23ae-d6a4-4e2a-89d4-4d6211e0dd85",
       "Hash": "XK9mVogEBZI=",
       "Size": 1486,
       "To": "mods\\Mighty Maxson\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "184bef80-f2e0-4612-8b6d-a1fb454c67d0",
+      "SourceDataID": "4607712f-c2b9-4b6f-92c1-c5960274fe98",
       "Hash": "WEyqtZ+DiX8=",
       "Size": 557,
       "To": "mods\\Mod Configuration Menu\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "56b83979-2bd6-4d3b-aad3-105f73d82599",
+      "SourceDataID": "dbd1a302-ef0c-4ade-9c7f-8e815eea8092",
       "Hash": "BQ2tiHL7j0Y=",
       "Size": 528,
       "To": "mods\\Money Mags\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "9513da11-c07d-4db9-a0dc-7592ab68373e",
+      "SourceDataID": "b456c733-9993-4269-8321-30fdc59bba06",
       "Hash": "BM1sXXWWjuI=",
       "Size": 515,
       "To": "mods\\More Where That Came From - Diamond City Radio Edition\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "ba3aece0-afe8-470c-a29b-1b2bbf915cc0",
+      "SourceDataID": "f28022bd-ae77-4646-b006-8db8476afd61",
       "Hash": "MwHJehu7t5Q=",
       "Size": 537,
       "To": "mods\\MsRae's Commonwealth Interiors\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "938b031f-10ed-494d-abcd-e017f494f44b",
+      "SourceDataID": "524858f4-9c01-4f6e-882d-1b9684b7e79b",
       "Hash": "Kb5s6qN3+sw=",
       "Size": 532,
       "To": "mods\\Musical Lore - Wasteland Edition (Soundtrack Mod By Nir Shor)\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "95f249bf-d7db-46fe-8c15-7658042ddab4",
+      "SourceDataID": "5ba24dbd-198e-4394-890a-b3f35685af1c",
       "Hash": "I2wx4duJFbA=",
       "Size": 436,
       "To": "mods\\MusicPatch\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "9cdafe3c-8ff0-4682-9c19-43996b3311e2",
+      "SourceDataID": "447e1ee8-5419-4306-8761-0c282880a51a",
       "Hash": "u99RRM2xHgE=",
       "Size": 4047,
       "To": "mods\\MusicPatch\\MusicPatch.esp"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "e167bfaa-9c50-4d97-bea0-7e3ed58cd5dc",
+      "SourceDataID": "946ba7ff-1ca6-4eda-afbe-cd45a904ad70",
       "Hash": "6//6GB/99gw=",
       "Size": 4786,
       "To": "mods\\Nasty Nisha - alt\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "2e530cdd-ff36-49ed-a5d6-88c14b6e90e8",
+      "SourceDataID": "3f81bb2d-241d-4ca4-a12b-1ee13226bf8f",
       "Hash": "FrtDeWP8iEY=",
       "Size": 587,
       "To": "mods\\NeuraLOD - Higher detail LOD\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "0cdc7a48-a6f1-40e3-9f41-2a843ee94edd",
+      "SourceDataID": "2a9e73b5-001c-40c4-aaa8-0afd0650c9f6",
       "Hash": "7NfdJqPKj38=",
       "Size": 105,
       "To": "mods\\New Locations_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "8383ceb9-12c2-4756-a4ce-03a9b4fc5a8d",
+      "SourceDataID": "2bc48e4c-aa2b-4782-b741-65743215fe29",
       "Hash": "SZo4nY3lub8=",
       "Size": 550,
       "To": "mods\\Nimrout Combat Knife Expansion Pack\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "043bed19-fc18-4d30-aba2-6858dbe66635",
+      "SourceDataID": "ac6d0be3-5faa-4acf-8df3-536ad67122bd",
       "Hash": "7NfdJqPKj38=",
       "Size": 105,
       "To": "mods\\NPCs&Creatures_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "b7d4fd83-e839-4872-a2c4-c7c3d17a20b3",
+      "SourceDataID": "708d0e2a-2d4d-4985-9254-b5dc617e0e8f",
       "Hash": "JwLCEwuDChU=",
       "Size": 508,
       "To": "mods\\P.A.M.S - Power Armor Movement Sounds\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "ff4b4915-e97f-459e-9968-74bc83719348",
+      "SourceDataID": "686aaeb9-c118-4da4-8dc1-46e0c856571c",
       "Hash": "jfVxnE/85Zo=",
       "Size": 3988,
       "To": "mods\\Paint The Commonwealth\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "065a98c8-120e-4c60-b40c-063ce95dc690",
+      "SourceDataID": "bd911e73-8569-4295-b16e-2797a8cf41af",
       "Hash": "n+GxMJkCDk0=",
       "Size": 14680,
       "To": "mods\\Paint The Commonwealth\\PaintTheCommonwealth.esp"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "37f977e4-83ab-40a0-b706-565a0c6592ec",
+      "SourceDataID": "cd66d9e1-8abd-40b2-a65e-63c73e76cfbd",
       "Hash": "7NfdJqPKj38=",
       "Size": 105,
       "To": "mods\\Patches_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "cdf7ec04-2559-44bf-8136-5ce42939aeef",
+      "SourceDataID": "de914596-648f-4655-a961-d9fde719e5c6",
       "Hash": "pU5o10gaQ1Q=",
       "Size": 1652,
       "To": "mods\\Perception Bug Fix\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "7cea09e0-f2f3-4c53-80be-a75d5b35a8c9",
+      "SourceDataID": "4208fef6-bbd3-4fcc-9929-e16ff3339131",
       "Hash": "waQ/NNx3MNU=",
       "Size": 2341,
       "To": "mods\\Piezonucleic Lining Fix\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "75cbf5cb-d4b8-4c45-bd12-f36c739d66ab",
+      "SourceDataID": "d58e14d0-6cfe-45df-976d-655210ee9267",
       "Hash": "oyNOf/CnIFE=",
       "Size": 2292,
       "To": "mods\\Pine Trees Redone1 - BNS 2.4\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "5f643098-120d-411c-944c-f8ed680e9243",
+      "SourceDataID": "90fadcc2-0e29-487f-8cf5-cfc48e973d94",
       "Hash": "U3xVMG+cBR8=",
       "Size": 567,
       "To": "mods\\Pip-Boy Flashlight\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "431ced18-d500-4233-ba56-ca5840209cd2",
+      "SourceDataID": "37855a5f-9bc3-4fd8-8080-1336880bfe56",
       "Hash": "H/eg0fZc6jg=",
       "Size": 581,
       "To": "mods\\Place Everywhere\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "e1be0bd0-cab4-43aa-a68c-eb68fa748d20",
+      "SourceDataID": "eac3c305-6b27-4d23-9ec8-11a418bbf060",
       "Hash": "7NfdJqPKj38=",
       "Size": 105,
       "To": "mods\\PlayerNPC Appearance_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "5afaa73b-5245-47ac-85df-ab179043fa81",
+      "SourceDataID": "3eaac301-58ef-429b-82d4-04d5ac905264",
       "Hash": "7SGxcAsiZwc=",
       "Size": 550,
       "To": "mods\\Ponytail Hairstyles by Azar v2.5a\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "948ba999-fedf-452c-8860-1cb5b465eee9",
+      "SourceDataID": "2962be05-21ad-4e7c-8b43-f53f6607f03c",
       "Hash": "E0Rt/MQFD28=",
       "Size": 6423,
       "To": "mods\\Power Armor Impact FX Overhaul\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "228afc5e-b7ad-4b89-adb0-bd6e9c638a27",
+      "SourceDataID": "623fa5a5-1ecf-4089-a79a-2c28e78814fe",
       "Hash": "7NfdJqPKj38=",
       "Size": 105,
       "To": "mods\\PreCombines & PreVis_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "47aa2acd-f7e6-4fb5-968c-b19f23873887",
+      "SourceDataID": "23067206-aeaf-4f53-8a6c-a386deaf507c",
       "Hash": "4I1j8cFveb4=",
       "Size": 5009,
       "To": "mods\\Previs Repair Pack Exteriors Beef\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "4f8a68df-a0ed-42ca-ab12-072951877347",
+      "SourceDataID": "a880b890-1393-45ce-a18a-73374d729f3c",
       "Hash": "EfLR6y1vSNg=",
       "Size": 4992,
       "To": "mods\\Previs Repair Pack Interiors\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "fabef8b6-357b-4786-8e9c-b6ba1d8d045e",
+      "SourceDataID": "f9a4b99b-8b12-40f8-ac48-8a04626649e8",
       "Hash": "moAL4l9eNgI=",
       "Size": 4994,
       "To": "mods\\Previs Repair Pack Interiors - Hotfix\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "dd0c1945-4b85-4710-96db-e6fb96d6c685",
+      "SourceDataID": "a77d96a7-a7c7-47bb-a8e8-6c8b599ca7a2",
       "Hash": "vimal5JxF04=",
       "Size": 436,
       "To": "mods\\Previs-ClarityTS Patch\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "b599f741-14f7-4a98-9e5e-7399ee1b1074",
+      "SourceDataID": "3cbcb115-8a29-44a9-8656-9bd9fc569616",
       "Hash": "u6LwUN+v9xI=",
       "Size": 1528579,
       "To": "mods\\Previs-ClarityTS Patch\\Previs-ClarityTS.esp"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "2cf83fff-f0e6-4a7c-9afa-13eac4f79410",
+      "SourceDataID": "b5e2454b-638f-4d5e-8c16-a546ac2ba7cb",
+      "Hash": "vqYhQvh70fU=",
+      "Size": 2694,
+      "To": "mods\\Private Military Company\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "1e198113-e099-4140-94f7-5325f43911a6",
+      "Hash": "5CjdPySzDU8=",
+      "Size": 2705,
+      "To": "mods\\Private Military Company - Hotfix\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "a7f22df9-21d3-4b7a-910b-2b62a8b7edc4",
+      "Hash": "ytnxNT9m9As=",
+      "Size": 7896,
+      "To": "mods\\Private Military Company Extended\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "64fa3cf6-fb2f-43df-aa9b-40abd98f3dbd",
+      "Hash": "n0hwDw2jTbU=",
+      "Size": 7904,
+      "To": "mods\\Private Military Company Extended Hotfix\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "5f01ee3a-9107-4695-88b5-29dd741071ab",
       "Hash": "xHAUXCQI56E=",
       "Size": 546,
       "To": "mods\\PrivateProfileRedirector F4 - Faster game start (INI file cacher)\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "1c37a4c0-79f2-4d1e-a3e6-1edd38ca8ff7",
+      "SourceDataID": "be6150d1-e327-4e5d-afff-876165c17cb5",
       "Hash": "csZS9VueF5k=",
       "Size": 1994,
       "To": "mods\\Project Reality Footsteps FO4\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "dcc318a4-e709-4715-8420-06a378238b5c",
+      "SourceDataID": "e9751c5b-c4be-4712-9f5d-05b6304481fe",
       "Hash": "TYURxnbpfys=",
       "Size": 541,
       "To": "mods\\Publick Occurences Revamped\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "cb3ae0be-17b6-491c-8998-354f73893c5b",
+      "SourceDataID": "a29ed65a-9675-4fd1-a6a4-53f38dd9c926",
       "Hash": "/NYMQLRa//E=",
       "Size": 515,
       "To": "mods\\Punk Crowbar\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "2bc192ec-4e30-4c5a-9f99-1a9187dd9fed",
+      "SourceDataID": "4b46d709-7ae4-4e37-a450-4da175fbc088",
       "Hash": "KNDUrui1vD8=",
       "Size": 1442,
       "To": "mods\\Quality Assurance Bug Fix\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "4d2cc817-34eb-44e0-b3e3-9281964b449e",
+      "SourceDataID": "0ad935b0-19fe-4082-aaa3-61d22e0cab07",
       "Hash": "7NfdJqPKj38=",
       "Size": 105,
       "To": "mods\\Quests_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "40f730bf-2edd-4265-a93b-22a029b9ec48",
+      "SourceDataID": "e497df68-f233-460b-96b8-d9023ecbe842",
       "Hash": "NkuwMC5ltbg=",
       "Size": 1617,
       "To": "mods\\Quintessential Quarries (2K - 4K)\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "5cd0d8c4-d31a-419d-822d-ee66c56d9bad",
+      "SourceDataID": "ee46a507-e33f-4d32-8987-487cf72c65e9",
       "Hash": "1L0sjvXnQi0=",
       "Size": 519,
       "To": "mods\\Radiant Birds\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "0e0352c2-4910-43cb-8edd-594614d84fa7",
+      "SourceDataID": "06da059c-7dfb-4f7b-99f3-9cc2063a79da",
       "Hash": "vSwCsudb9Bw=",
       "Size": 534,
       "To": "mods\\Radiant Birds (Less Radiant)\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "be267ddd-1c45-4bc3-864a-c183beb4a8d4",
+      "SourceDataID": "57a35624-0df8-47f8-b646-2f12c7b749b0",
       "Hash": "+t1y33FJWng=",
       "Size": 2606,
       "To": "mods\\Real Name Settlers\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "c2713aff-1958-4614-a7eb-42b45bfbcbbb",
+      "SourceDataID": "8ab7e3f8-2591-40f8-bda1-87260379f6d8",
       "Hash": "O2cljRH6V7Q=",
       "Size": 2615,
       "To": "mods\\Real Name SettlersWorkshop Framework Compability Patch\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "e8430856-a0b3-44c9-9b69-8f5ca17a70c5",
+      "SourceDataID": "31d5011d-fd9c-4b74-bc71-ba8d0f269abd",
       "Hash": "/r56kEuOmlk=",
       "Size": 1561,
       "To": "mods\\Reanimation Pack for Combat Shotgun and Rifle\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "c1b08355-90a3-4bd0-85e7-b52476af6769",
+      "SourceDataID": "cc057c22-af48-4d1e-baf3-51891c3daae4",
       "Hash": "NP0gKlxTsyM=",
       "Size": 9488,
       "To": "mods\\Red Rocket Explorer\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "e5063730-c55a-4bf0-a2f1-d871878132cb",
+      "SourceDataID": "2869f3d0-58f7-461c-ba38-23a7860ffeca",
       "Hash": "KclSQD5k3sE=",
       "Size": 2041,
       "To": "mods\\Redder Rocket (2K -4K)\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "8e734353-c130-458e-af93-8c26bdd4b8d4",
+      "SourceDataID": "a495eb5b-cd46-43d7-91ec-850a7a4a2069",
       "Hash": "S+d4QrkT9R0=",
       "Size": 1697,
       "To": "mods\\Right-handed SubmachineGun\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "470779c6-c4b7-4007-95c8-ec41c3f1da67",
+      "SourceDataID": "a67bb303-3e4d-40e9-af27-a92f6b8e4995",
       "Hash": "ySCeQlhAgF4=",
       "Size": 4553,
       "To": "mods\\Rise of the Commonwealth for Sim Settlements 2\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "f93ba911-4b8c-4666-bd75-d45c574bc278",
+      "SourceDataID": "f57ea3c1-ba80-4bec-8d03-18cf5c9f096a",
       "Hash": "cBiDl2Vc7Ew=",
       "Size": 629,
       "To": "mods\\Robot Armor Modifications Overhaul\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "1a017123-2cea-426d-93c7-183e71bf932b",
+      "SourceDataID": "47a35295-8e33-491e-9073-bb4bb3d5ea74",
       "Hash": "oGQZsxRnOyA=",
       "Size": 1569,
       "To": "mods\\Rowan's Request - Technical Documents\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "29d6bd41-1d46-40b5-bf58-c48b0d6c8c79",
+      "SourceDataID": "ee96de68-a221-4848-a894-4c1867976d00",
       "Hash": "sjSofac2lNs=",
       "Size": 6958,
       "To": "mods\\Rsiyo's Location Pack\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "f506c234-ea37-4c8c-8f48-b6c80f5e2533",
+      "SourceDataID": "75f5d83a-b755-46df-8fa8-4d6a7896a6f9",
       "Hash": "1PN4B3digpU=",
       "Size": 20988,
       "To": "mods\\Ruddy88's Simple Sorter\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "a7d2bfb8-70be-49cf-bf4c-099830471424",
+      "SourceDataID": "d6437a21-2286-438a-89b4-6330a85b7f11",
       "Hash": "oT8sa8rC52w=",
       "Size": 566,
       "To": "mods\\Rusty Face Fix\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "0cf58533-30dd-40c4-9ee0-8041dceb381d",
+      "SourceDataID": "0d4d04fc-e674-4d9b-8d24-369d5d2847a3",
       "Hash": "UKp0XgmenX0=",
       "Size": 3214,
       "To": "mods\\Sanctuary NPCs Overhaul\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "f0916481-3880-476f-8e8a-e7703c08401f",
+      "SourceDataID": "4ad30e44-5c85-4486-b546-4b1d8e706d31",
       "Hash": "1aCMPG4bQ0E=",
       "Size": 22403,
       "To": "mods\\See-Through-Scopes\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "7106f876-a7b2-4df9-9a2d-fd39529dfeb0",
+      "SourceDataID": "5167dd74-df56-4336-80b2-0b6ae56ad294",
       "Hash": "7VFgfUp0gvM=",
       "Size": 520,
       "To": "mods\\Service Rifle\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "6d77674a-a1e0-4961-8809-0e0e9e5013d1",
+      "SourceDataID": "adab8a84-d3c5-4a6f-8133-95006e1619d4",
       "Hash": "H52Q9cmSAPo=",
       "Size": 545,
       "To": "mods\\Settlement Menu Manager\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "c30b2ee2-b470-4785-a6a9-4f1ac2385998",
+      "SourceDataID": "a9bffa5b-2375-492f-aede-89e3a0461ef5",
       "Hash": "7NfdJqPKj38=",
       "Size": 105,
       "To": "mods\\Settlements_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "2cb80c24-9237-4615-bc74-9bedc12afd51",
+      "SourceDataID": "41fd98a2-fe04-4c80-ade5-a46e05f98f13",
       "Hash": "Zq3opLT2OvQ=",
       "Size": 551,
       "To": "mods\\Settler and Companion Dialogue Overhaul\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "d82a3b43-5d82-4b75-b908-f6330b2bad6e",
+      "SourceDataID": "7d9dd358-3d11-41ee-aa0c-22bf090915b0",
       "Hash": "/hB0tPg+yDk=",
       "Size": 552,
       "To": "mods\\Settlers Go Shopping - Idle Conversations at Settlement Stores\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "a4f9627b-5abd-4b95-8f1e-6665f6b15441",
+      "SourceDataID": "a8eda095-fe10-4f42-b393-aab5aae799be",
       "Hash": "21nvMDjRdu4=",
       "Size": 44746,
       "To": "mods\\Settlers of the Commonwealth\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "a1f6df77-385b-4a32-9bec-72aa8cef8047",
+      "SourceDataID": "02311f46-6467-4b3e-9e74-551d3e1256a6",
       "Hash": "/Tdzr4pbuSU=",
       "Size": 561,
       "To": "mods\\Sexy Hancock\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "ccf7f9c0-4078-45b7-aa71-668b3b568a48",
+      "SourceDataID": "e7721d9b-c8c1-49ce-800a-ddcbc9a6acf0",
       "Hash": "GgzYusrKA6c=",
       "Size": 5150,
       "To": "mods\\Sim Settlements 2\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "d661b0b9-6e62-4dbd-99c8-8f0d58d9b966",
+      "SourceDataID": "844f3a3d-ff6a-4dcc-b492-b696bb668963",
       "Hash": "JqbsmiuIWsU=",
       "Size": 5162,
       "To": "mods\\Sim Settlements 2 - HUD Override\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "88a21df7-c66c-4bba-bda0-082542b40c3b",
+      "SourceDataID": "3006e59a-3abf-46c4-b138-defd1ded4d88",
       "Hash": "gFg7v3f7sbA=",
       "Size": 2254,
       "To": "mods\\Sim Settlements 2 - The Bleachers A Diamond City Story - Cosmetic Patch\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "725ac974-236b-4c02-a814-05d2f4d8851d",
+      "SourceDataID": "c55ac176-f069-4c5c-988d-0fa44833c7b5",
+      "Hash": "iFVZ+oF9rmg=",
+      "Size": 3316,
+      "To": "mods\\Sim Settlements 2 Child Support\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "9c2bf9dd-ad42-4ab8-bdb5-96c7f9da24f5",
       "Hash": "Fk/BPQ7h5sU=",
       "Size": 541,
       "To": "mods\\Sim Settlers 2 Go Shopping\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "82784393-2304-4eb5-a09d-e1bc0deba96c",
+      "SourceDataID": "402709fd-b80d-4a30-b849-b87f192f4c81",
       "Hash": "eduY4x1AqH8=",
       "Size": 538,
       "To": "mods\\SKK Dynamic workshop time\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "d9235b29-8c47-42b2-9fe5-6f670208e3fa",
+      "SourceDataID": "c179e517-03c1-4fa5-bca7-ad8a315f441c",
       "Hash": "7NfdJqPKj38=",
       "Size": 105,
       "To": "mods\\Small Fixes_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "15927ab4-b5c9-461a-91f3-1c2535178468",
+      "SourceDataID": "c13f886e-53e1-4367-a167-a7ee1e45cd25",
       "Hash": "rAAPdtPZmak=",
       "Size": 537,
       "To": "mods\\Smaller Institute Weapons\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "f88eee2f-0209-4706-9bc7-d43eca08eb94",
-      "Hash": "OMTpZm2DqC0=",
-      "Size": 11145840,
+      "SourceDataID": "9def2a00-b88f-4083-8b92-4dad4df09640",
+      "Hash": "n5TXC6Krlv0=",
+      "Size": 11101765,
       "To": "mods\\Sorted\\M8r Complex Sorter.esp"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "b7816cea-d035-4991-a45d-4bd9cc778827",
+      "SourceDataID": "2c4a7d76-ecbf-4027-90c5-ae64592094b7",
       "Hash": "I2wx4duJFbA=",
       "Size": 436,
       "To": "mods\\Sorted\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "2361d2e3-d47c-4a7c-8769-ecc0b3921062",
+      "SourceDataID": "669a5fe0-fc71-415e-8011-6d739f8b779b",
       "Hash": "LLReFjgH7G4=",
       "Size": 2019,
       "To": "mods\\Spiff's Military Vehicles Retextured\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "055130d9-1301-4b4c-8d48-bfa97445fb4a",
+      "SourceDataID": "aaeb7f95-67b5-4b04-b96c-48cf62739f16",
       "Hash": "koY6+FQJUSw=",
       "Size": 3830,
       "To": "mods\\Spitfire (Enhanced Muzzle FX)\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "f9a30e22-b604-4d48-be74-4f6f8de418de",
+      "SourceDataID": "b3508db0-a142-4440-a9f7-10948ea290f7",
       "Hash": "Xly6xnX/dqQ=",
       "Size": 3830,
       "To": "mods\\Spitfire - Extra Options\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "95a26c18-4d67-49d7-9241-a607e56a2659",
+      "SourceDataID": "76e2b73e-0711-43ad-8322-c01c51b57d3e",
       "Hash": "f+bTqPLsnsM=",
       "Size": 3966,
       "To": "mods\\Spitfire Ballistic Patch\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "5b1a5744-c3eb-4648-a310-846c5b21b182",
+      "SourceDataID": "aff78581-7875-400a-8411-bae93422ca50",
       "Hash": "/4NmdpejO3U=",
       "Size": 5041,
       "To": "mods\\Sprint Stuttering Fix\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "d9e6616c-5c30-4eca-9385-1b0118353cc3",
+      "SourceDataID": "b56b8575-407c-4fb2-9728-27b47ad99698",
       "Hash": "LL61xx/3OoY=",
       "Size": 2581,
       "To": "mods\\SS2 Better Outfits\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "e0cd7be9-8294-4f28-8e11-b548fc531b12",
+      "SourceDataID": "68460268-3ddf-4723-8556-1557a6ddd7e1",
       "Hash": "Rxsvhmp7i/U=",
       "Size": 5142,
       "To": "mods\\SS2 Extended\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "f92299c9-68cf-4adb-b6f1-011cf5973577",
+      "SourceDataID": "e9918d16-4fde-43d9-a8d5-4bf7812af099",
       "Hash": "Zkg+isbfGXU=",
       "Size": 1294,
       "To": "mods\\SS2 Traveling Visitors\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "fc3883a6-8bce-445e-9c3c-8d6bdf010a5b",
+      "SourceDataID": "92320bf9-56e3-4fbb-b2b3-76ce8229bf4c",
       "Hash": "TnAqGnexarw=",
       "Size": 39440,
       "To": "mods\\Start Me Up - Normal Dialogue Prompts - version 6.1\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "0fa52440-b355-4bc7-94e9-20ae728af702",
+      "SourceDataID": "3ad28276-1180-449f-b304-b6b460d69545",
       "Hash": "YkzzXWUQ4k4=",
       "Size": 1675,
       "To": "mods\\Stop The Fans\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "0e5ad394-6fe7-4694-b328-b39bc4b4abeb",
+      "SourceDataID": "ceeada78-582e-4770-964b-4a169a27b2d9",
       "Hash": "e66ZT4wv9BM=",
       "Size": 536,
       "To": "mods\\Stumble Upon Interiors\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "dfde5e84-1ac0-4f85-a835-e1f18a6f16ab",
+      "SourceDataID": "60416aec-8fbf-460f-b6b2-1f0c6bb502e0",
       "Hash": "ZnU96tQsWTs=",
       "Size": 3547,
       "To": "mods\\Sunlight Alignment Tweak - Better Dawn and Dusk\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "c68c91f4-b471-4d38-a2e1-8db48e17da12",
+      "SourceDataID": "b970630b-1595-4910-829e-be5bc5619a06",
       "Hash": "ieQsdrQw42k=",
       "Size": 6037,
       "To": "mods\\Survival Configuration Menu\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "d7d92c92-ad9a-40f7-9d29-1c099db32f3f",
+      "SourceDataID": "da9f1507-97d9-40ad-9136-7c32c2eb887b",
       "Hash": "3gIqxtKPxSw=",
       "Size": 6040,
       "To": "mods\\Survival Configuration Menu - Everyone's Best Friend\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "ad73f50a-437d-4a37-8bbe-2b1b5805850c",
+      "SourceDataID": "77f7987a-34d1-4f6d-9c97-6370a1fd8b0e",
       "Hash": "Td8QCARm1pc=",
       "Size": 522,
       "To": "mods\\Swinging Animated Meat Bags\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "338e7363-d971-404d-9c26-8ac9f98c3023",
+      "SourceDataID": "36a09204-6280-4079-bce9-80a435c4e656",
       "Hash": "Ra8EKm9UrD8=",
       "Size": 558,
       "To": "mods\\Synth Armor Modifications Overhaul\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "a9457a28-b889-4ccd-ba3f-e608ab832c68",
+      "SourceDataID": "44bc8821-076d-4360-b926-02695fe98b92",
       "Hash": "WvZb6+fqDRk=",
       "Size": 44739,
       "To": "mods\\Tales from the Commonwealth\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "21cee2ec-037c-4e76-87cd-20a4a0a28d5a",
+      "SourceDataID": "83540106-cb4f-4d47-a321-b62f2501b272",
       "Hash": "Eed/iPg+7z0=",
       "Size": 2136,
       "To": "mods\\Tales from the Commonwealth - FaceGen Data (for PhyOp or Vanilla)\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "97b7ae2d-99f4-4fdc-84db-55b71419f08e",
+      "SourceDataID": "fcd44b60-d476-4271-994b-ec32f6d1bfdd",
       "Hash": "4G4zRikiowo=",
       "Size": 3587,
       "To": "mods\\Tales from the Commonwealth Visual Fixes\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "bfc94532-364e-426f-ae8d-343ccc2aea78",
+      "SourceDataID": "6d8f2e18-fc5b-4a3e-a626-1c8dceeb08e5",
       "Hash": "2swv63CPEbQ=",
       "Size": 521,
       "To": "mods\\Terrifyer - Ghouls\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "c88545e3-7b85-480b-b455-1e0b9afb535b",
+      "SourceDataID": "c68e4caf-afd9-4972-8ff3-71352310b977",
       "Hash": "7NfdJqPKj38=",
       "Size": 105,
       "To": "mods\\Testing (Modlist Development)_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "acf2f021-6482-420a-a068-137479ae1c29",
+      "SourceDataID": "3d8831e4-4091-45a9-9c70-d9945a8b858e",
       "Hash": "7NfdJqPKj38=",
       "Size": 105,
       "To": "mods\\Texture BA2 Repack\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "fc6edfcf-bcf0-4758-b339-cceb62e505a9",
+      "SourceDataID": "02504b7d-8f0a-4b18-9fab-633916a168c3",
       "Hash": "7NfdJqPKj38=",
       "Size": 105,
       "To": "mods\\Texture Repack (cutpaste .BA2s into data folder)_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "703d368e-dbdb-4834-9199-112573a3f790",
+      "SourceDataID": "f0cfe183-b768-4b8a-93fd-9cea5282df1d",
       "Hash": "7NfdJqPKj38=",
       "Size": 105,
       "To": "mods\\Textures_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "031299b7-dc35-4b13-b6f2-517c9e893ee1",
+      "SourceDataID": "2f797d24-447b-4752-8de7-ec6858b1854d",
       "Hash": "GdB1aWUgW4E=",
       "Size": 538,
       "To": "mods\\The Bleachers - A Diamond City Story\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "17dddd97-a3f1-4b77-a2d2-c987965b486f",
+      "SourceDataID": "7cc68b5b-ba50-4cb0-9171-14a2f246f40f",
       "Hash": "3puMzCirMfo=",
       "Size": 1980,
       "To": "mods\\The Bleachers - Facegen data\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "155384e3-a413-4239-a775-f6e7a9cf3754",
+      "SourceDataID": "6885e188-f725-4838-98e5-0d56f5656865",
       "Hash": "IbGs53+aNrw=",
       "Size": 4274,
       "To": "mods\\The Danse Dilemma (pka Face Maxson etc.)\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "4d2fd391-5f24-4dfc-82ac-351c6898472e",
+      "SourceDataID": "4d03e630-e1f8-4426-9c62-8d07d23c21b5",
       "Hash": "Yb6XebKzfBs=",
       "Size": 599,
       "To": "mods\\The Eyes of Beauty Fallout Kaleidoscope Edition - All-in-One\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "e03108a6-995b-4991-a437-d77b1d4f845e",
+      "SourceDataID": "53c6d872-fb2c-4460-ab6a-9f8ccadf9bd8",
       "Hash": "DXuPLflvOnQ=",
       "Size": 566,
       "To": "mods\\The Fireaxe - A Heavily Moddable Wasteland Staple\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "8a348835-57db-469a-ad61-6e26b8372023",
+      "SourceDataID": "5434be29-56e8-43d1-a7d9-cb9183c1927a",
       "Hash": "rcoiXuhuh2U=",
       "Size": 3071,
       "To": "mods\\The Fungal Forest\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "f0c0cc03-9e96-45e2-9855-24d801f6b116",
+      "SourceDataID": "d2099299-0d57-4835-8672-0be2ab722b14",
       "Hash": "ufvSUkGy8cE=",
       "Size": 1439,
       "To": "mods\\The Glowing Sea\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "b2036afd-72b5-477c-8492-124752fadabc",
+      "SourceDataID": "f1ea5aac-9f13-4aad-b091-9cfa2659bb4e",
       "Hash": "RYUK+MY2onI=",
       "Size": 5101,
       "To": "mods\\The Gravity Fist - A Heavy Unarmed Energy Weapon\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "ff6633ae-6ff8-4c02-86fc-40f125154207",
+      "SourceDataID": "ff1478c7-dbf0-4b38-9cba-2a578d73e656",
       "Hash": "H2I1wmc35A8=",
       "Size": 523,
       "To": "mods\\The Laserblade - An Institute Laser Sword\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "642440e5-5d5b-46d0-b2a8-89e44bdb3b6d",
+      "SourceDataID": "c12551d5-7774-4374-b398-663ad810e95d",
       "Hash": "AdR04cemcLM=",
       "Size": 566,
       "To": "mods\\The Pipe Shotgun\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "7e14462c-31d0-4a28-86d2-cd64ada8d0b8",
+      "SourceDataID": "99a614de-21a1-42c8-8ac3-c1b7a50731ae",
+      "Hash": "gmIXjvmJ2oU=",
+      "Size": 543,
+      "To": "mods\\TheKite's Handmaiden\\meta.ini"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "d2c5dc4a-0af3-420c-8122-83035127f356",
       "Hash": "jMYmtBT33AE=",
       "Size": 530,
       "To": "mods\\Thinner Assault Rifle receiver\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "f0f94355-abba-4a4c-8d7f-93f8ff663618",
+      "SourceDataID": "f2e93250-5e37-40f8-979d-f291697b5ab1",
       "Hash": "Bz1kfhyBsFk=",
       "Size": 563,
       "To": "mods\\Tina De Luca Voiced as a Settler (Dependency Revisited)\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "97688e27-10cf-4904-9542-43e7aabe1ef3",
+      "SourceDataID": "1f47d5e3-c1e2-4fb6-89cf-d0e5cec475bf",
       "Hash": "7NfdJqPKj38=",
       "Size": 105,
       "To": "mods\\ToDo - (Modlist Development)_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "09e1f0fc-fb7f-4031-b7c1-2fc158b964b9",
+      "SourceDataID": "3d7086d0-8757-4714-9370-d941d176087d",
       "Hash": "dYdVKgx7BUg=",
       "Size": 4065,
       "To": "mods\\Tookie's Textures-Grass and Plants\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "fb735c6b-c5ab-4caa-9234-ca3226586c73",
+      "SourceDataID": "adc1f3ed-eab9-47bf-a999-00a787928389",
       "Hash": "AdsT/zh+Gfs=",
       "Size": 560,
       "To": "mods\\Tougher Cars Durable Vehicles\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "e201bb19-c79b-4c93-9246-8d36cf524550",
+      "SourceDataID": "2a9f233e-cea2-4fb5-b272-26c3ca3b15e2",
       "Hash": "Dg9Yy8EcF8o=",
       "Size": 1105,
       "To": "mods\\Town Line Signs\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "36b16ac5-197c-47a6-8fe4-63f505d0e5df",
+      "SourceDataID": "7ed9bf3e-7aec-4f34-8b4d-bc895d00f9b5",
       "Hash": "XlqyjUhnUW4=",
       "Size": 1717,
       "To": "mods\\True Caves\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "cab725aa-56a7-467a-91c0-34f5b8b66a99",
+      "SourceDataID": "34b58b44-8288-47d0-a296-3590f63d00e9",
       "Hash": "NeMli9RJlzA=",
       "Size": 517,
       "To": "mods\\True Grass\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "e55fa37d-9f74-4ec0-b7fc-9f1e4cd18019",
+      "SourceDataID": "f3ed8203-6cf2-4644-99f7-7a1ec5cc7140",
       "Hash": "8fHrMdSRjRs=",
       "Size": 18911,
       "To": "mods\\True Nights (for True Storms with ENB)\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "f7a4fb04-0c93-425c-badf-79825f24cf41",
+      "SourceDataID": "3d6fc679-f3d3-4a5a-96c2-d0fbd4363668",
       "Hash": "i2E+peIGZ/k=",
       "Size": 10694,
       "To": "mods\\True Storms Nuka World Add-On (with TS Far Harbor Compatibility)\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "3772a9f4-8b1c-41d7-91be-eb5506ba51f1",
+      "SourceDataID": "65639724-b6db-4517-82e1-05b69153a44f",
       "Hash": "Wl0/S6n58s0=",
       "Size": 10732,
       "To": "mods\\True Storms Wasteland Edition v1.4\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "21252d15-e984-445d-a60c-76e52b6f369f",
+      "SourceDataID": "0bcbd60d-3bc2-4e7f-ac50-e1d679cfdbd3",
       "Hash": "7NfdJqPKj38=",
       "Size": 105,
       "To": "mods\\UI-HUD & Camera_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "0420695c-11b5-467f-97cd-4e326c57c43f",
+      "SourceDataID": "5a42081b-5ec0-4b2b-a1e3-8eca6619467b",
       "Hash": "7NfdJqPKj38=",
       "Size": 105,
       "To": "mods\\Unassigned (Modlist Development)_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "17f33f2e-3036-460e-9b41-7115b5debaec",
+      "SourceDataID": "7857d6f8-843c-4c65-8c45-dd26561bf34d",
       "Hash": "Vft1j/2DrZM=",
       "Size": 3107,
       "To": "mods\\Unique Creatures - Standalone Version\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "f7da3f7b-1348-413e-b548-c0f48023b3ca",
+      "SourceDataID": "d0628d29-e3da-436e-8493-06073305d4e5",
       "Hash": "RVRUSRTuZbk=",
       "Size": 66642,
       "To": "mods\\Unique NPCs - Creatures and Monsters of the Commonwealth\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "9c706eb9-d9f8-4d82-a773-762624774b41",
+      "SourceDataID": "32cdc65c-bcef-4c8a-8d53-3f47c96d5ccd",
       "Hash": "hdYmLNSF11s=",
       "Size": 66609,
       "To": "mods\\UniqueNPCs-CreatureMonsters_2_1_Hotfix\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "21037f71-b0af-491d-b0e8-a2a2b7f72deb",
+      "SourceDataID": "071a6a20-1bdd-4f42-9320-115b4e668433",
       "Hash": "3VlwHoWLZLc=",
       "Size": 535,
       "To": "mods\\Unlimited Survival Mode - F4SE\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "c7357028-b71b-4ffe-a847-c96be48a7721",
+      "SourceDataID": "b7579fb3-8e3f-422d-a7f9-df6357f4d218",
       "Hash": "BiF2h812kpk=",
       "Size": 542,
       "To": "mods\\Unofficial Fallout 4 Patch\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "695964e0-7669-44c3-b33c-a8d7220ca8e5",
+      "SourceDataID": "bce01616-6ab9-4d71-8bf1-5da17d7e3e8b",
       "Hash": "ft5nZ7aE8Ew=",
       "Size": 528,
       "To": "mods\\Unowned Trash - Taking Trash Isn't Theft\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "79f64fc3-645c-4abc-944b-5419c34030d3",
+      "SourceDataID": "81db37a0-7a69-4228-946f-85d94fa516c4",
       "Hash": "sRAnWNmL7zk=",
       "Size": 522,
       "To": "mods\\Utility Belt\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "01698ede-2ac1-4fd7-a5fa-e154b0ff9c44",
+      "SourceDataID": "d51c5fa6-0ddc-4a42-8a2f-b6de15caa995",
       "Hash": "XUgaLCQXyu4=",
       "Size": 559,
       "To": "mods\\Valentine REBORN - Nick Face Retexture - HD Synth Eyes and Teeth - Gen1 Metal Skeleton\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "fbb51569-d844-484b-892b-87096d4c2704",
+      "SourceDataID": "ea61aaca-eb81-4c7f-a56f-277eafb115d3",
       "Hash": "4uM2pd6kkGM=",
       "Size": 1650,
       "To": "mods\\Varied Diamond City Guards\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "2129f3b0-9aaa-4380-9d10-65325934687c",
+      "SourceDataID": "67ff4393-42b1-4de6-abe4-4ccbb01a4607",
       "Hash": "Zng5x9oeMhw=",
       "Size": 1770,
       "To": "mods\\Variety Of The Fusion Flea (UFO4-Smashed)\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "7f0f728e-96bd-46b0-bc09-3ab4e0a291c7",
+      "SourceDataID": "be0a281b-34b1-43c8-a8cd-668514c0f8ef",
       "Hash": "Hb0zIZvPbio=",
       "Size": 531,
       "To": "mods\\Vertibird Faction Paint Schemes\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "8d1884cb-93b7-4dd9-95f2-5b7dbac4d251",
+      "SourceDataID": "1152377d-269c-404c-a57c-4303b86d7a8e",
       "Hash": "9+LiLJgsJaY=",
       "Size": 538,
       "To": "mods\\VUWR - Vanilla Unique Weapons Remastered\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "9b373c4b-c017-4928-9392-6915f2f45acb",
+      "SourceDataID": "c8011fb3-a037-44ef-bdf2-da47b940c2cc",
       "Hash": "wQzOsLtvtCg=",
       "Size": 7009,
       "To": "mods\\Watts Laser Gun Replacer\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "c8d35fc7-d324-4b34-b1c5-a3ff7df38b93",
+      "SourceDataID": "7d9f4859-bbea-4df9-b74a-6ea4ed281bee",
       "Hash": "nuZ1wN/V7aE=",
       "Size": 521,
       "To": "mods\\Wattz Laser Gun\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "21201073-5f25-479d-9191-6e0343186a7c",
+      "SourceDataID": "f7f26efc-0bff-4081-9550-43e341ad8273",
       "Hash": "+uTbga6Tpis=",
       "Size": 538,
       "To": "mods\\Weapon Debris Crash Fix\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "b4ce4c45-12ae-4a0d-b4a1-305384b822fe",
+      "SourceDataID": "c3b95e23-0e0f-4b69-8a03-edf3f11073c0",
       "Hash": "xOMmI8cy9/Y=",
       "Size": 589,
       "To": "mods\\Weapon Mod Fixes\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "fdacbcc8-5f36-4bf1-9416-0b82840f3927",
+      "SourceDataID": "6de37a01-6834-4ad0-89d6-58a5be1e5790",
       "Hash": "7NfdJqPKj38=",
       "Size": 105,
       "To": "mods\\Weapons_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "abf09d63-70ce-4511-8efb-8a3be712fd96",
+      "SourceDataID": "043103b0-d4d8-49cf-b2d6-31408e412a04",
       "Hash": "jTrnCU/2wzY=",
       "Size": 593,
       "To": "mods\\WET\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "c484f2c4-1dd2-424f-93c5-18e8371d6b82",
+      "SourceDataID": "0ec41605-e5c9-4dcf-be92-c2648b5879a2",
       "Hash": "+o/NIraRf2s=",
       "Size": 4015,
       "To": "mods\\Wetness Shader Fix\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "705d0515-a6b9-46e4-879f-319b83044b2c",
-      "Hash": "JFfrQoE1d+o=",
-      "Size": 114221,
-      "To": "mods\\Whisky's Lunar Fallout Overhaul Patches\\Lunar- CaptivatingCompanions+DanseDilemma+Hancock.esp"
-    },
-    {
-      "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "d1611e57-d7fd-4ce6-a08d-9977405b89f9",
+      "SourceDataID": "43edc706-8134-4991-bd3b-0b2809ce56c3",
       "Hash": "tvI03p+d5Wk=",
       "Size": 6548,
       "To": "mods\\Whisky's Lunar Fallout Overhaul Patches\\Lunar-AnimatedChems.esp"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "0c24efef-9d45-412f-b3c2-bcb84d83dbd1",
+      "SourceDataID": "9c095ff5-7578-4936-875f-1aa7481df1e3",
       "Hash": "QKn3AiUnDlk=",
       "Size": 1614,
       "To": "mods\\Whisky's Lunar Fallout Overhaul Patches\\Lunar-AnimatedIngestibles.esp"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "34d821ce-69a9-4e50-af7d-9d5ad0887617",
+      "SourceDataID": "9a700719-43e9-4cb1-aea6-2912bb4dd4ae",
       "Hash": "6DivqcYr9qs=",
       "Size": 273489,
       "To": "mods\\Whisky's Lunar Fallout Overhaul Patches\\Lunar-AWKCR.esp"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "90c9513a-1a1a-447f-8e49-2091eff184e8",
+      "SourceDataID": "92b2ee81-6a0d-41e1-adf9-92a2af1f4983",
+      "Hash": "JFfrQoE1d+o=",
+      "Size": 114221,
+      "To": "mods\\Whisky's Lunar Fallout Overhaul Patches\\Lunar-CaptivatingCompanions+DanseDilemma+Hancock.esp"
+    },
+    {
+      "$type": "InlineFile, Wabbajack.Lib",
+      "SourceDataID": "668af2cd-74e0-4e61-b4a3-6df43e6e7509",
       "Hash": "PFxeGcw/tQs=",
       "Size": 4679,
       "To": "mods\\Whisky's Lunar Fallout Overhaul Patches\\Lunar-CrossBrotherhoodRecon.esp"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "808097a2-baf2-454e-9094-b24aef78b365",
+      "SourceDataID": "387b21d7-16f2-4bb0-8a7a-69ce6bfceee4",
       "Hash": "Gwy+OfWYUdU=",
       "Size": 4327,
       "To": "mods\\Whisky's Lunar Fallout Overhaul Patches\\Lunar-FireaxeCrowbar.esp"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "24b53925-687d-4173-8ac5-12670f76fcba",
+      "SourceDataID": "a8c92e74-6e1d-4fd0-855b-10373b83d32d",
       "Hash": "K8/wEwSDmeo=",
       "Size": 2909,
       "To": "mods\\Whisky's Lunar Fallout Overhaul Patches\\Lunar-PipeShotgun.esp"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "a0791424-9fc0-47b2-b71e-d978ed671bc8",
+      "SourceDataID": "efd26082-0ef9-46ea-92f2-75f62c9de2da",
       "Hash": "Rwen8mW0uns=",
       "Size": 15612,
       "To": "mods\\Whisky's Lunar Fallout Overhaul Patches\\Lunar-UFO4.esp"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "239d897c-ccee-418a-85bf-e694f2fbc1ab",
+      "SourceDataID": "0a985c3a-a73b-4558-b64b-d0e5e2b9ef79",
       "Hash": "AetNwGzdspw=",
       "Size": 62397,
       "To": "mods\\Whisky's Lunar Fallout Overhaul Patches\\Lunar-UniqueCreatures.esp"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "d29383ed-7695-4b6a-8f01-14a6491beb5e",
+      "SourceDataID": "371d1f1b-2427-48a0-8f66-50bb3ccdaa9a",
       "Hash": "GaL4bt2EQMA=",
       "Size": 268,
       "To": "mods\\Whisky's Lunar Fallout Overhaul Patches\\Lunar-WorkshopFramework.esp"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "926dd030-9f7d-48d2-b668-469aa109435a",
+      "SourceDataID": "bc8e51b2-f687-4843-bf9d-119d06433170",
       "Hash": "6LnviJGG0RU=",
       "Size": 4006,
       "To": "mods\\Whisky's Lunar Fallout Overhaul Patches\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "1eb57ac5-e909-4fb1-be53-2050b27b99b0",
+      "SourceDataID": "51653ba6-0e13-4b8b-a87e-952d5254d213",
       "Hash": "cgilBK9GeKw=",
       "Size": 9929,
       "To": "mods\\Workshop Framework\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "017ac341-3ee0-44db-a04c-1884878c3f84",
+      "SourceDataID": "671b14be-51c7-48ea-a322-d2602cbaa652",
       "Hash": "7NfdJqPKj38=",
       "Size": 105,
       "To": "mods\\World_separator\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "f6408775-ea66-48db-a3a3-83f2cd7dd9e1",
+      "SourceDataID": "44773b4a-55d7-4c7f-8967-475679182c58",
       "Hash": "kJkB/bvjtLE=",
       "Size": 10577,
       "To": "mods\\Yet Another Prydwen Overhaul - No Cambridge Police Edits\\meta.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "96d49dee-ee59-44cf-8af5-30f5630ef2a0",
-      "Hash": "mbJwzfGz7xA=",
-      "Size": 9662,
+      "SourceDataID": "04be8bc5-24d7-453e-9dcb-8f7527737b6c",
+      "Hash": "t8M7hnhuJ/w=",
+      "Size": 9966,
       "To": "profiles\\LunarFalloutPlus\\archives.txt"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "f4e422a4-512a-4c2c-a0cf-8ec15855f34d",
+      "SourceDataID": "0a3fbaba-0a08-4daa-856d-f4dccd6d5fb6",
       "Hash": "7Mj8JJmbzsE=",
       "Size": 3573,
       "To": "profiles\\LunarFalloutPlus\\fallout4.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "6615e0e6-9b40-4839-95be-63f9fa95f124",
+      "SourceDataID": "574cbd6c-5923-46d4-bcf4-968e81c8b04a",
       "Hash": "+98lQMI6HKI=",
       "Size": 1521,
       "To": "profiles\\LunarFalloutPlus\\fallout4custom.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "6cc48d3d-5fbb-499f-85c6-736e908ad914",
+      "SourceDataID": "cbf8a0f4-07c0-4ea7-badc-a7076fede0ae",
       "Hash": "bcQuZWP5j9A=",
       "Size": 5019,
       "To": "profiles\\LunarFalloutPlus\\fallout4prefs.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "dba20ef1-5463-42e2-93c8-4e26f8761fff",
+      "SourceDataID": "737b62d3-eaa2-4a39-b3e8-b09f18ce4c06",
       "Hash": "zH3GSffbvsA=",
       "Size": 36,
       "To": "profiles\\LunarFalloutPlus\\initweaks.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "1e23f016-9e1b-4617-acb3-7e7e36671b37",
-      "Hash": "HpRPZb9w++8=",
-      "Size": 7467,
+      "SourceDataID": "387ba090-092f-4d0d-8b9d-4615fee0cb79",
+      "Hash": "u9wCWoMpDWU=",
+      "Size": 7588,
       "To": "profiles\\LunarFalloutPlus\\loadorder.txt"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "b0a2204a-ec59-4820-8836-602af6c96e09",
+      "SourceDataID": "ad35871a-764e-4327-9967-a5266dc5bba1",
       "Hash": "CcflEOKPT3E=",
       "Size": 59,
       "To": "profiles\\LunarFalloutPlus\\lockedorder.txt"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "793c879a-ed77-47de-942f-e4c405bbf01d",
-      "Hash": "EQjH1Dfyj/U=",
-      "Size": 11330,
+      "SourceDataID": "a5e97c37-2cb7-439d-95a3-7a83ac98471e",
+      "Hash": "Ry6Kp3v2iTk=",
+      "Size": 11725,
       "To": "profiles\\LunarFalloutPlus\\modlist.txt"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "31fc8b23-2568-4be8-ad14-e48d84201a07",
-      "Hash": "qf1uCOvzTuA=",
-      "Size": 6409,
+      "SourceDataID": "2e3e4417-2168-4bde-b052-053e893ce813",
+      "Hash": "IzuJWMqeVvg=",
+      "Size": 6536,
       "To": "profiles\\LunarFalloutPlus\\plugins.txt"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "14033563-b5f3-4471-88ac-c2ba4d02ac34",
+      "SourceDataID": "6efd8183-7c80-4dd1-84ab-bcfeaf1ab387",
       "Hash": "PJSlt3GWPzA=",
       "Size": 85,
       "To": "profiles\\LunarFalloutPlus\\settings.ini"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "d9b1d03f-2332-4517-b33d-4f1fc7ecc06f",
+      "SourceDataID": "619f1b47-d52d-4430-9e8e-ec1f9c9b3afa",
       "Hash": "PJSlt3GWPzA=",
       "Size": 85,
       "To": "profiles\\LunarFalloutPlus\\settings.ini.daBIGl"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "d822cacf-8c77-42cd-aef0-0d6705b83d8b",
+      "SourceDataID": "c2820dda-9bf4-4300-b559-bed2514f1248",
       "Hash": "c32a4Ctg/Gg=",
       "Size": 29268,
       "To": "mods\\CCKCR - Cooking and Chemistry Keywords Community Resource (LunarPlus version)\\optional\\CCKCR.esl"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "fb718384-565c-4446-96ec-c8b16decba00",
+      "SourceDataID": "2eea64b5-4b21-4cb1-9e1c-56eebf37c6ad",
       "Hash": "vx3xKCBZvB8=",
       "Size": 432,
       "To": "mods\\Difficulty (Pick an optional file)\\optional\\Difficulty-CasualFun.esp"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "1d05ee58-b5f6-4692-90ed-e967a575bf94",
+      "SourceDataID": "2fbe9b64-3bea-4fd4-9fda-069aeac7c29e",
       "Hash": "rIkLrG28mDU=",
       "Size": 432,
       "To": "mods\\Difficulty (Pick an optional file)\\optional\\Difficulty-Challenging.esp"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "31914995-650c-4671-9d6f-696920cb293d",
+      "SourceDataID": "b508a429-7f32-44c8-84c4-5081840a7c2f",
       "Hash": "T8tCBcfUnFQ=",
       "Size": 432,
       "To": "mods\\Difficulty (Pick an optional file)\\optional\\Difficulty-Sadistic.esp"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "b3bc94fb-83a5-4448-97f0-aa69c69281e9",
+      "SourceDataID": "ee5f6e2b-0f46-46a1-9e46-4a4858c16818",
       "Hash": "cteKfZzn2rI=",
       "Size": 13545,
       "To": "mods\\LunarFalloutPlus - Patches\\optional\\LunarPlus-GKXRandomValuablesSlim.esp"
     },
     {
       "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "28a154b0-a35a-4c10-8fe3-dcec0c65ad72",
+      "SourceDataID": "549c80fd-9aac-4791-b0e7-02878669ffe6",
       "Hash": "lH3aJC53lAs=",
       "Size": 2822,
       "To": "mods\\LunarFalloutPlus - Patches\\Scripts\\PowerArmorSelfDestruct.pex"
-    },
-    {
-      "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "596732bb-59cf-4f5b-8f4e-d0a5e03ff52b",
-      "Hash": "wG6JbIIGsAo=",
-      "Size": 21269,
-      "To": "mods\\Whisky's Lunar Fallout Overhaul Patches\\optional\\Lunar-CookingKeywords.esp"
-    },
-    {
-      "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "36c5b9cb-dff6-4004-8e25-940b10739b71",
-      "Hash": "Me2ESq/LftY=",
-      "Size": 2426,
-      "To": "mods\\Whisky's Lunar Fallout Overhaul Patches\\optional\\Lunar-Unique-CCKR.esp"
-    },
-    {
-      "$type": "InlineFile, Wabbajack.Lib",
-      "SourceDataID": "bac7c1ec-25a8-40b7-9c33-65655759c1a7",
-      "Hash": "ohRP4r+XQV0=",
-      "Size": 9362,
-      "To": "mods\\Whisky's Lunar Fallout Overhaul Patches\\optional\\Lunar-VUWR-Gunmetal.esp"
     }
   ]
 }
