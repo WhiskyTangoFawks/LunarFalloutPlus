@@ -28,7 +28,7 @@ When making a new game, after initial character creation a number of installatio
 
 In Game Setup
 1) Mod Configuration Menu - Animated Ingestibles - Turn on to close pipboy, play when mouth covered in 1st person, and play animations during combat
-2) Mod Configuration Menu - Survival Configuration Menu - turn ON savegame -> timed save, turn OFF Companion Heal
+2) Mod Configuration Menu - Survival Configuration Menu - turn ON savegame -> timed save, turn OFF Companion Heal (this means you should no longer need to stimpack your companions)
 2) Backpacks of the Commonwealth - When you exit vault 111, this will inject backpacks into the levelled lists. Select your chosen distribution when it comes up. I like backpacks being completely unique, but whatever you want.
 3) Utility Belt- equip the utility belt.
 
@@ -41,6 +41,7 @@ Known Issues
 -Cait is missing her shotgun after being recruited. This is a bug with Combat Zone Restored, after recruiting her run the following console command
 00079305.additem 0005df30 1
 -SimSettlements has quest dialog that references having a son that is still available if you select a non-vault start in StartMeUp
+-Playing with a controller sometimes has a strange choppy delay where you lose control of your player. Turn off vibration to resolve it (Vanilla game bug)
 
 Mods in Testing: These probably work, but I haven't tested them yet, and therefore they are not included in the main modlist yet, feel free to add them and let me know if they work
 -Bettery Skylines Flight, Nuka World Plus, Father Companion, Sim Settlements 2 expansion packs
