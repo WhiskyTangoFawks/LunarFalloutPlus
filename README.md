@@ -46,6 +46,7 @@ Requires wabbajack - https://www.wabbajack.org/#/
 ### In Game Setup
 0) Start a new survival game (recommended)
 1) When making a new game, after initial character creation a number of installation messages will display. DO NOT DO ANYTHING UNTIL THESE HAVE FINISHED. The FO4 script engine is fragile, and needs a minute to run through all the startup. If you get a message from Sim Settlements 2 that it hasn't started correctly, it is probably because you didn't wait here- restart with a new game and wait until the messages have finished displaying.
+2) Create your character, then select either "This is a memory" to play the vanilla main quest, or "This is just a dream" to disable the main quest and select a different start (see the mod page for Start Me Up for more information)
 3) Mod Configuration Menu - Survival Configuration Menu - turn ON savegame -> timed save, turn OFF Companion Heal (this means you should no longer need to stimpack your companions)
 4) Backpacks of the Commonwealth - When you exit vault 111, this will inject backpacks into the levelled lists. Select your chosen distribution when it comes up. I like backpacks being completely unique, but whatever you want.
 5) Utility Belt- equip the utility belt.
@@ -62,4 +63,4 @@ She still probably won't use it very often though as her AI is set to charging b
 - AWKCR - Yes, this is an AWKCR-free modlist. Gunmetal Faction Distribution does have an ArmorKeywords dummy plugin it uses for some keywords, but it does not include any of the bloat or unexpected features of the full AWKCR mod.
 - CBBE- I find barbie doll proportions unimmersive. Women don't look look like that in real life.
 - Thuggysmurf (Depravity, Outcasts and Remnants, etc)- The quality of the work on these mods is incredible, but they are massively let down by the writing and choice to include adolecent jokes. I personally find a lot of it cringeworthy and unimmersive. A mod that adds a dildo as a weapon and has a bunch of female NPCs in skimpy sexy corsets isn't one I personally want in my load order.
-- Settler of the Commonwealth- Great mod, all the people constantly asking if you have work is a bit ridiculous. SS2 does a better job of integrating custom settlers into the game, and in my testing I found that running both you were running into too many people who wanted work.
+- Settler of the Commonwealth- Great mod, all the people constantly asking if you have work is a bit ridiculous. SS2 does a better job of integrating custom settlers into the game, and in my testing I found that running both you were running into too many people who wanted work. If anyone knows how to add these to the recruitment list, instead of having them spawn in the world, hit me up.
