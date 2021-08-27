@@ -53,15 +53,15 @@ Requires wabbajack - https://www.wabbajack.org/#/
                                   - turn OFF Companion Heal (this means you should no longer need to stimpack your companions)
     - Sim Settlements 2 - Gameplay -> Resource Complexity to Scrap Categories (this will set SS2 to use a simplified scrap system, instead of all of the scrap types)
 4) Backpacks of the Commonwealth - When you exit vault 111, this will inject backpacks into the levelled lists. Select your chosen distribution when it comes up. I like backpacks being completely unique, but whatever you want.
-5) Utility Belt- equip the utility belt.
-6) Optional: Craft a companion whistle at a chem lab bench, this will teleport any active companion to you, useful when you accidently tell them to stay and can't find them, or they're screwing with NPC pathing during a quest
-7) Optional: Craft the companion tracker holotape at the chem lab bench. This allows you to track inactive companions, for cases where you can't remember which settlement you sent them to.
+5) Optional: Craft a companion whistle at a chem lab bench, this will teleport any active companion to you, useful when you accidently tell them to stay and can't find them, or they're screwing with NPC pathing during a quest
+6) Optional: Craft the companion tracker holotape at the chem lab bench. This allows you to track inactive companions, for cases where you can't remember which settlement you sent them to.
 
 ## Known Issues
 - Cait is missing her shotgun after being recruited. This is a bug with Combat Zone Restored, after recruiting her run the following console command
 00079305.additem 0005df30 1
 She still probably won't use it very often though as her AI is set to charging by Lunar Fallout
 - SimSettlements has quest dialog that references having a son or being a vault dweller that is still available if you select a non-vault start in StartMeUp
+- Sim Settlements quest locations might have awkward trees from A Forest. Please report them, so that I can can have the lumberjack clear them out.
 
 ## Notable Missing Mods
 - AWKCR - Yes, this is an AWKCR-free modlist. Gunmetal Faction Distribution does have an ArmorKeywords dummy plugin it uses for some keywords, but it does not include any of the bloat or unexpected features of the full AWKCR mod.
