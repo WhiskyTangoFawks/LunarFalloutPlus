@@ -4,16 +4,19 @@ Requires wabbajack - https://www.wabbajack.org/#/
 
 ## Modlist Goals
 - RPG Balance, Scaling, and Progression - brought to you by Lunar Fallout Overhaul
-- Survival Mechanics, with non-survival damage levels (uses a custom mod to change damage withour disabling survival mechanics)
-- A vibrant, inhabited wasteland. Neglected areas should feel fleshed out, and Diamond City should really feel like the "Jewel of the Commonwealth"
-- Increased variety in Creatures, Weapons and Armors by mods that add alternate skins, rather than mods that add a ton of new unbalanced items and monsters
-- Extra high-quality content with the same style and tone as vanilla (mature, but not gratutious, you won't find skimpy outfits or adult content in this mod list)
+- Survival Mechanics, with non-survival damage levels (uses a custom mod to change damage without disabling survival mechanics)
+- A vibrant, inhabited, but still desolate wasteland. Neglected areas should feel fleshed out, and Diamond City should really feel like the "Jewel of the Commonwealth"
+- Civilization has not returned to the Commonwealth, at least not yet - brought to you by Sim Settlements 2
+- Increased variety in Creatures, Weapons and Armors by mods that add variety to existing content, rather than mods that add a ton of new unbalanced items and monsters
+- Extra high-quality content with the same style and tone as vanilla (mature, but not gratutious, you won't find skimpy outfits or "adult content" in this mod list)
+- Vanilla quest mods that introduce meaningful choice
+
 
 ### Key Mods To Be Aware Of 
 - Lunar Fallout Overhaul
 - Creative Perks Plus (With integrated versions of Locky Bastard, Auto-Hack, Freeze Intimidation Overhaul, Beastmaster)
 - Sim Settlements 2
-- Lore Based Power Armor Changes
+- Lore Based Power Armor Changes (Power Armor Balance), Some Assembly Required (Power Armor Distribution in the World)
 - Start Me Up
 - Campsite Simple Wasteland Camping
 
@@ -25,36 +28,36 @@ Requires wabbajack - https://www.wabbajack.org/#/
 
 ## Things you should know...
 1) The game is balanced and scaled for an RPG Survival playthrough, with damage that feels more like Normal or hard. It shouldn't feel like either a First Person Shooter, or a Survival Simulator.
-2) The early levels are difficult until you get a bit of equipment, grab whatever armor you can as fast as you can (seriously, people are SHOOTING at you, your t-shirt ain't gonna protect you). Don't expect to be able to handle a pack of ferals until at least level 10. Ammo is scarce, expect to have to buy some at some point.
+2) The early levels are difficult until you get a bit of equipment, grab whatever armor you can as fast as you can (seriously, people are SHOOTING at you, your t-shirt ain't gonna protect you). Don't expect to be able to handle a pack of ferals until at least level 10. Ammo is scarce, expect to have to buy some at some point. Or just turn the difficulty down with the optional plugin and have fun, the choice is yours.
 4) Perks have increasing SPECIAL requirements, and specials can be trained past 10.
-5) Power armor is rare, and fusion cores are much harder to come by.
+5) Power armor is more powerful, but rare, and fusion cores are much harder to come by.
 6) Shoot/Kick/Explode locks open, and bypass hacking, read the nexus page for LockyBastard and Auto-Hack for more details.
 
 ### Technical Notes
 1) The modlist includes a full repack of the vanilla texture BSAs for better performance, based on PhyOP base textures and BiRaitBec's texture repacking method.
-2) The modlist is designed for reliatively modern, middle range hardware. A high end graphics card is not required (as long as you don't expect to run on Ultra), but a decent processor is a must for running heavily modded Fallout 4.
+2) The modlist is designed for reliatively modern, middle range hardware. A high end graphics card is not required (I tested this list on a Radeon 580 with medium settings), but a decent processor is a must for running heavily modded Fallout 4.
 
 ## Additional Setup (post wabbajack installation)
-1) Texture Repacking: Open the mod "BiRaitBecs Texture Repacker" --> file tree --> open in mod explorer. Double click "installer.bat", and wait for it to finish. After it is done, verify that the repacked BA2s are now in the mod "BaseGameBA2s". (If you need to save HDD space, you can replace the BA2s in your game data folder with these, and delete the repacker mod)
-2) Move the "Game Files Folder", found inside the MO2 folder, into your game directory, to complete installation of F4SE and ENB
-3) HighFPSFix.ini - adjust vsync and FPS cap to your desired settings, based on your monitor framerate, and whether you need vsync (if you don't have a g-sync or free-sync compatible monitor and graphics card, you need v-sync)
-4) Disable the mods in the CreationClubPaintjobs section if you do not have the required creation club skins.
-5) Pick your difficulty - The last mod in the modlist is "Survival Difficulty (Pick an optional)", double click on it, and go to the "optional files tab". The default is "Difficulty-Normal". If you want an easier or harder game, move the normal to the left column, and move one of the other files to the right. This is safe to change at any time during a playthrough
+1) Pick your Profile: "Life in the Ruins", or "Life in the Ruins - CreationClubPaints" if you have the required creation club paint jobs
+2) Move the "Game Files Folder", found inside the MO2 folder, into your game directory, to complete installation of F4SE and the ENB
+3) (Optional) In the "High FPS Physics Fix" mod, the file HighFPSHighFPSFix.ini - adjust vsync and FPS cap to your desired settings, based on your monitor framerate, and whether you need vsync (if you don't have a g-sync or free-sync compatible monitor and graphics card, you need v-sync). ENB or Video Card Driver settings will override this, if you prefer to make changes there.
+4) (Optional) Pick your difficulty - The last mod in the modlist is "Survival Difficulty (Pick an optional)", double click on it, and go to the "optional files tab". The default is "Difficulty-Normal". If you want an easier or harder game, move the normal to the left column, and move one of the other files to the right. Or open the file in xedit, and set your own custom damage values.. This is safe to change at any time during a playthrough.
 
 ### Optional, but Recommended
 1) Download and install the Strigidae and Brotherhood Recon Expeditionary Suit skin packs from https://gumroad.com/niero. They're available for free (use the discount code), but a donation is suggested. The man makes some fantastic mods, and you can probably afford to buy him a coffee.
 
 ### In Game Setup
-0) Start a new survival game (recommended)
+0) Start a new survival game (recommended, but not required)
 1) When making a new game, after initial character creation a number of installation messages will display. DO NOT DO ANYTHING UNTIL THESE HAVE FINISHED. The FO4 script engine is fragile, and needs a minute to run through all the startup. If you get a message from Sim Settlements 2 that it hasn't started correctly, it is probably because you didn't wait here- restart with a new game and wait until the messages have finished displaying.
 2) Create your character, then select either "This is a memory" to play the vanilla main quest, or "This is just a dream" to disable the main quest and select a different start (see the mod page for Start Me Up for more information)
-3) Mod Configuration Menu 
+3) Mod Configuration Menu - Recommended Settings (recommended for the style of game I prefer, but not required)
     - Survival Configuration Menu - turn ON savegame -> timed save
                                   - turn OFF Companion Heal (this means you should no longer need to stimpack your companions)
-    - Sim Settlements 2 - Gameplay -> Resource Complexity to Scrap Categories (this will set SS2 to use a simplified scrap system, instead of all of the scrap types)
+    - Sim Settlements 2 - Gameplay -> Resource Complexity to Scrap Categories (this will set SS2 to use a simplified scrap system of 4 scrap types, instead of requiring specific components)
 4) Backpacks of the Commonwealth - When you exit vault 111, this will inject backpacks into the levelled lists. Select your chosen distribution when it comes up. I like backpacks being completely unique, but whatever you want.
-5) Optional: Craft a companion whistle at a chem lab bench, this will teleport any active companion to you, useful when you accidently tell them to stay and can't find them, or they're screwing with NPC pathing during a quest
-6) Optional: Craft the companion tracker holotape at the chem lab bench. This allows you to track inactive companions, for cases where you can't remember which settlement you sent them to.
+
+5) (Optional) Craft a companion whistle at a chem lab bench, this will teleport any active companion to you, useful when you accidently tell them to stay and can't find them, or they're screwing with NPC pathing during a quest
+6) (Optional) Craft the companion tracker holotape at the chem lab bench. This allows you to track inactive companions, for cases where you can't remember which settlement you sent them to.
 
 ## Known Issues
 - Cait is missing her shotgun after being recruited. This is a bug with Combat Zone Restored, after recruiting her run the following console command
@@ -62,9 +65,16 @@ Requires wabbajack - https://www.wabbajack.org/#/
 She still probably won't use it very often though as her AI is set to charging by Lunar Fallout
 - SimSettlements has quest dialog that references having a son or being a vault dweller that is still available if you select a non-vault start in StartMeUp
 - Sim Settlements quest locations might have awkward trees from A Forest. Please report them, so that I can can have the lumberjack clear them out.
+-Beastmaster welcome message plays the 2nd time you load the game, instead of when you take the perk
 
 ## Notable Missing Mods
 - AWKCR - Yes, this is an AWKCR-free modlist. Gunmetal Faction Distribution does have an ArmorKeywords dummy plugin it uses for some keywords, but it does not include any of the bloat or unexpected features of the full AWKCR mod.
 - CBBE- I find barbie doll proportions unimmersive. Women don't look look like that in real life.
 - Thuggysmurf (Depravity, Outcasts and Remnants, etc)- The quality of the work on these mods is incredible, but they are massively let down by the writing and choice to include adolecent jokes. I personally find a lot of it cringeworthy and unimmersive. A mod that adds a dildo as a weapon and has a bunch of female NPCs in skimpy sexy corsets isn't one I personally want in my load order.
 - Settler of the Commonwealth- Great mod, all the people constantly asking if you have work is a bit ridiculous. SS2 does a better job of integrating custom settlers into the game, and in my testing I found that running both you were running into too many people who wanted work. If anyone knows how to add these to the recruitment list, instead of having them spawn in the world, hit me up.
+- Mods that were removed in the Great Nexus Purge and are no longer available : Utility Belt, Better Cooking Stations (v1), MsRae's Commonwealth Interiors, Swinging Animated Meatbags
+
+## Mods under consideration (feedback requested from anyone using them with this list)
+- Better Boston Airport - testing required for possible problems reported on the mods main page
+- Crime and Punishment - complex mod that I'm interested in, but haven't had time to explore, also it has some really weird options that I'm not sure I want in my game
+- Mutant Menagerie - Will need compatibility patching for Lunar Fallout
