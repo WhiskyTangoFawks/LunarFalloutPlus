@@ -2,8 +2,8 @@
 Wabbajack Modlist for Fallout 4 for for a moderate difficulty survival playthrough based on Lunar Fallout Overhaul, with a ton of extra spice.
 Requires wabbajack - https://www.wabbajack.org/#/
 
-## Pre-release Note 0.1.0
-This is the prelease for Life in the Ruins. It is stable, and I've fixed all the bugs I could find, but Fallout 4 is a big game. I'm sure there are things I've missed, which is where you come in. Play the list, and let me know how it goes. If there's stuff that needs fixing or balancing, let me know and have fun!
+### Pre-release Note 0.1.0
+This is the prelease for Life in the Ruins. It is stable, and I've fixed all the bugs I could find, but Fallout 4 is a big game. I'm sure there are things I've missed, which is where you come in. Play the list, and let me know how it goes. If there's stuff that needs fixing or balancing, let me know and I'll get it sorted. Have fun!
 
 ## Modlist Goals
 - RPG Balance, Scaling, and Progression - brought to you by Lunar Fallout Overhaul
@@ -42,7 +42,7 @@ This is the prelease for Life in the Ruins. It is stable, and I've fixed all the
 - Shoot/Kick/Explode locks open, and bypass hacking, read the nexus page for LockyBastard and Auto-Hack for more details.
 
 ### Technical Notes
-- The modlist includes a full repack of the vanilla texture BSAs for better performance, based on PhyOP base textures and BiRaitBec's texture repacking method.
+- The modlist includes a full repack of the vanilla texture BSAs for better performance, based on PhyOP base textures and BiRaitBec's texture repack.
 - The modlist is designed for reliatively modern, middle range hardware. A high end graphics card is not required (I tested this list on a Radeon 580 with medium settings), but a decent processor is a must for running heavily modded Fallout 4.
 
 ## Additional Setup (post wabbajack installation)
@@ -73,8 +73,9 @@ She still probably won't use it very often though as her AI is set to charging b
 - Sim Settlements quest locations might have awkward trees from A Forest. Please report them, so that I can can have the lumberjack clear them out.
 -Beastmaster welcome message plays the 2nd time you load the game, instead of when you take the perk
 
-## Bug Reports
-The best way, is to open an issue on the project Github, at https://github.com/WhiskyTangoFawks/LunarFalloutPlus/issues.
+## Support and Bug Reports
+Support is available in my discord: https://discord.gg/3mqhzm3W
+The best way to log a Bug Report to open an issue on the project Github, at https://github.com/WhiskyTangoFawks/LunarFalloutPlus/issues.
 
 ## Notable Missing Mods
 - AWKCR - Yes, this is an AWKCR-free modlist. Gunmetal Faction Distribution does have an ArmorKeywords dummy plugin it uses for some keywords, but it does not include any of the bloat or unexpected features of the full AWKCR mod.
