@@ -57,9 +57,11 @@ This is the prelease for Life in the Ruins. It is stable, and I've fixed all the
 1. When making a new game, after initial character creation a number of installation messages will display. DO NOT DO ANYTHING UNTIL THESE HAVE FINISHED. The FO4 script engine is fragile, and needs a minute to run through all the startup. If you get a message from Sim Settlements 2 that it hasn't started correctly and you didn't wait here- restart with a new game and wait until the messages have finished displaying, and then maybe wait a little longer.
 2. Create your character, then select either "This is a memory" to play the vanilla main quest, or "This is just a dream" to disable the main quest and select a different start (see the mod page for Start Me Up for more information)
 3. Mod Configuration Menu - Recommended Setting
-    - Survival Configuration Menu - turn ON savegame -> timed save
-                                  - turn OFF Companion Heal (this means you should no longer need to stimpack your companions)
-    - Sim Settlements 2 - Gameplay -> Resource Complexity to Scrap Categories (this will set SS2 to use a simplified scrap system of 4 scrap types, instead of requiring specific components)
+    - Survival Configuration Menu 
+        * turn ON savegame -> timed save
+        * turn OFF Companion Heal (this means you should no longer need to stimpack your companions)
+    - Sim Settlements 2
+        * Gameplay -> Resource Complexity to Scrap Categories (this will set SS2 to use a simplified scrap system of 4 scrap types, instead of requiring specific components)
 4. Backpacks of the Commonwealth - When you exit vault 111, this will inject backpacks into the levelled lists. Select your chosen distribution when it comes up. I like backpacks being completely unique, but whatever you want.
 
 5. (Optional) Craft a companion whistle at a chem lab bench, this will teleport any active companion to you, useful when you accidently tell them to stay and can't find them, or they're screwing with NPC pathing during a quest
