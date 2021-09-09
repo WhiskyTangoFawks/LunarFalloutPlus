@@ -11,12 +11,13 @@ This is the prelease for Life in the Ruins. It is stable, and I've fixed all the
 - A vibrant, inhabited, but still uncivillized wasteland. Neglected areas should feel fleshed out, and Diamond City should really feel like the "Jewel of the Commonwealth"
 - Increased variety in Creatures, Weapons and Armors by mods that add variety to existing content, rather than mods that add a ton of new unbalanced items and monsters
 - Extra high-quality content with the same style and tone as vanilla (no pointlessly skimpy outfits, no tacti-cool weapons)
-
+- Smooth performance on middle-range hardware
+ 
 - This is not a hardcore survival simulator - if you want that go play a Horizon based list
 - This is not a twitch shooter - if you want that, go play one of the Better Locational Damage based lists
 - This is not Fallout New Vegas - if you want that, go play Fallout New Vegas
 - This is not a "everything but the kitchen sink" list with every mod out there - if you want that, go play Magnum Opus or MOFAM
-
+ 
 ### Key Mods To Be Aware Of 
 - Lunar Fallout Overhaul
 - Creative Perks Plus (With Locky Bastard, Auto-Hack, Freeze Intimidation Overhaul, Beastmaster)
@@ -42,8 +43,8 @@ This is the prelease for Life in the Ruins. It is stable, and I've fixed all the
 - Shoot/Kick/Explode locks open, and bypass hacking, read the nexus page for LockyBastard and Auto-Hack for more details.
 
 ### Technical Notes
-- The modlist includes a full repack of the vanilla texture BSAs for better performance, based on PhyOP base textures and BiRaitBec's texture repack.
-- The modlist is designed for reliatively modern, middle range hardware. A high end graphics card is not required (I tested this list on a Radeon 580 with medium settings), but a decent processor is a must for running heavily modded Fallout 4.
+- The modlist includes a full repack of the vanilla texture BSAs for better loading and ingame performance, based on PhyOP base textures and BiRaitBec's texture repack.
+- The modlist is designed for reliatively modern, middle range hardware. A high end graphics card is not required (I tested this list on a Radeon 580 with medium settings), but a decent processor is useful for running heavily modded Fallout 4.
 
 ## Additional Setup (post wabbajack installation)
 1. Pick your Profile: "Life in the Ruins", or "Life in the Ruins - CreationClubPaints" if you have the required creation club paint jobs
