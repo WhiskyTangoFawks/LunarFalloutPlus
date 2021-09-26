@@ -1,4 +1,12 @@
 # Changelog
+
+## v0.1.3
+- Updated Lunar Fallout Overhaul
+- Updated Recruit Charlie as Settler
+- Patched Settler Dialogue Overhaul (Credit to Eliterop)
+- Balance patch for 3dNPCs (Credit to Eliterop)
+- Fixed Lunar -Mercenary patch to not spawn naked gunners
+
 ### v0.1.2
 - Added wabbajack_include tag file to complex sorter cache, so the sorter can be rerun on installs
 - Moved some patches to nexus downloads (instead of in-lining them into the wabbajack file)
