@@ -2,7 +2,7 @@
 From the author of Creative Perks Plus, a Fallout 4 for for a moderate difficulty survival playthrough based on Lunar Fallout Overhaul, with a ton of extra spice.
 Requires wabbajack - https://www.wabbajack.org/#/
 
-### Pre-release Note 0.1.2
+### Pre-release Note
 This is the prelease for Life in the Ruins. It is stable, and I've fixed all the bugs I could find, but Fallout 4 is a big game. I'm sure there are things I've missed, which is where you come in. Play the list, and let me know how it goes. If there's stuff that needs fixing or balancing, let me know and I'll get it sorted. Have fun!
 
 ## Modlist Goals
@@ -81,7 +81,7 @@ She still probably won't use it very often though as her AI is set to charging b
 - Navmesh conflicts between Tales From the Commonwealth, Diamond City Outskirts, and SKK Red Rockets. This won't introduce any instability, but NPCs may have trouble pathing in rare cases.
 
 ## Support and Bug Reports
-Support is available in my discord: https://discord.gg/3mqhzm3W
+Support is available in my discord: https://discord.gg/HUNWVBjZPg
 The best way to log a Bug Report to open an issue on the project Github, at https://github.com/WhiskyTangoFawks/LunarFalloutPlus/issues.
 
 ## Notable Missing Mods
