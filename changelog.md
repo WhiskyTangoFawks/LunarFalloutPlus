@@ -1,5 +1,16 @@
 # Changelog
 
+
+## 0.2.1
+- Added
+- Updated
+- Removed
+- Misc
+    * Fixed Jet in IAf-Lunar patch
+    * Rolled back High FPS Physics due to issue with starting new games - investigation required
+
+
+
 ## 0.2.0 (Not save-update safe, due to Mercenary Pack removal)
 
 If you want to update from 0.1.2, you can just add [NODELTETE] to the Mercenary Pack and Injected Mercenary pack mods, to prevent wabbajack from deleting them.
