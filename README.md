@@ -19,6 +19,7 @@ This is the prelease for Life in the Ruins. It is stable, and I've fixed all the
 - a twitch shooter - if you want that, go play one of the Better Locational Damage based lists
 - Fallout New Vegas - if you want that, go play Fallout New Vegas
 - an "everything but the kitchen sink" list with every mod out there - if you want that, go play Magnum Opus or MOFAM
+- a super-difficult make-the-game-impossible list for people who've played FO4 100x and know it like the back of their hand
  
 ## Key Mods To Be Aware Of 
 - Lunar Fallout Overhaul

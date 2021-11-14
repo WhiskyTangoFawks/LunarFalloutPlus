@@ -1,6 +1,23 @@
 # Changelog
 
 
+## 0.2.2
+- Added
+    * Discord Rich Presence
+- Updated
+    * Creative Perks Plus
+    * Recruit Virgil as a Settler
+    * Survival Configuration Menu
+    * Atom's Glory
+    * Complex Vendors
+- Removed
+    * Dak's Combat Rifle remesh (to allow for skin support)
+- Misc
+    * Restored weaponTypeRifle to double barrelled shotgun (should allow for correct holstering position)
+    * Reverted armor changes to SKK Scaver Faction
+    * Updated Item Sorter Script, and reran sorter
+
+
 ## 0.2.1
 - Added
 - Updated
