@@ -1,5 +1,15 @@
 # Changelog
 
+# 0.2.3
+- Added
+- Updated
+    * 4estGimp Complex Item Sorter Enhancements
+    * Recruit Charlie and Clinton as Settlers
+    * ENBSeries
+- Removed
+- Misc
+    * Fixed gunmetal raider armor paints installaation
+    * Regenerated sorting patch
 
 ## 0.2.2
 - Added
