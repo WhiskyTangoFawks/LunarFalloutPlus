@@ -12,6 +12,7 @@ This is the prelease for Life in the Ruins. It is stable, and I've fixed all the
 - A wasteland ready to be civilized with Sim Settlements 2 (get hyped for chapter 2!)
 - Increased variety in Creatures, Weapons and Armors by mods that add variety to existing content (attachments and alt skins), rather than mods that add a ton of new unbalanced items and monsters
 - Extra high-quality content with the same style and tone as vanilla (no pointlessly skimpy outfits, no tacti-cool weapons)
+- Full controller supprt (no extra configuration required)
 - Silky smooth performance on middle-range hardware
  
  ### This is not...
@@ -26,13 +27,13 @@ This is the prelease for Life in the Ruins. It is stable, and I've fixed all the
 - Creative Perks Plus (With Locky Bastard, Auto-Hack, Freeze Intimidation Overhaul, Beastmaster)
 - Sim Settlements 2
 - Lore Based Power Armor Changes (Balance), Some Assembly Required (Distribution)
-- Start Me Up
-- Campsite Simple Wasteland Camping
+- Campsite Simple Wasteland Camping (usage is completely optional, if you don't want to camp you can just ignore it)
 
 ### The Extra Spice
 - A Forest
 - Unique NPCs Creatures and Monsters
 - Tales from the Commonwealth
+- The Bleachers
 - Gunmetal Weapon and Armor Skins
 
 ### Optional Creation Club Content Compatibility
@@ -46,37 +47,39 @@ This is the prelease for Life in the Ruins. It is stable, and I've fixed all the
 - Shoot/Kick/Explode locks open, and bypass hacking, read the nexus page for LockyBastard and Auto-Hack for more details.
 
 ### Technical Notes
-- The modlist includes a full repack of the vanilla texture BSAs for better loading and ingame performance, based on PhyOP base textures and BiRaitBec's texture repack.
-- The modlist is designed for reliatively modern, middle range hardware. A high end graphics card is not required (I tested this list on a Radeon 580 with medium settings, currently playing with a 6600xt on high settings, and FPS is consistently capped at 90), but a decent processor is useful for running heavily modded Fallout 4.
+- The modlist includes a full repack of the vanilla texture BSAs for better loading and ingame performance, based on Luxor's HD Textures and BiRaitBec's texture repack.
+- The modlist is designed for reliatively modern, middle range hardware. A high end graphics card is not required (I tested this list on a Radeon 580 with medium settings, currently playing with a 6600xt on high settings, and FPS is consistently capped above 60), but a decent processor is useful for running heavily modded Fallout 4.
 
 ## Additional Setup (post wabbajack installation)
 1. Pick your Profile: "Life in the Ruins", or "Life in the Ruins - CreationClubPaints" if you have the required set of creation club paint jobs
-2. Move the "Game Files Folder", found inside the MO2 folder, into your game directory, to complete installation of F4SE and the ENB
-3. (Optional) In the "High FPS Physics Fix" mod, the file HighFPSHighFPSFix.ini - adjust vsync and FPS cap to your desired settings, based on your monitor framerate, and whether you need vsync (if you don't have a g-sync or free-sync compatible monitor and graphics card, you need v-sync). ENB or Video Card Driver settings will override this, if you prefer to make changes there.
-4. (Optional) Pick your difficulty - The last mod in the modlist is "Survival Difficulty (Pick an optional)", double click on it, and go to the "optional files tab". The default is "Difficulty-Normal". If you want an easier or harder game, move the normal to the left column, and move one of the other files to the right. Or open the file in xedit, and set your own custom damage values. This is safe to change at any time during a playthrough.
-5. (Optional) Download and install the Strigidae and Brotherhood Recon Expeditionary Suit skin packs from https://gumroad.com/niero. They're available for free (use the discount code), but a donation is suggested. The man makes some fantastic mods, and you can probably afford to buy him a coffee.
-6. If you want vaultsuits to appear in more colors than the standard blue, disable "OnlyBlueVaultsuits.esp" (this adds them to the spawn list, you can still change the color at a workbench with or without it)
+    -  Creation Club Profile - Copy the creation club files from your fallout4/data directory into the "[NODELETE] CreationClub Paint Jobs" mod folder
+2. (Optional) If you want to skip the pre-war and vault escape scenes, enable "SKK Quick Start"
+2. (Optional) If you have a monitor with GSync/Freesync that can handle > 60FPS, enable the "90FPS No VSYNC" mod. This is a custom HighFPS Physics ini, with VSYNC disabled, and the FPS Cap set to 90.
+3. (Optional) Pick your difficulty - The last mod in the modlist is "Survival Difficulty (Pick an optional)", double click on it, and go to the "optional files tab". The default is "Difficulty-Normal". If you want an easier or harder game, move the normal to the left column, and move one of the other files to the right. Or open the file in xedit, and set your own custom damage values. This is safe to change at any time during a playthrough.
+4. (Optional) Download and install into the mod "[NODELETE] Cross Skin Packs" the Strigidae and Brotherhood Recon Expeditionary Suit skin packs from https://gumroad.com/niero. They're available for free (use the discount code), but a donation is suggested. The man makes some fantastic mods, and you can probably afford to buy him a coffee.
+5. (Optional) If you want vaultsuits to appear in more colors than the standard blue, disable "OnlyBlueVaultsuits.esp" (this adds them to the spawn list, you can still change the color at a workbench with or without it)
 
 ### In Game Setup
 0. Start a new survival game (recommended, but not required)
 1. When making a new game, after initial character creation a number of installation messages will display. DO NOT DO ANYTHING UNTIL THESE HAVE FINISHED. The FO4 script engine is fragile, and needs a minute to run through all the startup. If you get a message from Sim Settlements 2 that it hasn't started correctly and you didn't wait here- restart with a new game and wait until the messages have finished displaying, and then maybe wait a little longer.
-2. Create your character, then select either "This is a memory" to play the vanilla main quest, or "This is just a dream" to disable the main quest and select a different start (see the mod page for Start Me Up for more information)
-3. Mod Configuration Menu - Recommended Setting
+2. Mod Configuration Menu - Recommended Setting
     - Survival Configuration Menu 
         * turn ON savegame -> timed save
-        * turn OFF Companion Heal (this means you should no longer need to stimpack your companions)
     - Sim Settlements 2
         * Gameplay -> Resource Complexity to Scrap Categories (this will set SS2 to use a simplified scrap system of 4 scrap types, instead of requiring specific components)
-4. Backpacks of the Commonwealth - When you exit vault 111, this will inject backpacks into the levelled lists. Select your chosen distribution when it comes up. I like backpacks being completely unique, but whatever you want.
+3. Backpacks of the Commonwealth - When you exit vault 111, this will inject backpacks into the levelled lists. Select your chosen distribution when it comes up. I like backpacks being completely unique, but whatever you want.
 
-5. (Optional) Craft a companion whistle at a chem lab bench, this will teleport any active companion to you, useful when you accidently tell them to stay and can't find them, or they're screwing with NPC pathing during a quest
-6. (Optional) Craft the companion tracker holotape at the chem lab bench. This allows you to track inactive companions, for cases where you can't remember which settlement you sent them to.
+4. (Optional) Craft a companion whistle at a chem lab bench, this will teleport any active companion to you, useful when you accidently tell them to stay and can't find them, or they're screwing with NPC pathing during a quest
+5. (Optional) Craft the companion tracker holotape at the chem lab bench. This allows you to track inactive companions, for cases where you can't remember which settlement you sent them to.
+<<<<<<< HEAD
+6. (Optional) Craft a sleeping bag
+=======
+>>>>>>> 652a1b5 (v0.3.0)
 
 ## Known Issues
 - Cait is missing her shotgun after being recruited. This is a bug with Combat Zone Restored, after recruiting her run the following console command
 00079305.additem 0005df30 1
 She still probably won't use it very often though as her AI is set to charging by Lunar Fallout
-- SimSettlements has quest dialog that references having a son or being a vault dweller that is still available if you select a non-vault start in StartMeUp
 - Sim Settlements quest locations might have awkward trees from A Forest. Please report them, so that I can can have the lumberjack clear them out.
 - Beastmaster welcome quest starts after reloading the game after taking the perk, instead of immediately when you take the perk
 - Navmesh conflicts between Tales From the Commonwealth, Diamond City Outskirts, and SKK Red Rockets. This won't introduce any instability, but NPCs may have trouble pathing in rare cases.
@@ -93,6 +96,9 @@ The best way to log a Bug Report to open an issue on the project Github, at http
 - Settler of the Commonwealth- Great mod, all the people constantly asking if you have work is a bit ridiculous. SS2 does a better job of integrating custom settlers into the game, and in my testing I found that running both you were running into too many people who wanted work. If anyone knows how to add these to the recruitment list with Workshop Framework, instead of having them spawn in the world, hit me up.
 - 100s of Weapons and Armor mods - this list has a relatively conservative approach to weapons and armor, both due to personal choice and the challenge of balancing for Lunar Fallout. In game diversity is provided through Gunmetal Weapons and Armor Skins. As stated at the top, this isn't a kitchen sink list.
 - Mods that were removed in the Great Nexus Purge and are no longer available : Utility Belt, Better Cooking Stations (v1), MsRae's Commonwealth Interiors, Swinging Animated Meatbags. All of these are compatible, and don't need patching. Feel free to add them if you have them.
+
+## Performance
+The list should be performance friendly, however if you want a few more FPS, I recommend tweaking your settings using Bethini to Medium, or to try using the Visceral ENB for True Storms Lite version (the stock list uses the full version)
 
 ## Unsupported Activities - Adding your own mods
 If you want to add stuff to the list, you do so at your own risk. You're on your own, but if you're really nice about it we'll offer advice in the discord.  If you choose to do so, there are a couple things to know...

@@ -1,5 +1,52 @@
 # Changelog
 
+## 0.2.4
+- Added
+    * 10mm Pistol Resize Update
+    * Optimization Patches Collection
+    * Luxor's HD Textures
+    * Captain's Weapons Paint Pack
+    * FDF Captain's Weapon Paint Pack Distribution (Curtesy of CaptainLaserBeam)
+<<<<<<< HEAD
+    * Doors not Walls
+    * River Fix
+    * Conduit Connection Fix
+    * Vault-Tec Lights Mesh Fix
+    * Nuka World Novatron Assaultron Torso Fix
+    * Flickering Roof Mesh Fix
+    * Nuka-World Fixes the East Entrance to Nuka-Town USA near Fizztop
+    * Far Harbor - Cliffs Edge Hotel Wall Rest Ring Lower Fixed
+    * Vault 81 - GOAT Sequence Patch
+    * Fixed Alpha Maps
+    * Less Annoying Rain Ripples
+    * Assaultron Left Hand Hydraulic Frame Arm Mesh Bug Fix
+    * Nukaworld Bottle Scenery Fix
+    * Vertibird Jump
+    * Fallout Priority
+    * Remember Lockpicking Angle - Updated
+    * Subsurface Scattering for Supermutants
+    * Companion Active Wait
+    * Sleepless Nights
+    * Jump Grunt
+=======
+>>>>>>> 652a1b5 (v0.3.0)
+- Updated
+    * Discord Rich Presence
+    * Jolly Item Sounds
+    * Ruined Homes and Gardens
+    * High FPS Physics
+    * xSE Plugin Preloader
+- Removed
+    * Start Me Up - Full
+    * Phyop Light
+- Misc
+    * Implemented Stock Game Folder system
+    * Regenerated sorting patch
+    * Repacked textures based on Luxor, instead of Phyop
+    * Added HighFPSPhysics Custom .ini file for users with high FPS/Free-g-sync monitors
+    * Regenerated FO4 LodGen
+    * Added empty [NODELETE] folders for Creation Club Skins, and for Cross Skins
+
 # 0.2.3
 - Added
 - Updated
