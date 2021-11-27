@@ -1,13 +1,12 @@
 # Changelog
 
-## 0.2.4
+## 0.3.0
 - Added
     * 10mm Pistol Resize Update
     * Optimization Patches Collection
     * Luxor's HD Textures
     * Captain's Weapons Paint Pack
     * FDF Captain's Weapon Paint Pack Distribution (Curtesy of CaptainLaserBeam)
-<<<<<<< HEAD
     * Doors not Walls
     * River Fix
     * Conduit Connection Fix
@@ -28,8 +27,6 @@
     * Companion Active Wait
     * Sleepless Nights
     * Jump Grunt
-=======
->>>>>>> 652a1b5 (v0.3.0)
 - Updated
     * Discord Rich Presence
     * Jolly Item Sounds
