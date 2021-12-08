@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.3.1
+- Added
+    * Components Redone Copper Fix
+- Updated
+- Removed
+- Misc
+
 ## 0.3.0
 - Added
     * 10mm Pistol Resize Update
