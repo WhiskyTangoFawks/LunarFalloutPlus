@@ -1,18 +1,9 @@
 {
   "$type": "DownloadMetadata, Wabbajack.Lib",
-<<<<<<< HEAD
-  "Hash": "gOFYmkaFeVE=",
-  "Size": 9536928,
-  "NumberOfArchives": 485,
-  "SizeOfArchives": 115463730941,
-  "NumberOfInstalledFiles": 9160,
-  "SizeOfInstalledFiles": 102624427649
-=======
-  "Hash": "0ljnsYvkeLA=",
-  "Size": 9347462,
-  "NumberOfArchives": 462,
-  "SizeOfArchives": 115450208175,
-  "NumberOfInstalledFiles": 8956,
-  "SizeOfInstalledFiles": 102612405774
->>>>>>> 652a1b5 (v0.3.0)
+  "Hash": "TpjjQV1y8SY=",
+  "Size": 9748235,
+  "NumberOfArchives": 486,
+  "SizeOfArchives": 115463747170,
+  "NumberOfInstalledFiles": 9162,
+  "SizeOfInstalledFiles": 102627711902
 }
