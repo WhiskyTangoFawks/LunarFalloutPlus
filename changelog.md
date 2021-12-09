@@ -3,9 +3,22 @@
 ## 0.3.1
 - Added
     * Components Redone Copper Fix
+    * Recruit Kat and Gus
 - Updated
+    * 10mm Pistol Resize Update
+    * 4estGimp Complex Item Sorter Enhancements
+    * Laser Weapons 1st person Reposition
+    * F04Edit
+    * Greaserats Garb
+    * Creative Perks Plus
+    * Super Mutant Balance Options (experimental- feedback needed)
 - Removed
 - Misc
+    * Repacked and Optimised textures for stock game folder
+    * Repacked and Optimised textures for Super Mutant Redux
+    * Repacked and Optimised textures for Eli's Armor Compendium
+    * Fixed creation of [NODELETE] folders
+    * Cleaned up CC content in non-cc profile
 
 ## 0.3.0
 - Added
