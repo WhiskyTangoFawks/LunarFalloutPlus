@@ -71,10 +71,7 @@ This is the prelease for Life in the Ruins. It is stable, and I've fixed all the
 
 4. (Optional) Craft a companion whistle at a chem lab bench, this will teleport any active companion to you, useful when you accidently tell them to stay and can't find them, or they're screwing with NPC pathing during a quest
 5. (Optional) Craft the companion tracker holotape at the chem lab bench. This allows you to track inactive companions, for cases where you can't remember which settlement you sent them to.
-<<<<<<< HEAD
 6. (Optional) Craft a sleeping bag
-=======
->>>>>>> 652a1b5 (v0.3.0)
 
 ## Known Issues
 - Cait is missing her shotgun after being recruited. This is a bug with Combat Zone Restored, after recruiting her run the following console command
