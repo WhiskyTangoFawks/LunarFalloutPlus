@@ -1,5 +1,18 @@
 # Changelog
 
+## 0.2.1
+- Added
+    * Sim Settlements Chapter 2
+- Updated
+    * Jolly Item Sounds
+    * Workshop Framework
+    * Sim Settlements 2
+    * Sim Settlements Extended
+- Removed
+- Misc
+    * Fixed LunarPlus - 3dNPC Ghost record
+    * Reran sorting script
+
 ## 0.3.1
 - Added
     * Components Redone Copper Fix
