@@ -1,14 +1,5 @@
 # Changelog
 
-## 0.3.4
-- Added
-    * True Sight ENB
-    * ENB Helper for Fallout 4
-- Updated
-- Removed
-    * Visceral ENB
-- Misc
-
 ## 0.3.3
 - Added
     * Rocket-Axe - SuperSledge Standalone mod
