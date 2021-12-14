@@ -2,6 +2,23 @@
 
 ## 0.3.2
 - Added
+    * Rocket-Axe - SuperSledge Standalone mod
+    * Reunions (Sister Edition)
+    * Hilda Hughes An Institute Story
+- Updated
+    * Sim Settlements 2
+    * Sim Settlements 2 Chapter 2
+    * Workshop Framework 
+    * Abandoned Hub - Underground Railroad ReRedux
+    * Settlers Go Shopping
+    * Discord Rich Presence
+- Removed
+- Misc
+    * Fixed jet variants in IAF - Lunar Patch
+    * Tweaked minutemen radiant quest location selection
+
+## 0.3.1
+- Added
     * Sim Settlements Chapter 2
 - Updated
     * Jolly Item Sounds
