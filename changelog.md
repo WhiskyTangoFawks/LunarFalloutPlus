@@ -1,6 +1,15 @@
 # Changelog
 
-## 0.3.2
+## 0.3.4
+- Added
+    * True Sight ENB
+    * ENB Helper for Fallout 4
+- Updated
+- Removed
+    * Visceral ENB
+- Misc
+
+## 0.3.3
 - Added
     * Rocket-Axe - SuperSledge Standalone mod
     * Reunions (Sister Edition)
@@ -17,7 +26,7 @@
     * Fixed jet variants in IAF - Lunar Patch
     * Tweaked minutemen radiant quest location selection
 
-## 0.3.1
+## 0.3.2
 - Added
     * Sim Settlements Chapter 2
 - Updated
