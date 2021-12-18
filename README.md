@@ -50,6 +50,10 @@ This is the prelease for Life in the Ruins. It is stable, and I've fixed all the
 - The modlist includes a full repack of the vanilla texture BSAs for better loading and ingame performance, based on Luxor's HD Textures and BiRaitBec's texture repack.
 - The modlist is designed for reliatively modern, middle range hardware. A high end graphics card is not required (I tested this list on a Radeon 580 with medium settings, currently playing with a 6600xt on high settings, and FPS is consistently capped above 60), but a decent processor is useful for running heavily modded Fallout 4.
 
+## Wabbajack Installation
+See [How to Wabbajack](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob/main/How%20To%20Wabbajack.md) for detailed instructions on using wabbajack to install the modlist
+
+
 ## Additional Setup (post wabbajack installation)
 1. Pick your Profile: "Life in the Ruins", or "Life in the Ruins - CreationClubPaints" if you have the required set of creation club paint jobs
     -  Creation Club Profile - Copy the creation club files from your fallout4/data directory into the "[NODELETE] CreationClub Paint Jobs" mod folder
@@ -71,7 +75,10 @@ This is the prelease for Life in the Ruins. It is stable, and I've fixed all the
 
 4. (Optional) Craft a companion whistle at a chem lab bench, this will teleport any active companion to you, useful when you accidently tell them to stay and can't find them, or they're screwing with NPC pathing during a quest
 5. (Optional) Craft the companion tracker holotape at the chem lab bench. This allows you to track inactive companions, for cases where you can't remember which settlement you sent them to.
+<<<<<<< HEAD
 6. (Optional) Craft a sleeping bag
+=======
+>>>>>>> 652a1b5 (v0.3.0)
 
 ## Known Issues
 - Cait is missing her shotgun after being recruited. This is a bug with Combat Zone Restored, after recruiting her run the following console command
