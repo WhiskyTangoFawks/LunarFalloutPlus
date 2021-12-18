@@ -1,5 +1,32 @@
 # Changelog
 
+## 0.3.4
+- Added
+    * True Sight ENB
+    * ENB Helper for Fallout 4
+    * FO4 Rain
+    * Faster Getup
+    * Combined Combat XP
+    * No Power Armor Battery Pathing
+- Updated
+    * Abandoned Hub - Underground Railroad ReRedux
+    * Creative Perks Plus
+    * Creative Perks Plus - Lunar Fallout Patch
+    * Sim Settlements 2
+    * Sim Settlements 2 Chapter 2
+    * CSM's Vanilla Leaders
+- Removed
+    * Visceral ENB
+    * Active Effects on HUD
+    * Companion Craftable Weapon Grips
+- Misc
+    * Created balance patch for Respawnable Legendary Bosses
+    * Cleanup of settings holotape crafting
+    * Removed crafting of childrens clothing
+    * Tweaked shotgun range & damage penalties (should feel MUCH better, enemies with shotguns need to be feared now)
+    * Reduced rate of loot in vault crates
+    * Repacked textures (again) to (hopefully) reduce/resolve brown face issues.
+
 ## 0.3.3
 - Added
     * Rocket-Axe - SuperSledge Standalone mod
