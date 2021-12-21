@@ -1,5 +1,38 @@
 # Changelog
 
+## 0.4.0
+- Added
+    * No More Glowing Mouths
+    * Realistic Ragdoll Force
+    * Quick Reflexes (including custom script tweaks)
+    * Melee Bangs
+    * Pistol Bangs
+    * Smaller Institute Weapons
+    * Baseball Bat Grips
+    * Better Goodneighbor - Precombined Visibility Patches
+    * Better Third Rail - PATCH Pre-Vis and Navmesh
+    * Previsibines Repair Pack
+    * Cola Cars Overboss Fix
+- Updated
+    * Scrappers SS2 Addon
+    * Sim Settlements 2
+    * Sim Settlements 2 Chapter 2
+    * Workshop Framework
+    * Reunions - Sister Edition
+- Removed
+    * Better LOD
+    * Better Goodneighbor Fix
+    * Better Third Rail (superceded by it's patch)
+    * Diamond City Outskirts
+    * Far Harbor - Cliffs Edge Hotel Wall Rest Ring Lower Fixed
+    * Boston FPS Fix
+    * Diamond City Outskirts - Boston FPS Patch
+- Misc
+    * Regenerated LODs with improved conflict resolution (fix for Diamond City LOD building problems)
+    * Optimised and packed: Kirs Freckles, Appealing Moles, Immersive Mouth and Teeth, WX Face Paints and Dirt, Hair Tones Redux, The Eyes of Beauty, Ghastly
+    * Adjusted load order for Tales from the Commonwealth Visual Fixes
+    * Compatibility patching for Previsibines Repair Pack
+
 ## 0.3.4
 - Added
     * True Sight ENB

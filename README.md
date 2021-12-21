@@ -8,8 +8,7 @@ This is the prelease for Life in the Ruins. It is stable, and I've fixed all the
 ## Modlist Goals
 - RPG Balance, Scaling, and Progression - brought to you by Lunar Fallout Overhaul
 - Survival Mechanics, with non-survival damage levels (uses a custom mod to change damage without disabling survival mechanics)
-- A vibrant, inhabited, but still uncivillized wasteland. Neglected areas should feel fleshed out, and Diamond City should really feel like the "Jewel of the Commonwealth"
-- A wasteland ready to be civilized with Sim Settlements 2 (get hyped for chapter 2!)
+- A vibrant, inhabited, but still uncivillized wasteland. Neglected areas should feel fleshed out, but still match the vanilla asthetic
 - Increased variety in Creatures, Weapons and Armors by mods that add variety to existing content (attachments and alt skins), rather than mods that add a ton of new unbalanced items and monsters
 - Extra high-quality content with the same style and tone as vanilla (no pointlessly skimpy outfits, no tacti-cool weapons)
 - Full controller supprt (no extra configuration required)
@@ -41,9 +40,9 @@ This is the prelease for Life in the Ruins. It is stable, and I've fixed all the
 
 ## Things you should know...
 - The game is balanced and scaled for an RPG Survival playthrough, with damage that feels more like Normal or Hard. It shouldn't feel like either a First Person Shooter, or a Survival Simulator.
-- The early levels are difficult until you get a bit of equipment, grab whatever armor you can as fast as you can (seriously, people are SHOOTING at you, your t-shirt ain't gonna protect you). Don't expect to be able to handle a pack of ferals until at least level 10. Ammo is scarce, expect to have to buy some at some point. Or just turn the difficulty down with the optional plugin and have fun, the choice is yours.
+- The early levels are more difficult (compared to vanilla normal) until you get a bit of equipment, grab whatever armor you can (seriously, people are SHOOTING at you, your t-shirt ain't gonna protect you). Don't expect to be able to handle a pack of ferals until about level 10. Ammo is more scarce, expect to have to buy some at some point. Or just turn the difficulty down with the optional plugin and have fun, the choice is yours.
 - Perks have increasing SPECIAL requirements, and specials can be trained past 10.
-- Power armor is more powerful, but very rare, and fusion cores are much harder to come by.
+- Power armor is more powerful, but rare, and fusion cores are harder to come by.
 - Shoot/Kick/Explode locks open, and bypass hacking, read the nexus page for LockyBastard and Auto-Hack for more details.
 
 ### Technical Notes
@@ -65,17 +64,18 @@ See [How to Wabbajack](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob
 
 ### In Game Setup
 0. Start a new survival game (recommended, but not required)
-1. When making a new game, after initial character creation a number of installation messages will display. DO NOT DO ANYTHING UNTIL THESE HAVE FINISHED. The FO4 script engine is fragile, and needs a minute to run through all the startup. If you get a message from Sim Settlements 2 that it hasn't started correctly and you didn't wait here- restart with a new game and wait until the messages have finished displaying, and then maybe wait a little longer.
-2. Mod Configuration Menu - Recommended Optional Setting
+1. Mod Configuration Menu - Recommended Optional Setting
     - Survival Configuration Menu 
         * turn ON savegame -> timed save
     - Sim Settlements 2
         * Gameplay -> Resource Complexity to Scrap Categories (this will set SS2 to use a simplified scrap system of 4 scrap types, instead of requiring specific components)
-3. Backpacks of the Commonwealth - When you exit vault 111, this will inject backpacks into the levelled lists. Select your chosen distribution when it comes up. I like backpacks being completely unique, but whatever you want.
+    - Immersive HUD
+        * I personally don't use it, but have included it in the list for people who want it.
+2. Backpacks of the Commonwealth - When you exit vault 111, this will inject backpacks into the levelled lists. Select your chosen distribution when it comes up. I like backpacks being completely unique, but whatever you want.
 
-4. (Optional) Craft a companion whistle at a chem lab bench, this will teleport any active companion to you, useful when you accidently tell them to stay and can't find them, or they're screwing with NPC pathing during a quest
-5. (Optional) Craft the companion tracker holotape at the chem lab bench. This allows you to track inactive companions, for cases where you can't remember which settlement you sent them to.
-6. (Optional) Craft a sleeping bag
+3. (Optional) Craft a companion whistle at a chem lab bench, this will teleport any active companion to you, useful when you accidently tell them to stay and can't find them, or they're screwing with NPC pathing during a quest
+4. (Optional) Craft the companion tracker holotape at the chem lab bench. This allows you to track inactive companions, for cases where you can't remember which settlement you sent them to.
+5. (Optional) Craft a sleeping bag
 
 
 ## Known Issues
@@ -91,6 +91,7 @@ Support is available in my discord: https://discord.gg/HUNWVBjZPg
 The best way to log a Bug Report to open an issue on the project Github, at https://github.com/WhiskyTangoFawks/LunarFalloutPlus/issues.
 
 ## Notable Missing Mods
+- PreVisibines Repair Patch - Compatibility issues, due to the fact that it touches every cell in the game. Patching it in will also require a regenerating precombines in several areas for compatibility. It's on the to-do list to integrate, but for now BostonFPSFix solves the core performance issues with the base game.
 - AWKCR - Yes, this is an AWKCR-free modlist. Gunmetal Faction Distribution does have an ArmorKeywords dummy plugin it uses for some keywords, but it does not include any of the bloat or unexpected features of the full AWKCR mod.
 - Beantown Interiors - It's a compatibility nightmare, both because it breaks precombines, and because it destroys the loot balance of the list
 - CBBE- I find barbie doll proportions unimmersive. Women don't look look like that in real life.
