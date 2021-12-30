@@ -56,11 +56,17 @@ See [How to Wabbajack](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob
 ## Additional Setup (post wabbajack installation)
 1. Pick your Profile: "Life in the Ruins", or "Life in the Ruins - CreationClubPaints" if you have the required set of creation club paint jobs
     -  Creation Club Profile - Copy the creation club files from your `fallout4/data directory` into the `[NODELETE] CreationClub Paint Jobs` mod folder
-2. (Optional) If you want to skip the pre-war and vault escape scenes, enable `SKK Quick Start`
-3. (Optional) If you have a monitor with GSync/Freesync that can handle > 60FPS, enable the "90FPS No VSYNC" mod. This is a custom HighFPS Physics ini, with VSYNC disabled, and the FPS Cap set to 90.
-4. (Optional) Pick your difficulty - The last mod in the modlist is `Survival Difficulty (Pick an optional)`, double click on it, and go to the `optional files tab`. The default is `Difficulty-Normal`. If you want an easier or harder game, move the normal to the left column, and move one of the other files to the right. Or open the file in xedit, and set your own custom damage values. This is safe to change at any time during a playthrough.
-5. (Optional) Download and install into the mod `[NODELETE] Cross Skin Packs` the Strigidae and Brotherhood Recon Expeditionary Suit skin packs from https://gumroad.com/niero. They're available for free (use the discount code), but a donation is suggested. The man makes some fantastic mods, and you can probably afford to buy him a coffee.
-6. (Optional) If you want vault suits to appear in more colours than the standard blue, disable `OnlyBlueVaultsuits.esp` (this adds them to the spawn list, you can still change the colour at a workbench with or without it)
+2. (Optional) Download and install into the mod `[NODELETE] Cross Skin Packs` the Strigidae and Brotherhood Recon Expeditionary Suit skin packs from https://gumroad.com/niero. They're available for free (use the discount code), but a donation is suggested. The man makes some fantastic mods, and you can probably afford to buy him a coffee.
+3. The Difficulty and Customisation in Mod Organizer
+    * `[NODELETE] Cross Skin Packs` : the downloaded cross skins go here
+    * `QoL Tweaks` : Minor quality of life tweaks, disable any you don't want
+    * `Vanilla Hud - No Sneak Indicator` : Removes the sneak indicator from the HUD
+    * `More Dangerous Deathclaws` : makes deathclaws faster at lower health
+    * `SMR Balance Options` : Reduces Super Mutant resistances, default is -30-20, disable for harder supermutants
+    * `LFO Hardcore Patch` : see https://www.nexusmods.com/fallout4/articles/3431/ for details
+    * `Survival difficulty`: The default is `Difficulty-Normal`. If you want an easier or harder damage levels, choose one of the other optional files
+    * `90FPS No VSYNC` : If you run a high refresh rate monitor, this will disable vsync, and cap the framerate at 90. Edit the file for alternate values.
+    * `SKK Fast Start new game` : enable this to skip the intro sequence on a new game
  
 ### In Game Setup
 0. Start a new survival game (recommended, but not required)
@@ -97,6 +103,7 @@ Support is available in my discord: https://discord.gg/HUNWVBjZPg
 - Settler of the Commonwealth- Great mod, all the people constantly asking if you have work is a bit ridiculous. SS2 does a better job of integrating custom settlers into the game, and in my testing I found that running both you were running into too many people who wanted work. If anyone knows how to add these to the recruitment list with Workshop Framework, instead of having them spawn in the world, hit me up.
 - 100s of Weapons and Armour mods - this list has a relatively conservative approach to weapons and armour, both due to personal choice and the challenge of balancing for Lunar Fallout. In game diversity is provided through Gunmetal Weapons and Armour Skins. As stated at the top, this isn't a kitchen sink list.
 - Mods that were removed in the Great Nexus Purge and are no longer available : Utility Belt, Better Cooking Stations (v1), MsRae's Commonwealth Interiors, Swinging Animated Meatbags. All of these are compatible, and don't need patching. Feel free to add them if you have them.
+- Previsibine Repair Pack- this mod uses BostonFPSFix. It's not perfect, but it is reliable. Because PRP touches every single cell in the game. including cells that didn't really need fixing, so it's a compatibility headache, and there are still bugs to be fixed.
  
 ## Performance
 The list should be performance friendly, however if you want a few more FPS, I recommend tweaking your settings using Bethini to Medium, or to try disabling the ENB (press * to show FPS, then press shift + F12 to disable ENB processing to see if it makes a difference)

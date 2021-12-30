@@ -1,5 +1,38 @@
 # Changelog
 
+
+## 1.0.0
+- Release
+
+## 0.4.1
+- Added
+    * 10mm SMG
+    * M2019 PKD Detective Special - That Gun
+    * FDF - Combar armor decals
+    * Immersive Supermutant Orders
+    * Lunar Fallout Hardcore (Optional)
+    * Hollywood Lasers (Applied to institute lasers only)
+    * No more cash register sound when XP gain
+    * Fresh Facials (custom height/weight distribution added)
+    * Plutonium Creatures (with custom patch to only apply skins to Legendary Respawnable Bosses)
+    * Gun Smoke
+- Updated
+    * Sim Settlements 2
+    * Sim Settlements 2 Chapter 2
+    * Workshop Framework
+    * Lunar Fallout Overhaul
+    * Lunar Fallout Weapon Patch Pack
+    * Mod Organizer
+- Removed
+    * Discord Rich Presence (cool, but unnessary bloat)
+    * Combined Combat XP (removed cash register sound completely)
+- Misc
+    * Legendary Respawnable Bosses - Moved Ancient Commonwealth Bear, Roachzilla, and Frenzied Radstag spawns out of quest related areas (I think)
+    * Repacked and optimised loose textures for a bunch of mods
+    * Disabled custom shotgun edits (reduntant with the new tweaks in LFO)
+    * Compatibility patching for new version of Lunar Fallout Overhaul
+    * Improved compatibility patching for clarity
+
 ## 0.4.0
 - Added
     * No More Glowing Mouths
@@ -9,10 +42,9 @@
     * Pistol Bangs
     * Smaller Institute Weapons
     * Baseball Bat Grips
-    * Better Goodneighbor - Precombined Visibility Patches
     * Better Third Rail - PATCH Pre-Vis and Navmesh
-    * Previsibines Repair Pack
     * Cola Cars Overboss Fix
+    
 - Updated
     * Scrappers SS2 Addon
     * Sim Settlements 2
@@ -25,13 +57,10 @@
     * Better Third Rail (superceded by it's patch)
     * Diamond City Outskirts
     * Far Harbor - Cliffs Edge Hotel Wall Rest Ring Lower Fixed
-    * Boston FPS Fix
-    * Diamond City Outskirts - Boston FPS Patch
 - Misc
     * Regenerated LODs with improved conflict resolution (fix for Diamond City LOD building problems)
     * Optimised and packed: Kirs Freckles, Appealing Moles, Immersive Mouth and Teeth, WX Face Paints and Dirt, Hair Tones Redux, The Eyes of Beauty, Ghastly
     * Adjusted load order for Tales from the Commonwealth Visual Fixes
-    * Compatibility patching for Previsibines Repair Pack
 
 ## 0.3.4
 - Added
