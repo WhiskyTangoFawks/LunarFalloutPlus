@@ -1,9 +1,6 @@
 # Life In The Ruins: A Lunar Fallout Plus Modlist
-From the author of Creative Perks Plus, a Fallout 4 for for a moderate difficulty survival playthrough based on Lunar Fallout Overhaul, with a ton of extra spice.
+From the author of Creative Perks Plus, a Fallout 4 modlist for a survival playthrough without the grind, based on Lunar Fallout Overhaul and Sim Settlements 2. Designed to deepen and enhance the game, without straying from the vanilla asthetic.
 Requires wabbajack - https://www.wabbajack.org/#/
- 
-### Pre-release Note
-This is the pre-release for Life in the Ruins. It is stable, and I've fixed all the bugs I could find, but Fallout 4 is a big game. I'm sure there are things I've missed, which is where you come in. Play the list, and let me know how it goes. If there's stuff that needs fixing or balancing, let me know and I'll get it sorted. Have fun!
  
 ## Modlist Goals
 - RPG Balance, Scaling, and Progression - brought to you by Lunar Fallout Overhaul
@@ -12,7 +9,7 @@ This is the pre-release for Life in the Ruins. It is stable, and I've fixed all 
 - Increased variety in Creatures, Weapons and Armors by mods that add variety to existing content (attachments and alt skins), rather than mods that add a ton of new unbalanced items and monsters
 - Extra high-quality content with the same style and tone as vanilla (no pointlessly skimpy outfits, no tacti-cool weapons)
 - Full controller support (no extra configuration required)
-- Silky smooth performance on middle-range hardware
+- Smooth performance on mid-range gaming hardware 
  
  ### This is not...
 - a hardcore, nitty-gritty survival simulator - if you want that go play a Horizon based list.
@@ -26,9 +23,9 @@ This is the pre-release for Life in the Ruins. It is stable, and I've fixed all 
 - [Creative Perks Plus](https://www.nexusmods.com/fallout4/mods/49400) (With Locky Bastard, Auto-Hack, Freeze Intimidation Overhaul, Beastmaster)
 - [Sim Settlements 2](https://www.nexusmods.com/fallout4/mods/47976)
 - [Lore Based Power Armor Changes](https://www.nexusmods.com/fallout4/mods/36251) (Balance), [Some Assembly Required](https://www.nexusmods.com/fallout4/mods/12050) (Distribution)
-- [Campsite Simple Wasteland Camping](https://www.nexusmods.com/fallout4/mods/11734) (usage is completely optional, if you don't want to camp you can just ignore it)
  
 ### The Extra Spice
+- [Fallout 4 HD Overhaul](https://www.nexusmods.com/fallout4/mods/52423)
 - [A Forest](https://www.nexusmods.com/fallout4/mods/45330)
 - [Unique NPCs Creatures and Monsters](https://www.nexusmods.com/fallout4/mods/24357)
 - [Tales from the Commonwealth](https://www.nexusmods.com/fallout4/mods/8704)
@@ -40,14 +37,14 @@ This is the pre-release for Life in the Ruins. It is stable, and I've fixed all 
  
 ## Things you should know...
 - The game is balanced and scaled for an RPG Survival playthrough, with damage that feels more like Normal or Hard. It shouldn't feel like either a First Person Shooter, or a Survival Simulator.
-- The early levels are more difficult (compared to vanilla normal) until you get a bit of equipment, grab whatever armour you can (seriously, people are SHOOTING at you, your t-shirt ain't gonna protect you). Don't expect to be able to handle a pack of ferals until about level 10. Ammo is more scarce, expect to have to buy some at some point. Or just turn the difficulty down with the optional plugin and have fun, the choice is yours.
+- The early levels are more difficult (compared to vanilla normal) until you get a bit of equipment. Don't expect to be able to handle a pack of ferals until about level 10. Ammo is more scarce, expect to have to buy some at some point. Or just turn the difficulty down with the optional plugin and have fun, the choice is yours.
 - Perks have increasing SPECIAL requirements, and specials can be trained past 10.
-- Power armour is more powerful, but rare, and fusion cores are harder to come by.
+- Power armour is more powerful, but rare, and fusion cores are harder to come by and won't always be full.
 - Shoot/Kick/Explode locks open, and bypass hacking. Read the nexus page for [LockyBastard](https://www.nexusmods.com/fallout4/mods/13380) and [Auto-Hack](https://www.nexusmods.com/fallout4/mods/45219) for more details.
+- Survival fast travel is available by building the SS2 Caravan plot, and upgrading it to level 2, or take the Explorer Perk. It can also be enabled in the unlimited survival settings.
  
 ### Technical Notes
-- The modlist includes a full repack of the vanilla texture BSAs for better loading and ingame performance, based on Luxor's HD Textures and BiRaitBec's texture repack.
-- The modlist is designed for relatively modern, middle range hardware. A high end graphics card is not required (I tested this list on a Radeon 580 with medium settings, currently playing with a 6600xt on high settings, and FPS is consistently capped above 60), but a decent processor is useful for running heavily modded Fallout 4.
+- The modlist is designed for relatively modern, middle range hardware. A high end graphics card is not required (I tested this list on a Radeon 580 with medium settings, currently playing with a 6600xt on high settings, and FPS is consistently capped above 60), but a decent processor is useful for running heavily modded Fallout 4. If you have less than 6gb of vram, I would recommend replacing the texture BSAs in the stock folder with the vanilla ones, or with the PhyOP textures.
  
 ## Wabbajack Installation
 See [How to Wabbajack](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob/main/How%20To%20Wabbajack.md) for detailed instructions on using wabbajack to install the modlist
@@ -80,9 +77,7 @@ See [How to Wabbajack](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob
 2. Backpacks of the Commonwealth - When you exit vault 111, this will inject backpacks into the levelled lists. Select your chosen distribution when it comes up. I like backpacks being completely unique, but whatever you want.
  
 3. (Optional) Craft a companion whistle at a chem lab bench, this will teleport any active companion to you, useful when you accidentally tell them to stay and can't find them, or they're screwing with NPC pathing during a quest
-4. (Optional) Craft the companion tracker holotape at the chem lab bench. This allows you to track inactive companions, for cases where you can't remember which settlement you sent them to.
-5. (Optional) Craft a sleeping bag
- 
+4. (Optional) Craft the companion tracker holotape at the chem lab bench. This allows you to track inactive companions, for cases where you can't remember which settlement you sent them to. 
  
 ## Known Issues
 - Cait is missing her shotgun after being recruited. This is a bug with Combat Zone Restored, after recruiting her run the following console command
@@ -114,5 +109,3 @@ If you want to add stuff to the list, you do so at your own risk. You're on your
 2. The mod uses M8r98a4f2's Complex Item Sorte v1.9, with 4estGimps Item Sorter Enhancements. The sorting plugin can be regenerated by running the script in xEdit (which is shipped with the modlist). When you run the script, it will ask you to activate the AWKCR addon- DO NOT DO SO. The AWKCR plugin in this list is NOT the normal AWKCR, and does not require special patching by the sorter.
 3. As stated above, the AWKCR plugin in this list is NOT the normal AWKCR. AWKCR Dependent mods will not work with it.
 4. This modlist includes precombines for the Downtown Boston, and Diamond City areas. If you break them, it will destroy performance.
- 
-

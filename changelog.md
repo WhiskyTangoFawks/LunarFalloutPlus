@@ -1,37 +1,47 @@
 # Changelog
 
-
 ## 1.0.0
-- Release
-
-## 0.4.1
 - Added
-    * 10mm SMG
-    * M2019 PKD Detective Special - That Gun
+    * A LOT of textures that were previously downloaded with the BiRaitBec repack, are now downloaded separately.
+    * 10mm SMG (part of LF weapons patch pack)
+    * M2019 PKD Detective Special - That Gun (part of LF weapons patch pack)
     * FDF - Combar armor decals
     * Immersive Supermutant Orders
     * Lunar Fallout Hardcore (Optional)
     * Hollywood Lasers (Applied to institute lasers only)
     * No more cash register sound when XP gain
     * Fresh Facials (custom height/weight distribution added)
-    * Plutonium Creatures (with custom patch to only apply skins to Legendary Respawnable Bosses)
+    * Plutonium Creatures (only used as a resource to only apply skins to Legendary Respawnable Bosses)
     * Gun Smoke
+    * Unique Gun Parts - Combat Rifle
+    * Icebreaker - Settlements - Settler Dialogue Overhaul
 - Updated
     * Sim Settlements 2
     * Sim Settlements 2 Chapter 2
     * Workshop Framework
     * Lunar Fallout Overhaul
     * Lunar Fallout Weapon Patch Pack
+    * Faction Distribution Framework
     * Mod Organizer
 - Removed
+    * BiRaitBec's Texture Repack (Added a massive amount of redundant textures)
+    * Less Annoying Water Rain Ripples (redundant with true nights)
+    * Rowan's Request - Technical Documents
+    * Settler and Companion Dialogue Overhaul
     * Discord Rich Presence (cool, but unnessary bloat)
-    * Combined Combat XP (removed cash register sound completely)
+    * Combined Combat XP (removed cash register sound completely instead)
+    * 3rd person camera tweaks
+    * Campsite - Simple Wasteland Camping (the list isn't supposed to be a survival simulator)
+    * Quick reflexes
+    * Abandoned Hub (This bypasses the need for SS2 Caravan Plot fast travel, and I want to focus the list on the SS2 gameplay more)
 - Misc
-    * Legendary Respawnable Bosses - Moved Ancient Commonwealth Bear, Roachzilla, and Frenzied Radstag spawns out of quest related areas (I think)
+    * Legendary Respawnable Bosses - Moved Ancient Commonwealth Bear, Roachzilla, and Frenzied Radstag spawns out of quest related areas
     * Repacked and optimised loose textures for a bunch of mods
     * Disabled custom shotgun edits (reduntant with the new tweaks in LFO)
     * Compatibility patching for new version of Lunar Fallout Overhaul
     * Improved compatibility patching for clarity
+    * Moved RailRoad Redone to the precombine section, to resolve conflict with clarity
+    * Re-reduxed Diamond City Outskirts (custom version that contains only the exterior edits)
 
 ## 0.4.0
 - Added
@@ -55,7 +65,6 @@
     * Better LOD
     * Better Goodneighbor Fix
     * Better Third Rail (superceded by it's patch)
-    * Diamond City Outskirts
     * Far Harbor - Cliffs Edge Hotel Wall Rest Ring Lower Fixed
 - Misc
     * Regenerated LODs with improved conflict resolution (fix for Diamond City LOD building problems)
