@@ -23,7 +23,6 @@ Requires wabbajack - https://www.wabbajack.org/#/
 - Fallout New Vegas - if you want that, go play Fallout New Vegas
 - an "everything but the kitchen sink" list with every mod out there - if you want that, go play Magnum Opus or MOFAM
 - a super-difficult make-the-game-impossible list for people who've played FO4 100x and know it like the back of their hand
-- a lite vanilla plus modlist
  
 ## Key Mods To Be Aware Of
 - [Lunar Fallout Overhaul](https://www.nexusmods.com/fallout4/mods/34769)
@@ -56,7 +55,8 @@ Requires wabbajack - https://www.wabbajack.org/#/
  
 ## Wabbajack Installation
 See [How to Wabbajack](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob/main/How%20To%20Wabbajack.md) for detailed instructions on using wabbajack to install the modlist
-*This is a large modlist, with several large downloads, including several large sets of textures that require optimising and repacking. Nexus Premium is highly recommended for the initial download, expect the initial download and installation to take at least an hour.*
+ 
+*This is a large modlist, with several large downloads, including several large sets of textures that require optimising and repacking. Nexus Premium is __highly__ recommended for the initial download, expect the initial download and installation to take at least an hour.*
   
 ## Additional Setup (post wabbajack installation)
 1. Pick your Profile: "Life in the Ruins", or "Life in the Ruins - CreationClubPaints" if you have the required set of creation club paint jobs
