@@ -56,7 +56,7 @@ Requires wabbajack - https://www.wabbajack.org/#/
  
 ## Wabbajack Installation
 See [How to Wabbajack](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob/main/How%20To%20Wabbajack.md) for detailed instructions on using wabbajack to install the modlist
-- *This is a large modlist, with several large downloads, including several large sets of textures that require optimising and repacking. Nexus Premium is highly recommended for the initial download, expect the initial download and installation to take at least an hour.*
+*This is a large modlist, with several large downloads, including several large sets of textures that require optimising and repacking. Nexus Premium is highly recommended for the initial download, expect the initial download and installation to take at least an hour.*
   
 ## Additional Setup (post wabbajack installation)
 1. Pick your Profile: "Life in the Ruins", or "Life in the Ruins - CreationClubPaints" if you have the required set of creation club paint jobs
