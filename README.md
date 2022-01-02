@@ -1,7 +1,11 @@
 # Life In The Ruins: A Lunar Fallout Plus Modlist
+Bem Vindo Ao Apocalipse
 From the author of Creative Perks Plus, a Fallout 4 modlist for a survival playthrough without the grind, based on Lunar Fallout Overhaul and Sim Settlements 2. Designed to deepen and enhance the game, without straying from the vanilla asthetic.
 Requires wabbajack - https://www.wabbajack.org/#/
- 
+
+[Join the Community](https://discord.gg/HUNWVBjZPg)
+[Support me on Patreon](https://www.patreon.com/user?u=4257489)
+
 ## Modlist Goals
 - RPG Balance, Scaling, and Progression - brought to you by Lunar Fallout Overhaul
 - Survival Mechanics, with non-survival damage levels (uses a custom mod to change damage without disabling survival mechanics)
@@ -43,8 +47,8 @@ Requires wabbajack - https://www.wabbajack.org/#/
 - Shoot/Kick/Explode locks open, and bypass hacking. Read the nexus page for [LockyBastard](https://www.nexusmods.com/fallout4/mods/13380) and [Auto-Hack](https://www.nexusmods.com/fallout4/mods/45219) for more details.
 - Survival fast travel is available by building the SS2 Caravan plot, and upgrading it to level 2, or take the Explorer Perk. It can also be enabled in the unlimited survival settings.
  
-### Technical Notes
-- The modlist is designed for relatively modern, middle range hardware. A high end graphics card is not required (I tested this list on a Radeon 580 with medium settings, currently playing with a 6600xt on high settings, and FPS is consistently capped above 60), but a decent processor is useful for running heavily modded Fallout 4. If you have less than 6gb of vram, I would recommend replacing the texture BSAs in the stock folder with the vanilla ones, or with the PhyOP textures.
+### Technical Requirements
+- The modlist is designed for relatively modern, middle range hardware. A high end graphics card is not required, but it does help (I tested this list on a Radeon 580 with medium settings, currently playing with a 6600xt on high settings, and FPS is consistently capped above 60). If you have less than 6gb of vram, I would recommend replacing the texture BSAs in the stock folder with the vanilla ones, or with the PhyOP textures. For users who need more performance, I also suggest using BethINI to tweak the grass and shadow draw distance settings. You can also try disabling the ENB (press * to show FPS, then press shift + F12 to disable ENB processing to see if it makes a difference).
  
 ## Wabbajack Installation
 See [How to Wabbajack](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob/main/How%20To%20Wabbajack.md) for detailed instructions on using wabbajack to install the modlist
@@ -80,28 +84,26 @@ See [How to Wabbajack](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob
 4. (Optional) Craft the companion tracker holotape at the chem lab bench. This allows you to track inactive companions, for cases where you can't remember which settlement you sent them to. 
  
 ## Known Issues
-- Cait is missing her shotgun after being recruited. This is a bug with Combat Zone Restored, after recruiting her run the following console command
+- Cait is missing her shotgun after being recruited. This is a bug with Combat Zone Restored, after recruiting her you can run the following console command
 `00079305.additem 0005df30 1`
 She still probably won't use it very often though as her AI is set to charging by Lunar Fallout
 - Sim Settlements quest locations might have awkward trees from A Forest. Please report them, so that I can have the lumberjack clear them out.
 - Beastmaster welcome quest starts after reloading the game after taking the perk, instead of immediately when you take the perk
 - Navmesh conflicts between Tales From the Commonwealth, Diamond City Outskirts, and SKK Red Rockets. This won't introduce any instability, but NPCs may have trouble pathing in rare cases.
+- DC Performance issues: Diamond city is a particularly heavy area, I am aware of the issue, and am seeing what I can do to optimise it further.
  
-## Support and Bug Reports
-Support is available in my discord: https://discord.gg/HUNWVBjZPg
+
  
 ## Notable Missing Mods
 - AWKCR - Yes, this is an AWKCR-free modlist. Gunmetal Faction Distribution does have an ArmorKeywords dummy plugin it uses for some keywords, but it does not include any of the bloat or unexpected features of the full AWKCR mod.
+- Scrap Mods : I personally don't use them, and am not going to add something to the list I haven't test. I recommend SS2's city plans if you want more automation for settlement development.
 - Beantown Interiors - It's a compatibility nightmare, both because it breaks precombines, and because it destroys the loot balance of the list
 - CBBE- I find barbie doll proportions un-immersive. Women don't look like that in real life.
 - Thuggysmurf (Depravity, Outcasts and Remnants, etc)- The quality of the work on these mods is incredible, but they are massively let down by the writing and choice to include adolescent jokes. I personally find a lot of it cringeworthy. A mod that adds a dildo as a weapon and has a bunch of female NPCs in skimpy sexy corsets isn't one I want in my load order, and I'm not comfortable recommending it to people.
 - Settler of the Commonwealth- Great mod, all the people constantly asking if you have work is a bit ridiculous. SS2 does a better job of integrating custom settlers into the game, and in my testing I found that running both you were running into too many people who wanted work. If anyone knows how to add these to the recruitment list with Workshop Framework, instead of having them spawn in the world, hit me up.
 - 100s of Weapons and Armour mods - this list has a relatively conservative approach to weapons and armour, both due to personal choice and the challenge of balancing for Lunar Fallout. In game diversity is provided through Gunmetal Weapons and Armour Skins. As stated at the top, this isn't a kitchen sink list.
 - Mods that were removed in the Great Nexus Purge and are no longer available : Utility Belt, Better Cooking Stations (v1), MsRae's Commonwealth Interiors, Swinging Animated Meatbags. All of these are compatible, and don't need patching. Feel free to add them if you have them.
-- Previsibine Repair Pack- this modlist uses BostonFPSFix. It's not perfect (a couple of missing material swaps), but it is reliable. Because PRP touches every single cell in the game. including cells that didn't really need fixing, so it's a compatibility headache, and there are still bugs to be fixed.
- 
-## Performance
-The list should be performance friendly, however if you want a few more FPS, I recommend tweaking your settings using Bethini to Medium, or to try disabling the ENB (press * to show FPS, then press shift + F12 to disable ENB processing to see if it makes a difference)
+- Previsibine Repair Pack- this modlist uses BostonFPSFix. It's not perfect (a couple of missing material swaps), but it is reliable. Because PRP touches every single cell in the game (including cells that didn't need fixing) it's a huge undertaking, still under development, and a compatibility headache.
  
 ## Unsupported Activities - Adding your own mods
 If you want to add stuff to the list, you do so at your own risk. You're on your own, but if you're really nice about it we'll offer advice in the discord.  If you choose to do so, there are a couple things to know...
