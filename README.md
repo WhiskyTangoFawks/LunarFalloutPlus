@@ -4,6 +4,7 @@ From the author of Creative Perks Plus, a Fallout 4 modlist for a survival playt
 Requires wabbajack - https://www.wabbajack.org/#/
 
 [Join the Community](https://discord.gg/HUNWVBjZPg)
+
 [Support me on Patreon](https://www.patreon.com/user?u=4257489)
 
 ## Modlist Goals
