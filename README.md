@@ -3,7 +3,7 @@ Bem Vindo Ao Apocalipse
 From the author of Creative Perks Plus, a Fallout 4 modlist for a survival playthrough without the grind, based on Lunar Fallout Overhaul and Sim Settlements 2. Designed to deepen and enhance the game, without straying from the vanilla asthetic.
 Requires wabbajack - https://www.wabbajack.org/#/
 
-[Join the Community](https://discord.gg/HUNWVBjZPg)
+[Join the Community on Discord](https://discord.gg/HUNWVBjZPg)
 
 [Support me on Patreon](https://www.patreon.com/user?u=4257489)
 
