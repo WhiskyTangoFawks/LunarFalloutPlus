@@ -57,6 +57,8 @@ Requires wabbajack - https://www.wabbajack.org/#/
 See [How to Wabbajack](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob/main/How%20To%20Wabbajack.md) for detailed instructions on using wabbajack to install the modlist
  
 *This is a large modlist, with several large downloads, including several large sets of textures that require optimising and repacking. Nexus Premium is __highly__ recommended for the initial download, expect the initial download and installation to take at least an hour.*
+
+- HD DLC is NOT required, however because this modlist uses a stock game system, rather than your game folder in steam, if you do have the HD DLC installed Life in the Ruins will ignore it.
   
 ## Additional Setup (post wabbajack installation)
 1. Pick your Profile: "Life in the Ruins", or "Life in the Ruins - CreationClubPaints" if you have the required set of creation club paint jobs
