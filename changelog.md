@@ -1,5 +1,71 @@
 # Changelog
 
+# 1.0.2
+- Added
+    * Dynamic Performance Tuner
+    * Doc Drumlin
+    * Institute Floor Fix
+    * SavrenX Dogmeat 4k
+    * Water Enhancement Textures
+    * Smoke and Fire Enhanced Textures
+    * MM Journals
+    * SavrenX Weapons HD (Melee +  Institute Lasers)
+    * Dismemberable EVB
+    * Indubitable Ivy
+    * RoNin1971's UHD Landscape Enhancement - Plants
+    * Handmade Unique Eyes
+    * Handmade Unique Eyes Ghouls
+    * Power Armor HUD (by Gopher)
+- Updated
+    * Sim Settlements 2
+    * Sim Settlements 2 Chapter 2
+    * TrueSight ENB
+    * Creative Perks Plus
+    * Creative Perks Plus - Lunar Patch
+    * Creative Perks Plus - Beastmaster replacer
+    * Creative Perks Plus - Locky Bastard (adds popup message on lock break)
+    * Inside Jobs
+    * Private Profile Redirector
+- Removed
+    * Crows and Creatures Collection
+    * Burly Bunkers
+    * Spiffy's Military Vehicles Retextures
+    * FO4 Rain
+    * Alternative magazine covers and more
+    * Burnt Magazines and Comics Retexture
+    * Eyewear and mask retexture
+    * The Eyes of Beauty
+    * Ghastly Ghoul Eye Textures
+    * Smaller Institute Weapons (Conflict with 3dScopes)
+    * Lootable Vault Crates
+    * Institute Weapons Redone
+- Misc
+    * Added QoL-NerfCodsworthFlamer optional plugin
+    * Regenerated Navmesh for Immersive Drumlin Diner
+    * Repacked Bottle Labels Overhaul with dirtier texture selection
+    * Renamed SMR Balance plugins for easier understanding
+    * Fungal forest 2K swapped for 4K, repacked textures
+    * Redder Rocket 2k swapped for 4k
+    * True Caves 2k swapped for 4k
+    * Gritty Subway Stations 2k swapped for 4k
+    * A Forest repacked textures (removed low res textures and conflicts)
+    * Cleaned up ELi's Armor Compendium levelled list injection
+    * Bugfix to Lining distribution (please report deathclaw skin lining spwaning before level 80)
+    * Repacked DECAY
+    * Removed exterior edits from DCVendorClutter (I loved the clutter, but it was destroying performance in the market)
+    * Nerfed reward from Preston for museum quest
+    * disabled fast travel option on scavver map
+    * Fixed medic perk description
+    * Tweaked Legendary Bosses - moved bear slightly farther, made roachzilla bigger
+
+# 1.0.1 Hotfix
+- Added
+- Updated
+- Removed
+- Misc
+    * Fixed load order
+    * Resolved conflicts between WX Facepaints and Eyes of Beauty
+    
 ## 1.0.0
 - Added
     * A LOT of textures that were previously downloaded with the BiRaitBec repack, are now downloaded separately.

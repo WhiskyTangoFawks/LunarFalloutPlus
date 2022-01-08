@@ -11,11 +11,11 @@ Requires wabbajack - https://www.wabbajack.org/#/
 ## Modlist Goals
 - RPG Balance, Scaling, and Progression - brought to you by Lunar Fallout Overhaul
 - Survival Mechanics, with non-survival damage levels (uses a custom mod to change damage without disabling survival mechanics)
-- A vibrant, inhabited, but still uncivilised wasteland. Neglected areas should feel fleshed out, but still match the vanilla aesthetic
+- A vibrant, forested, inhabited, but still uncivilised wasteland. Neglected areas should feel fleshed out, but still match the vanilla aesthetic
 - Increased variety in Creatures, Weapons and Armors by mods that add variety to existing content (attachments and alt skins), rather than mods that add a ton of new unbalanced items and monsters
 - Extra high-quality content with the same style and tone as vanilla (no pointlessly skimpy outfits, no tacti-cool weapons)
 - Full controller support (no extra configuration required)
-- Smooth performance on mid-range gaming hardware 
+- Smooth performance on mid-range gaming hardware
  
  ### This is not...
 - a hardcore, nitty-gritty survival simulator - if you want that go play a Horizon based list.
@@ -24,7 +24,7 @@ Requires wabbajack - https://www.wabbajack.org/#/
 - an "everything but the kitchen sink" list with every mod out there - if you want that, go play Magnum Opus or MOFAM
 - a super-difficult make-the-game-impossible list for people who've played FO4 100x and know it like the back of their hand
  
-## Key Mods To Be Aware Of
+## Key Gameplay Mods To Be Aware Of
 - [Lunar Fallout Overhaul](https://www.nexusmods.com/fallout4/mods/34769)
 - [Creative Perks Plus](https://www.nexusmods.com/fallout4/mods/49400) (With Locky Bastard, Auto-Hack, Freeze Intimidation Overhaul, Beastmaster)
 - [Sim Settlements 2](https://www.nexusmods.com/fallout4/mods/47976)
@@ -42,6 +42,8 @@ Requires wabbajack - https://www.wabbajack.org/#/
 ### Optional Creation Club Content Compatibility
 - Weapons and Armour Skins (Gunmetal Faction Framework will distribute faction based weapon and armour skins into the world)
  
+### [Full List of Mods at LoadOrderLibrary](https://loadorderlibrary.com/lists/life-in-the-ruins)
+ 
 ## Things you should know...
 - The game is balanced and scaled for an RPG Survival playthrough, with damage that feels more like Normal or Hard. It shouldn't feel like either a First Person Shooter, or a Survival Simulator.
 - The early levels are more difficult (compared to vanilla normal) until you get a bit of equipment. Don't expect to be able to handle a pack of ferals until about level 10. Ammo is more scarce, expect to have to buy some at some point. Or just turn the difficulty down with the optional plugin and have fun, the choice is yours.
@@ -49,9 +51,10 @@ Requires wabbajack - https://www.wabbajack.org/#/
 - Power armour is more powerful, but rare, and fusion cores are harder to come by and won't always be full.
 - Shoot/Kick/Explode locks open, and bypass hacking. Read the nexus page for [LockyBastard](https://www.nexusmods.com/fallout4/mods/13380) and [Auto-Hack](https://www.nexusmods.com/fallout4/mods/45219) for more details.
 - Survival fast travel is available by building the SS2 Caravan plot, and upgrading it to level 2, or take the Explorer Perk. It can also be enabled in the unlimited survival settings.
+- This modlist uses Dynamic Performance Tuner to adjust shadow draw distance to try and keep a stable framerate. If shadow pop-in annoys you more than framerate drops, it can be disabled by removing "dxgi.dll" in the Stock Game Folder. If you have a strong graphics card and are playing at greater than 60FPS, you may gain minor quality benefits by upping the target FPS in dynaperf.ini in the stock game folder to whatever your framerate cap is, or adjusting min/max shadow distance.
  
 ### Technical Requirements
-- The modlist is designed for relatively modern, middle range hardware. A high end graphics card is not required, but it does help (I tested this list on a Radeon 580 with medium settings, currently playing with a 6600xt on high settings, and FPS is consistently capped above 60). If you have less than 6gb of vram, I would recommend replacing the texture BSAs in the stock folder with the vanilla ones, or with the PhyOP textures. For users who need more performance, I also suggest using BethINI to tweak the grass and shadow draw distance settings. You can also try disabling the ENB (press * to show FPS, then press shift + F12 to disable ENB processing to see if it makes a difference).
+- The modlist is designed for relatively modern, middle range hardware. A high end graphics card is not required, but it does help (I tested this list on a Radeon 580 with medium settings, currently playing with a 6600xt on high settings, and FPS is consistently capped above 60 outside of Diamond City and Boston Commons, where it does drop for me). If you have less than 6gb of vram, I would recommend replacing the texture BSAs in the stock folder with the vanilla ones, or with the PhyOP textures. For users who need more performance, I also suggest using BethINI to tweak the grass diversity settings. You can also try disabling the ENB (press * to show FPS, then press shift + F12 to disable ENB processing to see if it makes a difference). The list includes Dynamic Performance Tuner, which will automatically try and adjust your shadow draw distance to compensate for FPS drops.
  
 ## Wabbajack Installation
 See [How to Wabbajack](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob/main/How%20To%20Wabbajack.md) for detailed instructions on using wabbajack to install the modlist
@@ -96,7 +99,7 @@ She still probably won't use it very often though as her AI is set to charging b
 - Sim Settlements quest locations might have awkward trees from A Forest. Please report them, so that I can have the lumberjack clear them out.
 - Beastmaster welcome quest starts after reloading the game after taking the perk, instead of immediately when you take the perk
 - Navmesh conflicts between Tales From the Commonwealth, Diamond City Outskirts, and SKK Red Rockets. This won't introduce any instability, but NPCs may have trouble pathing in rare cases.
-- DC Performance issues: Diamond city is a particularly heavy area, I am seeing what I can do to optimise it further to improve performance.
+- Performance : Diamond city and Boston Commons areparticularly heavy area, I am seeing what I can do to optimise it further to improve performance, but it is a basic limitation of the engine that when you have to render a ton of stuff, it takes longer.
  
 ## Notable Missing Mods
 - AWKCR - Yes, this is an AWKCR-free modlist. Gunmetal Faction Distribution does have an ArmorKeywords dummy plugin it uses for some keywords, but it does not include any of the bloat or unexpected features of the full AWKCR mod.
