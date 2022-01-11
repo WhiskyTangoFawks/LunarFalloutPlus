@@ -10,7 +10,7 @@ Requires wabbajack - https://www.wabbajack.org/#/
 
 ## Modlist Goals
 - RPG Balance, Scaling, and Progression - brought to you by Lunar Fallout Overhaul
-- Survival Mechanics, with non-survival damage levels (uses a custom mod to change damage without disabling survival mechanics)
+- Survival Mechanics, with non-survival damage levels and balance (uses a custom mod to change damage without disabling survival mechanics)
 - A vibrant, forested, inhabited, but still uncivilised wasteland. Neglected areas should feel fleshed out, but still match the vanilla aesthetic
 - Increased variety in Creatures, Weapons and Armors by mods that add variety to existing content (attachments and alt skins), rather than mods that add a ton of new unbalanced items and monsters
 - Extra high-quality content with the same style and tone as vanilla (no pointlessly skimpy outfits, no tacti-cool weapons)
@@ -51,6 +51,7 @@ Requires wabbajack - https://www.wabbajack.org/#/
 - Power armour is more powerful, but rare, and fusion cores are harder to come by and won't always be full.
 - Shoot/Kick/Explode locks open, and bypass hacking. Read the nexus page for [LockyBastard](https://www.nexusmods.com/fallout4/mods/13380) and [Auto-Hack](https://www.nexusmods.com/fallout4/mods/45219) for more details.
 - Survival fast travel is available by building the SS2 Caravan plot, and upgrading it to level 2, or take the Explorer Perk. It can also be enabled in the unlimited survival settings.
+- You don't need to stimpack your companions after combat, the survival requirement to use a stimpack to get them up is disabled.
 - This modlist uses Dynamic Performance Tuner to adjust shadow draw distance to try and keep a stable framerate. If shadow pop-in annoys you more than framerate drops, it can be disabled by removing "dxgi.dll" in the Stock Game Folder. If you have a strong graphics card and are playing at greater than 60FPS, you may gain minor quality benefits by upping the target FPS in dynaperf.ini in the stock game folder to whatever your framerate cap is, or adjusting min/max shadow distance.
  
 ### Technical Requirements
@@ -75,7 +76,7 @@ See [How to Wabbajack](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob
     * `SMR Balance Options` : Reduces Super Mutant resistances, default is -30-20, disable for harder supermutants
     * `LFO Hardcore Patch` : see https://www.nexusmods.com/fallout4/articles/3431/ for details
     * `Survival difficulty`: The default is `Difficulty-Normal`. If you want an easier or harder damage levels, choose one of the other optional files
-    * `90FPS No VSYNC` : If you run a high refresh rate monitor, this will disable vsync, and cap the framerate at 90. Edit the file for alternate values.
+    * `90FPS No VSYNC` : If you run a high refresh rate monitor, this will disable vsync, and cap the framerate at 90. Edit the file for alternate values. Because DynaPerf dynamically adjusts shadow distance
     * `SKK Fast Start new game` : enable this to skip the intro sequence on a new game
  
 ### In Game Setup
