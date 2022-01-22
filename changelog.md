@@ -1,5 +1,52 @@
 # Changelog
 
+# 1.0.3 - Provisioners and Power Armor
+This update brings big changes to Survival Fast Travel, and to power armor.
+_This update is save-safe as long as you are not using a city plan from Rise of the Commonwealth, if you are it is recommended to switch to a different plan before updating, as they have been removed due to being buggy._
+
+- Survival fast travel has been removed from the explorer perk, and added to the Local Leader perk (the 2nd rank now allows you to fast travel by talking with your provisioners). The fast travel version of the explorer perk is still available in the optional section, if you've already taken explorer 2, 3 or 4 I recommend enabling.
+- Power Armor health now matters, damaged power armor will protect you significantly less than power armor in full repair, keep an eye on it's condition with the new stats widget.
+- If you want to randomize the bobblehead locations in your existing save, go stand on the entrance to Vault 111.
+- Stats for various clothing with railroad weave have been changed, so they have lower stats, but spawn with an undercoat. Unfortunatly, this means if you already have them, you will just get the lower stats.
+
+- Added
+    * GKX Random Valuable Replacer (Custom version that only does bobbleheads)
+    * Cambridge Ghouls Horde
+    * Scrappable power armor pieces
+    * Individual NPC Face Remake (Preston)
+    * Journey Survival Fast Travel (w/ Creative Perks Plus integration patch)
+    * Caravan AI Tweaks
+    * Def Widgets Core
+    * PA Stats widget
+- Updated
+    * ENB Helper
+    * UNPC Creatures and Monsters Standalone
+    * Creative Perks Plus (and patches)
+    * Lunar Fallout Overhaul
+- Removed
+    * Rise of the Commonwealth (apparently it is a known crash risk)
+    * Unique Gun Parts - Combat Rifle (incompatible with See Thru Scopes)
+    * Thinner Assault Rifle
+    * Tougher Cars Durable Vehicles (redundant with new LFO changes)
+    * Vault 81 - GOAT Sequence Patch
+- Misc
+    * Backpacks of the Commonwealth
+        - Cleaned mod, Removed startup quest and levelled list edits, removed added location. All backpacks are now only hand placed found in world.
+    * Starting equipment for SKKFastStart patched to better match LunarFalloutOverhaul
+    * Fixed atom cats outfits, they should now wear pants correctly
+    * Tweaked Greaserat Garb injection, they should show up more often now as compared to Elianora's stuff
+    * Tweaked distribution of Elianora's Armors slightly
+    * Fixed precombines in Harbourmaster hotel lobby
+    * Added naming to undercoats, tweaked distribution, reworked clothing balance for clothes with undercoats
+    * Removed caps from synths
+    * Tweaked Preston Garvey's morphs and starting outfit (his colonial duster now starts in his inventory)
+    * Removed 4 textures from 2287
+    * Replaced a few more low res textures from A Forest
+    * Integrated Moonracer's rebuild of Fresh Facials for better LFO compatibility
+    * Wearing a helmet now cancels headshot damage bonus
+    * Power armor now has an armor and energy resist penalty based on how damaged it is
+    * Danse's power armor has been nerfed to bring him better in line with other companions
+    
 # 1.0.2
 - Added
     * Dynamic Performance Tuner
