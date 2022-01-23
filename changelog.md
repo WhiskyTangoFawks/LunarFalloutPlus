@@ -1,5 +1,14 @@
 # Changelog
 
+# 1.0.4 Hotfix
+- Added
+- Updated
+    * SS2
+    * SS2 Chapter 2
+- Removed
+- Misc
+    * Fixed chem crafting healing freeze
+
 # 1.0.3 - Provisioners and Power Armor
 This update brings big changes to Survival Fast Travel, and to power armor.
 _This update is save-safe as long as you are not using a city plan from Rise of the Commonwealth, if you are it is recommended to switch to a different plan before updating, as they have been removed due to being buggy._
