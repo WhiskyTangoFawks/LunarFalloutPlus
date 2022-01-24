@@ -1,10 +1,8 @@
 # Changelog
 
-# 1.0.5 Make Steve Irwin Proud
+# 1.0.5 
 - Added
 - Updated
-    * SS2
-    * SS2 Chapter 2
 - Removed
     * Beast Whisperer
     * Car Physics Death Bug Fix (redundant with LFO changes)
