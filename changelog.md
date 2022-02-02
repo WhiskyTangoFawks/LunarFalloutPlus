@@ -1,5 +1,27 @@
 # Changelog
 
+# 1.0.6 Death to the Long Save Bug
+The big new thing this patch is the SS2 update, which solves the long save bug.
+
+- Added
+    * MM Brotherhood
+    * MM Shelter
+    * Chem Redux
+    * Diamond City Radio Extended
+- Updated
+    * Lunar Fallout Overhaul
+    * SS2
+    * SS2 Chapter 2
+    * More where that came from (Diamond City Radio)
+    * Fresh Facials
+    * LFO Fresh Facials Patch
+    * Settlers Go Shopping
+- Removed
+    * D.E.C.A.Y.
+- Misc
+    * Tweaked minigun to suck less at longer ranges
+    * Applied height/weight randomization to new faces in fresh facials
+
 # 1.0.5 
 - Added
 - Updated
