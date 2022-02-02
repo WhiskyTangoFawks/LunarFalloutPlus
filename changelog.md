@@ -12,12 +12,13 @@ The big new thing this patch is the SS2 update, which solves the long save bug.
     * Lunar Fallout Overhaul
     * SS2
     * SS2 Chapter 2
-    * More where that came from (Diamond City Radio)
     * Fresh Facials
     * LFO Fresh Facials Patch
     * Settlers Go Shopping
+    * See through Scopes (Hold breath is now melee)
 - Removed
     * D.E.C.A.Y.
+    * More where that came from (Diamond City Radio)
 - Misc
     * Tweaked minigun to suck less at longer ranges
     * Applied height/weight randomization to new faces in fresh facials
