@@ -79,7 +79,8 @@ See [How to Wabbajack](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob
     * `Optional - Explorer Perk Survival Fast Travel`: An alternate version of the explorer perk that allows limited fast travel.
     * `90FPS No VSYNC` : If you run a high refresh rate monitor, this will disable vsync, and cap the framerate at 90. Edit the file for alternate values. Dynamic Performance may require tweaking to compensate.
     * `SKK Fast Start new game` : enable this to skip the intro sequence on a new game
- 
+ 4. By default the modlist runs at 1920x1080, if your system isnt running at that resolution, you either need to swap from windowed to full screen, or change the resolution to match your system. The list uses profile specific inis, so use the MO2 ini editor to make sure you get the right one (Puzzle icones in mo2 -> INI editor)
+
 ### In Game Setup
 0. Start a new survival game (recommended, but not required)
 1. Mod Configuration Menu - Recommended Optional Setting
@@ -100,7 +101,7 @@ See [How to Wabbajack](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob
 - Sim Settlements quest locations might have awkward trees from A Forest. Please report them, so that I can have the lumberjack clear them out.
 - Beastmaster welcome quest starts after reloading the game after taking the perk, instead of immediately when you take the perk
 - Navmesh conflicts between Tales From the Commonwealth, Diamond City Outskirts, and SKK Red Rockets. This won't introduce any instability, but NPCs may have trouble pathing in rare cases.
-- Preston and Piper's default outfits both can cause them to go invisible, I am still trying to discover the cause
+- Preston and Piper's default outfits both can cause them to go invisible, I think its a vanilla bug, I am still trying to discover the exact cause
  
 ## Notable Missing Mods
 - XDI : I don't personally use it or like it. An upcoming version of the list will likely include Dialogue Sneak Peak as a comprimise.
