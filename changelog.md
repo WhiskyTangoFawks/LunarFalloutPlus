@@ -1,6 +1,6 @@
 # Changelog
 
-# 1.0.7 Death to the Long Save Bug
+# 1.0.7 
 - Added
     * Hunting Shotgun
     * Hunting Shotgun Lunar Fallout Overhaul Patch (including Moonracer's Edits)
