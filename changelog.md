@@ -1,5 +1,30 @@
 # Changelog
 
+# 1.0.7 Death to the Long Save Bug
+- Added
+    * Hunting Shotgun
+    * Hunting Shotgun Lunar Fallout Overhaul Patch (including Moonracer's Edits)
+    * Bullet Count Reloaded Hunting Shotgun Patch
+- Updated
+    * Creative Perks Plus (And Patches)
+    * Flicker Fixer
+- Removed
+    * Lunar Fallout See Through Scopes Compatibility Patch (outdated)
+    * 10mmHD (Conflict with Gunmetal Weapons)
+    * Cryolator HD
+    * Broadsider HD
+    * Gauss Rifle HD
+- Misc
+    * Patched new version of See Through Scopes
+    * UNPC - Nerfed chicken egg value, and Fried Egg and Cram Healing
+    * Water Weight increased
+    * Supreme Behemouth outside V81 moved to Cambridge Crater
+    * Removed texture mods replaced with SavrenX Weapons HD (mod was already in the list, those textures were just pruned out)
+    * Removed tactical attachments for syringer
+    * Empty syringes will now be more common
+    * Dr Mouse - legendary effect now gives 15% increased duration to syringes
+    * Syringer faction paintjobs now require faction membership to craft
+
 # 1.0.6 Death to the Long Save Bug
 The big new thing this patch is the SS2 update, which solves the long save bug.
 
