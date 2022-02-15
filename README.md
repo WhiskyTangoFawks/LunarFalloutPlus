@@ -47,7 +47,7 @@ Requires wabbajack - https://www.wabbajack.org/#/
  
 ## Things you should know...
 - Perks have increasing SPECIAL requirements, and specials can be trained past 10.
-- Power armour is more powerful, but rare, and fusion cores are harder to come by and won't always be full. The more damaged your power armor is, the less it will protect you, so keep an eye on it's condition in the HUD.
+- Power armour is more powerful, but rare, and fusion cores are harder to come by and won't always be full. The more damaged your power armor is, the less it will protect you, so keep an eye on it's condition in the HUD. You also don't get to keep the T45 you find in Concord, other power armor frames will be fine though.
 - Shoot/Kick/Explode locks open, and bypass hacking. Read the nexus page for [LockyBastard](https://www.nexusmods.com/fallout4/mods/13380) and [Auto-Hack](https://www.nexusmods.com/fallout4/mods/45219) for more details.
 - Survival fast travel is available early game by taking the Local Leader Perk and building a provisioner network, or later on by building the SS2 Caravan plot. If you want an easier fast travel, you can enable the optional Explorer perk unlock for it, or just enable it fully via unlimited survival.
 - You don't need to stimpack your companions after combat, the survival requirement to use a stimpack to get them up is disabled.
