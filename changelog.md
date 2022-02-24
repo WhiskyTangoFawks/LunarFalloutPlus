@@ -1,5 +1,62 @@
 # Changelog
 
+# 1.1.0
+- Added
+    * Synthkind Redefined
+    * Convienent Bridges (removed unnessary precombines and regenerated)
+    * BS Defence - This Settlement Does Not Need Your Help
+    * Move Workshop Markers by SKK
+    * Fallout4 AI Overhaul
+    * No Lockpick Activate
+    * Restore Power Armor Frames (Custom rewrite to integrate with LBPAC/CreativePerksPlus)
+    * Luxor's Summer (just the ground textures, with tweaked saturation)
+    * Beast Whisperer (Completely custom rebuild with Perk integration)
+    * No Quest Autostart - NukaWorld, FarHarbour, Vault-tec, BoSFireSupport, Automatron
+    * No Agro Impact Landing
+    * Start Me Up (Basic Version)
+- Updated
+    * Hunting Shotgun Lunar Fallout Overhaul Patch
+    * SS2
+    * SS2 Chapter 2
+    * Workshop Framework
+    * Creative Perks - Locky Bastard Replacer (harder lockpicking)
+    * Super Mutant Redux - No AWKCR and Scaling Fixes
+    * Survival Configuration Menu
+    * Creative Perks Plus (Nerf to gumshoe rank 2)
+    * Resized 10mm Pistol Reworked
+    * ANiceOakTree's Diverse Children (Changed to NoSettlers version)
+    * Orphans of the Commonwealth (Changed to WSFW Version)
+    * Standalone UNPCs (And patches)
+    * Lunar Fallout Overhaul
+    * Lunar Fallout Overhaul Hardcore Patch
+- Removed
+    * Valentine Reborn
+    * Merged Child Mods With Extras
+    * Child Outfits
+    * CSMs SS2 Leaders
+    * Automatron Randomized Bots (functionality replaced in LFO v100)
+    * Respawnable Legendary Bosses (balancing this was too much of a pain, it needs proper reduxxing)
+    * Respawnable Legendary Bosses Rebalanced 
+    * Plutonium Creatures
+    * SKK Fast Start (Too many reports of script problems, swapping to Start Me Up Basic)
+- Misc
+    * Moved Luxors HD Textures out of stock game folder, and into a mod (hopefully this will stop them repacking every update, and fix the cubemap bug)
+    * Preston won't ask you to take the castle before level 20
+    * Rebalanced and redistributed Elianora's Armors (Requires new game to see improved distribution)
+    * Rebalanced and redistributed Greaserats Garb
+    * Rebalanced Cross Brotherhood Recon
+    * Rebalanced Cross Courser Strigidae
+    * Rebalanced Cross Institute Expeditionary Suit
+    * Rebalanced Atom's Glory
+    * Added a warning message when using the Concord T45. Removed player only trigger on destruction.
+    * Rebalanced power armor repair requirements (and added frame scavenging) to better follow Lunar Fallout Overhaul's intended balance.
+    * Reverted Power Armor condition based nerf (condition no longer negatively affects DR)
+    * Tweaked Cait's appearance
+    * Flamers and molotovs no longer make deathclaws and super mutants run in fear
+    * Added a Temporary Fix section, with mods only for temporarily working around a CTD
+    * Cleaned up patch naming
+    * Reduced starting Special points back to default
+
 # 1.0.7 
 - Added
     * Hunting Shotgun
