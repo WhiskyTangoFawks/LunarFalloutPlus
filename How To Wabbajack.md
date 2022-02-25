@@ -69,7 +69,7 @@ Wabbajack will not work with a pirated version of the game. If you own the game 
 
 #### Launching the Game
 
-After you copied the Game Folder Files, launch ModOrganizer.exe from inside your installation folder you chose for Wabbajack. Make sure the bar on the right side says `Play Life in the Ruins` and click Run. **You need to launch the game in this exact way every time in order to play with the installed mods.**
+Launch ModOrganizer.exe from inside your installation folder you chose for Wabbajack. Make sure the bar on the right side says `Play Life in the Ruins` and click Run. **You need to launch the game in this exact way every time in order to play with the installed mods.**
 
 You may notice some mods are deactivated. These are for the Creation Club profile. Please see the [Creation Club Support](#creation-club-support) section a bit further down for more information.
 
