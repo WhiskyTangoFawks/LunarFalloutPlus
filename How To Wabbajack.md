@@ -46,9 +46,9 @@ Let's get to the actual installation..
 
 Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-tools/wabbajack/releases). You need to download the `Wabbajack.exe` file ONLY. Place the `Wabbajack.exe` file in a blank folder at the root of a drive, such as `C:/Wabbajack`. Please do not put it in a Windows Protected Directory, such as Program Files or your Desktop.
 
-Launch Wabbajack. When it is finished extracting and installing itself, select the `Browse Modlists` option. Click the Download arrow for Magnum Opus, and you will be forwarded to the next screen when it is finished.
+Launch Wabbajack. When it is finished extracting and installing itself, select the `Browse Modlists` option. Click the Download arrow for Life In The Ruins, and you will be forwarded to the next screen when it is finished.
 
-Set the `Installation Location` to a blank folder at the root of a drive, such as `D:\Magnum Opus`. The `Download Location` will update automatically. Again, please avoid using Windows Protected Directories.
+Set the `Installation Location` to a blank folder at the root of a drive, such as `D:\LifeInTheRuins`. The `Download Location` will update automatically. Again, please avoid using Windows Protected Directories.
 
 Click the `Play` arrow.
 
