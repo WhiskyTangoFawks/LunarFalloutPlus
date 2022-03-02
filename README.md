@@ -95,6 +95,8 @@ See [How to Wabbajack](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob
 
 
 ## Known Issues
+- Nvidia Drivers: The only known instability in the list is the result of newer Nvidia drivers for the 20 series cards. [Read more about it here](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob/main/NvidiaDriverCrash.md)
+- SS2 script failures on new game are the result of going through the opening sequence too quickly. After you finish character creation, wait a couple minutes before trying to exit the bathroom.
 - Cait is missing her shotgun after being recruited. This is a bug with Combat Zone Restored, after recruiting her you can run the following console command
 `00079305.additem 0005df30 1`
 - Sim Settlements quest locations might have awkward trees from A Forest. Please report them, so that I can have the lumberjack clear them out.
