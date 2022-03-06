@@ -1,5 +1,56 @@
 # Changelog
 
+# 1.1.1 The Big Cleanup, Part 2
+Finishing up the large scale balance changes started in 1.1.0
+
+- Added
+    * SS2 Clothing Injection
+    * VUWR Remastered
+    * Subversion
+    * SS2 Tiny Living
+    * Ownership Fixes
+    * Nobodies Leaders
+    * True Legendary Enemies
+    * SS2 City Plan Contest Winners (disabled by default)
+    * Damage Threshold Fixes (F4SE plugin to correct a bug in the engine with flat subtraction from damage calculation)
+    * Lore Friendly Survival Chems
+    * See Through Scopes MCM Settings
+    * Green Goo - Lava
+    * SavrenX Protectron
+    * SavrenX Robots
+    * Protectron HD
+- Updated
+    * SS2
+    * SS2 Chapter 2
+    * Workshop Framework
+    * Faction Distribution Framework
+    * Settlers Go Shopping
+- Removed
+    * Main Quest Choices Extended
+    * Unowned Trash
+    * Captains Weapons Paints Pack (corrupted patch I couldn't easily fix)
+    * ZXC Microadditions (issues with unreachable areas in the optimization patch)
+    * Sleepless Nights
+    * Green Goo - Green
+- Misc
+    * More balance tweaks to Elianora's Armors
+    * More balance tweaks to Greaserat Garb
+    * Rebalanced SS2 armors
+    * Removed leftover edits from Backpacks of the Commonwealth levelled lists
+    * Minor nerf to Dogmeat's Damage and ability to tear off enemy limbs
+    * Minor Patch cleanup and renaming
+    * LBPAC Patching and Balance tweaks for Raider Power Armor Chop Shop
+    * Added 6.5% Damage Threshold to Power Armor
+    * Survival chems now cure the disease, and the resistance lasts 24 hours
+    * Cleaned up cooking patch, split into seperate patches
+    * Removed undocumented tea
+    * Repacked loose textures into the stock game folder BA2s
+    * Disabled category roll up in the FallUI
+    * Moved Move Workshop Markes to Difficulty and Customization section, disabled by default
+    * Added Custom HUD (Based on Better Vanilla HUD, with a few changes to deal with conflicting widgets)
+    * Increased min shadow draw distance in DynaPerf.ini slightly
+    * Increased min level for SPECIAL training perks
+
 # 1.1.0
 - Added
     * Synthkind Redefined
@@ -29,6 +80,7 @@
     * Standalone UNPCs (And patches)
     * Lunar Fallout Overhaul
     * Lunar Fallout Overhaul Hardcore Patch
+    * ENB binary
 - Removed
     * Valentine Reborn
     * Merged Child Mods With Extras

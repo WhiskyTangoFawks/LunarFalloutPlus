@@ -73,10 +73,10 @@ See [How to Wabbajack](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob
     * `QoL Tweaks` : Minor quality of life tweaks, disable any you don't want
     * `Vanilla Hud - No Sneak Indicator` : Removes the sneak indicator from the HUD
     * `More Dangerous Deathclaws` : makes deathclaws faster at lower health
-    * `SMR Balance Options` : Reduces Super Mutant resistances, default is -30-20, disable for harder supermutants
     * `LFO Hardcore Patch` : see https://www.nexusmods.com/fallout4/articles/3431/ for details. I just makes loot a bit rarer. Recommended.
     * `Survival difficulty`: The default is `Difficulty-Normal`. If you want an easier or harder damage levels, choose one of the other optional files
     * `Optional - Explorer Perk Survival Fast Travel`: An alternate version of the explorer perk that allows limited fast travel.
+    * `SKK Move Workshop Markers` Optional tool that allows you to move workshop markers
     * `90FPS No VSYNC` : If you run a high refresh rate monitor, this will disable vsync, and cap the framerate at 90. Edit the file for alternate values. Dynamic Performance may require tweaking to compensate.
  4. By default the modlist runs at 1920x1080, if your system isnt running at that resolution, you either need to swap from windowed to full screen, or change the resolution to match your system. The list uses profile specific inis, so use the MO2 ini editor to make sure you get the right one (Puzzle icones in mo2 -> INI editor)
 
