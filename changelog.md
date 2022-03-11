@@ -1,5 +1,23 @@
 # Changelog
 
+# 1.1.2
+- Added
+    * LookAtMeInstitute-HildaHughes Patch, courtesy of Sarruma
+    * Makeshift Shotgun (w/ custom patching)
+- Updated
+    * Creative Perks Plus (Re-add the 5th rank of Weapons perks)
+    * Fallout 4 AI Overhaul
+    * SS2
+    * SS2 Chapter 2
+    * Workshop Framework
+- Removed
+- Misc 
+    * Fixed Armored Jumpsuit and Field Medic Outfit templates
+    * Reduced anodyne/stimulant/antimicrobial duration to 3 hours (real life time, not in-game time)
+    * Fixed Anodyne sorting
+    * Tweaked Antibiotics value
+    * Disabled quest sorting (apparent conflict with SS2)
+
 # 1.1.1 The Big Cleanup, Part 2
 Finishing up the large scale balance changes started in 1.1.0
 
@@ -16,9 +34,8 @@ Finishing up the large scale balance changes started in 1.1.0
     * Lore Friendly Survival Chems
     * See Through Scopes MCM Settings
     * Green Goo - Lava
-    * SavrenX Protectron
-    * SavrenX Robots
     * Protectron HD
+    * SavrenX Robots
 - Updated
     * SS2
     * SS2 Chapter 2
@@ -47,7 +64,7 @@ Finishing up the large scale balance changes started in 1.1.0
     * Repacked loose textures into the stock game folder BA2s
     * Disabled category roll up in the FallUI
     * Moved Move Workshop Markes to Difficulty and Customization section, disabled by default
-    * Added Custom HUD (Based on Better Vanilla HUD, with a few changes to deal with conflicting widgets)
+    * Added Custom HUD (Based on Vanilla HUD, with a few changes to deal with conflicting widgets)
     * Increased min shadow draw distance in DynaPerf.ini slightly
     * Increased min level for SPECIAL training perks
 
