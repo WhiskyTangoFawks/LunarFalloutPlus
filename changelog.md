@@ -1,5 +1,52 @@
 # Changelog
 
+# 1.1.3 
+This update is safe safe if you haven't started the Nuka-World Quest or visited Nuka-World. If you have, I recommend either not updating, or manually rolling back Nuka-World Plus to version 0.995.
+
+This update removes the M2019, and the 10mm SMG. Make sure to unequip any you are carrying before updating. Both guns are below the quality of what I'd like in the list, and swapping to the split LFO patch game me the chance to remove these. I won't be replacing them directly, but have plans for a few more weapons additions.
+
+This update includes changes to aid items and disease curing. Each disease is now cured by one chem/drug, antibiotics now only cures infection.
+
+- Added
+    * SS2C2 - 3DNPC Patch
+    * Sim Settlements 2 Chapter 2 - Tales From the Commonwealth - Warehouse Door Patch
+    * Classic Vault Scientist Outfit Replacer
+    * Creative Perks Plus - Sneaky Kills - Mr Sandman Executions
+    * Boston FPS - PRP Edition
+    * D.E.C.A.Y.
+    * Decay Redux
+    * Burnt Magazines and Comics Retextured
+- Updated
+    * Nuka-world Plus
+    * Creative Perks Plus (includes a few moved perks)
+        - Changes to Addiction and addiction related perks, Animal Friend, Dressed for the Apocalypse, and Action Boy/Girl - see mod changelog for details
+    * Faction Distribution Framework
+    * Backpacks of the Commonwealth
+    * SS2 Scrappers
+    * UNPC Creatures and Monsters Standalone (fix for Yangtze first mate invisibility)
+    * SavrenX Better Robots and HD Liberty Prime (Turret Decal Fix)
+    * Lunar Survival Chems and Meds
+    * Better Goodneighbor Previsibines
+- Removed
+    * M2019 PKD Detective Special - That Gun
+    * 10mm SMG
+    * Boston FPS Fix - Hotfix for UF4P
+    * Terrifier Ghouls
+    * Real Name Settlers (Soft conflict with LFO)
+    * ANiceOakTree's Diverse Children
+- Misc
+    * Tweaked Makeshift Shotgun balance
+    * Increased crafting reqs for T45 lining
+    * Fixed a naked raider bug in Greaserats Garb patching
+    * Switched LFO Weapon pack for Split Patch version
+    * Removed conflicting weapon textures from LookAtMe-Institute Editions
+    * Fixed radio sorting
+    * Tweaked dynaperf minimum shadow draw distance setting, enabled framerate capping at 60fps
+    * Redid Creation Club Paint Skins Profile
+        - Enclave and Reily's Ranger skins are no longer required.
+        - FDF now has integration plugins broken down by faction, so partial support is available for people who don't own all the textures (paint unlocks and sorting plugin still require full set)
+        - Tweaked distribution
+
 # 1.1.2
 - Added
     * LookAtMeInstitute-HildaHughes Patch, courtesy of Sarruma
