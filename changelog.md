@@ -1,5 +1,27 @@
 # Changelog
 
+# 1.1.4
+
+- Added
+    * EVB With Dismemberment
+    * Settler and Companion Dialogue Overhaul
+    * SCDO Lite by Mycenia
+    * Ultimate Hacking
+- Updated
+    * Lunar Fallout Overhaul 101
+    * Jolly Item Sounds
+    * Faction Distribution Framework
+- Removed
+    * Dismemberable EVB
+    * Icebreaker Settler Dialogue Overhaul
+    * Autohack
+    * Flash(JoeR) - Molerat Disease Fix (redundant with LFOv101)
+- Misc
+    * Patched Orphans of the Commonwealth clothing and hairstyles into vanilla children
+    * Added missing textures from Orphans of the Commonwealth
+    * Reworked distribution for Makeshift Shotgun, Hunting Shotgun, Service Rifle, and Bullpup Bozier
+    * Fixed Disease item cure descriptions
+
 # 1.1.3 
 This update is safe safe if you haven't started the Nuka-World Quest or visited Nuka-World. If you have, I recommend either not updating, or manually rolling back Nuka-World Plus to version 0.995.
 
