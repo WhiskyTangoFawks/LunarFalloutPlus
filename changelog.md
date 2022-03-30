@@ -13,7 +13,6 @@
 - Removed
     * Dismemberable EVB
     * Icebreaker Settler Dialogue Overhaul
-    * Autohack
     * Flash(JoeR) - Molerat Disease Fix (redundant with LFOv101)
 - Misc
     * Patched Orphans of the Commonwealth clothing and hairstyles into vanilla children
