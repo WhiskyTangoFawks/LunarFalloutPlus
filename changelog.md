@@ -6,7 +6,6 @@
     * EVB With Dismemberment
     * Settler and Companion Dialogue Overhaul
     * SCDO Lite by Mycenia
-    * Ultimate Hacking
 - Updated
     * Lunar Fallout Overhaul 101
     * Jolly Item Sounds
