@@ -26,3 +26,10 @@
 - Local Leader offers fast travel by talking to provisioners at level 2 (to their home or destination settlements).
 - When upgraded to level 2, SS2's caravan plots allow to fast travel to linked settlements.
 
+## Disease
+- Insomnia is now cured by Sleeping Pills (formerly Anodyne)
+- Lethargy is now cured by Jet (it's a methanfetamine)
+- Infection is now cured by Antibiotics (these no longer cure all diseases)
+- Fatigue is now cured by Stimulant
+- Weakness is now cured by Buffout
+- Parasites are now cured by Anti-parasite (formerly Antimicrobial)
