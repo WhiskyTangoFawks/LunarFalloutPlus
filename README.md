@@ -48,15 +48,19 @@ Requires wabbajack - https://www.wabbajack.org/#/
 ## Things you should know...
 - Perks have increasing SPECIAL requirements, and specials can be trained past 10.
 - Power armour is more powerful, but rare, and fusion cores are harder to come by and won't always be full. The more damaged your power armor is, the less it will protect you, so keep an eye on it's condition in the HUD. You also don't get to keep the T45 you find in Concord, other power armor frames will be fine though.
-- Shoot/Kick/Explode locks open, and bypass hacking. Read the nexus page for [LockyBastard](https://www.nexusmods.com/fallout4/mods/13380) and [Auto-Hack](https://www.nexusmods.com/fallout4/mods/45219) for more details.
+- Shoot/Kick/Explode locks open. Read the nexus page for [LockyBastard](https://www.nexusmods.com/fallout4/mods/13380) and [Auto-Hack](https://www.nexusmods.com/fallout4/mods/45219) for more details.
 - Survival fast travel is available early game by taking the Local Leader Perk and building a provisioner network, or later on by building the SS2 Caravan plot. If you want an easier fast travel, you can enable the optional Explorer perk unlock for it, or just enable it fully via unlimited survival.
 - You don't need to stimpack your companions after combat, the survival requirement to use a stimpack to get them up is disabled.
 - The [SS2 Triangle of Death](https://simsettlements.com/site/index.php?threads/understanding-ctds-in-the-triangle-of-death-sanctuary-abernathy-farm-and-red-rocket.6964/) is still a problem, and always will be. Do not heavily develop more than one of those three settlements.
 - This modlist uses Dynamic Performance Tuner to adjust shadow draw distance to try and keep a stable framerate. If shadow pop-in annoys you more than framerate drops, you can set the minimum shadow draw distance in 'dynaperf.ini' in the stock game folder, or it can be disabled completely by removing "dxgi.dll" in the Stock Game Folder. If you have a strong graphics card and are playing at greater than 60FPS, you may gain minor quality benefits by upping the target FPS in dynaperf.ini in the stock game folder to whatever your framerate cap is, or adjusting min/max shadow distance.
 
 ### Technical Requirements
+- This modlist must be installed on an SSD.
 - The modlist is designed for relatively modern, middle range hardware. A high end graphics card is not required, but it does help (I tested this list on a Radeon 580 with medium settings, currently playing with a 6600xt on high settings, and FPS is consistently capped above 60 outside of Diamond City and Boston Commons, where it does drop for me). If you have less than 6gb of vram, I would recommend replacing the texture BSAs in the stock folder with the vanilla ones, or with the PhyOP textures. For users who need more performance, I also suggest using BethINI to tweak the grass diversity settings. You can also try disabling the ENB (press * to show FPS, then press shift + F12 to disable ENB processing to see if it makes a difference). The list includes Dynamic Performance Tuner, which will automatically try and adjust your shadow draw distance to compensate for FPS drops.
- 
+
+#### WARNING - Nvidia 20 Series Users
+Modern nvidia 20 series drivers have incompatibilities with Fallout 4, and you will need to roll back your drivers. [Read this for more information] (https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob/main/NvidiaDriverCrash.md)
+
 ## Wabbajack Installation
 See [How to Wabbajack](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob/main/How%20To%20Wabbajack.md) for detailed instructions on using wabbajack to install the modlist
  
@@ -67,7 +71,7 @@ See [How to Wabbajack](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob
 ## Additional Setup (post wabbajack installation)
 1. Pick your Profile: "Life in the Ruins", or "Life in the Ruins - CreationClubPaints" if you have the required set of creation club paint jobs
     -  Creation Club Profile - Copy the creation club files from your `fallout4/data directory` into the `[NODELETE] CreationClub Paint Jobs` mod folder
-2. (Optional) Download and install into the mod `[NODELETE] Cross Skin Packs` the Strigidae and Brotherhood Recon Expeditionary Suit skin packs from https://gumroad.com/niero. They're available for free (use the discount code), but a donation is suggested. The man makes some fantastic mods, and you can probably afford to buy him a coffee.
+2. (Optional) Download and install into the mod `[NODELETE] Cross Skin Packs` the Strigidae and Brotherhood Recon Expeditionary Suit, and Cross Break Action Laser skin packs from https://gumroad.com/niero. They're available for free (use the discount code), but a donation is suggested. The man makes some fantastic mods, and you can probably afford to buy him a coffee.
 3. The `Difficulty and Customisation` section in Mod Organizer - for people who want to tweak thing a little.
     * `[NODELETE] Cross Skin Packs` : the downloaded cross skins go here
     * `QoL Tweaks` : Minor quality of life tweaks, disable any you don't want

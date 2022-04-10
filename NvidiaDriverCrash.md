@@ -22,6 +22,12 @@ In your buffout 4 crash log (found in my documents/games/f4se), you will see a l
 
 The key thing here, is the nvwgf2umx.dll, seeing that means your driver has crashed
 
+In some cases, you will also see
+
+`Unhandled exception "EXCEPTION_STACK_OVERFLOW" at 0x7FFFDE96988D dxgi.dll+000988D`
+
+If you are getting this, then you also need to delete dxgi.dll from the stock game folder. Doing this disables dynaperf, which doesn't always play nice with nvidia drivers.
+
 ## "Where does this happen the most?"
 
 Exit Saves in Concord. Actually Concord in general with SS2 installed, but Exit Saves are an almost guaranteed crash in Concord, a good practice is to save at the house where the Nuka Quantum spawns after looting it before entering Concord as that is just beyond Concord's border and should get you around it if you do crash.
