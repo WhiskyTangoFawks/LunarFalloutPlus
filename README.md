@@ -52,11 +52,23 @@ Requires wabbajack - https://www.wabbajack.org/#/
 - Survival fast travel is available early game by taking the Local Leader Perk and building a provisioner network, or later on by building the SS2 Caravan plot. If you want an easier fast travel, you can enable the optional Explorer perk unlock for it, or just enable it fully via unlimited survival.
 - You don't need to stimpack your companions after combat, the survival requirement to use a stimpack to get them up is disabled.
 - The [SS2 Triangle of Death](https://simsettlements.com/site/index.php?threads/understanding-ctds-in-the-triangle-of-death-sanctuary-abernathy-farm-and-red-rocket.6964/) is still a problem, and always will be. Do not heavily develop more than one of those three settlements.
-- This modlist uses Dynamic Performance Tuner to adjust shadow draw distance to try and keep a stable framerate. If shadow pop-in annoys you more than framerate drops, you can set the minimum shadow draw distance in 'dynaperf.ini' in the stock game folder, or it can be disabled completely by removing "dxgi.dll" in the Stock Game Folder. If you have a strong graphics card and are playing at greater than 60FPS, you may gain minor quality benefits by upping the target FPS in dynaperf.ini in the stock game folder to whatever your framerate cap is, or adjusting min/max shadow distance.
+
 
 ### Technical Requirements
 - This modlist must be installed on an SSD.
-- The modlist is designed for relatively modern, middle range hardware. A high end graphics card is not required, but it does help (I tested this list on a Radeon 580 with medium settings, currently playing with a 6600xt on high settings, and FPS is consistently capped above 60 outside of Diamond City and Boston Commons, where it does drop for me). If you have less than 6gb of vram, I would recommend replacing the texture BSAs in the stock folder with the vanilla ones, or with the PhyOP textures. For users who need more performance, I also suggest using BethINI to tweak the grass diversity settings. You can also try disabling the ENB (press * to show FPS, then press shift + F12 to disable ENB processing to see if it makes a difference). The list includes Dynamic Performance Tuner, which will automatically try and adjust your shadow draw distance to compensate for FPS drops.
+- This modlist requires at least 6gb of Vram.
+
+The modlist is designed for relatively modern, middle range hardware. A high end graphics card is not required, but it does help (I tested this list on a Radeon 580 with medium settings, currently playing with a 6600xt on high settings, and FPS is consistently capped above 60 outside of Diamond City and Boston Commons, where it does drop for me). 
+
+#### If you have less than 6gb of vram, or the list otherwise performs badly for you
+- Do not try to run the list above 1080p, 1440 in fallout is a performance kills
+- In the MCM Menu, SS2 --> Performance, disable clutter and extra lights
+- Replace the texture BSAs in the stock folder with the [PhyOP textures](https://www.nexusmods.com/fallout4/mods/27038). Disable the other texture mods.
+- Reduce shadow draw distance
+- Reducing the grass density/diversity by editting the ini file in the True Grass mod
+- Disable the ENB (press * to show FPS, then press shift + F12 to disable ENB processing to see if it makes a difference).
+
+Some or all of these tweaks may allow the list to run better below the minimum requirements.
 
 #### WARNING - Nvidia 20 Series Users
 Modern nvidia 20 series drivers have incompatibilities with Fallout 4, and you will need to roll back your drivers. [Read this for more information] (https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob/main/NvidiaDriverCrash.md)
@@ -81,8 +93,8 @@ See [How to Wabbajack](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob
     * `Survival difficulty`: The default is `Difficulty-Normal`. If you want an easier or harder damage levels, choose one of the other optional files
     * `Optional - Explorer Perk Survival Fast Travel`: An alternate version of the explorer perk that allows limited fast travel.
     * `SKK Move Workshop Markers` Optional tool that allows you to move workshop markers
-    * `90FPS No VSYNC` : If you run a high refresh rate monitor, this will disable vsync, and cap the framerate at 90. Edit the file for alternate values. Dynamic Performance may require tweaking to compensate.
- 4. By default the modlist runs at 1920x1080, if your system isnt running at that resolution, you either need to swap from windowed to full screen, or change the resolution to match your system. The list uses profile specific inis, so use the MO2 ini editor to make sure you get the right one (Puzzle icones in mo2 -> INI editor)
+    * `90FPS No VSYNC` : If you run a high refresh rate monitor, this will disable vsync, and cap the framerate at 90. Edit the file for alternate values.
+ 4. By default the modlist should run at 1920x1080, if your system isnt running at that resolution, you either need to swap from windowed to full screen, or change the resolution to match your system. The list uses profile specific inis, so use the MO2 ini editor to make sure you get the right one (Puzzle icon in mo2 -> INI editor)
 
 ### In Game Setup
 0. Start a new survival game (recommended, but not required)
@@ -104,7 +116,6 @@ See [How to Wabbajack](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob
 - Cait is missing her shotgun after being recruited. This is a bug with Combat Zone Restored, after recruiting her you can run the following console command
 `00079305.additem 0005df30 1`
 - Sim Settlements quest locations might have awkward trees from A Forest. Please report them, so that I can have the lumberjack clear them out.
-- Beastmaster welcome quest starts after reloading the game after taking the perk, instead of immediately when you take the perk
 - Navmesh conflicts between Tales From the Commonwealth, Diamond City Outskirts, and SKK Red Rockets. This won't introduce any instability, but NPCs may have trouble pathing in rare cases.
 - Preston and Piper's default outfits both can cause them to go invisible, I think its a vanilla bug, I am still trying to discover the exact cause
  
@@ -116,9 +127,9 @@ See [How to Wabbajack](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob
 - Beantown Interiors - It's a compatibility nightmare, both because it breaks precombines, and because it destroys the loot balance of the list
 - CBBE- I find barbie doll proportions un-immersive. Women don't look like that in real life.
 - Thuggysmurf (Depravity, Outcasts and Remnants, etc)- The quality of the work on these mods is incredible, but they are massively let down by the writing and choice to include adolescent jokes. I personally find a lot of it cringeworthy. A mod that adds a dildo as a weapon and has a bunch of female NPCs in skimpy sexy corsets isn't one I want in my load order, and I'm not comfortable recommending it to people.
-- 100s of Weapons and Armour mods - this list has a relatively conservative approach to weapons and armour, both due to personal choice and the challenge of balancing for Lunar Fallout. In game diversity is provided through Gunmetal Weapons and Armour Skins. As stated at the top, this isn't a kitchen sink list.
+- 100s of Weapons mods - this list has a relatively conservative approach to weapons, both due to personal choice and the challenge of balancing for Lunar Fallout. In game diversity is provided through Gunmetal Weapons and Armour Skins. As stated at the top, this isn't a kitchen sink list.
 - Mods that were removed in the Great Nexus Purge and are no longer available : Utility Belt, Better Cooking Stations (v1), MsRae's Commonwealth Interiors, Swinging Animated Meatbags. All of these are compatible, and don't need patching. Feel free to add them if you have them.
-- Previsibine Repair Pack- this modlist uses BostonFPSFix for now. It's not perfect (a couple of missing material swaps), but it is reliable. Because PRP touches every single cell in the game (including cells that didn't need fixing) it's a huge undertaking, still under development, and a compatibility headache.
+- Previsibine Repair Pack- this modlist uses BostonFPSFix, and the PRP Fixes for it. It's not perfect, but it is reliable. Because PRP touches every single cell in the game (including cells that didn't need fixing) it's a huge undertaking, still under development, and a compatibility headache for a modlist as extensive as this one.
  
 ## Unsupported Activities - Adding your own mods
 ### If you want to add stuff to the list, you do so at your own risk. You're on your own, but if you're really nice about it we'll offer advice in the discord.  If you choose to do so, there are a couple things to know.
