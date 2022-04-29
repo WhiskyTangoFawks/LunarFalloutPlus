@@ -1,7 +1,111 @@
 # Changelog
+# 2.0.0 Stop complaining this list needs more weapons
+This update is a major overhaul of the weapons, Power Armor, and their distribution. A new game is strongly recommended (due to the scale of the changes to weapon and power armor distribution, and the removal of VUWR-R).
+
+To update an existing game
+1 - Add the [NODELETE] tag to VUWR-R before updating (or just reinstall it after updating)
+2 - After updating, disable Random Valuables Redux
+2 - Make a clean save (go into an interior cell, update, set game to non-survival, wait 3 days, turn the game back to survival).
+
+Recommended - Go download the Cross Break Action Laser Skins from [Neiro's Gumroad](https://niero.gumroad.com/l/fhdhdh)
+
+Warning - This update includes the final update from the Fallout 4 HD Overhaul mod, which means about 40gb of downloads are required.
+
+- Added
+    * Combat Zone Restored Restored
+    * Ultimate Hacking
+    * Creative Perks Plus - Ultimate Hacking
+    * Random Valuables Redux
+    * Scrappable Skeletons
+    * Settlement Attack Spawns Outside the Settlement
+    * Keep Radiants in the Commonwealth
+    * Power Armor Frame Retextured (4k)
+    * Power Armor Map Fix
+    * Better Goodneighbor Fixed ESP
+    * BCR - Lever Action Rifle
+    * The Makeshift SMG
+    * The Pipe Shotgun Collection Redux
+    * Pump Action Shotgun Rifle
+    * Pipe Assault Rifle
+    * Cross Break Action Laser
+    * 4estgimp's Cross Weapon INNR
+    * Institute Pulse Carbine
+    * The Zap Gun
+    * Tinkerer's Raygun
+    * Wattz Laser Gun
+    * Wattz Laser Gun Unofficial Update
+    * PJAR - Makeshift Pistol
+    * McMillan CS5
+    * Makeshift Nailgun
+    * Salvaged Sentrybot Weapon - Microgun 3.0
+    * The Skewer Launcher
+    * Handmade Antimaterial Rifle
+    * Faction Distribution Framework - CRAP Rusty Weapons
+    * C.R.A.P. Service Rifle Patch
+    * Punk Crowbar
+    * Mad Can - Fury Beans
+    * Slaughtering Buzz Axe
+    * Concrete Sledgehammer
+    * Pickaxe
+    * The Whackin Shovel
+    * The Fireaxe
+    * Bowie Knifes
+    * The Frying Pan
+    * The Bull Dozier
+    * The Boxcutter
+    * Butcher's Knife
+    * Furby's MCAM retextures
+    * Recruit Arlen Glass as Settler
+    * Recruit Darla as Settler
+    * Recruit Katelyn Alden as Settler
+    * Recruit Phyllis Daily as Settler
+    * SS2 Addon Unlock Vanilla Recruitable Vendors
+    * Recruit Random Encounter Settlers and Farmers
+    * Recruit the Amnesiac Gunner
+    * Random Inner City
+- Updated
+    * Fallout HD Overhaul
+    * Lunar Fallout Overhaul
+    * Workshop Framework
+    * Sim Settlements 2
+    * SS2 Chapter 2
+    * Subversion
+    * Railroad Redone
+    * Wetness Shader Fix
+    * Faction Distribution Framework
+    * Backpacks of the Commonwealth
+    * Simple Power Armor Damage Threshold
+    * Creative Perks Plus
+    * Unique NPCs Creatures Standalone Version
+    * Subversion - The Institute-Railroad Alliance Alternate Ending
+- Removed
+    * The Hunting Shotgun
+    * Makeshift Shogun and Grenade Launcher
+    * Bullpup Bozar
+    * Better Settlement Defense (Usage is too opaque to the player)
+    * Take your cores (it's a nice mod but unnessary)
+    * Auto-hack
+    * Some Assembly Required
+    * Explorer fast travel (Optional file - It needs bugfixing, but I don't have time to maintain it properly)
+    * Beastmaster (And CPP Integration - it's buggy, and I don't have the skills to properly rebuild the mod)
+    * Exotic Workshop Creatures
+    * Sun Alignment Tweaks (causes weirdness with shadow and time settings)
+    * VUWR-R (Balance issues)
+    * Random Valuables
+- Misc
+    * Lots of Lunar and Faction Distribution Framework patches
+    * Nerfed Kellog's Gun and UP77
+    * Nerfed Codsworth's Flamethrower
+    * Fixed Orphans of the Commonwealth Child Settler WSFW integration
+    * Fixed Buffout and Jet not curing weakness and lethargy
+    * Fixed a couple naked npc bugs
+    * Adjusted shadow settings (lower resolution close up to prevent pop-in)
+    * Reduced grass density (Should result in better performance)
+    * Enabled dynamic papyrus budget management in HighPhysicsFPSFix, set default budget to 2.4
+    * Moved Start Me Up to Optional files
+    * Perk - Spray and Pray now grants chance for additional ammo, and automatic weapons are no longer a separate proficiency (Hopefully this should make automatic weapons more viable with Lunar ammo scarcity).
 
 # 1.1.4
-
 - Added
     * EVB With Dismemberment
     * Settler and Companion Dialogue Overhaul

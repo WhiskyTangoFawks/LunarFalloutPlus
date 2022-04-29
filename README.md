@@ -46,9 +46,10 @@ Requires wabbajack - https://www.wabbajack.org/#/
 ### [Full List of Mods at LoadOrderLibrary](https://loadorderlibrary.com/lists/life-in-the-ruins-1)
  
 ## Things you should know...
+- Check out the [LitR Survival Tips and Tricks](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob/main/LitR%20Tips%20and%20Tricks.md)
 - Perks have increasing SPECIAL requirements, and specials can be trained past 10.
-- Power armour is more powerful, but rare, and fusion cores are harder to come by and won't always be full. The more damaged your power armor is, the less it will protect you, so keep an eye on it's condition in the HUD. You also don't get to keep the T45 you find in Concord, other power armor frames will be fine though.
-- Shoot/Kick/Explode locks open. Read the nexus page for [LockyBastard](https://www.nexusmods.com/fallout4/mods/13380) and [Auto-Hack](https://www.nexusmods.com/fallout4/mods/45219) for more details.
+- Power armour is more powerful, but rare, and fusion cores are harder to come by and won't always be full. You also don't get to keep the T45 you find in Concord, other power armor frames will be fine though.
+- Shoot/Kick/Explode locks open. Read the nexus page for [LockyBastard](https://www.nexusmods.com/fallout4/mods/13380).
 - Survival fast travel is available early game by taking the Local Leader Perk and building a provisioner network, or later on by building the SS2 Caravan plot. If you want an easier fast travel, you can enable the optional Explorer perk unlock for it, or just enable it fully via unlimited survival.
 - You don't need to stimpack your companions after combat, the survival requirement to use a stimpack to get them up is disabled.
 - The [SS2 Triangle of Death](https://simsettlements.com/site/index.php?threads/understanding-ctds-in-the-triangle-of-death-sanctuary-abernathy-farm-and-red-rocket.6964/) is still a problem, and always will be. Do not heavily develop more than one of those three settlements.
@@ -58,20 +59,24 @@ Requires wabbajack - https://www.wabbajack.org/#/
 - This modlist must be installed on an SSD.
 - This modlist requires at least 6gb of Vram.
 
-The modlist is designed for relatively modern, middle range hardware. A high end graphics card is not required, but it does help (I tested this list on a Radeon 580 with medium settings, currently playing with a 6600xt on high settings, and FPS is consistently capped above 60 outside of Diamond City and Boston Commons, where it does drop for me). 
+The modlist is designed for relatively modern, middle range hardware. A high end graphics card is not required, but it does help (I tested this list on a Radeon 580 with medium settings, currently playing with a 6600xt, and FPS is consistently capped above 90 outside of Diamond City and Boston Commons, where it does drop for me).
+
+#### Default ini Settings
+The modlist ships with profile specific settings inis, that are based on the Bethini recommended medium settings, with a few tweaks to shadows, draw distance, and godrays disabled. To make additional tweaks, I recommend using the ini editor in MO2. Users with very strong graphics cards (e.g. 3080+) may want to install Bethini separately, and use a higher settings.
 
 #### If you have less than 6gb of vram, or the list otherwise performs badly for you
 - Do not try to run the list above 1080p, 1440 in fallout is a performance kills
-- In the MCM Menu, SS2 --> Performance, disable clutter and extra lights
 - Replace the texture BSAs in the stock folder with the [PhyOP textures](https://www.nexusmods.com/fallout4/mods/27038). Disable the other texture mods.
-- Reduce shadow draw distance
 - Reducing the grass density/diversity by editting the ini file in the True Grass mod
 - Disable the ENB (press * to show FPS, then press shift + F12 to disable ENB processing to see if it makes a difference).
+- Reduce minimum shadow draw distance in DynaPerf.ini in the stock game folder
 
 Some or all of these tweaks may allow the list to run better below the minimum requirements.
 
 #### WARNING - Nvidia 20 Series Users
 Modern nvidia 20 series drivers have incompatibilities with Fallout 4, and you will need to roll back your drivers. [Read this for more information] (https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob/main/NvidiaDriverCrash.md)
+
+I've also had reports of Dynaperf causing issues with Nvidia 20 series cards. If you get any crashes with Dxgi.dll as the cause, go ahead and delete dxgi.dll from the stock game folder.
 
 ## Wabbajack Installation
 See [How to Wabbajack](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob/main/How%20To%20Wabbajack.md) for detailed instructions on using wabbajack to install the modlist
@@ -91,8 +96,7 @@ See [How to Wabbajack](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob
     * `More Dangerous Deathclaws` : makes deathclaws faster at lower health
     * `LFO Hardcore Patch` : see https://www.nexusmods.com/fallout4/articles/3431/ for details. I just makes loot a bit rarer. Recommended.
     * `Survival difficulty`: The default is `Difficulty-Normal`. If you want an easier or harder damage levels, choose one of the other optional files
-    * `Optional - Explorer Perk Survival Fast Travel`: An alternate version of the explorer perk that allows limited fast travel.
-    * `SKK Move Workshop Markers` Optional tool that allows you to move workshop markers
+    * `Start Me Up - Skip Pre-War Prologue` Optional mod that allows you to skip the pre-war prologue
     * `90FPS No VSYNC` : If you run a high refresh rate monitor, this will disable vsync, and cap the framerate at 90. Edit the file for alternate values.
  4. By default the modlist should run at 1920x1080, if your system isnt running at that resolution, you either need to swap from windowed to full screen, or change the resolution to match your system. The list uses profile specific inis, so use the MO2 ini editor to make sure you get the right one (Puzzle icon in mo2 -> INI editor)
 
@@ -103,6 +107,11 @@ See [How to Wabbajack](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob
         * turn ON savegame -> timed save
     - Sim Settlements 2 (optional)
         * Gameplay -> Resource Complexity to Scrap Categories (this will set SS2 to use a simplified scrap system of 4 scrap types, instead of requiring specific components, but instead of using items in your workbench, you will need to donate material at the city planner desk for your citizens to use them)
+        * Gameplay -> Disease -> Settler disease off (this disables the optional settler disease mechanic, which is mostly just an annoying, extra level of management).
+    - Holotime (optional)
+        * Turn status off, exit MCM, re-enter MCM, and turn status on
+        * Show time -> off
+        * Show timebar -> on
     - Immersive HUD
         * I personally don't use it, but have included it in the list for people who want it.
  
@@ -116,7 +125,6 @@ See [How to Wabbajack](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob
 - Cait is missing her shotgun after being recruited. This is a bug with Combat Zone Restored, after recruiting her you can run the following console command
 `00079305.additem 0005df30 1`
 - Sim Settlements quest locations might have awkward trees from A Forest. Please report them, so that I can have the lumberjack clear them out.
-- Navmesh conflicts between Tales From the Commonwealth, Diamond City Outskirts, and SKK Red Rockets. This won't introduce any instability, but NPCs may have trouble pathing in rare cases.
 - Preston and Piper's default outfits both can cause them to go invisible, I think its a vanilla bug, I am still trying to discover the exact cause
  
 ## Notable Missing Mods
