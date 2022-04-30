@@ -1,5 +1,5 @@
 # Changelog
-# 2.0.0 Stop complaining this list needs more weapons
+# 2.0.0 Stop complaining this list needs more weapons (Currently only in pre-release)
 This update is a major overhaul of the weapons, Power Armor, and their distribution. A new game is strongly recommended (due to the scale of the changes to weapon and power armor distribution, and the removal of VUWR-R).
 
 To update an existing game

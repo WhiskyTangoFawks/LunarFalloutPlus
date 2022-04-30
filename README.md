@@ -62,7 +62,7 @@ Requires wabbajack - https://www.wabbajack.org/#/
 The modlist is designed for relatively modern, middle range hardware. A high end graphics card is not required, but it does help (I tested this list on a Radeon 580 with medium settings, currently playing with a 6600xt, and FPS is consistently capped above 90 outside of Diamond City and Boston Commons, where it does drop for me).
 
 #### Default ini Settings
-The modlist ships with profile specific settings inis, that are based on the Bethini recommended medium settings, with a few tweaks to shadows, draw distance, and godrays disabled. To make additional tweaks, I recommend using the ini editor in MO2. Users with very strong graphics cards (e.g. 3080+) may want to install Bethini separately, and use a higher settings.
+The modlist ships with profile specific settings inis, that are based on the Bethini recommended medium settings, with a few tweaks to shadows, draw distance, and godrays disabled. To make additional tweaks, I recommend using the ini editor in MO2. Users with very strong graphics cards (e.g. 3080+) may want to install [Bethini](https://www.nexusmods.com/fallout4/mods/67) separately, and use a higher settings.
 
 #### If you have less than 6gb of vram, or the list otherwise performs badly for you
 - Do not try to run the list above 1080p, 1440 in fallout is a performance kills
