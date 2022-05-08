@@ -8,6 +8,8 @@ Recommended - Go download the Cross Break Action Laser Skins from [Neiro's Gumro
 
 Warning - This update includes the final update from the Fallout 4 HD Overhaul mod, which means about 40gb of downloads are required.
 
+This update adds a LOT of new BSAs. If you find yourself CTDing when starting or loading a game, it's because you've hit the limit, and need to repack and combine some of them to get beneath the limit. The creation club content is particularly problematic here, because of how many archives it has. I'll be experimenting with repacking the texture mods into the main game archives, however that will require more time and testing before it's ready.
+
 - Added
     * Combat Zone Restored Restored
     * Ultimate Hacking
