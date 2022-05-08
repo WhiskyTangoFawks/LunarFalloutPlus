@@ -64,8 +64,14 @@ The modlist is designed for relatively modern, middle range hardware. A high end
 #### Default ini Settings
 The modlist ships with profile specific settings inis, that are based on the Bethini recommended medium settings, with a few tweaks to shadows, draw distance, and godrays disabled. To make additional tweaks, I recommend using the ini editor in MO2. Users with very strong graphics cards (e.g. 3080+) may want to install [Bethini](https://www.nexusmods.com/fallout4/mods/67) separately, and use a higher settings.
 
+In particular, there are two shadow settings high end users may want to play with
+- iDirShadowSplits=1 (all shadows are low res) can be changed to 2 (transition between low res and high res shadows) or 3 (all shadows high res)
+- fBlendSplitDirShadow=96 This value controls the distance at which the transition between low res and high res shadows occurs.
+
+If you want to change these settings, it is highly recommended that you test their effect on FPS in the downtown boston area, which is the most demanding area of the game for shadows. A potato can run these changes at the edge of the map no problem, it's only when you enter an area with more objects with shadows that you will encounter problems.
+
 #### If you have less than 6gb of vram, or the list otherwise performs badly for you
-- Do not try to run the list above 1080p, 1440 in fallout is a performance kills
+- Do not try to run the list above 1080p, 1440 in fallout is a performance killer
 - Replace the texture BSAs in the stock folder with the [PhyOP textures](https://www.nexusmods.com/fallout4/mods/27038). Disable the other texture mods.
 - Reducing the grass density/diversity by editting the ini file in the True Grass mod
 - Disable the ENB (press * to show FPS, then press shift + F12 to disable ENB processing to see if it makes a difference).
@@ -81,7 +87,7 @@ I've also had reports of Dynaperf causing issues with Nvidia 20 series cards. If
 ## Wabbajack Installation
 See [How to Wabbajack](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob/main/How%20To%20Wabbajack.md) for detailed instructions on using wabbajack to install the modlist
  
-*This is a large modlist, with several large downloads, including several large sets of textures that require optimising and repacking. Nexus Premium is __highly__ recommended for the initial download, expect the initial download and installation to take at least an hour.*
+*This is a large modlist, with several large downloads, including several large sets of textures. Nexus Premium is __highly__ recommended for the initial download, expect the initial download and installation to take at least an hour with premium.*
 
 - HD DLC is NOT required, however because this modlist uses a stock game folder, rather than your game folder in steam, if you do have the HD DLC installed Life in the Ruins will ignore it.
   

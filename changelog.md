@@ -1,11 +1,11 @@
 # Changelog
-# 2.0.0 Stop complaining this list needs more weapons (Currently only in pre-release)
+# 2.0.0 Stop complaining this list needs more weapons
 This update is a major overhaul of the weapons, Power Armor, and their distribution. A new game is strongly recommended (due to the scale of the changes to weapon and power armor distribution, and the removal of VUWR-R).
 
 To update an existing game
-1 - Add the [NODELETE] tag to VUWR-R before updating (or just reinstall it after updating)
-2 - After updating, disable Random Valuables Redux
-2 - Make a clean save (go into an interior cell, update, set game to non-survival, wait 3 days, turn the game back to survival).
+1) Add the [NODELETE] tag to VUWR-R before updating (or just reinstall it after updating). If you don't all legendary weapons will be broken.
+2) After updating, disable Random Valuables Redux.
+3) Make a clean save (go into an interior cell, update, set game to non-survival, wait 3 days, turn the game back to survival). This should reset all cells, and allow you to find the new weapons in the world.
 
 Recommended - Go download the Cross Break Action Laser Skins from [Neiro's Gumroad](https://niero.gumroad.com/l/fhdhdh)
 
@@ -47,7 +47,7 @@ Warning - This update includes the final update from the Fallout 4 HD Overhaul m
     * Slaughtering Buzz Axe
     * Concrete Sledgehammer
     * Pickaxe
-    * The Whackin Shovel
+    * Wastelander's Melee Weapons
     * The Fireaxe
     * Bowie Knifes
     * The Frying Pan
@@ -63,6 +63,7 @@ Warning - This update includes the final update from the Fallout 4 HD Overhaul m
     * Recruit Random Encounter Settlers and Farmers
     * Recruit the Amnesiac Gunner
     * Random Inner City
+    * Atom Cats Drag Race Start Fix
 - Updated
     * Fallout HD Overhaul
     * Lunar Fallout Overhaul
@@ -78,6 +79,7 @@ Warning - This update includes the final update from the Fallout 4 HD Overhaul m
     * Creative Perks Plus
     * Unique NPCs Creatures Standalone Version
     * Subversion - The Institute-Railroad Alliance Alternate Ending
+    * Nuka World Plus
 - Removed
     * The Hunting Shotgun
     * Makeshift Shogun and Grenade Launcher
@@ -94,7 +96,6 @@ Warning - This update includes the final update from the Fallout 4 HD Overhaul m
     * Random Valuables
 - Misc
     * Lots of Lunar and Faction Distribution Framework patches
-    * Nerfed Kellog's Gun and UP77
     * Nerfed Codsworth's Flamethrower
     * Fixed Orphans of the Commonwealth Child Settler WSFW integration
     * Fixed Buffout and Jet not curing weakness and lethargy
@@ -104,6 +105,8 @@ Warning - This update includes the final update from the Fallout 4 HD Overhaul m
     * Enabled dynamic papyrus budget management in HighPhysicsFPSFix, set default budget to 2.4
     * Moved Start Me Up to Optional files
     * Perk - Spray and Pray now grants chance for additional ammo, and automatic weapons are no longer a separate proficiency (Hopefully this should make automatic weapons more viable with Lunar ammo scarcity).
+    * Legendaries - Removed Lunar edits to legendary system (only takes effect on a new game).
+    * Uniques - Removed VUWR Legendary effects from uniques (The weapons still have the unique attachments- only takes effect on a new game).
 
 # 1.1.4
 - Added
