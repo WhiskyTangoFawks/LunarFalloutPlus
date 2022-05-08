@@ -1,11 +1,8 @@
 # Changelog
 # 2.0.0 Stop complaining this list needs more weapons
-This update is a major overhaul of the weapons, Power Armor, and their distribution. A new game is strongly recommended (due to the scale of the changes to weapon and power armor distribution, and the removal of VUWR-R).
+This update is a major overhaul of weapons, Power Armor, and their distribution. A new game is strongly recommended (due to the scale of the changes to weapon and power armor distribution, and the removal of VUWR-R).
 
-To update an existing game
-1) Add the [NODELETE] tag to VUWR-R before updating (or just reinstall it after updating). If you don't all legendary weapons will be broken.
-2) After updating, disable Random Valuables Redux.
-3) Make a clean save (go into an interior cell, update, set game to non-survival, wait 3 days, turn the game back to survival). This should reset all cells, and allow you to find the new weapons in the world.
+To update an existing game (Not recommended, but it is possible possible) make a clean save (go into an interior cell, update, set game to non-survival, wait 3 days, turn the game back to survival). This should reset all cells, and allow you to find the new weapons in the world. Due to the removal of VUWR, and the addition of Unique Uniques, unique weapons will be missing their mods, however unique uniques should detect this, and add the missing mods.
 
 Recommended - Go download the Cross Break Action Laser Skins from [Neiro's Gumroad](https://niero.gumroad.com/l/fhdhdh)
 
@@ -55,6 +52,8 @@ Warning - This update includes the final update from the Fallout 4 HD Overhaul m
     * The Boxcutter
     * Butcher's Knife
     * Furby's MCAM retextures
+    * Unique Uniques
+    * More Uniques
     * Recruit Arlen Glass as Settler
     * Recruit Darla as Settler
     * Recruit Katelyn Alden as Settler
@@ -92,7 +91,8 @@ Warning - This update includes the final update from the Fallout 4 HD Overhaul m
     * Beastmaster (And CPP Integration - it's buggy, and I don't have the skills to properly rebuild the mod)
     * Exotic Workshop Creatures
     * Sun Alignment Tweaks (causes weirdness with shadow and time settings)
-    * VUWR-R (Balance issues)
+    * VUWR
+    * VUWR-R
     * Random Valuables
 - Misc
     * Lots of Lunar and Faction Distribution Framework patches
@@ -105,9 +105,7 @@ Warning - This update includes the final update from the Fallout 4 HD Overhaul m
     * Enabled dynamic papyrus budget management in HighPhysicsFPSFix, set default budget to 2.4
     * Moved Start Me Up to Optional files
     * Perk - Spray and Pray now grants chance for additional ammo, and automatic weapons are no longer a separate proficiency (Hopefully this should make automatic weapons more viable with Lunar ammo scarcity).
-    * Legendaries - Removed Lunar edits to legendary system (only takes effect on a new game).
-    * Uniques - Removed VUWR Legendary effects from uniques (The weapons still have the unique attachments- only takes effect on a new game).
-
+   
 # 1.1.4
 - Added
     * EVB With Dismemberment
