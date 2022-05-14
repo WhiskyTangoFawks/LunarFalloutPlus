@@ -1,4 +1,27 @@
 # Changelog
+
+# 2.0.1 
+- Added
+    * Fallout 4 HD Overhaul Cubemap Fix Loose Files
+- Updated
+    * Complex Item Sorter
+    * 4estGimp - M8r98a4f2's Complex Item Sorter Enhancements
+    * Diamond City Radio Extended
+    * Creative Perks Plus
+    * Random Valuables Redux
+    * FallUI Map
+    * FallUI HUD
+    * FallUI Inventory
+    * Workshop Framework
+    * Sim Settlements 2
+    * SS2 Chapter 2
+- Removed
+    * More Uniques (incompatibility with LFO)
+- Misc
+    * Tweaked companion affinity to be slower in both directions
+    * Elianora's Armor Compendium - tweaked enchantments on full-body clothing
+    * Added High FPS Override settings for testing for people with the infinite loading screen issue
+
 # 2.0.0 Stop complaining this list needs more weapons
 This update is a major overhaul of weapons, Power Armor, and their distribution. A new game is strongly recommended (due to the scale of the changes to weapon and power armor distribution, and the removal of VUWR-R).
 
@@ -71,7 +94,6 @@ This update adds a LOT of new BSAs. If you find yourself CTDing when starting or
     * Workshop Framework
     * Sim Settlements 2
     * SS2 Chapter 2
-    * Subversion
     * Railroad Redone
     * Wetness Shader Fix
     * Faction Distribution Framework
