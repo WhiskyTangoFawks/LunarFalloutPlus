@@ -1,5 +1,19 @@
 # Changelog
 
+# 2.0.1.1 Hotfix
+
+This is a hotfix try and address the recuring infinite loading screen issue some users have been having. I believe the root cause was related to vsync settings and windowed mode for users, possibly interacting with GSync/FreeSync settings.
+
+This also includes a swap to using the standard system game INI files, instead of profile ones. It's caused confusion in the past, and makes it harder to optimise your settings and update the list. See the (readme)[https://github.com/WhiskyTangoFawks/LunarFalloutPlus#readme] for settings recommendations.
+
+- Added
+    * Bethini
+- Updated
+    * Workshop Framework
+- Misc
+    * Disabled profile specific Game INI files
+    * Revert HighFPSPhysics mod settings back to default
+
 # 2.0.1 
 - Added
     * Fallout 4 HD Overhaul Cubemap Fix Loose Files

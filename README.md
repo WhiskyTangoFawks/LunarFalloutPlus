@@ -27,9 +27,9 @@ Requires wabbajack - https://www.wabbajack.org/#/
  
 ## Key Gameplay Mods To Be Aware Of
 - [Lunar Fallout Overhaul](https://www.nexusmods.com/fallout4/mods/34769)
-- [Creative Perks Plus](https://www.nexusmods.com/fallout4/mods/49400) (With Locky Bastard, Auto-Hack, Freeze Intimidation Overhaul, Beastmaster integration)
+- [Creative Perks Plus](https://www.nexusmods.com/fallout4/mods/49400)
 - [Sim Settlements 2](https://www.nexusmods.com/fallout4/mods/47976)
-- [Lore Based Power Armor Changes](https://www.nexusmods.com/fallout4/mods/36251) (Balance), [Some Assembly Required](https://www.nexusmods.com/fallout4/mods/12050) (Distribution)
+- [Lore Based Power Armor Changes](https://www.nexusmods.com/fallout4/mods/36251)
  
 ### The Extra Spice
 - [Fallout 4 HD Overhaul](https://www.nexusmods.com/fallout4/mods/52423)
@@ -41,9 +41,9 @@ Requires wabbajack - https://www.wabbajack.org/#/
 - [Gunmetal Weapon and Armor Skins](https://www.nexusmods.com/fallout4/mods/51233)
  
 ### Optional Creation Club Content Compatibility
-- Weapons and Armour Skins (Gunmetal Faction Framework will distribute faction based weapon and armour skins into the world)
+- Weapons and Armour Skins (Faction Distribution Framework will distribute faction based weapon and armour skins into the world)
  
-### [Full List of Mods at LoadOrderLibrary](https://loadorderlibrary.com/lists/life-in-the-ruins-1)
+### [Full List of Mods at LoadOrderLibrary](https://loadorderlibrary.com/lists/life-in-the-ruins-2)
  
 ## Things you should know...
 - Check out the [LitR Survival Tips and Tricks](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob/main/LitR%20Tips%20and%20Tricks.md)
@@ -59,16 +59,7 @@ Requires wabbajack - https://www.wabbajack.org/#/
 - This modlist must be installed on an SSD.
 - This modlist requires at least 6gb of Vram.
 
-The modlist is designed for relatively modern, middle range hardware. A high end graphics card is not required, but it does help (I tested this list on a Radeon 580 with medium settings, currently playing with a 6600xt, and FPS is consistently capped above 90 outside of Diamond City and Boston Commons, where it does drop for me).
-
-#### Default ini Settings
-The modlist ships with profile specific settings inis, that are based on the Bethini recommended medium settings, with a few tweaks to shadows, draw distance, and godrays disabled. To make additional tweaks, I recommend using the ini editor in MO2. Users with very strong graphics cards (e.g. 3080+) may want to install [Bethini](https://www.nexusmods.com/fallout4/mods/67) separately, and use a higher settings.
-
-In particular, there are two shadow settings high end users may want to play with
-- iDirShadowSplits=1 (all shadows are low res) can be changed to 2 (transition between low res and high res shadows) or 3 (all shadows high res)
-- fBlendSplitDirShadow=96 This value controls the distance at which the transition between low res and high res shadows occurs.
-
-If you want to change these settings, it is highly recommended that you test their effect on FPS in the downtown boston area, which is the most demanding area of the game for shadows. A potato can run these changes at the edge of the map no problem, it's only when you enter an area with more objects with shadows that you will encounter problems.
+The modlist is designed for relatively modern, middle range hardware. A high end graphics card is not required, but it does help (I am currently playing with a 6600xt, and FPS is consistently capped above 90 outside of Diamond City and Boston Commons, where it does drop for me).
 
 #### If you have less than 6gb of vram, or the list otherwise performs badly for you
 - Do not try to run the list above 1080p, 1440 in fallout is a performance killer
@@ -92,6 +83,7 @@ See [How to Wabbajack](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob
 - HD DLC is NOT required, however because this modlist uses a stock game folder, rather than your game folder in steam, if you do have the HD DLC installed Life in the Ruins will ignore it.
   
 ## Additional Setup (post wabbajack installation)
+### Customisation
 1. Pick your Profile: "Life in the Ruins", or "Life in the Ruins - CreationClubPaints" if you have the required set of creation club paint jobs
     -  Creation Club Profile - Copy the creation club files from your `fallout4/data directory` into the `[NODELETE] CreationClub Paint Jobs` mod folder. If you CTD when loading or starting a game on the creation club profile, but not on the normal profile, then you've hit the BA2 limit (it seems to vary from user to user)- and you will need to unpack and repack the BSAs into combined BSAs to free up some slots.
 2. (Optional) Download and install into the mod `[NODELETE] Cross Skin Packs` the Strigidae and Brotherhood Recon Expeditionary Suit, and Cross Break Action Laser skin packs from https://gumroad.com/niero. They're available for free (use the discount code), but a donation is suggested. The man makes some fantastic mods, and you can probably afford to buy him a coffee.
@@ -103,8 +95,42 @@ See [How to Wabbajack](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob
     * `LFO Hardcore Patch` : see https://www.nexusmods.com/fallout4/articles/3431/ for details. I just makes loot a bit rarer. Recommended.
     * `Survival difficulty`: The default is `Difficulty-Normal`. If you want an easier or harder damage levels, choose one of the other optional files
     * `Start Me Up - Skip Pre-War Prologue` Optional mod that allows you to skip the pre-war prologue
-    * `90FPS No VSYNC` : If you run a high refresh rate monitor, this will disable vsync, and cap the framerate at 90. Edit the file for alternate values.
- 4. By default the modlist should run at 1920x1080, if your system isnt running at that resolution, you either need to swap from windowed to full screen, or change the resolution to match your system. The list uses profile specific inis, so use the MO2 ini editor to make sure you get the right one (Puzzle icon in mo2 -> INI editor)
+    * `90FPS No VSYNC` : If you run a high refresh rate monitor with GSync/FreeSync, this will disable vsync, and cap the framerate at 90. 
+    * `120FPS No VSYNC` : As above, just capped at 120.
+        - f you are running either of these, it is recommended that in dynaperf.ini in the stock game folder you increase fTargetFPS to 75 or 90.
+
+### Game INI Settings
+You are responsible for setting up your own INIs. The list ships with a copy of BethINI in the /tools folder. Alternatively, the list includes some recommended ini settings that should work for most users, that can be enabled by ticking the `use profile specific game INI files` in the manage profiles option in the profiles dropdown menu for the profile you are using (you will need to re-tick this option after every update, alternatively you can copy-paste the files over your system ones).
+
+#### Bethini
+1. Close Mod Organizer, and open BethINI
+2. `Setup` tab 
+    * Check that the game path is pointing to the `Stock Game Folder`, and not your steam installation
+    * Check that the mod organizer path is pointing to the correct instance of MO2 for Life in the Ruins.
+3. `Basic` Tab
+    * Choose a profile one step lower than you would use for vanilla fallout. If you normally would run on Ultra, pick High. LitR is significantly heavier than vanilla fallout.
+    * For most users, 1920x1080 resolution is recommended.
+    * Leave `VSync` disabled here, the `High FPS Physics Fix` mod controls VSync, and any settings here will be ignored
+3. `Detail` tab (Recommended but not required)
+    * Disable `motion blur`, `godrays`, and `depth of field` (I don't like them, and suggest disabling, but whatever you want)
+    * Increase the `shadow resolution` to at least 2048
+    * Ignore `Exterior Draw Distance`, with Dynamic Performance Tuner installed, this setting does nothing.
+4.  `Custom` Tab (Recommended shadow settings, but not required)
+    * Select `Display` in the first drop down - *make sure to press the save button after changing each setting*
+        - `fBlendSplitDirShadow` - set to 0 (high end users may want to try 512 or 1024)
+        - `iDirShadowSplits` - set to 1 (high end users may want to try 2 or 3)
+
+`fBlendSplitDirShadow` and `iDirShadowSplits` control the transition between high res and low res shadows based on how far you are, and the default settings cause a very noticable shadow "draw-in" effect during the transition. It's bad in normal fallout, but with `A Forest`, all the extra trees casting shadows makes it *really* noticeable. These custom settings disable this, and set the shadows to always be low resolution. This results in some flickering from leaves blowing in the wind, but unfortunatetly that is the trade off. Users with high performance GPUs may be able to instead increase the transition distance to 512 or 1028 and set the transition to high quality, however in areas with lots of shadows this will cost you frames, especially at higher shadow resolutions. If you want to try this I suggest testing it in Boston Common.
+
+#### Dynamic Performance Tuner
+DynaPerf.ini can be found in the Stock Game Folder in your MO2 install directory. Any changes made here will need to be repeated after updating the modlist (the wabbajack installer will return these settings to the defaults). The following settings can be tweaked for your machine, I don't recommend adjusting the other settings.
+
+- `fTargetFPS=60`
+    * This is the target FPS dynaperf will attempt to maintain, when your FPS drops below this, dynaperf will reduce your shadow draw distance to compensate. If your system runs at high FPS typically, increasing will prevent FPS reduction at the expense of reduced shadow distance.
+- `fShadowDirDistanceMin=3000`
+    * This is the minimum distance dynaperf will reduce shadow draw to.
+- `fShadowDirDistanceMax=12000` 
+    * This is the maximum distance dynaperf will increase shadow draw to, if you notice stuttering while turning in downtown or other areas with heavy shadow load (especially after staring at the ground for 20-30 seconds), decreasing this will help. Users with high end machines may want to increase this value.
 
 ### In Game Setup
 0. Start a new survival game (recommended, but not required)
@@ -113,7 +139,7 @@ See [How to Wabbajack](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob
         * turn ON savegame -> timed save
     - Sim Settlements 2 (optional)
         * Gameplay -> Resource Complexity to Scrap Categories (this will set SS2 to use a simplified scrap system of 4 scrap types, instead of requiring specific components, but instead of using items in your workbench, you will need to donate material at the city planner desk for your citizens to use them)
-        * Gameplay -> Disease -> Settler disease off (this disables the optional settler disease mechanic, which is mostly just an annoying, extra level of management).
+        * Gameplay -> Disease -> Settler disease off (this disables the optional settler disease mechanic, which is mostly just an annoying, extra level of management, but leave it on if you want).
     - Holotime (optional)
         * Turn status off, exit MCM, re-enter MCM, and turn status on
         * Show time -> off
@@ -124,14 +150,12 @@ See [How to Wabbajack](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob
 3. (Optional) Craft a companion whistle at a chem lab bench, this will teleport any active companion to you, useful when you accidentally tell them to stay and can't find them, or they're screwing with NPC pathing during a quest
 4. (Optional) Craft the companion tracker holotape at the chem lab bench. This allows you to track inactive companions, for cases where you can't remember which settlement you sent them to. 
 
-
 ## Known Issues
 - Nvidia Drivers: The only known instability in the list is the result of newer Nvidia drivers for the 20 series cards. [Read more about it here](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob/main/NvidiaDriverCrash.md)
 - SS2 script failures on new game are the result of going through the opening sequence too quickly. After you finish character creation, wait a couple minutes before trying to exit the bathroom.
 - Cait is missing her shotgun after being recruited. This is a bug with Combat Zone Restored, after recruiting her you can run the following console command
 `00079305.additem 0005df30 1`
 - Sim Settlements quest locations might have awkward trees from A Forest. Please report them, so that I can have the lumberjack clear them out.
-- Preston and Piper's default outfits both can cause them to go invisible, I think its a vanilla bug, I am still trying to discover the exact cause
  
 ## Notable Missing Mods
 - XDI : I don't personally use it or like it. An upcoming version of the list will likely include Dialogue Sneak Peak as a comprimise.
