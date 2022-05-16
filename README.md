@@ -132,6 +132,14 @@ DynaPerf.ini can be found in the Stock Game Folder in your MO2 install directory
 - `fShadowDirDistanceMax=12000` 
     * This is the maximum distance dynaperf will increase shadow draw to, if you notice stuttering while turning in downtown or other areas with heavy shadow load (especially after staring at the ground for 20-30 seconds), decreasing this will help. Users with high end machines may want to increase this value.
 
+#### Nvidia/AMD Control Center
+
+Settings here are going to be very system and driver specific, but some general things to be aware of
+* VSync settings MUST be set to application controlled
+* Know whether you have a Gsync/FreeSync monitor, and whether your GPU supports it.
+* Disable any framerate caps or limits
+* Make sure your drivers are up to date (Unless you are using an Nvidia 20 series GPU).
+
 ### In Game Setup
 0. Start a new survival game (recommended, but not required)
 1. Mod Configuration Menu - Recommended Optional Setting
