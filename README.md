@@ -87,6 +87,10 @@ See [How to Wabbajack](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob
 1. Pick your Profile: "Life in the Ruins", or "Life in the Ruins - CreationClubPaints" if you have the required set of creation club paint jobs
     -  Creation Club Profile - Copy the creation club files from your `fallout4/data directory` into the `[NODELETE] CreationClub Paint Jobs` mod folder. If you CTD when loading or starting a game on the creation club profile, but not on the normal profile, then you've hit the BA2 limit (it seems to vary from user to user)- and you will need to unpack and repack the BSAs into combined BSAs to free up some slots.
 2. (Optional) Download and install into the mod `[NODELETE] Cross Skin Packs` the Strigidae and Brotherhood Recon Expeditionary Suit, and Cross Break Action Laser skin packs from https://gumroad.com/niero. They're available for free (use the discount code), but a donation is suggested. The man makes some fantastic mods, and you can probably afford to buy him a coffee.
+    * (Cross Courser Strigidae Full 4k)[https://niero.gumroad.com/l/brocmon]
+    * (Institute Expeditionary Suit Full 4k)[https://niero.gumroad.com/l/sUxGr]
+    * (Break Action Laser Skin Pack)[https://niero.gumroad.com/l/fhdhdh]
+    * (Brotherhood Recon Full 4k)[https://niero.gumroad.com/l/smyb]
 3. The `Difficulty and Customisation` section in Mod Organizer - for people who want to tweak thing a little.
     * `[NODELETE] Cross Skin Packs` : the downloaded cross skins go here
     * `QoL Tweaks` : Minor quality of life tweaks, disable any you don't want
