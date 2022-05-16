@@ -135,10 +135,10 @@ DynaPerf.ini can be found in the Stock Game Folder in your MO2 install directory
 #### Nvidia/AMD Control Center
 
 Settings here are going to be very system and driver specific, but some general things to be aware of
-* VSync settings MUST be set to application controlled
-* Know whether you have a Gsync/FreeSync monitor, and whether your GPU supports it.
+* VSync settings MUST be set to application controlled 
 * Disable any framerate caps or limits
 * Make sure your drivers are up to date (Unless you are using an Nvidia 20 series GPU).
+* If you have FreeSync/Gsync enabled, then you need to also enable either the 90 or 120 FPS NoVsync options in the customization section.
 
 ### In Game Setup
 0. Start a new survival game (recommended, but not required)
