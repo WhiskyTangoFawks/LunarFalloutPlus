@@ -1,10 +1,33 @@
 # Changelog
 
+# 2.0.2
+- Added
+    * FallUI Icon Library
+    * FallUI Item Sorter
+    * FallUI Confirm
+    * See Region Names On Saves
+- Updated
+    * Sim Settlements 2
+    * Complex Item Sorter
+    * 4estGimp - M8r98a4f2's Complex Item Sorter Enhancements
+    * Random Valuables Redux
+    * FallUI Map
+    * FallUI HUD
+    * FallUI Inventory
+    * Faction Distribution Framework
+    * Lunar NONE patch pack
+- Removed
+- Misc
+    * Fixed damage settings plugins not working
+    * Fixed pump-action shotgun crafting
+    * Added Optional plugin to enable PipboyFX in customization section
+    * unpacked UNPC Main File (reported issues with one of the meshes)
+
 # 2.0.1.1 Hotfix
 
-This is a hotfix try and address the recuring infinite loading screen issue some users have been having. I believe the root cause was related to vsync settings and windowed mode for users, possibly interacting with GSync/FreeSync settings.
+This is a hotfix try and address the recuring infinite loading screen issue some users have been having. I believe the root cause was related to vsync settings and windowed mode for users, possibly interacting with GSync/FreeSync settings. It also includes a hotfix for Workshop Framework that was preventing some SS2 quests from progressing.
 
-This also includes a swap to using the standard system game INI files, instead of profile ones. It's caused confusion in the past, and makes it harder to optimise your settings and update the list. See the (readme)[https://github.com/WhiskyTangoFawks/LunarFalloutPlus#readme] for settings recommendations.
+This also includes a swap to using the standard system game INI files, instead of profile ones. It's caused confusion in the past, and makes it harder to optimise your settings and update the list, and may have contributed to the ILS issues. See the (readme)[https://github.com/WhiskyTangoFawks/LunarFalloutPlus#readme] for settings recommendations.
 
 - Added
     * Bethini
@@ -17,6 +40,7 @@ This also includes a swap to using the standard system game INI files, instead o
 # 2.0.1 
 - Added
     * Fallout 4 HD Overhaul Cubemap Fix Loose Files
+    * Non generic vats sound effects
 - Updated
     * Complex Item Sorter
     * 4estGimp - M8r98a4f2's Complex Item Sorter Enhancements

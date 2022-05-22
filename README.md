@@ -94,7 +94,6 @@ See [How to Wabbajack](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob
 3. The `Difficulty and Customisation` section in Mod Organizer - for people who want to tweak thing a little.
     * `[NODELETE] Cross Skin Packs` : the downloaded cross skins go here
     * `QoL Tweaks` : Minor quality of life tweaks, disable any you don't want
-    * `Vanilla Hud - No Sneak Indicator` : Removes the sneak indicator from the HUD
     * `More Dangerous Deathclaws` : makes deathclaws faster at lower health
     * `LFO Hardcore Patch` : see https://www.nexusmods.com/fallout4/articles/3431/ for details. I just makes loot a bit rarer. Recommended.
     * `Survival difficulty`: The default is `Difficulty-Normal`. If you want an easier or harder damage levels, choose one of the other optional files
