@@ -1,5 +1,14 @@
 # Changelog
 
+# 2.0.2.1
+- Added
+- Updated
+    * Diamond City Radio Extended
+    * FallUI Inventory
+- Misc
+    * Fixed Drumlin Diner precombine conflict
+    * Fixed sorting for Greaser Outfit
+
 # 2.0.2
 - Added
     * FallUI Icon Library
