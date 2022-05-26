@@ -111,7 +111,7 @@ You are responsible for setting up your own INIs. The list ships with a copy of 
     * Check that the game path is pointing to the `Stock Game Folder`, and not your steam installation
     * Check that the mod organizer path is pointing to the correct instance of MO2 for Life in the Ruins.
 3. `Basic` Tab
-    * Choose a profile one step lower than you would use for vanilla fallout. If you normally would run on Ultra, pick High. LitR is significantly heavier than vanilla fallout.
+    * Choose a profile at least one step lower than you would use for vanilla fallout. For most users with less than a 3090 I recommend medium, LitR is significantly heavier than vanilla fallout. (The shorter draw distances on medium make A Forest much easier to run, and A Forest makes it so you can see stuff way in the distance anyway)
     * For most users, 1920x1080 resolution is recommended.
     * Leave `VSync` disabled here, the `High FPS Physics Fix` mod controls VSync, and any settings here will be ignored
 3. `Detail` tab (Recommended but not required)
