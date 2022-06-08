@@ -59,11 +59,11 @@ Requires wabbajack - https://www.wabbajack.org/#/
 - This modlist must be installed on an SSD.
 - This modlist requires at least 6gb of Vram.
 
-The modlist is designed for relatively modern, middle range hardware. A high end graphics card is not required, but it does help (I am currently playing with a 6600xt, and FPS is consistently capped above 90 outside of Diamond City and Boston Commons, where it does drop for me).
+The modlist is designed for relatively modern, middle range hardware. A high end graphics card is not required, but it does help (I am currently playing with a 6500xt, and FPS is mostly capped above 90 outside of Diamond City and Boston Commons, where it does drop for me).
 
 #### If you have less than 6gb of vram, or the list otherwise performs badly for you
 - Do not try to run the list above 1080p, 1440 in fallout is a performance killer
-- Replace the texture BSAs in the stock folder with the [PhyOP textures](https://www.nexusmods.com/fallout4/mods/27038). Disable the other texture mods.
+- Replace the texture BSAs in the stock folder with the Vanilla textures, or for more performance use [PhyOP textures](https://www.nexusmods.com/fallout4/mods/27038). Disable the other texture mods.
 - Reducing the grass density/diversity by editting the ini file in the True Grass mod
 - Disable the ENB (press * to show FPS, then press shift + F12 to disable ENB processing to see if it makes a difference).
 - Reduce minimum shadow draw distance in DynaPerf.ini in the stock game folder
@@ -96,32 +96,38 @@ See [How to Wabbajack](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob
     * `QoL Tweaks` : Minor quality of life tweaks, disable any you don't want
     * `More Dangerous Deathclaws` : makes deathclaws faster at lower health
     * `LFO Hardcore Patch` : see https://www.nexusmods.com/fallout4/articles/3431/ for details. I just makes loot a bit rarer. Recommended.
-    * `Survival difficulty`: The default is `Difficulty-Normal`. If you want an easier or harder damage levels, choose one of the other optional files
+    * `Survival difficulty`: If you want an easier or harder damage levels, enable one of the optional files
     * `Start Me Up - Skip Pre-War Prologue` Optional mod that allows you to skip the pre-war prologue
     * `90FPS No VSYNC` : If you run a high refresh rate monitor with GSync/FreeSync, this will disable vsync, and cap the framerate at 90. 
     * `120FPS No VSYNC` : As above, just capped at 120.
         - f you are running either of these, it is recommended that in dynaperf.ini in the stock game folder you increase fTargetFPS to 75 or 90.
 
 ### Game INI Settings
-You are responsible for setting up your own INIs. The list ships with a copy of BethINI in the /tools folder. Alternatively, the list includes some recommended ini settings that should work for most users, that can be enabled by ticking the `use profile specific game INI files` in the manage profiles option in the profiles dropdown menu for the profile you are using (you will need to re-tick this option after every update, alternatively you can copy-paste the files over your system ones).
+You have 2 options for your game configuration ini files
+- Option 1) Enable the profile specific ini to use the default configuration that ships with the modlist
+    * In the profiles drop down menu, select `manage`, select your profile, tick `use profile specific game INI files`
+    * You will need to repeat this step every time you update the modlist
 
-#### Bethini
-1. Close Mod Organizer, and open BethINI
-2. `Setup` tab 
-    * Check that the game path is pointing to the `Stock Game Folder`, and not your steam installation
-    * Check that the mod organizer path is pointing to the correct instance of MO2 for Life in the Ruins.
-3. `Basic` Tab
-    * Choose a profile at least one step lower than you would use for vanilla fallout. For most users with less than a 3090 I recommend medium, LitR is significantly heavier than vanilla fallout. (The shorter draw distances on medium make A Forest much easier to run, and A Forest makes it so you can see stuff way in the distance anyway)
-    * For most users, 1920x1080 resolution is recommended.
-    * Leave `VSync` disabled here, the `High FPS Physics Fix` mod controls VSync, and any settings here will be ignored
-3. `Detail` tab (Recommended but not required)
-    * Disable `motion blur`, `godrays`, and `depth of field` (I don't like them, and suggest disabling, but whatever you want)
-    * Increase the `shadow resolution` to at least 2048
-    * Ignore `Exterior Draw Distance`, with Dynamic Performance Tuner installed, this setting does nothing.
-4.  `Custom` Tab (Recommended shadow settings, but not required)
-    * Select `Display` in the first drop down - *make sure to press the save button after changing each setting*
-        - `fBlendSplitDirShadow` - set to 0 (high end users may want to try 512 or 1024)
-        - `iDirShadowSplits` - set to 1 (high end users may want to try 2 or 3)
+-  Option 2) Setup your own ini files with Bethini
+    1. Close Mod Organizer, and open BethINI
+    2. `Setup` tab 
+        * Check that the game path is pointing to the `Stock Game Folder`, and not your steam installation
+        * Check that the mod organizer path is pointing to the correct instance of MO2 for Life in the Ruins.
+        * Check that your game settings path is set to `my documents/my games/fallout 4`
+    3. `Basic` Tab
+        * Choose a profile at least one step lower than you would use for vanilla fallout. For most users with less than a 3090 I recommend medium, LitR is significantly heavier than vanilla fallout. (The shorter draw distances on medium make A Forest much easier to run, and A Forest makes it so you can see stuff way in the distance anyway)
+        * For most users, 1920x1080 resolution is recommended.
+        * Enable `VSync` unless you're using Gsync/FreeSync (the `High FPS Physics Fix` mod controls VSync and this settings should be ignored, but having it match here doesn't hurt)
+    3. `Detail` tab (Recommended but not required)
+        * Disable `motion blur`, `godrays`, and `depth of field` (I don't like them, and suggest disabling, but whatever you want)
+        * Increase the `shadow resolution` to at least 2048
+        * Ignore `Exterior Draw Distance`, with Dynamic Performance Tuner installed, this setting does nothing.
+    4.  `Custom` Tab (Recommended settings, but not required)
+        * Select `Display` in the first drop down - *make sure to press the save button after changing each setting*
+            - `fBlendSplitDirShadow` - set to 0 (high end users may want to try 512 or 1024)
+            - `iDirShadowSplits` - set to 1 (high end users may want to try 2 or 3)
+        * Select `Papyrus` in the first drop down - *make sure to press the save button after changing each setting*
+            - `fUpdateBudgetMS` - set this to 2.4 (normally, messing with the budget settings will degrade performance, but because HighFPSPhysics is able to dynamically turn this down, this gives the scripting engine more resources, but only when it needs it)
 
 `fBlendSplitDirShadow` and `iDirShadowSplits` control the transition between high res and low res shadows based on how far you are, and the default settings cause a very noticable shadow "draw-in" effect during the transition. It's bad in normal fallout, but with `A Forest`, all the extra trees casting shadows makes it *really* noticeable. These custom settings disable this, and set the shadows to always be low resolution. This results in some flickering from leaves blowing in the wind, but unfortunatetly that is the trade off. Users with high performance GPUs may be able to instead increase the transition distance to 512 or 1028 and set the transition to high quality, however in areas with lots of shadows this will cost you frames, especially at higher shadow resolutions. If you want to try this I suggest testing it in Boston Common.
 

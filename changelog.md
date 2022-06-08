@@ -1,5 +1,51 @@
 # Changelog
 
+# 2.0.3
+
+After the DCRE update, if you experience the looping song issue, run the following console commands
+stopquest DiamondCityRadio
+startquest DiamonCityRadio
+
+- Added
+    * Railroad Redone Improved
+    * I'm talking to you
+    * Fallout Incursion Theme Main Menu Music Replacer
+    * Lush Main Menu Replacer
+    * Radium - A Music Mod
+    * A Forest - Tree Trim
+    * Wattz 3000 Sound and Reverb Update
+- Updated
+    * Diamond City Radio Extended
+    * FallUI Item Sorter
+    * Creative Perks Plus (Added Fortune Finder chance for legendary items in safes)
+    * Simple Power Armor Damage Threshold (Removed massive buff for armor piercing weapons against PA)
+    * Creative Perks
+    * Creative Perks Plus
+    * 4estGimp's Complex Item Sorter Enhancements
+    * SS2 Ruined Homes and Gardens
+- Removed
+    * Optimization Patches Collection
+    * Baseball Bat Grips
+    * Restore PA Frames (no longer necessary since the removal of Some Assembly Required)
+- Misc
+    * Repacked ~30 texture mods into the base game BA2s
+    * Diamond City Expansion downgraded to version 1.5.1 (1.6 broke something which prevents precombine regeneration, which I need for future patching)
+    * Swapped NONE low verion for NONE Standard. This should give a decent buff to non-armor builds.
+    * Added weavable clothing to the legendary spawns list
+    * Moved "Normal" damage plugin into optional folder, to use Lunar survival damage levels. Default damage for the list in survival mode will be increased very slightly as a result.
+    * Patched added interiors for Clarity fog values
+    * Fixed Raider PA recipes
+    * Fixed pump shotgun reciever damage calculation
+    * Fixed Gunmetal Raider Armor installation
+    * Buffed Raider Power Armor health slightly
+
+    ## Patreon Dev Profile
+        * Dialogue Sneak Peak
+        * New Bobbleheads
+        * Ketaro's Magazines
+        * Unbogus Lunchboxes
+        * More Toys
+
 # 2.0.2.1
 - Added
 - Updated
