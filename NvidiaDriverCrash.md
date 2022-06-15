@@ -46,6 +46,11 @@ No. But it will cut the legs out of a lot of the common crashes. Concord and Dia
 
 I generally play Skyrim, FNV/4, PGA 21 and FH5 with some Warzone sprinkled in, outside of warzone, everything I play is on the 442 revision. Warzone will launch on the 442's just fine, but i suspect it stealth updates your driver to the 470 series. since theres no other reason i think that could be the reason for my driver to go from 442 to the 470 series last week only noticed it when i checked my temps on afterburner
 
+# I have a 20 series notebook, which driver should I use?
+From user Lukko on the discord: 
+After running around Diamond City for about an hour. Multiple exit saves and generally being a nuisance with the TGM command, I'd like to suggest Nvidia driver 472.12 for 20 series notebook users. My 2070 super cannot rollback to 442.74 and after going through revisions one-by-one 472.12 let me play through Concord with no fuss and put up with my testing in Diamond City with only one crash. (Not an Nvidia crash just a regular one lol)
+
+
 ## Where to download
 
 https://international.download.nvidia.com/Windows/442.74/442.74-desktop-win10-64bit-international-whql.exe
