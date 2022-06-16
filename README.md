@@ -49,6 +49,12 @@ Requires wabbajack - https://www.wabbajack.org/#/
 - Check out the [LitR Survival Tips and Tricks](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob/main/LitR%20Tips%20and%20Tricks.md)
 - Perks have increasing SPECIAL requirements, and specials can be trained past 10.
 - Power armour is more powerful, but rare, and fusion cores are harder to come by and won't always be full. You also don't get to keep the T45 you find in Concord, other power armor frames will be fine though.
+    * Power Armor Repair requires perks, but unfortunatly this isn't displayed in the UI
+        1. Raider - Armorer 2
+        2. T45 - Armorer 2 + Science 1
+        3. T60 - Armorer 2 + science 2
+        4. T51 - Armorer 3 + science 1
+        5. X01 - Armorer 4 + Science 2 + Nuclear Physicist 1
 - Shoot/Kick/Explode locks open. Read the nexus page for [LockyBastard](https://www.nexusmods.com/fallout4/mods/13380).
 - Survival fast travel is available early game by taking the Local Leader Perk and building a provisioner network, or later on by building the SS2 Caravan plot. If you want an easier fast travel, you can enable the optional Explorer perk unlock for it, or just enable it fully via unlimited survival.
 - You don't need to stimpack your companions after combat, the survival requirement to use a stimpack to get them up is disabled.
@@ -85,7 +91,7 @@ See [How to Wabbajack](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob
 ## Additional Setup (post wabbajack installation)
 ### Customisation
 1. Pick your Profile: "Life in the Ruins", or "Life in the Ruins - CreationClubPaints" if you have the required set of creation club paint jobs
-    -  Creation Club Profile - Copy the creation club files from your `fallout4/data directory` into the `[NODELETE] CreationClub Paint Jobs` mod folder. If you CTD when loading or starting a game on the creation club profile, but not on the normal profile, then you've hit the BA2 limit (it seems to vary from user to user)- and you will need to unpack and repack the BSAs into combined BSAs to free up some slots.
+    -  Creation Club Profile - Copy the creation club files from your `fallout4/data directory` into the `[NODELETE] CreationClub Paint Jobs` mod folder. If you CTD when loading or starting a game on the creation club profile, but not on the normal profile, then you've hit the BA2 limit (it seems to vary from user to user, but adding 60 ba2s for the creation club definitely has the potential to kick you over it)- and you will need to unpack and repack the BSAs into combined BSAs to free up some slots.
 2. (Optional) Download and install into the mod `[NODELETE] Cross Skin Packs` the Strigidae and Brotherhood Recon Expeditionary Suit, and Cross Break Action Laser skin packs from https://gumroad.com/niero. They're available for free (use the discount code), but a donation is suggested. The man makes some fantastic mods, and you can probably afford to buy him a coffee.
     * [Cross Courser Strigidae Full 4k](https://niero.gumroad.com/l/brocmon)
     * [Institute Expeditionary Suit Full 4k](https://niero.gumroad.com/l/sUxGr)
@@ -103,12 +109,7 @@ See [How to Wabbajack](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob
         - f you are running either of these, it is recommended that in dynaperf.ini in the stock game folder you increase fTargetFPS to 75 or 90.
 
 ### Game INI Settings
-You have 2 options for your game configuration ini files
-- Option 1) Enable the profile specific ini to use the default configuration that ships with the modlist
-    * In the profiles drop down menu, select `manage`, select your profile, tick `use profile specific game INI files`
-    * You will need to repeat this step every time you update the modlist
-
--  Option 2) Setup your own ini files with Bethini
+How to Setup your own ini files with Bethini
     1. Close Mod Organizer, and open BethINI
     2. `Setup` tab 
         * Check that the game path is pointing to the `Stock Game Folder`, and not your steam installation
@@ -118,18 +119,14 @@ You have 2 options for your game configuration ini files
         * Choose a profile at least one step lower than you would use for vanilla fallout. For most users with less than a 3090 I recommend medium, LitR is significantly heavier than vanilla fallout. (The shorter draw distances on medium make A Forest much easier to run, and A Forest makes it so you can see stuff way in the distance anyway)
         * For most users, 1920x1080 resolution is recommended.
         * Enable `VSync` unless you're using Gsync/FreeSync (the `High FPS Physics Fix` mod controls VSync and this settings should be ignored, but having it match here doesn't hurt)
-    3. `Detail` tab (Recommended but not required)
-        * Disable `motion blur`, `godrays`, and `depth of field` (I don't like them, and suggest disabling, but whatever you want)
-        * Increase the `shadow resolution` to at least 2048
-        * Ignore `Exterior Draw Distance`, with Dynamic Performance Tuner installed, this setting does nothing.
-    4.  `Custom` Tab (Recommended settings, but not required)
-        * Select `Display` in the first drop down - *make sure to press the save button after changing each setting*
-            - `fBlendSplitDirShadow` - set to 0 (high end users may want to try 512 or 1024)
-            - `iDirShadowSplits` - set to 1 (high end users may want to try 2 or 3)
-        * Select `Papyrus` in the first drop down - *make sure to press the save button after changing each setting*
-            - `fUpdateBudgetMS` - set this to 2.4 (normally, messing with the budget settings will degrade performance, but because HighFPSPhysics is able to dynamically turn this down, this gives the scripting engine more resources, but only when it needs it)
+    
+The following default settings have now been set for you, courtesy of 
+   * Disabled `motion blur`, `godrays`, `lense flare`, and `depth of field` (I don't like them, and suggest disabling, but whatever you want)
+   * `fBlendSplitDirShadow` - set to 0 (high end users may want to try 512 or 1024)
+   * `iDirShadowSplits` set to 1
+   * `fUpdateBudgetMS` - set this to 2.4 (normally, messing with the budget settings will degrade performance, but because HighFPSPhysics is able to dynamically turn this down, this gives the scripting engine more resources, but only when it needs it)
 
-`fBlendSplitDirShadow` and `iDirShadowSplits` control the transition between high res and low res shadows based on how far you are, and the default settings cause a very noticable shadow "draw-in" effect during the transition. It's bad in normal fallout, but with `A Forest`, all the extra trees casting shadows makes it *really* noticeable. These custom settings disable this, and set the shadows to always be low resolution. This results in some flickering from leaves blowing in the wind, but unfortunatetly that is the trade off. Users with high performance GPUs may be able to instead increase the transition distance to 512 or 1028 and set the transition to high quality, however in areas with lots of shadows this will cost you frames, especially at higher shadow resolutions. If you want to try this I suggest testing it in Boston Common.
+`fBlendSplitDirShadow` and `iDirShadowSplits` control the transition between high res and low res shadows based on how far you are, and the default settings cause a very noticable shadow "draw-in" effect during the transition. It's bad in normal fallout, but with `A Forest`, all the extra trees casting shadows makes it *really* noticeable. These custom settings disable this, and set the shadows to always be low resolution. This results in some flickering from leaves blowing in the wind, but unfortunatetly that is the trade off. Users with high performance GPUs may be able to instead increase the transition distance to 512 or 1028 and set the transition to high quality, however in areas with lots of shadows this will cost you frames, especially at higher shadow resolutions (trying it on my rig resulted in a LOT of extra stuttering in downtown boston). If you want to try this I suggest testing it in Boston Common, or other high performance req area.
 
 #### Dynamic Performance Tuner
 DynaPerf.ini can be found in the Stock Game Folder in your MO2 install directory. Any changes made here will need to be repeated after updating the modlist (the wabbajack installer will return these settings to the defaults). The following settings can be tweaked for your machine, I don't recommend adjusting the other settings.
@@ -138,8 +135,8 @@ DynaPerf.ini can be found in the Stock Game Folder in your MO2 install directory
     * This is the target FPS dynaperf will attempt to maintain, when your FPS drops below this, dynaperf will reduce your shadow draw distance to compensate. If your system runs at high FPS typically, increasing will prevent FPS reduction at the expense of reduced shadow distance.
 - `fShadowDirDistanceMin=3000`
     * This is the minimum distance dynaperf will reduce shadow draw to.
-- `fShadowDirDistanceMax=12000` 
-    * This is the maximum distance dynaperf will increase shadow draw to, if you notice stuttering while turning in downtown or other areas with heavy shadow load (especially after staring at the ground for 20-30 seconds), decreasing this will help. Users with high end machines may want to increase this value.
+- `fShadowDirDistanceMax=9000` 
+    * This is the maximum distance dynaperf will increase shadow draw to, if you notice stuttering while turning in downtown or other areas with heavy shadow load (especially after staring at the ground for 20-30 seconds), decreasing this will help. Users with very high end machines may want to increase this value.
 
 #### Nvidia/AMD Control Center
 

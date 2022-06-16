@@ -1,5 +1,46 @@
 # Changelog
 
+# 2.0.4 - Collect 'em All
+
+Important Additions to note include a bunch of collectibles, Dialogue Sneak Peek, Power Armor to the People
+
+Profile specific INIs have been removed. If you were using them before, you NEED to run bethini to setup your system inis. I've pre-moddified the medium and high bethini presets included with the lists bethini install with my recommended tweaks for the list (see the updated readme for more details).
+
+- Added
+    * Dialogue Sneak Peak
+    * New Bobbleheads
+    * Ketaro's Magazines
+    * Unbogus Lunchboxes
+    * More Toys
+    * Tales from the Commonwealth - Facegen data
+    * Power Armor to the People
+    * Lore Based Power Armor Changes to the People
+    * Consistent Power Armor Overhaul
+    * Minutemen Paint Jobs
+    * Gunner Outfit Pack (Just the PA Paint jobs)
+    * More Valid Locations for Radiant Quests
+    * Shortcut to Curie (Alternate version)
+- Updated
+    * Radium
+    * Buffout4
+    * Creative Perks Plus (Gumshoe 02 now grats 25% of ER, and 10% of Rad Resist to Armor)
+    * Fallout 4 HD Overhaul
+    * Wattz Laser Unofficial Update
+- Removed
+    * Scrappable Power Armor Pieces (redundant with Power Armor to the People)
+    * Leaf Blower Junk Jet
+- Misc
+    * Custom INIs now ship with the modlist as BethINI medium and high presets (if someone wants a low I can do that too, and seriously, don't bother trying to run this list on ultra)
+    * Reorganized nexus downloads for a handful of my patch mods, no major content changes though
+    * Repacked Power Armor Frame Retexture into the base game BSAs
+    * A few outfits changed from underarmor to full outfits, added legendary effects to quest reward clothing
+    * Power Armor Repair requirements have changed
+        1. Raider - Armorer 2
+        2. T45 - Armorer 2 + Science 1
+        3. T60 - Armorer 2 + science 2
+        4. T51 - Armorer 3 + science 1
+        5. X01 - Armorer 4 + Science 2 + Nuclear Physicist 1
+
 # 2.0.3
 
 After the DCRE update, if you experience the looping song issue, run the following console commands
@@ -29,7 +70,6 @@ startquest DiamonCityRadio
     * Restore PA Frames (no longer necessary since the removal of Some Assembly Required)
 - Misc
     * Repacked ~30 texture mods into the base game BA2s
-    * Diamond City Expansion downgraded to version 1.5.1 (1.6 broke something which prevents precombine regeneration, which I need for future patching)
     * Swapped NONE low verion for NONE Standard. This should give a decent buff to non-armor builds.
     * Added weavable clothing to the legendary spawns list
     * Moved "Normal" damage plugin into optional folder, to use Lunar survival damage levels. Default damage for the list in survival mode will be increased very slightly as a result.
