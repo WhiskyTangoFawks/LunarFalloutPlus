@@ -41,7 +41,7 @@ Requires wabbajack - https://www.wabbajack.org/#/
 - [Gunmetal Weapon and Armor Skins](https://www.nexusmods.com/fallout4/mods/51233)
  
 ### Optional Creation Club Content Compatibility
-- Weapons and Armour Skins (Faction Distribution Framework will distribute faction based weapon and armour skins into the world)
+- [Weapons and Armour Skins](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob/main/CreationClubContent.md) Faction Distribution Framework will distribute faction based weapon and armour skins into the world- see the link for more details
  
 ### [Full List of Mods at LoadOrderLibrary](https://loadorderlibrary.com/lists/life-in-the-ruins-2)
  
@@ -91,7 +91,7 @@ See [How to Wabbajack](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob
 ## Additional Setup (post wabbajack installation)
 ### Customisation
 1. Pick your Profile: "Life in the Ruins", or "Life in the Ruins - CreationClubPaints" if you have the required set of creation club paint jobs
-    -  Creation Club Profile - Copy the creation club files from your `fallout4/data directory` into the `[NODELETE] CreationClub Paint Jobs` mod folder. If you CTD when loading or starting a game on the creation club profile, but not on the normal profile, then you've hit the BA2 limit (it seems to vary from user to user, but adding 60 ba2s for the creation club definitely has the potential to kick you over it)- and you will need to unpack and repack the BSAs into combined BSAs to free up some slots.
+    -  Creation Club Profile - Copy the creation club files from your `fallout4/data directory` into the `[NODELETE] CreationClub Paint Jobs` mod folder. If you CTD immediately on load on the Creation Club profile, but not on the regular profile, then you've hit your BSA limit, and need to repack the creation club content, [see here for more details](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob/main/CreationClubContent.md)
 2. (Optional) Download and install into the mod `[NODELETE] Cross Skin Packs` the Strigidae and Brotherhood Recon Expeditionary Suit, and Cross Break Action Laser skin packs from https://gumroad.com/niero. They're available for free (use the discount code), but a donation is suggested. The man makes some fantastic mods, and you can probably afford to buy him a coffee.
     * [Cross Courser Strigidae Full 4k](https://niero.gumroad.com/l/brocmon)
     * [Institute Expeditionary Suit Full 4k](https://niero.gumroad.com/l/sUxGr)
