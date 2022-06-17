@@ -1,42 +1,22 @@
 ### Pre-Installation
 
-You need a legal copy of Fallout 4 through Steam, with all DLCs **EXCEPT** the High Definition DLC. This should not be used in any case ever.
+You need a legal copy of Fallout 4 through Steam, with all DLCs **EXCEPT** the High Definition DLC. You don't need this.
 
 These steps are only needed if you install this Modlist for the first time. If you update the Modlist, jump straight to [Updating](#updating).
 
 #### Installing Microsoft Visual C++ Redistributable Packages
 
-These packages are required for MO2 and for the BiRaitBec Texture Optimization step respectively, and you can download them from [Microsoft](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads).
-
-##### Visual Studio 2015, 2017, 2019, and 2022
-
-Download the x64 version under [Visual Studio 2015, 2017, 2019, and 2022](https://docs.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022).
-
-[Direct Link](https://aka.ms/vs/17/release/vc_redist.x64.exe) if you can't find it.
-
-##### Visual Studio 2012 (VC++ 11.0) Update 4
-
-Download the x64 version under [Visual Studio 2012 (VC++ 11.0) Update 4](https://docs.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2012-vc-110-update-4).
-
-[Direct Link](https://download.microsoft.com/download/1/6/B/16B06F60-3B20-4FF2-B699-5E9B7962F9AE/VSU_4/vcredist_x64.exe) if you can't find it.
+These packages are required for MO2, and you can download them from [Microsoft](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads)
 
 #### Steam Config
-
-##### Disable the Steam Overlay
+1. Disable the Steam Overlay
 
 The Steam Overlay can cause issues with ENB and is recommended to be turned off.
 
 Open the Properties window (right click the game in your Library->Properties), navigate to the _General_ tab and un-tick the _Enable the Steam Overlay while in-game_ checkbox.
 
-#### Change Steams Update Behavior
-
-Fallout 4 is still being updated by Bethesda (they only add Creation Club content). Whenever the game updates, the entire modding community goes silent for the next one or two weeks because some mods need to be updated to the latest game runtime version.
-
-To ensure that Steam does not automatically updates the game for you, head over to the Properties window, navigate to the _Updates_ tab and change _Automatic updates_ to _Only update this game when I launch it_. You should also disable the Steam Cloud while you're at it.
-
-#### Clean Fallout 4
-
-I highly recommend uninstalling the game through Steam, deleting the game folder and reinstalling it. You should also clean up the `Fallout 4` folder in `Documents/My Games/`. **Make sure you run the game once** to establish your registry path - otherwise, Wabbajack will be unable to locate the game directory, and thus cannot install the modlist.
+2. Clean Fallout 4
+Verify your game files in steam, and run the game from steam.
 
 ### Using Wabbajack
 
@@ -70,8 +50,6 @@ Wabbajack will not work with a pirated version of the game. If you own the game 
 #### Launching the Game
 
 Launch ModOrganizer.exe from inside your installation folder you chose for Wabbajack. Make sure the bar on the right side says `Play Life in the Ruins` and click Run. **You need to launch the game in this exact way every time in order to play with the installed mods.**
-
-You may notice some mods are deactivated. These are for the Creation Club profile. Please see the [Creation Club Support](#creation-club-support) section a bit further down for more information.
 
 ## Updating
 
