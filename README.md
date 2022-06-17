@@ -87,6 +87,10 @@ See [How to Wabbajack](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob
 *This is a large modlist, with several large downloads, including several large sets of textures. Nexus Premium is __highly__ recommended for the initial download, expect the initial download and installation to take at least an hour with premium.*
 
 - HD DLC is NOT required, however because this modlist uses a stock game folder, rather than your game folder in steam, if you do have the HD DLC installed Life in the Ruins will ignore it.
+
+### Solving Common Wabbajack Installation Problems
+* Set your game language to English if you have the game in another language- the installer does not work in other languages
+* Verify you game files in steam, then run the game through steam, then repeat the installation
   
 ## Additional Setup (post wabbajack installation)
 ### Customisation
@@ -166,10 +170,8 @@ Settings here are going to be very system and driver specific, but some general 
 
 ## Known Issues
 - Nvidia Drivers: The only known instability in the list is the result of newer Nvidia drivers for the 20 series cards. [Read more about it here](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob/main/NvidiaDriverCrash.md)
+- Infinite Loading Screens: A handful of users have experienced infinite loading screens. This is an issue with the combination of Boarderless/Full Screen, Vsync settings, and adaptive/high sync monitors, that I haven't discovered a solution for, as I am unable to replicate the problem.
 - SS2 script failures on new game are the result of going through the opening sequence too quickly. After you finish character creation, wait a couple minutes before trying to exit the bathroom.
-- Cait is missing her shotgun after being recruited. This is a bug with Combat Zone Restored, after recruiting her you can run the following console command
-`00079305.additem 0005df30 1`
-- Sim Settlements quest locations might have awkward trees from A Forest. Please report them, so that I can have the lumberjack clear them out.
  
 ## Notable Missing Mods
 - XDI : I don't personally use it or like it. An upcoming version of the list will likely include Dialogue Sneak Peak as a comprimise.
