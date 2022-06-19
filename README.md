@@ -110,7 +110,7 @@ See [How to Wabbajack](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob
     * `Start Me Up - Skip Pre-War Prologue` Optional mod that allows you to skip the pre-war prologue
     * `90FPS No VSYNC` : If you run a high refresh rate monitor with GSync/FreeSync, this will disable vsync, and cap the framerate at 90. 
     * `120FPS No VSYNC` : As above, just capped at 120.
-        - f you are running either of these, it is recommended that in dynaperf.ini in the stock game folder you increase fTargetFPS to 75 or 90.
+        - If you are running either of these, it is recommended that in dynaperf.ini in the stock game folder you increase fTargetFPS to 75 or 90.
 
 ### Game INI Settings
 How to Setup your own ini files with Bethini
