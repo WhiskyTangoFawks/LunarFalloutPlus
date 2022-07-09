@@ -1,5 +1,24 @@
 # Changelog
 
+# 2.0.5
+- Added
+- Updated
+    * Wetness Shader
+    * Recruit Clinton and Charlie
+    * Classic Holstered Weapons
+    * Wattz Laser Gun Unofficial Update
+    * A Forest Tree Trim
+    * Random Valuables Redux
+    * 4estGimp - M8r Complex Item Sorter Enhancements
+    * F4SE
+    * Creative Perks Plus - Ultimate Hacking
+- Misc
+    * Reorganized lunar weapons patches into separate mods
+    * Disabled forceMemory by default in ENB
+    * Disabled NVFlex in the bethini presets (nvidia users may see minor stability improvements by rerunning bething, and reapplying the preset)
+    * Fixed missing textures from The Bleachers
+    * Swapped beretta animation over to replacer version
+
 # 2.0.4 - Collect 'em All
 
 Important Additions to note include a bunch of collectibles, Dialogue Sneak Peek, Power Armor to the People
