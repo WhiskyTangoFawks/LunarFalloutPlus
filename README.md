@@ -76,11 +76,6 @@ The modlist is designed for relatively modern, middle range hardware. A high end
 
 Some or all of these tweaks may allow the list to run better below the minimum requirements.
 
-#### WARNING - Nvidia 20 Series Users
-Modern nvidia 20 series drivers have incompatibilities with Fallout 4, and you will need to roll back your drivers. [Read this for more information] (https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob/main/NvidiaDriverCrash.md)
-
-I've also had reports of Dynaperf causing issues with Nvidia 20 series cards. If you get any crashes with Dxgi.dll as the cause, go ahead and delete dxgi.dll from the stock game folder.
-
 ## Wabbajack Installation
 See [How to Wabbajack](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob/main/How%20To%20Wabbajack.md) for detailed instructions on using wabbajack to install the modlist
  
