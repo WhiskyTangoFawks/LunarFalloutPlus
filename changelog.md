@@ -1,5 +1,28 @@
 # Changelog
 
+# 2.0.6
+- Added
+    * Legendaries They Can Use
+    * Whisky's Power Armor Repairs
+    * Immersive Paintjob Unlocks Patches
+- Updated
+    * Boston FPS Fix PRP Edition
+    * Lunar Fallout Overhaul
+    * Ultimate Hacking
+    * Wattz 3000 Sound and Reverb Upgrade
+    * Lunar Fallout Overhaul Super Mutant Redux Patch
+    * Wetness Shader Fix
+    * Radium A music Mod
+    * Whisky's Tune's A Music Mod Merge Patch
+    * SS2
+    * SS2 Chapter 2
+    * Workshop Framework
+- Removed
+    * Piezonucleic lining fix (redundant with PAttP)
+- Misc
+    * More patching reorganization (a lot of previously integrated patches have been spun out into separate nexus mods, so there are a bunch of new downloads for them)
+    * Swapped Immersive flamers over to esl tagged esp
+    
 # 2.0.5
 - Added
 - Updated
