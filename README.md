@@ -109,7 +109,7 @@ See [How to Wabbajack](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob
 
 ### Game INI Settings
 How to Setup your own ini files with Bethini
-    1. Close Mod Organizer, and open BethINI
+    1. Close Mod Organizer, and open BethINI from the `Tools` folder inside your LitR installation
     2. `Setup` tab 
         * Check that the game path is pointing to the `Stock Game Folder`, and not your steam installation
         * Check that the mod organizer path is pointing to the correct instance of MO2 for Life in the Ruins.
