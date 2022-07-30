@@ -101,15 +101,15 @@ See [How to Wabbajack](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob
 
 ### Game INI Settings with BethINI
 How to Setup your own ini files with Bethini
-    1. Close Mod Organizer, and open BethINI from the `Tools` folder inside your LitR installation
-    2. `Setup` tab 
-        * Check that the game path is pointing to the `Stock Game Folder`, and not your steam installation
-        * Check that the mod organizer path is pointing to the correct instance of MO2 for Life in the Ruins.
-        * Check that your game settings path is set to `my documents/my games/fallout 4`
-    3. `Basic` Tab
-        * Choose a profile at least one step lower than you would use for vanilla fallout. For most users with less than a 3090 I recommend medium or high, LitR is significantly heavier than vanilla fallout. (The shorter draw distances on medium make A Forest much easier to run, and A Forest makes it so you can see stuff way in the distance anyway)
-        * For most users, 1920x1080 resolution is recommended.
-        * Enable `VSync` unless you're using Gsync/FreeSync (the `High FPS Physics Fix` mod controls VSync and this settings should be ignored, but having it match here doesn't hurt)
+1. Close Mod Organizer, and open BethINI from the `Tools` folder inside your LitR installation
+2. `Setup` tab 
+    * Check that the game path is pointing to the `Stock Game Folder`, and not your steam installation
+    * Check that the mod organizer path is pointing to the correct instance of MO2 for Life in the Ruins.
+    * Check that your game settings path is set to `my documents/my games/fallout 4`
+3. `Basic` Tab
+    * Choose a profile at least one step lower than you would use for vanilla fallout. For most users with less than a 3090 I recommend medium or high, LitR is significantly heavier than vanilla fallout. (The shorter draw distances on medium make A Forest much easier to run, and A Forest makes it so you can see stuff way in the distance anyway)
+    * For most users, 1920x1080 resolution is recommended.
+    * Enable `VSync` unless you're using Gsync/FreeSync (the `High FPS Physics Fix` mod controls VSync and this settings should be ignored, but having it match here doesn't hurt)
     
 The following default settings have now been set for you, courtesy of the bethini presets that ship with the list
    * Disabled `motion blur`, `godrays`, `lense flare`, and `depth of field` (I don't like them, and suggest disabling, but whatever you want)
