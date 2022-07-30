@@ -1,5 +1,31 @@
 # Changelog
 
+Catching up on the backlog of mod updates
+
+This update includes some changes to the Bethini Presets that ship with the list. If the shadow flickering was bothering you, try rerunning the bethini that ships with this list, with high or ultra.
+
+# 2.0.7
+- Added
+    * Lunar Fallout Plus - Locational Damage
+- Updated
+    * Unofficial Fallout 4 Patch
+    * BostonFPS Fix PRP Edition
+    * Sim Settlements 2 Scrappers
+    * FallUI Inventory
+    * FallUI Workbench
+    * FallUI HUD
+    * FIS
+    * Recruit Virgil as a Settler
+    * SS2
+    * SS2 Chapter 2 - TFTC Patch
+    * Combat Zone Restored Restored
+- Removed
+    * Nukaworld - Skip raiding your own settlements
+- Misc
+    * Tweaked shadow settings in Bethini Presets
+    * Finished patching reorganization finally
+    * Moved Dialogue Sneak Peek to optional section, disabled by default
+
 # 2.0.6
 - Added
     * Legendaries They Can Use
