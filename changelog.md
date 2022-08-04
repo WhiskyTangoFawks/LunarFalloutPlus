@@ -1,10 +1,54 @@
 # Changelog
 
+# 2.1.0 (Currently in Patreon Only Release)
+
+Update includes new looks for Diamond City, Fourville, and some new weapons, as well as a bunch of other new stuff.
+
+To update an existing save, disable the esp for I'm Talking To You, load, save, and exit the game, then re-enable it.
+
+Due to the changes to DC, updating an existing save is likely to result in some floating objects in the interiors. Annoying, but shouldn't be anything game breaking.
+
+A new game is required for changes to the unique weapons to take effect. In an existing game, If you want, you can disable Unique Uniques Vanilla Legendaries Mod (if you don't existing unique weapons mods will lose their special abilities, but the weapons won't gain the legendary attachments, nothing will break, but you might be sad).
+
+- Added
+    * Fourville
+    * Courser Crusher
+    * Plutonium Creatures
+    * Better Vertibirds
+    * The Road Sign Axe (and lunar patch)
+    * The Radium Pistol (and lunar patch)
+    * Bullpup Handmade Rifle (and lunar patch)
+    * Excavator Power Armor (and patches)
+    * Cross Break Action Laser Vanilla Patch
+    * Femshepping's Diamond City Edits
+    * Femshepping's Diamond City Edits Outskirts Removed
+    * Optimization and Compatibility for Diamond City Expansion and Femshepping's Diamond City Edit
+    * Unique Unique's Vanilla Effects
+    * Unique BaseIDs for Uniques
+    * The Big Dig - Fast Travel between Goodneighbor and Diamond City
+    * Recruit Private Hart as a Settler
+    * Recruit the Wounded Dog
+    * Recruit Sierra Petrovita as a Settler
+    * Bobblehats FO4 Edition
+    * See Through Scopes - Nightvision
+    * Laser Rifle Reanimation
+    * First-Person Running with Hands Animations
+    * First-Person Swimming Animations
+    * Nuka World Plus - Convenient Scrap - Antenna and Microphone repair
+- Updated
+    * I'm talking to you
+    * Creative Perks Plus - Lunar
+- Removed
+    * Diamond City Vendor Clutter
+    * No Quest Autostart Automatron
+- Misc
+    * Even more patch re-organization
+
+# 2.0.7
 Catching up on the backlog of mod updates
 
 This update includes some changes to the Bethini Presets that ship with the list. If the shadow flickering was bothering you, try rerunning the bethini that ships with this list, with high or ultra.
 
-# 2.0.7
 - Added
     * Lunar Fallout Plus - Locational Damage
 - Updated
