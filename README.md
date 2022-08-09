@@ -131,7 +131,7 @@ DynaPerf.ini can be found in the Stock Game Folder in your MO2 install directory
  Some users have reported performance improvements by enabling the ENB forceVideoMemory feature. This is a highly system specific setting, so your mileage may vary, and you will probably need to research the subject a bit to determine and experiment to find what works best for you 
 * In installation folder > stock game > enblocal.ini
 * ForceVideoMemorySize=true
-* VideoMemorySizeMb=12260 (exact optimal value may vary system to system, ask in the discord for help)
+* VideoMemorySizeMb=12260 or 16384 (exact optimal value may vary system to system, ask in the discord for help)
 
 #### Nvidia/AMD Control Center
 
@@ -162,11 +162,11 @@ Settings here are going to be very system and driver specific, but some general 
 ## Known Issues
 - Recurring CTD : The only known recurring CTD is the result of Nvidia drivers for the 20 series cards. [Read more about it here](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob/main/NvidiaDriverCrash.md)
 - Infinite Loading Screens or Micro Stuttering: 
-    1. Try Setting the game to full screen in Bethini
-    2. Try enabling VSync in Bethini, and in the HighFPSFix config ini
-    3. Try enabling forceVideoMemory in installation folder > stock game > enblocal.ini
+    1. Try setting the resolution to 1920x1080 if you're running above that
+    2. Try enabling forceVideoMemory in installation folder > stock game > enblocal.ini
         * ForceVideoMemorySize=true
-        * VideoMemorySizeMb=12260 (exact optimal value may vary system to system, ask in the discord for help)
+        * VideoMemorySizeMb=12260 or 16384 (exact optimal value may vary system to system, ask in the discord for help)
+    3. If you're struggling to enter the greenhouse in The Bleachers, try downloading the performance textures from that mod's nexus page.
 - SS2 script failures on new game are the result of going through the opening sequence too quickly. After you finish character creation, wait a couple minutes before trying to exit the bathroom.
  
 ## Notable Missing Mods
