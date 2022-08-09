@@ -2,11 +2,11 @@
 
 # 2.1.0 (Currently in Patreon Only Release)
 
-Update includes new looks for Diamond City, Fourville, and some new weapons, as well as a bunch of other new stuff.
+Update includes Fourville, and some new weapons, as well as a bunch of other new stuff minor content.
+
+This update includes yet another "final" update to Fallout 4 HD Overhaul, which means another 50gb of downloads. Sorry, tell Luxor to stop updating.
 
 To update an existing save, disable the esp for I'm Talking To You, load, save, and exit the game, then re-enable it.
-
-Due to the changes to DC, updating an existing save is likely to result in some floating objects in the interiors. Annoying, but shouldn't be anything game breaking.
 
 A new game is required for changes to the unique weapons to take effect. In an existing game, If you want, you can disable Unique Uniques Vanilla Legendaries Mod (if you don't existing unique weapons mods will lose their special abilities, but the weapons won't gain the legendary attachments, nothing will break, but you might be sad).
 
@@ -20,29 +20,53 @@ A new game is required for changes to the unique weapons to take effect. In an e
     * Bullpup Handmade Rifle (and lunar patch)
     * Excavator Power Armor (and patches)
     * Cross Break Action Laser Vanilla Patch
-    * Femshepping's Diamond City Edits
-    * Femshepping's Diamond City Edits Outskirts Removed
-    * Optimization and Compatibility for Diamond City Expansion and Femshepping's Diamond City Edit
     * Unique Unique's Vanilla Effects
     * Unique BaseIDs for Uniques
     * The Big Dig - Fast Travel between Goodneighbor and Diamond City
     * Recruit Private Hart as a Settler
     * Recruit the Wounded Dog
     * Recruit Sierra Petrovita as a Settler
-    * Bobblehats FO4 Edition
+    * Recruit the Mourning Raiders as Companions and Settlers
+    * Recruit Tina De Luca - Bobby De Luca - Holt Combes
+    * LarannKiar Recruitment Mods All-In-One Archive Pack
     * See Through Scopes - Nightvision
     * Laser Rifle Reanimation
     * First-Person Running with Hands Animations
     * First-Person Swimming Animations
     * Nuka World Plus - Convenient Scrap - Antenna and Microphone repair
+    * Visible Galaxy 4k and Framework
+    * Peeling Posters
+    * Blasted Billboards
+    * Gloomy Glass
+    * Far Object LOD Improvement Project
+    * Uneducated Shooter
+    * Raw Input
 - Updated
+    * FO4 HD Overhaul
     * I'm talking to you
+    * Creative Perks Plus
     * Creative Perks Plus - Lunar
+    * Unique Creatures - Standalone Version
+    * Lunar - NONE ballistic weaves overhaul
+    * UNPC Creatures and Monsters Standalone
+    * Fixed alpha maps
+    * Lunar Fallout Overhaul (and patches)
 - Removed
-    * Diamond City Vendor Clutter
     * No Quest Autostart Automatron
+    * Proper Flyers and Posters
+    * 2287 - Billboards and Posters
+    * No More Glowing Watercoolers
+    * Lodfix for Beantown Brewery
+    * Lodfix for Nukaworld Trans Center
+    * Starlight Drivein Lod Fix
+    * Sanctuary Bridge Lod Fix
+    * Vault 111 Lod Fix
+    * Tina Deluca as a voiced settler
+    * Laser Weapon First Person Reposition
 - Misc
     * Even more patch re-organization
+    * Repacked Base Game BA2 archives
+    * Regenerated LOD
 
 # 2.0.7
 Catching up on the backlog of mod updates

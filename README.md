@@ -113,7 +113,7 @@ How to Setup your own ini files with Bethini
     
 The following default settings have now been set for you, courtesy of the bethini presets that ship with the list
    * Disabled `motion blur`, `godrays`, `lense flare`, and `depth of field` (I don't like them, and suggest disabling, but whatever you want)
-   * `fBlendSplitDirShadow` - set to 0 on medium, 512 on high, and 1024 on ultra
+   * `fBlendSplitDirShadow` - set to 0 on medium, 192 on high and ultra
    * `iDirShadowSplits` set to 1 on medium, set to 3 on high and ultra
    * `fUpdateBudgetMS` - set this to 2.4 (normally, messing with the budget settings will degrade performance, but because HighFPSPhysics is able to dynamically turn this down, this gives the scripting engine more resources, but only when it needs it)
 
