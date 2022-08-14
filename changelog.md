@@ -19,6 +19,7 @@ A new game is required for changes to the unique weapons to take effect. In an e
     * The Radium Pistol (and lunar patch)
     * Bullpup Handmade Rifle (and lunar patch)
     * Excavator Power Armor (and patches)
+    * Red Shift Power Armor (and patches)
     * Cross Break Action Laser Vanilla Patch
     * Unique Unique's Vanilla Effects
     * Unique BaseIDs for Uniques
@@ -51,6 +52,14 @@ A new game is required for changes to the unique weapons to take effect. In an e
     * UNPC Creatures and Monsters Standalone
     * Fixed alpha maps
     * Lunar Fallout Overhaul (and patches)
+    * Lunar - Cross Break Action Laser (big changes to weapon damage and ammo usage)
+    * Pipe Shotgun Collection Redux
+    * SS2
+    * SS2 Chapter 2
+    * Workshop Framework
+    * Lunar - Handmade antimaterial rifle redux
+    * Pipe shotgun collection redux
+    * Whisky's AWKCR-Free Super Mutant Redux
 - Removed
     * No Quest Autostart Automatron
     * Proper Flyers and Posters
@@ -63,10 +72,15 @@ A new game is required for changes to the unique weapons to take effect. In an e
     * Vault 111 Lod Fix
     * Tina Deluca as a voiced settler
     * Laser Weapon First Person Reposition
+    * Fallout 4 AI Overhaul (compatibility issues in DC)
+    * DefUI (no longer required by FallUI)
+    * Pistol Bangs
 - Misc
     * Even more patch re-organization
     * Repacked Base Game BA2 archives
     * Regenerated LOD
+    * Swapped Yet Another Prydwen Overhaul to the no cambridge edits version
+    * Fixed a bug that was stopping Ray Guns, anti-material rifles, and pjars from spawning
 
 # 2.0.7
 Catching up on the backlog of mod updates
