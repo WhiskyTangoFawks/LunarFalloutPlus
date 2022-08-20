@@ -1,7 +1,6 @@
 # LitR Survival - Tips
 
 ## Hunger & Thirst
-- Cola and beer will quench your thirst, they're just as good as water. Cola also restores action points.
 - The heavier an item is, the more it will satiate you, with valuable items gaining a bonus
 
 ## Ammo    
@@ -18,7 +17,7 @@
     * You don't have to start the SS2 quest (build your first recruitment beacon) in sanctuary, Jake will find you at other settlements. I recommend picking somewhere more central.
 
 ## Creative Perks Plus
-- If you haven't used CPP before, don't worry too much about specials at character creation, just put something in, and then after you get the pip boy, spend some time looking at the perks, find a few you want to try, and rebuild your specials around getting them.
+- If you haven't used CPP before, don't worry too much about specials at character creation, just put something in, and then after you get the pip boy, spend some time looking at the perks, find a few you want to try, and rebuild your specials around getting them before exiting the vault.
 - Because "required" perks have lower requirements, pretty much any build is viable, as long as you have a good mix of offense and defense. 
 - If there's a specific perk you want though, make sure your starting SPECIALS are high enough to get it. Remember that you can only invest in your specials every 7 levels.
 
