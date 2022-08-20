@@ -1,12 +1,14 @@
 # Changelog
 
-# 2.1.0 (Currently in Patreon Only Release)
+# 2.1.0 Someone Tell Luxor to Stop Updating...
 
 Update includes Fourville, and some new weapons, as well as a bunch of other new stuff minor content.
 
-This update includes yet another "final" update to Fallout 4 HD Overhaul, which means another 50gb of downloads. Sorry, tell Luxor to stop updating.
+This update includes yet another "final" update to Fallout 4 HD Overhaul, which means another 50gb of downloads. For those of you without nexus premium, I'm sorry.
 
-To update an existing save, disable the esp for I'm Talking To You, load, save, and exit the game, then re-enable it.
+Due to changes around Uniques, and the removal of Eli's Armor Compendium, and some general cleanup of levelled lists, a new game is recommended.
+
+If you want to update an existing save, find an interior cell, set the game to a non-survival setting, wait 10 days, and set the game back to survival. This should reset all partially cleared cells. Due to the removal of Eli's Armor Compendium, you might still see some naked NPCs (settlers, a few companions), just give them some clothes.
 
 A new game is required for changes to the unique weapons to take effect. In an existing game, If you want, you can disable Unique Uniques Vanilla Legendaries Mod (if you don't existing unique weapons mods will lose their special abilities, but the weapons won't gain the legendary attachments, nothing will break, but you might be sad).
 
@@ -30,6 +32,7 @@ A new game is required for changes to the unique weapons to take effect. In an e
     * Recruit the Mourning Raiders as Companions and Settlers
     * Recruit Tina De Luca - Bobby De Luca - Holt Combes
     * LarannKiar Recruitment Mods All-In-One Archive Pack
+    * LarannKiar - No Recruitment Objectives
     * See Through Scopes - Nightvision
     * Laser Rifle Reanimation
     * First-Person Running with Hands Animations
@@ -42,24 +45,26 @@ A new game is required for changes to the unique weapons to take effect. In an e
     * Far Object LOD Improvement Project
     * Uneducated Shooter
     * Raw Input
+    * Immersive Drumlin Diner Exo patch
 - Updated
     * FO4 HD Overhaul
     * I'm talking to you
     * Creative Perks Plus
     * Creative Perks Plus - Lunar
-    * Unique Creatures - Standalone Version
     * Lunar - NONE ballistic weaves overhaul
     * UNPC Creatures and Monsters Standalone
     * Fixed alpha maps
     * Lunar Fallout Overhaul (and patches)
     * Lunar - Cross Break Action Laser (big changes to weapon damage and ammo usage)
-    * Pipe Shotgun Collection Redux
     * SS2
     * SS2 Chapter 2
     * Workshop Framework
     * Lunar - Handmade antimaterial rifle redux
     * Pipe shotgun collection redux
-    * Whisky's AWKCR-Free Super Mutant Redux
+    * Super Mutant Redux Standalone Lite
+    * Wattz Laser Gun Unofficial Update (and patches)
+    * Keep Radiants in the Commonwealth - UFO4P version
+    * Fixed Gobo effects
 - Removed
     * No Quest Autostart Automatron
     * Proper Flyers and Posters
@@ -72,15 +77,23 @@ A new game is required for changes to the unique weapons to take effect. In an e
     * Vault 111 Lod Fix
     * Tina Deluca as a voiced settler
     * Laser Weapon First Person Reposition
+    * Weapon Mods Fixes GOTY Edition
     * Fallout 4 AI Overhaul (compatibility issues in DC)
     * DefUI (no longer required by FallUI)
     * Pistol Bangs
+    * Super Mutant Subscattering
+    * Elianora's Armor Compendium
+    * Classic Vault Scientist
 - Misc
     * Even more patch re-organization
     * Repacked Base Game BA2 archives
     * Regenerated LOD
     * Swapped Yet Another Prydwen Overhaul to the no cambridge edits version
     * Fixed a bug that was stopping Ray Guns, anti-material rifles, and pjars from spawning
+    * Swapped SuperMutantRedux textures for HD version
+    * Nuka cola and beer no longer hydrate in survival
+    * Removed 90FPS option (apparently it's better to run at 60 or 120, due to havok engine limitations)
+    * Added VRAM Size test tool
 
 # 2.0.7
 Catching up on the backlog of mod updates
