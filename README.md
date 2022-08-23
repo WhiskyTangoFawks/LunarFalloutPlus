@@ -11,7 +11,7 @@ Requires wabbajack - https://www.wabbajack.org/#/
 ## Modlist Goals
 - RPG Balance, Scaling, and Progression - brought to you by Lunar Fallout Overhaul
 - Survival Mechanics, with non-survival damage levels and balance (uses a custom mod to change damage modifier back to normal without disabling survival mechanics)
-- A vibrant, forested, inhabited, but still uncivilised wasteland. Neglected areas should feel fleshed out, but still match the vanilla aesthetic
+- A vibrant, forested, inhabited, but still uncivilised wasteland. Neglected areas should feel fleshed out, but it should still feel lonely.
 - Increased variety in Creatures, Weapons and Armors by mods that add variety to existing content (attachments and alt skins), rather than mods that add a ton of new unbalanced items and monsters
 - Extra high-quality content with the same style and tone as vanilla (no pointlessly skimpy outfits, no tacti-cool weapons)
 - Full controller support (no extra configuration required)
@@ -61,7 +61,7 @@ Requires wabbajack - https://www.wabbajack.org/#/
 
 The modlist is designed for relatively modern, middle range hardware. A high end graphics card is not required, but it does help (I am currently playing with a 6500xt on the medium preset, and FPS is mostly capped above 90 outside of Diamond City and Boston Commons, where it does drop for me).
 
-#### If you have less than 6gb of vram, or the list otherwise performs badly for you
+#### If you have less than 6gb of vram or the list otherwise performs badly for you
 - Do not try to run the list above 1080p, 1440 in fallout is a performance killer
 - Replace the texture BSAs in the stock folder with the Vanilla textures, or for more performance use [PhyOP textures](https://www.nexusmods.com/fallout4/mods/27038). Disable the other texture mods.
 - Reducing the grass density/diversity by editting the ini file in the True Grass mod
@@ -78,14 +78,14 @@ See [How to Wabbajack](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob
 - HD DLC is NOT required, however because this modlist uses a stock game folder, rather than your game folder in steam, if you do have the HD DLC installed Life in the Ruins will ignore it.
 
 ### Solving Common Wabbajack Installation Problems
-* Set your game language to English if you have the game in another language- the installer does not work in other languages
+* Set your game language to English if you have the game in another language- the installer does not work in other languages (it needs to find and copy the base game video files)
 * Verify you game files in steam, then run the game through steam, then repeat the installation
   
 ## Additional Setup (post wabbajack installation)
 ### Customisation
 1. Pick your Profile: "Life in the Ruins", or "Life in the Ruins - CreationClubPaints" if you have the required set of creation club paint jobs
     -  Creation Club Profile - Copy the creation club files from your `fallout4/data directory` into the `[NODELETE] CreationClub Paint Jobs` mod folder. If you CTD immediately on load on the Creation Club profile, but not on the regular profile, then you've hit your BSA limit, and need to repack the creation club content, [see here for more details](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob/main/CreationClubContent.md)
-2. (Optional) Download and install into the mod `[NODELETE] Cross Skin Packs` the Strigidae and Brotherhood Recon Expeditionary Suit, and Cross Break Action Laser skin packs from https://gumroad.com/niero. They're available for free (use the discount code), but a donation is suggested. The man makes some fantastic mods, and you can probably afford to buy him a coffee.
+2. (Optional) Download and install into the mod folder `[NODELETE] Cross Skin Packs` the Strigidae and Brotherhood Recon Expeditionary Suit, and Cross Break Action Laser skin packs from https://gumroad.com/niero. They're available for free (use the discount code), but a donation is suggested. The man makes some fantastic mods, and you can probably afford to buy him a coffee.
     * [Cross Courser Strigidae Full 4k](https://niero.gumroad.com/l/brocmon)
     * [Institute Expeditionary Suit Full 4k](https://niero.gumroad.com/l/sUxGr)
     * [Break Action Laser Skin Pack](https://niero.gumroad.com/l/fhdhdh)
@@ -95,9 +95,9 @@ See [How to Wabbajack](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob
     * `QoL Tweaks` : Minor quality of life tweaks, disable any you don't want
     * `Survival difficulty`: If you want an easier or harder damage levels, enable one of the optional files
     * `Start Me Up - Skip Pre-War Prologue` Optional mod that allows you to skip the pre-war prologue
-    * `90FPS No VSYNC` : If you run a high refresh rate monitor with GSync/FreeSync, this will disable vsync, and cap the framerate at 90. 
-    * `120FPS No VSYNC` : As above, just capped at 120.
+    * `120FPS No VSYNC` : If you run a high refresh rate monitor with GSync/FreeSync, this will disable vsync, and cap the framerate at 120.
         - f you are running either of these, it is recommended that in dynaperf.ini in the stock game folder you increase fTargetFPS to 75 or 90.
+    * `Dialogue Sneak Peak` this allows you to hover over the dialogue selection and see the fulltext, but can result in the player being silenced occasionally in SS2 dialogues.
 
 ### Game INI Settings with BethINI
 How to Setup your own ini files with Bethini
@@ -129,11 +129,11 @@ DynaPerf.ini can be found in the Stock Game Folder in your MO2 install directory
 
 #### Video Memory And ENBoost
 
-[Introduction to ENBoost](https://www.youtube.com/watch?v=Y4cz-lFXDo8)
-[How to find your optimal value with ENBoost](https://www.youtube.com/watch?v=xSz84F1kgkM)
-- VRAM Size for DX11 is included in the list, can can be run through the mod organizer executable drop down
+* [Introduction to ENBoost](https://www.youtube.com/watch?v=Y4cz-lFXDo8)
+* [How to find your optimal value with ENBoost](https://www.youtube.com/watch?v=xSz84F1kgkM)
+    - VRAM Size Test for DX11 is included in the list, can can be run through the mod organizer executable drop down
 
-ENBoost is a feature of ENB that allows your FO4 to extend your system's VRAM with your regular RAM. It's not as fast, but it's better than nothing. AMD users with resizable BAR enabled should see even better performance improvements with this setting, and it's highly recommended to try it out. The [FO4 HD Overhaul](https://www.nexusmods.com/fallout4/images/172381) recommends setting this value to true, and the author reports for his system, a value of 12288 was optimal for them. However this is a HIGLY system specific setting. What works great for a user with a 3090, will crash for a user with less. As such, this value is left FALSE (which completely disables the feature). Please note that updating the list will erase any changes made to enblocal.ini, so make a backup before updating.
+ENBoost is a feature of ENB that allows your FO4 to extend your system's VRAM with your regular RAM. It's not as fast, but it's better than nothing. AMD users with resizable BAR enabled should see even better performance improvements with this setting, and it's recommended to try it out. The [FO4 HD Overhaul](https://www.nexusmods.com/fallout4/images/172381) recommends setting this value to true, and the author reports for his system, a value of 12288 was optimal for them. However this is a HIGLY system specific setting. What works great for a user with a 3090, will crash for a user with less. As such, this value is left FALSE (which completely disables the feature). Please note that updating the list will erase any changes made to enblocal.ini, so make a backup before updating.
 
 If you have issues with textures not loading, stuttering, or the brown face bug, it is recommended to try this.
 
@@ -164,18 +164,19 @@ Settings here are going to be very system and driver specific, but some general 
 4. (Optional) Craft the companion tracker holotape at the chem lab bench. This allows you to track inactive companions, for cases where you can't remember which settlement you sent them to. 
 
 ## Known Issues
-- Recurring CTD : The only known recurring CTD is the result of Nvidia drivers for the 20 series cards. [Read more about it here](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob/main/NvidiaDriverCrash.md)
+- Recurring CTD : The only known recurring CTD is the result of Nvidia drivers for the 20 series cards. The problem seems to have been fixed in more recent driver updates, but if you still have problems [Read more about it here](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob/main/NvidiaDriverCrash.md)
 - Infinite Loading Screens, Micro Stuttering, Textures not loading, or the Brown Face bug: 
     1. Stop other processes to free up RAM, browser windows are especially a problem here
     2. Try setting the resolution to 1920x1080 if you're running above that
     3. Try enabling forceVideoMemory in installation folder > stock game > enblocal.ini
     4. If you're struggling to enter the greenhouse in The Bleachers, try downloading the performance textures from that mod's nexus page. If it's more general, you can try replacing the texture BSAs in the stock game folder with the vanilla ones.
 - SS2 script failures on new game are the result of going through the opening sequence too quickly. After you finish character creation, wait a couple minutes before trying to exit the bathroom.
+- Image Space Error after character creation (weird white and black screen freeze) - Seems to be random, just load the game and try again. Disabling Start Me Up might help.
  
 ## Notable Missing Mods
 - Scrap Mods : I personally don't use them, and am not going to add something to the list I haven't test. I recommend SS2's city plans if you want more automation for settlement development.
 - VAFS: I play the game on my couch, with an xbox controller, using VATS pretty much exclusively. If you want slow time aiming, take the sniper perk (which has a weak slow time effect), and stockpile JET.
-- AWKCR - Yes, this is an AWKCR-free modlist. Gunmetal Faction Distribution does have an ArmorKeywords dummy plugin it uses for some keywords, but it does not include any of the bloat or unexpected features of the full AWKCR mod.
+- AWKCR - Yes, this is an AWKCR-free modlist. Faction Distribution Framework does have an ArmorKeywords dummy plugin it uses for some keywords, but it does not include any of the bloat or unexpected features of the full AWKCR mod.
 - Beantown Interiors - It's a compatibility nightmare, both because it breaks precombines, and because it destroys the loot balance of the list
 - CBBE- I find barbie doll proportions un-immersive. Women don't look like that in real life.
 - Thuggysmurf (Depravity, Outcasts and Remnants, etc)- The quality of the work on these mods is incredible, but they are massively let down by the writing and choice to include adolescent jokes. I personally find a lot of it cringeworthy. A mod that adds a dildo as a weapon and has a bunch of female NPCs in skimpy sexy corsets isn't one I want in my load order.
