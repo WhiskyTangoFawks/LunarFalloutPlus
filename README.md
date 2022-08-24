@@ -95,9 +95,11 @@ See [How to Wabbajack](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob
     * `QoL Tweaks` : Minor quality of life tweaks, disable any you don't want
     * `Survival difficulty`: If you want an easier or harder damage levels, enable one of the optional files
     * `Start Me Up - Skip Pre-War Prologue` Optional mod that allows you to skip the pre-war prologue
+    * `Uneducated Shooter`: Recommended to only enable this after character creation, as it is known to cause a game freeze during new games.
     * `120FPS No VSYNC` : If you run a high refresh rate monitor with GSync/FreeSync, this will disable vsync, and cap the framerate at 120.
         - f you are running either of these, it is recommended that in dynaperf.ini in the stock game folder you increase fTargetFPS to 75 or 90.
     * `Dialogue Sneak Peak` this allows you to hover over the dialogue selection and see the fulltext, but can result in the player being silenced occasionally in SS2 dialogues.
+    
 
 ### Game INI Settings with BethINI
 How to Setup your own ini files with Bethini

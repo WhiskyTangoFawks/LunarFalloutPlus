@@ -1,8 +1,33 @@
 # Changelog
 
+# 2.1.1 Patreon Pre-release: Just some Updates and Repacks
+
+ - Added
+    * Nina's Proper Pipe Gun Replacer (And FDF patch)
+    * Shadowboost
+    * Radioactive Signs - Super Duper Mart Letters Fix
+    * Female Cage Armor Pocket Fix
+    * Fixed High Tech Benches
+    * Monster and human models fix after dismemberment
+ - Updated
+    * Faction Distribution Framework (and patches)
+    * Fixed Gobo Effects
+    * Lunar Fallout Overhaul (And patches)
+ - Removed
+    * Dynamic Performance Tuner
+    * Vault mesh fix
+    * Flickering roof mesh fix
+    * Lunar Fallout Plus - Synth Caps Removal
+ - Misc
+    * Repacked environmental textures
+    * Repacked loose fixes meshes and textures
+    * Repacked loose NPC Appearance mods
+    * Repacked Melee Weapon Textures
+    * Moved Uneducated Shooter to Customization options, and updated readme to only enable after character creation
+
 # 2.1.0 Someone Tell Luxor to Stop Updating...
 
-Update includes Fourville, and some new weapons, as well as a bunch of other new stuff minor content.
+Update includes Fourville, and some new weapons, as well as a bunch of other new stuff and minor content.
 
 This update includes yet another "final" update to Fallout 4 HD Overhaul, which means another 50gb of downloads. For those of you without nexus premium, I'm sorry.
 
@@ -64,7 +89,6 @@ A new game is required for changes to the unique weapons to take effect. In an e
     * Super Mutant Redux Standalone Lite
     * Wattz Laser Gun Unofficial Update (and patches)
     * Keep Radiants in the Commonwealth - UFO4P version
-    * Fixed Gobo effects
 - Removed
     * No Quest Autostart Automatron
     * Proper Flyers and Posters
