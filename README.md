@@ -10,9 +10,9 @@ Requires wabbajack - https://www.wabbajack.org/#/
 
 ## Modlist Goals
 - RPG Balance, Scaling, and Progression - brought to you by Lunar Fallout Overhaul
-- Survival Mechanics, with non-survival damage levels and balance (uses a custom mod to change damage modifier back to normal without disabling survival mechanics)
+- Survival Mechanics, with non-survival damage levels and balance
 - A vibrant, forested, inhabited, but still uncivilised wasteland. Neglected areas should feel fleshed out, but it should still feel lonely.
-- Increased variety in Creatures, Weapons and Armors by mods that add variety to existing content (attachments and alt skins), rather than mods that add a ton of new unbalanced items and monsters
+- Increased variety in Creatures, Weapons and Armors by mods that add variety to existing content, rather than mods that add a ton of new unbalanced items and monsters
 - Extra high-quality content with the same style and tone as vanilla (no pointlessly skimpy outfits, no tacti-cool weapons)
 - Full controller support (no extra configuration required)
 - Smooth performance on mid-range gaming hardware
@@ -93,7 +93,7 @@ See [How to Wabbajack](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob
 3. The `Difficulty and Customisation` section in Mod Organizer - for people who want to tweak thing a little.
     * `[NODELETE] Cross Skin Packs` : the downloaded cross skins go here
     * `QoL Tweaks` : Minor quality of life tweaks, disable any you don't want
-    * `Survival difficulty`: If you want an easier or harder damage levels, enable one of the optional files
+    * `SKK Dynamic Difficulty Manager`: If you want an easier or harder damage levels, enable this, and see the nexus modpage
     * `Start Me Up - Skip Pre-War Prologue` Optional mod that allows you to skip the pre-war prologue
     * `Uneducated Shooter`: Recommended to only enable this after character creation, as it is known to cause a game freeze during new games.
     * `120FPS No VSYNC` : If you run a high refresh rate monitor with GSync/FreeSync, this will disable vsync, and cap the framerate at 120.

@@ -1,29 +1,37 @@
 # Changelog
 
-# 2.1.1 Patreon Pre-release: Just some Updates and Repacks
+# 2.1.1 God Damnit Luxor
+
+Another update, another "final version" of the Fallout 4 HD Overhaul, another 50gb of textures to download...
+
+Before updating, I recommend deleting the old fallout texture 1 - 9 files and the DLC textures, from your downloads. Especially if you've got multiple versions, they take up a lot of space.
 
  - Added
-    * Nina's Proper Pipe Gun Replacer (And FDF patch)
     * Shadowboost
     * Radioactive Signs - Super Duper Mart Letters Fix
     * Female Cage Armor Pocket Fix
     * Fixed High Tech Benches
     * Monster and human models fix after dismemberment
+    * SKK Dynamic Damage Manager (Optional, disabled by default)
  - Updated
+    * Fallout 4 HD Overhaul
     * Faction Distribution Framework (and patches)
     * Fixed Gobo Effects
     * Lunar Fallout Overhaul (And patches)
+    * Look at Me IE Edition
  - Removed
     * Dynamic Performance Tuner
     * Vault mesh fix
     * Flickering roof mesh fix
-    * Lunar Fallout Plus - Synth Caps Removal
+    * Lunar Fallout Plus - Synth Caps Removal (merged into lfo 106)
+    * Lunar Fallout Plus - Weapon Tweaks (merged into lfo 106)
  - Misc
-    * Repacked environmental textures
-    * Repacked loose fixes meshes and textures
-    * Repacked loose NPC Appearance mods
-    * Repacked Melee Weapon Textures
+    * Repacked environmental texture mods
+    * Repacked loose fixes meshes and texture mods
+    * Repacked loose NPC Appearance mod
+    * Repacked Melee Weapon Mods Textures 
     * Moved Uneducated Shooter to Customization options, and updated readme to only enable after character creation
+    * Removed the list's custom damage options, replaced with SKK Dynamic Damage Manager
 
 # 2.1.0 Someone Tell Luxor to Stop Updating...
 
