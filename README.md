@@ -66,7 +66,6 @@ The modlist is designed for relatively modern, middle range hardware. A high end
 - Replace the texture BSAs in the stock folder with the Vanilla textures, or for more performance use [PhyOP textures](https://www.nexusmods.com/fallout4/mods/27038). Disable the other texture mods.
 - Reducing the grass density/diversity by editting the ini file in the True Grass mod
 - Disable the ENB (press * to show FPS, then press shift + F12 to disable ENB processing to see if it makes a difference).
-- Reduce minimum shadow draw distance in DynaPerf.ini in the stock game folder
 
 Some or all of these tweaks may allow the list to run better below the minimum requirements.
 
@@ -97,7 +96,6 @@ See [How to Wabbajack](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob
     * `Start Me Up - Skip Pre-War Prologue` Optional mod that allows you to skip the pre-war prologue
     * `Uneducated Shooter`: Recommended to only enable this after character creation, as it is known to cause a game freeze during new games.
     * `120FPS No VSYNC` : If you run a high refresh rate monitor with GSync/FreeSync, this will disable vsync, and cap the framerate at 120.
-        - f you are running either of these, it is recommended that in dynaperf.ini in the stock game folder you increase fTargetFPS to 75 or 90.
     * `Dialogue Sneak Peak` this allows you to hover over the dialogue selection and see the fulltext, but can result in the player being silenced occasionally in SS2 dialogues.
     
 
@@ -118,16 +116,6 @@ The following default settings have now been set for you, courtesy of the bethin
    * `fBlendSplitDirShadow` - set to 0 on medium, 192 on high and ultra
    * `iDirShadowSplits` set to 1 on medium, set to 3 on high and ultra
    * `fUpdateBudgetMS` - set this to 2.4 (normally, messing with the budget settings will degrade performance, but because HighFPSPhysics is able to dynamically turn this down, this gives the scripting engine more resources, but only when it needs it)
-
-#### Dynamic Performance Tuner
-DynaPerf.ini can be found in the Stock Game Folder in your MO2 install directory. Any changes made here will need to be repeated after updating the modlist (the wabbajack installer will return these settings to the defaults). The following settings can be tweaked for your machine, I don't recommend adjusting the other settings.
-
-- `fTargetFPS=60`
-    * This is the target FPS dynaperf will attempt to maintain, when your FPS drops below this, dynaperf will reduce your shadow draw distance to compensate. If your system runs at high FPS typically, increasing will prevent FPS reduction at the expense of reduced shadow distance.
-- `fShadowDirDistanceMin=3000`
-    * This is the minimum distance dynaperf will reduce shadow draw to.
-- `fShadowDirDistanceMax=9000` 
-    * This is the maximum distance dynaperf will increase shadow draw to, if you notice stuttering while turning in downtown or other areas with heavy shadow load (especially after staring at the ground for 20-30 seconds), decreasing this will help. Users with very high end machines may want to increase this value.
 
 #### Video Memory And ENBoost
 
