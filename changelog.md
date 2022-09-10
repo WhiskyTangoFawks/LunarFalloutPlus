@@ -1,5 +1,32 @@
 # Changelog
 
+# 2.1.2: Legendary Groundwork
+This update includes a few under-the-hood changes to the legendary system, in preparation for the new uniques coming in a future patch, as well as various mod updates.
+
+- Added
+    * Dynamic Vendor Restock
+    * True Legendary Enemies Redux
+- Updated
+    * Legendaries they can use
+    * Survival Configuration Menu
+    * 4estGimp - M8r Complex Item Sorter Enhancements
+    * LarannKiar Recruitment Mods All-In-One Archive Pack
+    * Look at Me Institute Edition
+    * Far Object LOD Improvement Project
+    * High FPS Physics Fix
+    * ShadowBoost
+    * LFO Facials for Everyone
+    * The Makeshift SMG
+    * Publick Occurences Expanded
+    * Creative Perks Plus
+    * Lunar Fallout Overhaul (And patches)
+    * WSFW
+    * SS2
+    * SS2 Chapter 2
+- Removed
+    * True legendary enemies
+- Misc    
+
 # 2.1.1 God Damnit Luxor
 
 Another update, another "final version" of the Fallout 4 HD Overhaul, another 50gb of textures to download...
