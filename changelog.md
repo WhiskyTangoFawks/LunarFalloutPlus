@@ -3,9 +3,10 @@
 # 2.2.0-prelease1 Stop complaining that LitR doesn't have enough Weapons Part II : Reign of the Uniques
 
     This is a pateron pre-release of 2.2.0, it includes all the unique replacements, however they aren't all patched for LFO balance yet.
-    If updating from 2.1.x, a new game is recommended, but if you like to live on the edge it shouldn't be strictly required.
+    A new game is recommended, due to the scale of the changes.
 
 - Added
+    - PRP Lite
     - Advanced Animations Framework
     - Rusty Face Fix Redux
     - Recoil Rebalanced
@@ -15,7 +16,6 @@
     - Robot Model Kit 2k Retextures
     - Nuka Recipe Book 2k Retextures
     - Select Balisong (and lunar patch)
-    - Dual 44s (and lunar patch)
     - Riot Shotgun
     - Handmade Lever Action Shotgun
     - Remington New Army Revolver and Carbine
@@ -39,7 +39,7 @@
     - Unique Replacers - Pickman's Select Balisong
     - Unique Replacers - Le Fusil Riot Shotgun
     - Unique Replacers - Survivor's Wattz Laser
-    - Unique Replacers - New Army Gainer
+    - Unique Replacers - Hunting Gainer
     - Unique Replacers - Protectron's Gaze Ray Gun
     - Unique Replacers - Lucky Eddie's Lever Action Shutgun
     - Unique Replacers - Limitless Potential Charger Pistol
@@ -66,6 +66,7 @@
     - Lunar - Skewer Launcher
     - Lunar - Break Action Laser
     - Lunar - Pump Action Shotgun
+    - LunarFalloutPlus - NONE
 - Removed
     - Unique Uniques
     - Ketaro's Magazines
@@ -73,6 +74,7 @@
     - Rusty Face Fix
     - Follower stealth distance fix
     - Recruit the mourning raider
+    - BostonFPSFix
 - Misc
     - Distribution changes of some of the weapons tweaked
     - Cleaned up NPC patching
