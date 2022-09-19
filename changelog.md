@@ -1,5 +1,82 @@
 # Changelog
 
+# 2.2.0-prelease1 Stop complaining that LitR doesn't have enough Weapons Part II : Reign of the Uniques
+
+    This is a pateron pre-release of 2.2.0, it includes all the unique replacements, however they aren't all patched for LFO balance yet.
+    If updating from 2.1.x, a new game is recommended, but if you like to live on the edge it shouldn't be strictly required.
+
+- Added
+    - Advanced Animations Framework
+    - Rusty Face Fix Redux
+    - Recoil Rebalanced
+    - Wasteland Flamer (and lunar patch)
+    - Raider Overhaul Forged (and lunar patch)
+    - Nina's Proper Pipe Gun Replacer (and fdf patch)
+    - Robot Model Kit 2k Retextures
+    - Nuka Recipe Book 2k Retextures
+    - Select Balisong (and lunar patch)
+    - Dual 44s (and lunar patch)
+    - Riot Shotgun
+    - Handmade Lever Action Shotgun
+    - Remington New Army Revolver and Carbine
+    - Lever Action Shotgun
+    - Charger Pistol (and lunar patch)
+    - Bullpup Bozar (and lunar patch)
+    - Grease Gun SMG
+    - Webley-Fosbery Revolver (and lunar patch)
+    - The Heavy Tesla Cannon
+    - Capital Wasteland Auto Axe
+    - Cross Archimedes II
+    - Cross Cryolance
+    - LAER (and lunar patch)
+    - The Hunting Shotgun (and lunar patch)
+    - M2045 Magnum Revolver Rifle
+    - M54 Gatling Rifle
+    - Anotherone's Vanilla Weapons Replacer (and lunar patch)
+    - Hunting Shotgun (and lunar patch)
+    - Desert Eagle
+    - Unique Replacers - Kellog's Desert Eagle
+    - Unique Replacers - Pickman's Select Balisong
+    - Unique Replacers - Le Fusil Riot Shotgun
+    - Unique Replacers - Survivor's Wattz Laser
+    - Unique Replacers - New Army Gainer
+    - Unique Replacers - Protectron's Gaze Ray Gun
+    - Unique Replacers - Lucky Eddie's Lever Action Shutgun
+    - Unique Replacers - Limitless Potential Charger Pistol
+    - Unique Replacers - December's Child Bullpup Bozar
+    - Unique Replacers - Eddie's New Piece
+    - Unique Replacers - Silver Shroud Grease Gun
+    - Unique Replacers - Tesla's Final Judgement
+    - Unique Replacers - The Auto Harvester
+    - Unique Replacers - Break Action Authority
+    - Unique Replacers - Owbital Wazer Stwike
+    - Unique Replacers - CryoAeternus
+    - Unique Replacers - Reba Hunting Shotgun
+    - Unique Replacers - Clint's Great Intentions
+    - Unique Replacers - Gatling Ashmaker
+    - Unique Replacers - Radicaliber Conversion
+    - Unique Replacers - Bullpup Problem Solver
+- Updated
+    - Far Object LOD Improvement Project
+    - UNPC Lite
+    - Railroad Redone Redux - 3dNPCs Patch
+    - Lunar Cross Break Action Laser
+    - SS2 Chapter 2
+    - Backpacks of the Commonwealth - Super-lite
+    - Lunar - Skewer Launcher
+    - Lunar - Break Action Laser
+    - Lunar - Pump Action Shotgun
+- Removed
+    - Unique Uniques
+    - Ketaro's Magazines
+    - Better Legendary Mutations
+    - Rusty Face Fix
+    - Follower stealth distance fix
+    - Recruit the mourning raider
+- Misc
+    - Distribution changes of some of the weapons tweaked
+    - Cleaned up NPC patching
+
 # 2.1.2: Legendary Groundwork
 This update includes a few under-the-hood changes to the legendary system, in preparation for the new uniques coming in a future patch, as well as various mod updates.
 
