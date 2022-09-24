@@ -1,9 +1,12 @@
 # Changelog
 
-# 2.2.0-prelease1 Stop complaining that LitR doesn't have enough Weapons Part II : Reign of the Uniques
+# 2.2.0-prelease Stop complaining that LitR doesn't have enough Weapons Part II : Reign of the Uniques
 
     This is a pateron pre-release of 2.2.0, it includes all the unique replacements, however they aren't all patched for LFO balance yet.
     A new game is recommended, due to the scale of the changes.
+
+    With the addition of the Cryolance, and the Archimedes II, I suggest grabbing Neiro's Skinpacks for them from Gumroad
+    https://niero.gumroad.com/
 
 - Added
     - PRP Lite
@@ -15,26 +18,30 @@
     - Nina's Proper Pipe Gun Replacer (and fdf patch)
     - Robot Model Kit 2k Retextures
     - Nuka Recipe Book 2k Retextures
+    - A StoryWealth Location - The Crab Shack
+    - A StoryWealth Location - Diamond City
     - Select Balisong (and lunar patch)
-    - Riot Shotgun
-    - Handmade Lever Action Shotgun
-    - Remington New Army Revolver and Carbine
-    - Lever Action Shotgun
+    - Riot Shotgun (and lunar patch)
+    - Riot Shotgun Animations
+    - Handmade Lever Action Shotgun (and lunar patch)
     - Charger Pistol (and lunar patch)
     - Bullpup Bozar (and lunar patch)
-    - Grease Gun SMG
+    - Grease Gun SMG (and lunar patch)
     - Webley-Fosbery Revolver (and lunar patch)
-    - The Heavy Tesla Cannon
-    - Capital Wasteland Auto Axe
+    - 1st Person Power Armor Speedwalk Fix - Webley-Fosbery Autorevolver
+    - The Heavy Tesla Cannon (and lunar patch)
+    - Capital Wasteland Auto Axe (and lunar patch)
     - Cross Archimedes II
-    - Cross Cryolance
+    - Cross Cryolance (and lunar patch)
     - LAER (and lunar patch)
     - The Hunting Shotgun (and lunar patch)
-    - M2045 Magnum Revolver Rifle
-    - M54 Gatling Rifle
+    - BCR Hunting Shotgun Patch
+    - M2045 Magnum Revolver Rifle (and lunar patch)
+    - M54 Gatling Rifle (and lunar patch)
     - Anotherone's Vanilla Weapons Replacer (and lunar patch)
     - Hunting Shotgun (and lunar patch)
-    - Desert Eagle
+    - Desert Eagle (and lunar patch)
+    - Hunting Revolver and Ranger Sequoia (and lunar patch)
     - Unique Replacers - Kellog's Desert Eagle
     - Unique Replacers - Pickman's Select Balisong
     - Unique Replacers - Le Fusil Riot Shotgun
@@ -63,10 +70,15 @@
     - Lunar Cross Break Action Laser
     - SS2 Chapter 2
     - Backpacks of the Commonwealth - Super-lite
+    - Lunar - Charger Pistol
+    - Lunar - Pipe Assault Rifle
     - Lunar - Skewer Launcher
     - Lunar - Break Action Laser
     - Lunar - Pump Action Shotgun
     - LunarFalloutPlus - NONE
+    - LBPAC - Raider PA Chop Shop
+    - Lunar Fallout Overhaul
+    - ShadowBoost
 - Removed
     - Unique Uniques
     - Ketaro's Magazines
