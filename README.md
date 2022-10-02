@@ -123,6 +123,8 @@ The following default settings have now been set for you, courtesy of the bethin
 
 * [Introduction to ENBoost](https://www.youtube.com/watch?v=Y4cz-lFXDo8)
 * [How to find your optimal value with ENBoost](https://www.youtube.com/watch?v=xSz84F1kgkM)
+    - The following values are recommeneded for use with this list: 16384, 12288 and 8192
+        * Higher values might work for users with a lot of ram, but are unnessary, for many users will actually reduce performance and stability
     - VRAM Size Test for DX11 is included in the list, can can be run through the mod organizer executable drop down
     - Note that the VRam size test is not always reliable, and for some users can give values much higher than will work. If you experience instability (CTD, freezing, stuttering), test with the following values 16384, 12288 and 8192, one of them should work for you.
 
@@ -163,8 +165,8 @@ Settings here are going to be very system and driver specific, but some general 
     2. Try setting the resolution to 1920x1080 if you're running above that
     3. Try enabling forceVideoMemory in installation folder > stock game > enblocal.ini
     4. If you're struggling to enter the greenhouse in The Bleachers, try downloading the performance textures from that mod's nexus page. If it's more general, you can try replacing the texture BSAs in the stock game folder with the vanilla ones.
+    5. For the brown face bug specifically, configure a hot key for Rusty Face Fix Redux in the MCM, it won't stop it from occuring, but using it should fix the issue at least temporarily.
 - SS2 script failures on new game are the result of going through the opening sequence too quickly. After you finish character creation, wait a couple minutes before trying to exit the bathroom.
-- Image Space Error after character creation (weird white and black screen freeze) - Seems to be random, just load the game and try again. Disabling Start Me Up might help.
  
 ## Notable Missing Mods
 - Scrap Mods : I personally don't use them, and am not going to add something to the list I haven't test. I recommend SS2's city plans if you want more automation for settlement development.

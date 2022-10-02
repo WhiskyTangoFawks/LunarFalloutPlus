@@ -2,13 +2,19 @@
 
 # 2.2.0-prelease Stop complaining that LitR doesn't have enough Weapons Part II : Reign of the Uniques
 
-    This is a pateron pre-release of 2.2.0, it includes all the unique replacements, however they aren't all patched for LFO balance yet.
-    A new game is recommended, due to the scale of the changes.
+    The primary feature this release is my Unique Replacer project, which replaces all the uniques in the game with actual unique weapons from the nexus. 
+    
+    Ammo scarcity has also been tweaked - ammo drops should be slightly more generous, but picking up weapons no longer grants ammo. 
+    
+    Carry Weight has also recieved an overhaul - Pocketed armor modification have been disabled, and replaced with Backpacks as the primary source of carry weight benefits.
+
+    Syringer Ammo and the Chemist perk has also been overhauled, new syringer ammos added by SRO have been removed, and crafting for syringer ammo in general has been standardized, and requires a new Empty Syringe item.
 
     With the addition of the Cryolance, and the Archimedes II, I suggest grabbing Neiro's Skinpacks for them from Gumroad
     https://niero.gumroad.com/
 
 - Added
+    - LunarFalloutPlus - Backpacks of the Commonwealth
     - PRP Lite
     - Advanced Animations Framework
     - Rusty Face Fix Redux
@@ -20,6 +26,10 @@
     - Nuka Recipe Book 2k Retextures
     - A StoryWealth Location - The Crab Shack
     - A StoryWealth Location - Diamond City
+    - Recruit Small Bertha And Tony As Settlers
+    - Ketaro's World (and lunar patch)
+    - Removed Ammo From Gun Drops
+    - Syringe Ammo Redone (and lunar patch)
     - Select Balisong (and lunar patch)
     - Riot Shotgun (and lunar patch)
     - Riot Shotgun Animations
@@ -79,6 +89,12 @@
     - LBPAC - Raider PA Chop Shop
     - Lunar Fallout Overhaul
     - ShadowBoost
+    - 4estGimp Item Sorter Enhancements
+    - Lunar - Courser Crusher
+    - Lunar - Cross Courser Strigidae
+    - Lunar - Syringer Rifle Overhaul
+    - Lunar - Pump Action Shotgun
+    - Creative Perks Plus (and patches)
 - Removed
     - Unique Uniques
     - Ketaro's Magazines
@@ -90,6 +106,7 @@
 - Misc
     - Distribution changes of some of the weapons tweaked
     - Cleaned up NPC patching
+    - Adjusted ammo scarcity - ammo drops should be more generous, however picking up weapons no longer grants you any ammo
 
 # 2.1.2: Legendary Groundwork
 This update includes a few under-the-hood changes to the legendary system, in preparation for the new uniques coming in a future patch, as well as various mod updates.
