@@ -1,6 +1,6 @@
 # Changelog
 
-# 2.2.0-prelease Stop complaining that LitR doesn't have enough Weapons Part II : Reign of the Uniques
+# 3.0.0 Stop complaining that LitR doesn't have enough Weapons Part II : Reign of the Uniques
 
     The primary feature this release is my Unique Replacer project, which replaces all the uniques in the game with actual unique weapons from the nexus. 
     
@@ -13,8 +13,11 @@
     With the addition of the Cryolance, and the Archimedes II, I suggest grabbing Neiro's Skinpacks for them from Gumroad
     https://niero.gumroad.com/
 
+    Patreons updating from the prerelease should go to Drumlin Diner, and disable Doc Drumlin by activating the med kit there, before updating.
+
 - Added
     - LunarFalloutPlus - Backpacks of the Commonwealth
+    - LunarFalloutPlus - Logical Weapon Dismemberment
     - PRP Lite
     - Advanced Animations Framework
     - Rusty Face Fix Redux
@@ -78,8 +81,9 @@
     - UNPC Lite
     - Railroad Redone Redux - 3dNPCs Patch
     - Lunar Cross Break Action Laser
+    - WSFW
+    - SS2
     - SS2 Chapter 2
-    - Backpacks of the Commonwealth - Super-lite
     - Lunar - Charger Pistol
     - Lunar - Pipe Assault Rifle
     - Lunar - Skewer Launcher
@@ -95,6 +99,10 @@
     - Lunar - Syringer Rifle Overhaul
     - Lunar - Pump Action Shotgun
     - Creative Perks Plus (and patches)
+    - True Legendary Enemies Redux
+    - Doctors of the Commonwealth
+    - Legendaries they can use
+    - Lunar Fallout Plus - NONE Ballistic Weave Overhaul
 - Removed
     - Unique Uniques
     - Ketaro's Magazines
@@ -103,10 +111,16 @@
     - Follower stealth distance fix
     - Recruit the mourning raider
     - BostonFPSFix
+    - Backpacks of the Commonwealth - LITE
+    - Doc Drumlin
 - Misc
     - Distribution changes of some of the weapons tweaked
     - Cleaned up NPC patching
     - Adjusted ammo scarcity - ammo drops should be more generous, however picking up weapons no longer grants you any ammo
+    - Improved integration for Complex Vendors
+    - Improved Integration for Dynamic Vendor Restocking
+    - I'm talking to you
+    - SS2 city plan contest winners
 
 # 2.1.2: Legendary Groundwork
 This update includes a few under-the-hood changes to the legendary system, in preparation for the new uniques coming in a future patch, as well as various mod updates.
