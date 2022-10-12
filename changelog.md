@@ -1,5 +1,36 @@
 # Changelog
 
+# 3.0.2 (Patreon Prerelease) Happy Halloween from Ug Qualtoth
+ - Added
+    * The Secret of Huntress Manor
+    * Anotherone's Kukri
+    * Unique Replacer - Huntress Manor's Secret Kukri
+    * Extended Diamond City Holidays
+- Updated
+- Removed
+- Misc
+
+# 3.0.1 Bugs and Updates
+ - Added
+    * True Legendary Enemies
+    * Lunar - Vault 4
+- Updated
+    * Recruit Kat and Gus 
+    * Recruit Tina, Bobby, Holt
+    * Recruit Clinton and Charlie
+    * Recruit Mac
+    * Recruit Seirrova Petrovita
+    * LarianaKir Settler mods All-In-One pack
+    * Settlers go Shopping
+    * Unique Replacers - AutoHarvester (Reduced Auto Axe Loading screen chance from 20 to 3)
+    * Creative Perks Plus (and lunar patch)
+    * Spitfire Ballistics
+    * Creative Perks Plus (New Synth Body Perk with Robot Hand and Thermal Vision!)
+- Removed
+    * True Legendary Enemies Redux (un-fixable problems with the script not saving renames- switching back to the original)
+- Misc
+    * Fixed missing Forged armor textures
+
 # 3.0.0 Stop complaining that LitR doesn't have enough Weapons Part II : Reign of the Uniques
 
     The primary feature this release is my Unique Replacer project, which replaces all the uniques in the game with actual unique weapons from the nexus. 
@@ -120,7 +151,7 @@
     - Improved integration for Complex Vendors
     - Improved Integration for Dynamic Vendor Restocking
     - I'm talking to you
-    - SS2 city plan contest winners
+    - SS2 city plancontest winners
 
 # 2.1.2: Legendary Groundwork
 This update includes a few under-the-hood changes to the legendary system, in preparation for the new uniques coming in a future patch, as well as various mod updates.
