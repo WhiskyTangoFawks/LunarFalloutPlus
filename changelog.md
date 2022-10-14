@@ -16,6 +16,7 @@
     * People Live In - USAF Satellite Station Olivia
     * People Live In - Unmarked Raider Camps Pack 1
     * NEST Survival Bunkers (and optimization patch)
+    * CHW Fix
 - Updated
     * UNPC Standalone (and patches)
     * Creative Perks Plus (and lunar patch)
