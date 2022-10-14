@@ -2,13 +2,28 @@
 
 # 3.0.2 (Patreon Prerelease) Happy Halloween from Ug Qualtoth
  - Added
+    * South of the Sea (and lunar patch) 
+    * The Mannequin Cult (and lunar patch)
     * The Secret of Huntress Manor
     * Anotherone's Kukri
     * Unique Replacer - Huntress Manor's Secret Kukri
+    * The Gorski Dilemma
+    * Raiders of the Pink Paste
+    * A Raider's Lament
     * Extended Diamond City Holidays
+    * Alternative Chameleon Visuals
+    * Fourville - Exopatch
+    * People Live In - USAF Satellite Station Olivia
+    * People Live In - Unmarked Raider Camps Pack 1
+    * NEST Survival Bunkers (and optimization patch)
 - Updated
+    * UNPC Standalone (and patches)
+    * Creative Perks Plus (and lunar patch)
+    * A Forest Tree Trim
 - Removed
+    * Red Rocket Roof Access
 - Misc
+    * Tweaked loot from the deathclaw in concord, should no longer drop overpowered armor
 
 # 3.0.1 Bugs and Updates
  - Added
@@ -23,7 +38,6 @@
     * LarianaKir Settler mods All-In-One pack
     * Settlers go Shopping
     * Unique Replacers - AutoHarvester (Reduced Auto Axe Loading screen chance from 20 to 3)
-    * Creative Perks Plus (and lunar patch)
     * Spitfire Ballistics
     * Creative Perks Plus (New Synth Body Perk with Robot Hand and Thermal Vision!)
 - Removed
