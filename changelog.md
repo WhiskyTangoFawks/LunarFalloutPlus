@@ -1,6 +1,13 @@
 # Changelog
 
 # 3.0.2 (Patreon Prerelease) Happy Halloween from Ug Qualtoth
+ 
+ A couple of spooky additions, a bunch of updates and bugfixes, and another Fallout 4 HD Overhaul update (so expect some time downloading and repacking archives).
+
+ Also, includes my new Companion weapon swap script, which allows you to upgrade the hidden companion weapon, by equipping them with a weapon of the same type.
+
+ I did a bunch more cleanup on the custom patches, so you'll get a warning about missing plugins, however as those patches didn't add or remove anything, this update is still save safe.
+ 
  - Added
     * South of the Sea (and lunar patch) 
     * The Mannequin Cult (and lunar patch)
@@ -17,14 +24,37 @@
     * People Live In - Unmarked Raider Camps Pack 1
     * NEST Survival Bunkers (and optimization patch)
     * CHW Fix
+    * Companion Weapon Mod Swap
+    * Diamond City Ambiance (req for A StoryWealth Diamond City patch update)
+    * Luxor's Rusty Airplanes
+    * Publick Occurrences Expanded - DLC-SS2-UFO4P Patch
+    * UFO4P 2.1.4 Graygarden Workshop Border Fix
 - Updated
     * UNPC Standalone (and patches)
     * Creative Perks Plus (and lunar patch)
     * A Forest Tree Trim
+    * Lunar - Fourville
+    * Lunar - Pipe Shotgun Redux
+    * Lunar - Sim Settlements 2
+    * Lunar - Super Mutant Redux (adjusted armor spawn levels)
+    * LunarNONE - Expansion Pack (updated SS2 clothing)
+    * Sim Settlements 2 Scrappers
+    * A StoryWealth Diamond City
+    * Fourville Exopatch
+    * Super Mutant Redux Lite (and patches)
+    * Fallout 4 HD Overhaul
 - Removed
     * Red Rocket Roof Access
 - Misc
     * Tweaked loot from the deathclaw in concord, should no longer drop overpowered armor
+    * Renamed LitR - 3DNPCs to Lunar - 3DNPCs (and uploaded as separate mod)
+    * LunarNone SS2 plugins merged and updated
+    * Added Abandoned Hub as an optional file
+    * Broke down a couple of the LitR general conflict resolution patches into separate patches, uploaded to nexus
+    * Cleaned up Precombine section of the load order
+    * Reworked and cleaned up True Legendary Enemy patching
+    * Added crashlog scanner to the tools
+    * Added a few more green landscape textures
 
 # 3.0.1 Bugs and Updates
  - Added
