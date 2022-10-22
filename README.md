@@ -23,7 +23,7 @@ Requires wabbajack - https://www.wabbajack.org/#/
 - Fallout New Vegas - if you want that, go play Fallout New Vegas
 - an "everything but the kitchen sink" list with every mod out there - if you want that, go play Magnum Opus or MOFAM
 - a super-difficult make-the-game-impossible list for people who've played FO4 100x and know it like the back of their hand
-- a good base-list for building on top of - if you want that try Welcome to Paradise
+- a good base-list for building on top of - if you want that try Welcome to Paradise or Fusion
  
 ## Key Gameplay Mods To Be Aware Of
 - [Lunar Fallout Overhaul](https://www.nexusmods.com/fallout4/mods/34769)
@@ -56,7 +56,7 @@ Requires wabbajack - https://www.wabbajack.org/#/
 
 
 ### Technical Requirements
-- This modlist must be installed on an SSD.
+- This modlist must be installed on an SSD (the wabbajack download folder can be on an HDD though).
 - This modlist requires at least 6gb of Vram.
 
 The modlist is designed for relatively modern, middle range hardware. A high end graphics card is not required, but it does help (I am currently playing with a 6500xt on the medium preset, and FPS is mostly capped above 90 outside of Diamond City and Boston Commons, where it does drop for me).
@@ -94,6 +94,7 @@ See [How to Wabbajack](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob
 3. The `Difficulty and Customisation` section in Mod Organizer - for people who want to tweak thing a little.
     * `[NODELETE] Cross Skin Packs` : the downloaded cross skins go here
     * `QoL Tweaks` : Minor quality of life tweaks, disable any you don't want
+    * `Abandoned Hub` : A mod that gives you a cheaty underground hub settlement, connected to fast travel points scattered throughout the world
     * `SKK Dynamic Difficulty Manager`: If you want an easier or harder damage levels, enable this, and see the nexus modpage
     * `Start Me Up - Skip Pre-War Prologue` Optional mod that allows you to skip the pre-war prologue
     * `Uneducated Shooter`: Recommended to only enable this after character creation, as it is known to cause a game freeze during new games.
@@ -124,8 +125,8 @@ The following default settings have now been set for you, courtesy of the bethin
 * [Introduction to ENBoost](https://www.youtube.com/watch?v=Y4cz-lFXDo8)
 * [How to find your optimal value with ENBoost](https://www.youtube.com/watch?v=xSz84F1kgkM)
     - The following values are recommeneded for use with this list: 16384, 12288 and 8192
-        * Higher values might work for users with a lot of ram, but are unnessary, for many users will actually reduce performance and stability
-    - VRAM Size Test for DX11 is included in the list, can can be run through the mod organizer executable drop down
+        * Higher values might work for users with a lot of ram, but are unnessary, for most users will actually reduce performance and stability
+    - VRAM Size Test for DX11 is included in the list, can can be run through the mod organizer executable drop down.
     - Note that the VRam size test is not always reliable, and for some users can give values much higher than will work. If you experience instability (CTD, freezing, stuttering), test with the following values 16384, 12288 and 8192, one of them should work for you.
 
 ENBoost is a feature of ENB that allows your FO4 to extend your system's VRAM with your regular RAM. It's not as fast, but it's better than nothing. AMD users with resizable BAR enabled should see even better performance improvements with this setting, and it's recommended to try it out. The [FO4 HD Overhaul](https://www.nexusmods.com/fallout4/images/172381) recommends setting this value to true, and the author reports for his system, a value of 12288 was optimal for them. However this is a HIGLY system specific setting. What works great for a user with a 3090, will crash for a user with less, which is why it's not turned on for you by default. Please note that updating the list will erase any changes made to enblocal.ini, so make a backup before updating.
@@ -167,6 +168,12 @@ Settings here are going to be very system and driver specific, but some general 
     4. If you're struggling to enter the greenhouse in The Bleachers, try downloading the performance textures from that mod's nexus page. If it's more general, you can try replacing the texture BSAs in the stock game folder with the vanilla ones.
     5. For the brown face bug specifically, configure a hot key for Rusty Face Fix Redux in the MCM, it won't stop it from occuring, but using it should fix the issue at least temporarily.
 - SS2 script failures on new game are the result of going through the opening sequence too quickly. After you finish character creation, wait a couple minutes before trying to exit the bathroom.
+- Silver Shroud Quest not starting after listening to the radio: try console command `setStage MS104 25`
+
+## Crashlog Scanner
+
+The list includes the [Buffout 4 Crashlog Auto Scanner](https://www.nexusmods.com/fallout4/mods/56255), found inside the tools folder. To use, first install [Python 3.10+](https://www.python.org/downloads/), then simply copy paste the crashlog from your `my documents/my games/fallout 4/f4se`, into the `tools/Scan Crash Logs Script` folder inside your LitR installation, and run `scan crashlogs.py`. See the readme.md in the same folder for information on how to interpret the results.
+- The script will throw a low of warnings in the `CHECKING FOR MODS THAT CAN CAUSE FREQUENT CRASHES...`. These can all be safely ignored, I have already dealt with all of them. You do not need to make any modifications to the mod list to deal with CTDs- these are almost always either random instability (which is expected in heavily modded FO4, but should be minimal), mis-configurations on the user end, or modifications that the user has made to the list.
  
 ## Notable Missing Mods
 - Scrap Mods : I personally don't use them, and am not going to add something to the list I haven't test. I recommend SS2's city plans if you want more automation for settlement development.
@@ -175,9 +182,7 @@ Settings here are going to be very system and driver specific, but some general 
 - Beantown Interiors - It's a compatibility nightmare, both because it breaks precombines, and because it destroys the loot balance of the list
 - CBBE- I find barbie doll proportions un-immersive. Women don't look like that in real life.
 - Thuggysmurf (Depravity, Outcasts and Remnants, etc)- The quality of the work on these mods is incredible, but they are massively let down by the writing and choice to include adolescent jokes. I personally find a lot of it cringeworthy. A mod that adds a dildo as a weapon and has a bunch of female NPCs in skimpy sexy corsets isn't one I want in my load order.
-- 100s of Weapons mods - as stated at the top, this isn't a kitchen sink list.
 - Mods that were removed in the Great Nexus Purge and are no longer available : Utility Belt, Better Cooking Stations (v1), MsRae's Commonwealth Interiors, Swinging Animated Meatbags. All of these are compatible, and don't need patching. Feel free to add them if you have them.
-- Previsibine Repair Pack- this modlist uses BostonFPSFix, and the PRP Fixes for it. It's not perfect, but it is reliable. Because PRP touches every single cell in the game (including cells that didn't need fixing) it's a huge undertaking, still under development, and a compatibility headache for a modlist as extensive as this one.
  
 ## Unsupported Activities - Adding your own mods
 ### If you want to add stuff to the list, you do so at your own risk. You're on your own, but if you're really nice about it we'll offer advice in the discord.  If you choose to do so, there are a couple things to know.

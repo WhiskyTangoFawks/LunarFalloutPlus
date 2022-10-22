@@ -1,6 +1,6 @@
 # Changelog
 
-# 3.0.2 (Patreon Prerelease) Happy Halloween from Ug Qualtoth
+# 3.0.2 Happy Halloween from Ug Qualtoth
  
  A couple of spooky additions, a bunch of updates and bugfixes, and another Fallout 4 HD Overhaul update (so expect some time downloading and repacking archives).
 
@@ -22,13 +22,13 @@
     * Fourville - Exopatch
     * People Live In - USAF Satellite Station Olivia
     * People Live In - Unmarked Raider Camps Pack 1
-    * NEST Survival Bunkers (and optimization patch)
     * CHW Fix
     * Companion Weapon Mod Swap
     * Diamond City Ambiance (req for A StoryWealth Diamond City patch update)
     * Luxor's Rusty Airplanes
     * Publick Occurrences Expanded - DLC-SS2-UFO4P Patch
     * UFO4P 2.1.4 Graygarden Workshop Border Fix
+    * True Nights For Far Harbour and Nuka World
 - Updated
     * UNPC Standalone (and patches)
     * Creative Perks Plus (and lunar patch)
@@ -42,9 +42,11 @@
     * A StoryWealth Diamond City
     * Fourville Exopatch
     * Super Mutant Redux Lite (and patches)
+    * Lunar Fallout Plus - Disable Combat Boundaries
     * Fallout 4 HD Overhaul
 - Removed
     * Red Rocket Roof Access
+    * Water Enhancement Textures
 - Misc
     * Tweaked loot from the deathclaw in concord, should no longer drop overpowered armor
     * Renamed LitR - 3DNPCs to Lunar - 3DNPCs (and uploaded as separate mod)
@@ -54,7 +56,10 @@
     * Cleaned up Precombine section of the load order
     * Reworked and cleaned up True Legendary Enemy patching
     * Added crashlog scanner to the tools
-    * Added a few more green landscape textures
+    * Added a few more landscape textures to the custom resource pack
+    * Moved Green landscape textures out of the base game texture repacks (should improve compatibility for people who want to run without A Forest)
+    * Reworked Clarity / True Nights patching
+    * Moved Buffout4 and Address Library to stock game folder
 
 # 3.0.1 Bugs and Updates
  - Added
