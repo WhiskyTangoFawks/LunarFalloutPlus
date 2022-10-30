@@ -1,5 +1,22 @@
 # Changelog
 
+# 3.0.3 Sneaking in a couple updates while the baby is sleeping...
+
+- Added
+    * True Nighttime Clarity (uploaded the existing patch to nexus)
+- Updated
+    * Lunar - Road Sign (nerf)
+    * Super Mutant Redux Standalone (cleaned SM armor playability)
+    * Lunar - SMR
+    * Lunar - Cross Brotherhood Recon (nerfed overcoat)
+    * Unique Replacer - Clint's Great Intentions (removed recon bunker theta M2045)
+    * Sim Settlements 2
+    * SS2 Chapter 2
+    * Workshop Framework
+    * Crash Log Scanner
+- Removed
+- Misc
+
 # 3.0.2 Happy Halloween from Ug Qualtoth
  
  A couple of spooky additions, a bunch of updates and bugfixes, and another Fallout 4 HD Overhaul update (so expect some time downloading and repacking archives).
