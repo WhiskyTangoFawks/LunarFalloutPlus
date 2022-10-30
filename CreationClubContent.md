@@ -18,8 +18,8 @@ Faction members will wear appropriate paint, thanks to Faction Distribution Fram
 | Institute             | Institute             |
 | Railroad              | Railroad              |
 | Children of Atom      | Children of Atom      |
-|                       | Pickman               |
-|                       | Tunnel Snakes         |
+| Pickman               | Pickman               |
+| Tunnel Snakes         | Tunnel Snakes         |
 
 
 ## Repacking Creation Club Content
