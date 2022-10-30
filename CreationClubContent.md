@@ -16,6 +16,11 @@ Faction members will wear appropriate paint, thanks to Faction Distribution Fram
 | Vault Tec             | Vault Tec             |
 | Brotherhood of Steel  | Brotherhood of Steel  |
 | Institute             | Institute             |
+| Railroad              | Railroad              |
+| Children of Atom      | Children of Atom      |
+|                       | Pickman               |
+|                       | Tunnel Snakes         |
+
 
 ## Repacking Creation Club Content
 Using the creation club profile adds almost another 60 BA2s to the list, and will likely result in you hitting the BA2 limit (if your game crashes on load on the CC profile, but not on the normal profile, then that's probably the cause).
