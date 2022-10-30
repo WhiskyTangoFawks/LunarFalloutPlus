@@ -83,8 +83,9 @@ See [How to Wabbajack](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob
 ## Additional Setup (post wabbajack installation)
 ### Customisation
 1. Pick your Profile: "Life in the Ruins", or "Life in the Ruins - CreationClubPaints" if you have the required set of creation club paint jobs
-    -  Creation Club Profile - Copy the creation club files from your `fallout4/data directory` into the `[NODELETE] CreationClub Paint Jobs` mod folder. If you CTD immediately on load on the Creation Club profile, but not on the regular profile, then you've hit your BSA limit, and need to repack the creation club content, [see here for more details](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob/main/CreationClubContent.md)
-2. (Optional) Download and install into the mod folder `[NODELETE] Cross Skin Packs` the Strigidae and Brotherhood Recon Expeditionary Suit, and Cross Break Action Laser skin packs from https://gumroad.com/niero. They're available for free (use the discount code), but a donation is suggested. The man makes some fantastic mods, and you can probably afford to buy him a coffee.
+    -  Creation Club Profile - Copy the creation club files from your `fallout4/data directory` into a new mod folder named, for example, `[NODELETE] CreationClub Paint Jobs` mod folder. 
+    - If you CTD immediately on load on the Creation Club profile, but not on the regular profile, then you've hit your BSA limit, and need to repack the creation club content, [see here for more details](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob/main/CreationClubContent.md)
+2. (Optional) Download and install into a new mod folder named something like `[NODELETE] Cross Skin Packs`, placed at the bottom of the load order, the following skin packs from https://gumroad.com/niero. They're available for free (use the discount code), but a donation is suggested. The man makes some fantastic mods, and you can probably afford to buy him a coffee. The links for the 4k version are provided below, however the 2k are also available.
     * [Cross Courser Strigidae Full 4k](https://niero.gumroad.com/l/brocmon)
     * [Institute Expeditionary Suit Full 4k](https://niero.gumroad.com/l/sUxGr)
     * [Break Action Laser Skin Pack](https://niero.gumroad.com/l/fhdhdh)
@@ -99,8 +100,6 @@ See [How to Wabbajack](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob
     * `Start Me Up - Skip Pre-War Prologue` Optional mod that allows you to skip the pre-war prologue
     * `Uneducated Shooter`: Recommended to only enable this after character creation, as it is known to cause a game freeze during new games.
     * `120FPS No VSYNC` : If you run a high refresh rate monitor with GSync/FreeSync, this will disable vsync, and cap the framerate at 120.
-    * `Dialogue Sneak Peak` this allows you to hover over the dialogue selection and see the fulltext, but can result in the player being silenced occasionally in SS2 dialogues.
-    
 
 ### Game INI Settings with BethINI
 How to Setup your own ini files with Bethini
