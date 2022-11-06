@@ -32,13 +32,14 @@ Requires wabbajack - https://www.wabbajack.org/#/
 - [Lore Based Power Armor Changes](https://www.nexusmods.com/fallout4/mods/36251)
  
 ### The Extra Spice
-- [Fallout 4 HD Overhaul](https://www.nexusmods.com/fallout4/mods/52423)
+- [Fallout 4 HD Overhaul 2k](https://www.nexusmods.com/fallout4/mods/65720)
 - [A Forest](https://www.nexusmods.com/fallout4/mods/45330)
 - [Unique NPCs Creatures and Monsters](https://www.nexusmods.com/fallout4/mods/24357)
 - [Super Mutant Redux](https://www.nexusmods.com/fallout4/mods/11853)
 - [Tales from the Commonwealth](https://www.nexusmods.com/fallout4/mods/8704)
 - [The Bleachers](https://www.nexusmods.com/fallout4/mods/40267)
 - [Gunmetal Weapon and Armor Skins](https://www.nexusmods.com/fallout4/mods/51233)
+- plus more than you can easily count...
  
 ### Optional Creation Club Content Compatibility
 - [Weapons and Armour Skins](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob/main/CreationClubContent.md) Faction Distribution Framework will distribute faction based weapon and armour skins into the world- see the link for more details
@@ -63,7 +64,6 @@ The modlist is designed for relatively modern, middle range hardware. A high end
 
 #### If you have less than 6gb of vram or the list otherwise performs badly for you
 - Do not try to run the list above 1080p, 1440 in fallout is a performance killer
-- Replace the texture BSAs in the stock folder with the Vanilla textures, or for more performance use [PhyOP textures](https://www.nexusmods.com/fallout4/mods/27038). Disable the other texture mods.
 - Reducing the grass density/diversity by editting the ini file in the True Grass mod
 - Disable the ENB (press * to show FPS, then press shift + F12 to disable ENB processing to see if it makes a difference).
 
@@ -128,7 +128,7 @@ The following default settings have now been set for you, courtesy of the bethin
     - VRAM Size Test for DX11 is included in the list, can can be run through the mod organizer executable drop down.
     - Note that the VRam size test is not always reliable, and for some users can give values much higher than will work. If you experience instability (CTD, freezing, stuttering), test with the following values 16384, 12288 and 8192, one of them should work for you.
 
-ENBoost is a feature of ENB that allows your FO4 to extend your system's VRAM with your regular RAM. It's not as fast, but it's better than nothing. AMD users with resizable BAR enabled should see even better performance improvements with this setting, and it's recommended to try it out. The [FO4 HD Overhaul](https://www.nexusmods.com/fallout4/images/172381) recommends setting this value to true, and the author reports for his system, a value of 12288 was optimal for them. However this is a HIGLY system specific setting. What works great for a user with a 3090, will crash for a user with less, which is why it's not turned on for you by default. Please note that updating the list will erase any changes made to enblocal.ini, so make a backup before updating.
+ENBoost is a feature of ENB that allows your FO4 to extend your system's VRAM with your regular RAM. It's not as fast, but it's better than nothing. AMD users with resizable BAR enabled should see even better performance improvements with this setting, and it's recommended to try it out. However this is a HIGLY system specific setting. What works great for a user with a 3090, will crash for a user with less, which is why it's not turned on for you by default. Please note that updating the list will erase any changes made to enblocal.ini, so make a backup before updating.
 
 If you have issues with textures not loading, stuttering, or the brown face bug, it is recommended to try this.
 
@@ -159,15 +159,13 @@ Settings here are going to be very system and driver specific, but some general 
 4. (Optional) Craft the companion tracker holotape at the chem lab bench. This allows you to track inactive companions, for cases where you can't remember which settlement you sent them to. 
 
 ## Known Issues
-- Recurring CTD : The only known recurring CTD is the result of Nvidia drivers for the 20 series cards. The problem seems to have been fixed in more recent driver updates, but if you still have problems [Read more about it here](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob/main/NvidiaDriverCrash.md)
-- Infinite Loading Screens, Micro Stuttering, Textures not loading, or the Brown Face bug: 
+- Performance Issues: Infinite Loading Screens, Micro Stuttering, Textures not loading, or the Brown Face bug: 
     1. Stop other processes to free up RAM, browser windows are especially a problem here
     2. Try setting the resolution to 1920x1080 if you're running above that
     3. Try enabling forceVideoMemory in installation folder > stock game > enblocal.ini
-    4. If you're struggling to enter the greenhouse in The Bleachers, try downloading the performance textures from that mod's nexus page. If it's more general, you can try replacing the texture BSAs in the stock game folder with the vanilla ones.
-    5. For the brown face bug specifically, configure a hot key for Rusty Face Fix Redux in the MCM, it won't stop it from occuring, but using it should fix the issue at least temporarily.
-- SS2 script failures on new game are the result of going through the opening sequence too quickly. After you finish character creation, wait a couple minutes before trying to exit the bathroom.
-- Silver Shroud Quest not starting after listening to the radio: try console command `setStage MS104 25`
+    4. For the brown face bug specifically, configure a hot key for Rusty Face Fix Redux in the MCM, it won't stop it from occuring, but using it should fix the issue at least temporarily.
+- SS2 script failures on new game are the result of going through the opening sequence too quickly. After you finish character creation, wait a 30 seconds or so before exiting the bathroom.
+- Silver Shroud Quest not starting after listening to the radio: while in goodneighbor, use the console command `setStage MS04 25`
 
 ## Crashlog Scanner
 
@@ -179,16 +177,15 @@ The list includes the [Buffout 4 Crashlog Auto Scanner](https://www.nexusmods.co
 - VAFS: I play the game on my couch, with an xbox controller, using VATS pretty much exclusively. If you want slow time aiming, take the sniper perk (which has a weak slow time effect), and stockpile JET.
 - AWKCR - Yes, this is an AWKCR-free modlist. Faction Distribution Framework does have an ArmorKeywords dummy plugin it uses for some keywords, but it does not include any of the bloat or unexpected features of the full AWKCR mod.
 - Beantown Interiors - It's a compatibility nightmare, both because it breaks precombines, and because it destroys the loot balance of the list
-- CBBE- I find barbie doll proportions un-immersive. Women don't look like that in real life.
+- CBBE- I find barbie doll proportions un-immersive, and annoying.
 - Thuggysmurf (Depravity, Outcasts and Remnants, etc)- The quality of the work on these mods is incredible, but they are massively let down by the writing and choice to include adolescent jokes. I personally find a lot of it cringeworthy. A mod that adds a dildo as a weapon and has a bunch of female NPCs in skimpy sexy corsets isn't one I want in my load order.
-- Mods that were removed in the Great Nexus Purge and are no longer available : Utility Belt, Better Cooking Stations (v1), MsRae's Commonwealth Interiors, Swinging Animated Meatbags. All of these are compatible, and don't need patching. Feel free to add them if you have them.
  
 ## Unsupported Activities - Adding your own mods
 ### If you want to add stuff to the list, you do so at your own risk. You're on your own, but if you're really nice about it we'll offer advice in the discord.  If you choose to do so, there are a couple things to know.
-0. The correct way (IMHO) to add stuff to an existing modlist, is to use the `[NODELETE]` tag, this will cause wabbajack to ignore it. New mods should be added at the END of the modlist, the whole point of adding a mod is to override the existing changes in the list, so at the end is *probably* where you want it. I recommend also adding a tag to order the mods you add alphabetically in the order you want, so that when you update the base list the folders will be added to the end, in the order you want them, and you just have to re-enable them, and then rerun the sorter patch. So, when you add a new mod, it will look like this in the left hand pane `[NODELETE] 01 Default Mod Name`. This allows you to apply critical updates from the main list, while keeping it relatively easy to maintain your additions. The `[NODELETE]` tag applies to any folder, including profiles. So if you want to do something more complex with load order, you can copy the existing profile, rename it and include the `[NODELETE]` tag at the start, and when the installer runs when you update it will leave your custom profile untouched.
-1. Lunar Fallout Overhaul has a specific balance, adding new weapons, armors, monsters, or items is NOT RECOMMENDED. It probably won't break it, but it will screw with the balance. If you want to patch it in, information on how the mod works and it's balance can be found on Moonracer's Lunar Fallout Overhaul mod page.
+0. The correct way (IMHO) to add stuff to an existing modlist, is to use the `[NODELETE]` tag, this will cause wabbajack to ignore it. New mods should be added near the END of the modlist, but BEFORE the plugins in the `Previs` sections, the whole point of adding a mod is to override the existing changes in the list, so at the end is *probably* where you want it. I recommend also adding a tag to order the mods you add alphabetically in the order you want, so that when you update the base list the folders will be added to the end, in the order you want them, and you just have to re-enable them, and then rerun the sorter patch. So, when you add a new mod, it will look like this in the left hand pane `[NODELETE] 01 Default Mod Name`. This allows you to apply critical updates from the main list, while keeping it relatively easy to maintain your additions. The `[NODELETE]` tag applies to any folder, including profiles. So if you want to do something more complex with load order, you can copy the existing profile, rename it and include the `[NODELETE]` tag at the start, and when the installer runs when you update it will leave your custom profile untouched.
+1. Lunar Fallout Overhaul has a specific balance, adding new weapons, armors, monsters, or items is NOT RECOMMENDED. It probably won't break it, but it will screw with the balance, in most cases the weapon will be kinda useless due to the way lunar scales. If you want to patch it in, information on how the mod works and it's balance can be found on Moonracer's Lunar Fallout Overhaul mod page.
 2. This modlist has a staggering amount of custom patching, and even completely custom mods, all with the vision of integrating everything together into a cohesive whole. The answer to "does this mod conflict with the Life in the Ruins" is ALWAYS going to be yes, there are very few things that haven't been touched, tweaked, or reworked. If you don't know how to do conflict resolution in xedit, turn back now.
 3. The mod uses M8r98a4f2's Complex Item Sorte v1.9, with 4estGimps Item Sorter Enhancements. The sorting plugin can be regenerated by running the script in xEdit (which is shipped with the modlist). When you run the script, it will ask you to activate the AWKCR addon- *DO NOT DO SO*. The AWKCR plugin in this list is NOT the normal AWKCR, and does not require special patching by the sorter.
 4. As stated above, the AWKCR plugin in this list is NOT the normal AWKCR. AWKCR Dependent mods will not work with it.
-5. This modlist includes custom precombines for the Downtown Boston, and Diamond City areas. If you break them, it will destroy performance, and you will get flickering.
-6. This list is near the BSA limit, if you add mods and experience CTDs, that is a likely cause.
+5. This modlist includes custom precombines for the Downtown Boston, and Diamond City areas. If you break them or override them, it will destroy performance, and you will get flickering.
+6. This list is near the BSA limit, if you add mods and experience CTDs immediately on loading, that is a likely cause.

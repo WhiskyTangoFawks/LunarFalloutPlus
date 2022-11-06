@@ -1,5 +1,54 @@
 # Changelog
 
+
+# 3.0.4 - The Downgrade-ening
+    Just a minor update, with a couple hotfixes, and a bunch of texture repacking.
+    A few texture mods have been removed, they were initially included due to the Fallout 4 HD Overhaul not covering weapons or robot actors, but should be no longer needed. The Fallout4 HD Overhaul has been swapped out for the 2k version, and some overriding textures have been downgraded to 2k. This should be a pretty significant performance improvement for most users.
+    I've also repacked a bunch of the mod added weapons, this should free up around 50 ba2 slots, let me know if you encounter any issues with missing weapon textures.
+
+    I suggest removing the downloads for the old 4K HD Overhaul, and the mods in the removed section, should save you about 60gb of hd space
+
+- Added
+    * Classic Wasteland Bobbleheads and Mojave Snowglobes (snowglobes disabled)
+    * Classic Wasteland Bobbleheads - Fourville Edition
+    * Wearable Supermutant Armor Redux (and Lunar-SMR patch)
+- Updated
+    * Lunar Fallout Plus - Locational Damage (disabled settler live dismemberment)
+    * Lunar Fallout Plus - Backpacks of the Commonwealth (fix for AP bug)
+    * Lunar - Pipe Assault Rifle
+    * LarannKir Recruitment Pack
+    * Wetness Shader Fix
+    * FallUI Workbench
+    * FallUI Confirm Boxes
+    * Fixed Gobo Effects
+    * 4estGimp's Complex Itemsorter Enhancements
+- Removed
+    * Dialogue Peek
+    * The Fantastic 44
+    * The Marvelous Missle Launcher
+    * The Flamer Project
+    * The Hunting Rifle Set
+    * The Fancy Fatman
+    * The Radical Ripper
+    * The Delightful Deliverer
+    * The Meritable Minigun
+    * Scratchmade - new double barrel shotgun textures
+    * SavrenX Weapon HD
+    * SavrenX Better Robots
+    * Protectron HD
+    * True Caves (No longer available on nexus)
+    * Quintesential Quarries (No longer available on nexus)
+- Misc
+    * Fallout 4 HD Overhaul downgraded to 2K version
+    * Load Order fixed for People Live In - Satellite Station Olivia
+    * Repacked a bunch of BA2s for mod added weapons together
+    * Repacked base game BA2s
+    * Redder Rocket swapped to 2k version
+    * Gritty Subway Stations swapped to 2k version
+    * Ronin's UHD Plants swapped to 2k version
+    * Regenerated LOD with 2k Textures
+
+
 # 3.0.3 Sneaking in a couple updates while the baby is sleeping...
 
 - Added
