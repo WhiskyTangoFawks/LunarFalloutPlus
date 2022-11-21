@@ -30,6 +30,7 @@ Requires wabbajack - https://www.wabbajack.org/#/
 - [Creative Perks Plus](https://www.nexusmods.com/fallout4/mods/49400)
 - [Sim Settlements 2](https://www.nexusmods.com/fallout4/mods/47976)
 - [Lore Based Power Armor Changes](https://www.nexusmods.com/fallout4/mods/36251)
+- [Random Valuables Redux](https://www.nexusmods.com/fallout4/mods/60097)
  
 ### The Extra Spice
 - [Fallout 4 HD Overhaul 2k](https://www.nexusmods.com/fallout4/mods/65720)
@@ -85,13 +86,14 @@ See [How to Wabbajack](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob
 1. Pick your Profile: "Life in the Ruins", or "Life in the Ruins - CreationClubPaints" if you have the required set of creation club paint jobs
     -  Creation Club Profile - Copy the creation club files from your `fallout4/data directory` into a new mod folder named, for example, `[NODELETE] CreationClub Paint Jobs` mod folder. 
     - If you CTD immediately on load on the Creation Club profile, but not on the regular profile, then you've hit your BSA limit, and need to repack the creation club content, [see here for more details](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob/main/CreationClubContent.md)
-2. (Optional) Download and install into a new mod folder named something like `[NODELETE] Cross Skin Packs`, placed at the bottom of the load order, the following skin packs from https://gumroad.com/niero. They're available for free (use the discount code), but a donation is suggested. The man makes some fantastic mods, and you can probably afford to buy him a coffee. The links for the 4k version are provided below, however the 2k are also available.
-    * [Cross Courser Strigidae Full 4k](https://niero.gumroad.com/l/brocmon)
-    * [Institute Expeditionary Suit Full 4k](https://niero.gumroad.com/l/sUxGr)
+2. (Recommended) Download and install into a new mod folder named something like `[NODELETE] Cross Skin Packs`, placed at the bottom of the load order, the following skin packs from https://gumroad.com/niero. They're available for free (use the discount code), but a donation is suggested. The man makes some fantastic mods, and you can probably afford to buy him a coffee. The links for the 2k version are provided below, however the 4k are also available.
+    * [Cross Courser Strigidae Full 2k](https://niero.gumroad.com/l/512512)
+    * [Institute Expeditionary Suit Full 2k](https://niero.gumroad.com/l/MlzmT)
     * [Break Action Laser Skin Pack](https://niero.gumroad.com/l/fhdhdh)
-    * [Brotherhood Recon Full 4k](https://niero.gumroad.com/l/smyb)
-    * [Cross Archimedes II](https://niero.gumroad.com/l/archimedesii4k)
-    * [Cross Cryolance](https://niero.gumroad.com/l/fjfjfjhb)
+    * [Brotherhood Recon Full 2k](https://niero.gumroad.com/l/enrbl)
+    * [Cross Archimedes II](https://niero.gumroad.com/l/archimedesii)
+    * [Cross Cryolance](https://niero.gumroad.com/l/mQKCt)
+    Not following this step will result in the alternate skins for these mods being very low res.
 3. The `Difficulty and Customisation` section in Mod Organizer - for people who want to tweak thing a little.
     * `[NODELETE] Cross Skin Packs` : the downloaded cross skins go here
     * `QoL Tweaks` : Minor quality of life tweaks, disable any you don't want
@@ -112,12 +114,13 @@ How to Setup your own ini files with Bethini
     * Choose a profile at least one step lower than you would use for vanilla fallout. For most users with less than a 3090 I recommend medium or high, LitR is significantly heavier than vanilla fallout. (The shorter draw distances on medium make A Forest much easier to run, and A Forest makes it so you can see stuff way in the distance anyway)
     * For most users, 1920x1080 resolution is recommended.
     * Enable `VSync` unless you're using Gsync/FreeSync (the `High FPS Physics Fix` mod controls VSync and this settings should be ignored, but having it match here doesn't hurt)
+    * On the custom tab, select `general` in the section drop down, and `iNumHWThreads` in the settings drop down. Set this to the number of cores your CPU has, doubling that number if it has hyperthreading. For more information on this setting, see https://stepmodifications.org/wiki/Guide:Skyrim_INI/General#iNumHWThreads
     
 The following default settings have now been set for you, courtesy of the bethini presets that ship with the list
-   * Disabled `motion blur`, `godrays`, `lense flare`, and `depth of field` (I don't like them, and suggest disabling, but whatever you want)
-   * `fBlendSplitDirShadow` - set to 0 on medium, 192 on high and ultra
-   * `iDirShadowSplits` set to 1 on medium, set to 3 on high and ultra
-   * `fUpdateBudgetMS` - set this to 2.4 (normally, messing with the budget settings will degrade performance, but because HighFPSPhysics is able to dynamically turn this down, this gives the scripting engine more resources, but only when it needs it)
+   * These have been disabled by default `motion blur`, `godrays`, `lense flare`, and `depth of field`
+   * `fBlendSplitDirShadow` - has been set to 0 on medium, 192 on high and ultra
+   * `iDirShadowSplits` has been set to 1 on medium, set to 3 on high and ultra
+   * `fUpdateBudgetMS` - has been set to 2.4 (normally, messing with the budget settings will degrade performance, but because HighFPSPhysics is able to dynamically turn this down, this gives the scripting engine more resources, but only when it needs it)
 
 #### Video Memory And ENBoost
 
@@ -125,10 +128,9 @@ The following default settings have now been set for you, courtesy of the bethin
 * [How to find your optimal value with ENBoost](https://www.youtube.com/watch?v=xSz84F1kgkM)
     - The following values are recommeneded for use with this list: 16384, 12288 and 8192
         * Higher values might work for users with a lot of ram, but are unnessary, for most users will actually reduce performance and stability
-    - VRAM Size Test for DX11 is included in the list, can can be run through the mod organizer executable drop down.
-    - Note that the VRam size test is not always reliable, and for some users can give values much higher than will work. If you experience instability (CTD, freezing, stuttering), test with the following values 16384, 12288 and 8192, one of them should work for you.
+    - VRAM Size Test for DX11 is included in the list, can can be run through the mod organizer executable drop down- however most of the time it will lie to you about what your value should be. It frequently give values much higher than will work. If you experience instability (CTD, freezing, stuttering), test with the following values 16384, 12288 and 8192, one of them should work for you.
 
-ENBoost is a feature of ENB that allows your FO4 to extend your system's VRAM with your regular RAM. It's not as fast, but it's better than nothing. AMD users with resizable BAR enabled should see even better performance improvements with this setting, and it's recommended to try it out. However this is a HIGLY system specific setting. What works great for a user with a 3090, will crash for a user with less, which is why it's not turned on for you by default. Please note that updating the list will erase any changes made to enblocal.ini, so make a backup before updating.
+ENBoost is a feature of ENB that allows your FO4 to extend your system's VRAM with your regular RAM. It's not as fast, but it's better than nothing. AMD users with resizable BAR enabled should see even better performance improvements with this setting, and it's recommended to try it out. However this is a HIGHLY system specific setting. What works great for a user with a 3090, will crash for a user with less, which is why it's not turned on for you by default. Please note that updating the list will erase any changes made to enblocal.ini, so make a backup before updating.
 
 If you have issues with textures not loading, stuttering, or the brown face bug, it is recommended to try this.
 
@@ -163,6 +165,7 @@ Settings here are going to be very system and driver specific, but some general 
     1. Stop other processes to free up RAM, browser windows are especially a problem here
     2. Try setting the resolution to 1920x1080 if you're running above that
     3. Try enabling forceVideoMemory in installation folder > stock game > enblocal.ini
+    4. Make sure you've set iNumHWThreads, as specified in the Bethini section of this readme.
     4. For the brown face bug specifically, configure a hot key for Rusty Face Fix Redux in the MCM, it won't stop it from occuring, but using it should fix the issue at least temporarily.
 - SS2 script failures on new game are the result of going through the opening sequence too quickly. After you finish character creation, wait a 30 seconds or so before exiting the bathroom.
 - Silver Shroud Quest not starting after listening to the radio: while in goodneighbor, use the console command `setStage MS04 25`
@@ -170,7 +173,7 @@ Settings here are going to be very system and driver specific, but some general 
 ## Crashlog Scanner
 
 The list includes the [Buffout 4 Crashlog Auto Scanner](https://www.nexusmods.com/fallout4/mods/56255), found inside the tools folder. To use, first install [Python 3.10+](https://www.python.org/downloads/), then simply copy paste the crashlog from your `my documents/my games/fallout 4/f4se`, into the `tools/Scan Crash Logs Script` folder inside your LitR installation, and run `scan crashlogs.py`. See the readme.md in the same folder for information on how to interpret the results.
-- The script will throw a low of warnings in the `CHECKING FOR MODS THAT CAN CAUSE FREQUENT CRASHES...`. These can all be safely ignored, I have already dealt with all of them. You do not need to make any modifications to the mod list to deal with CTDs- these are almost always either random instability (which is expected in heavily modded FO4, but should be minimal), mis-configurations on the user end, or modifications that the user has made to the list.
+- The script will throw a lot of warnings in the `CHECKING FOR MODS THAT CAN CAUSE FREQUENT CRASHES...`. These can all be safely ignored, I have already dealt with all of them. You do not need to make any modifications to the mod list to deal with CTDs- these are almost always either random instability (which is expected in heavily modded FO4, but should be minimal), mis-configurations on the user end, or modifications that the user has made to the list.
  
 ## Notable Missing Mods
 - Scrap Mods : I personally don't use them, and am not going to add something to the list I haven't test. I recommend SS2's city plans if you want more automation for settlement development.
