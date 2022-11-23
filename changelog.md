@@ -1,6 +1,40 @@
 # Changelog
 
 
+# 3.1.0 - Immersive Legendary Mutations Release
+
+Due to the removal of True Legendary Enemies, Recruit Darla, and the update for Nobodys Leaders, a new save is recommended. If you want to try updating an existing save, I would suggest doing so on a save where you've not recruited Darla.
+- Added
+    * Immersive Legenedary Mutations
+    * Less Loot - People Live In Satellite Station Olivia
+    * Recruit Dixie From Nukaworld
+    * Recruit Timothy as Settler
+    * True Storms MCM Menu
+    * Light Sources Do Not Cast Dynamic Shadows
+    * No Door Animations - Instant Doors
+- Updated
+    * Lunar Fallout Hunting Shotgun
+    * SS2
+    * SS2 Chpt 2
+    * Workshop Framework
+    * SS2 Nobodys Leaders
+    * LarannKiar Recruitment Mods All-In-One Archive Pack
+    * Complex Vendors
+    * A Forest Tree Trim
+    * Inner City Ambiance
+    * A StoryWealth Location - Diamond City
+    * Creative Perks Plus (and lunar patch)
+    * Lunar - Makeshift SMG
+    * LarannKiar's No Objectives (removed Darla, split plugin into separate plugins for easier maintenance)
+    * Simple Power Armor Damage Threshold (buffed DR against Melee, and slightly reduced damage from armor piercing and heavy weapons)
+- Removed
+    * Recruit Darla (based on user feedback)
+    * Lunar - SS2 Nobody's Leaders (v2 no longer conflicts with lunar, therefore the patch is deprecated)
+    * True Legendary Enemies (and Patches) (preparation for upcoming replacement mod I'm working on)
+- Misc
+    * Tweaked load order for weapon repacks, should allow See Through Scopes to correctly override them
+    * Repacked texture archives with the 2k HD Overhaul Museum Wall fix
+
 # 3.0.4 - The Downgrade-ening
     Just a minor update, with a couple hotfixes, and a bunch of texture repacking.
     A few texture mods have been removed, they were initially included due to the Fallout 4 HD Overhaul not covering weapons or robot actors, but should be no longer needed. The Fallout4 HD Overhaul has been swapped out for the 2k version, and some overriding textures have been downgraded to 2k. This should be a pretty significant performance improvement for most users.
@@ -1423,4 +1457,4 @@ If you want to update from 0.1.2, you can just add [NODELTETE] to the Mercenary 
 - removed unused mods from compile to prevent "unable to download" errors
 - Added [NODELETE] to the repacked textures to prevent rehashing and rebuilding during updates
 
-### v0.1.0 Initial pre-release
+### v0.1.0 Initial pre-release\
