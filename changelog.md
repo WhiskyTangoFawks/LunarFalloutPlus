@@ -5,6 +5,7 @@
 A couple big changes here. First, Creative Perks Plus has been upgraded to True Perks, it's a major version change. I've also added my new Alias Project, which is a scripted replacer for True Legendary Enemies Redux. Players who want the full normal enemy renaming features can just disable the legendary modules (all it does is change the distribution of the spell, it's safe to toggle mid save). I've also swapped out some of the older sound mods for some updated on, updated a bunch of stuff, as well as some general new content additions.
 
 All this means that I have to recommend against updating an existing save. If you want to try it anyway, I recommend taking a couple steps.
+1 Make a backup of your save, and put it somewhere you won't lose it. If you encounter weirdness later, you can always grab the 3.1.1 release from my Patreon (the file isn't paywalled), and roll back.
 Adrenaline Rush has been swapped out for my own custom integration in True Perks Survival, which changes adrenaline to be a mostly AP based effect
 
 you need to stop Adrenaline Rush.
@@ -12,7 +13,7 @@ you need to stop Adrenaline Rush.
 2. player.addItem (id from step 1)
 3. Use the uninstall option on the holotape you just gave yourself
 
-Once you're in game after updating, I also recommend respeccing your perks. You can now do so with the mindwipe chem, purchasable from vendors, or just cheat one in for yourself
+Once you're in game after updating, I also recommend respeccing your perks. You can now do so with the new mindwipe chem, purchasable from vendors, or just cheat one in for yourself
 1. help mindwipe 4 alch
 2. player.addItem (id from step 1)
 3. Use the chem, it'll remove all your existing perks
