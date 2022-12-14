@@ -1,5 +1,84 @@
 # Changelog
 
+# 3.2 - The Alias Project and True Perks
+
+A couple big changes here. First, Creative Perks Plus has been upgraded to True Perks, it's a major version change. I've also added my new Alias Project, which is a scripted replacer for True Legendary Enemies Redux. Players who want the full normal enemy renaming features can just disable the legendary modules (all it does is change the distribution of the spell, it's safe to toggle mid save). I've also swapped out some of the older sound mods for some updated on, updated a bunch of stuff, as well as some general new content additions.
+
+All this means that I have to recommend against updating an existing save. If you want to try it anyway, I recommend taking a couple steps.
+Adrenaline Rush has been swapped out for my own custom integration in True Perks Survival, which changes adrenaline to be a mostly AP based effect
+
+you need to stop Adrenaline Rush.
+1. help adrenaline 4 NOTE
+2. player.addItem (id from step 1)
+3. Use the uninstall option on the holotape you just gave yourself
+
+Once you're in game after updating, I also recommend respeccing your perks. You can now do so with the mindwipe chem, purchasable from vendors, or just cheat one in for yourself
+1. help mindwipe 4 alch
+2. player.addItem (id from step 1)
+3. Use the chem, it'll remove all your existing perks
+
+- Added
+    * SPID
+    * Baka Framework
+    * Alias (the entire Collection, with the Legendary Only distribution options)
+    * Cat Variants - SPID
+    * Recruit Trader Riley As Settler
+    * Companion Status HUD - MCM Settings Menu With Hotkey
+    * Rad Birds
+    * MWGS - Modern Warfare Gun Sounds
+    * Cinematic Sounds - Discovery, Levelling
+    * Respawnable Legendary Bosses and Hard Legendary Giant Creatures
+    * Legendary Bosses - Plutonium Redux
+    * Aloot's Better Cambridge Police Station
+    * Survival Debuff Tweaks
+    * Diamond City Expansion - Exopatch
+    * Lunar Fallout Plus - Whisky's Tweaks
+    * Ambient Tunnels of Boston
+    * Clean And Simple Nuka World Bottle Fix
+    * Nuka-World Monorail Tram Fast Travel
+    * Far Harbor Boat Fast Travel
+    * Vault 494 A Vault Tec Story
+    * Introducing Radium Inc
+    * Radium Inc - Rare Radium Products
+    * Intro Tweaks
+    * Recruit Scribe Halyn
+    * People Live In Roadside Pines Motel (and less loot patch)
+    * People Live In Dark Hollow Pond (and less loot patch)
+- Updated
+    * LunarFalloutPlus - Locational Damage (headless robots now take a massive accuracy penalty)
+    * LarannKiar Recruitment Mods All-In-One Archive Pack
+    * Recruit the Amnesiac Gunner
+    * True Storms MCM Menu
+    * Unique Replacers - Hunting Gainer
+    * See Through Scopes
+    * A Storywealth Location - Diamond City
+    * 4estGimp - M8r Complex Item Sorter Enhancements
+    * South of the Sea - Hap's Homage
+    * Wasteland Ventures SS2
+    * Lunar Beretta
+    * Lunar Ketaro's World
+    * Lunar Fallout Plus - Backpacks (fixed sleep fatigue removal bug)
+    * Lunar Fallout Plus - Ballistic Weaves Overhaul
+    * Immersive Drumlin Diner - Exopatch
+    * A Storywealth Diamond City Patch
+    * Keep Radiants in the Commonwealth UFO4P Version
+    * Power Armor to the People
+- Removed
+    * Radiant Birds
+    * Radiant Birds (Less Radiant)
+    * Commonwealth Gunfire Overhaul
+    * Non-Generic VATS Sound Effects (and LitR patch)
+    * Adrenaline Rush
+    * Lunar Hardcore Patch (replaced with Lunar Fallout Plus Whisky's Tweaks)
+    * PRP Lite Corvega (needs fixing)
+    * Creative Perks (No longer a pre-req for True Perks)
+    * Journey
+    * Nuka World Bottle Scenery Fix
+- Misc
+    * Companion Whistle move to customization section
+    * Companion Tracker moved to customization 
+
+
 
 # 3.1.0 - Immersive Legendary Mutations Release
 
@@ -36,11 +115,12 @@ Due to the removal of True Legendary Enemies, Recruit Darla, and the update for 
     * Repacked texture archives with the 2k HD Overhaul Museum Wall fix
 
 # 3.0.4 - The Downgrade-ening
-    Just a minor update, with a couple hotfixes, and a bunch of texture repacking.
-    A few texture mods have been removed, they were initially included due to the Fallout 4 HD Overhaul not covering weapons or robot actors, but should be no longer needed. The Fallout4 HD Overhaul has been swapped out for the 2k version, and some overriding textures have been downgraded to 2k. This should be a pretty significant performance improvement for most users.
-    I've also repacked a bunch of the mod added weapons, this should free up around 50 ba2 slots, let me know if you encounter any issues with missing weapon textures.
 
-    I suggest removing the downloads for the old 4K HD Overhaul, and the mods in the removed section, should save you about 60gb of hd space
+Just a minor update, with a couple hotfixes, and a bunch of texture repacking.
+A few texture mods have been removed, they were initially included due to the Fallout 4 HD Overhaul not covering weapons or robot actors, but should be no longer needed. The Fallout4 HD Overhaul has been swapped out for the 2k version, and some overriding textures have been downgraded to 2k. This should be a pretty significant performance improvement for most users.
+I've also repacked a bunch of the mod added weapons, this should free up around 50 ba2 slots, let me know if you encounter any issues with missing weapon textures.
+
+I suggest removing the downloads for the old 4K HD Overhaul, and the mods in the removed section, should save you about 60gb of hd space
 
 - Added
     * Classic Wasteland Bobbleheads and Mojave Snowglobes (snowglobes disabled)
