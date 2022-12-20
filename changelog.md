@@ -2,7 +2,7 @@
 
 # 3.2.1 : The cure for the common cold
 
-So, I came down with a cold this week, and it got me thinking about the survival diseases are a terrible gameplay mechanic, no real player interaction, just random punishment which you just ignore until you happen to be near a doctor again, so it's getting disabled. No survival diseases disables the effects of the disease, but you might still get notifications about contracting those - if you want just disable the mechanic in the SCM MCM menu to remove the notifications.
+So, I came down with a cold this week, and it got me thinking about the survival diseases are a terrible gameplay mechanic, no real player interaction, just random punishment which you just ignore until you happen to be near a doctor again, so it's getting disabled. No survival diseases disables the effects of the disease, but you might still get notifications about contracting those - if you want just disable the mechanic in the SCM MCM menu to remove the notifications. A future update may include some new illness options for survival, but that's likely a ways away still.
 
 - Added
     * Food healing doesn't stack
@@ -30,8 +30,10 @@ So, I came down with a cold this week, and it got me thinking about the survival
     * More Doctors(For Survival Mode)
     * Lunar Fallout Overhaul Plus - Survival Chems and Meds
     * Lore Friendly Survival Chems
+    * Private profile redirector
 - Misc
     * Buffed Red Rocket faction NPCs
+    * Fixed Buffout4 Install location
 
 # 3.2 - The Alias Project and True Perks
 
