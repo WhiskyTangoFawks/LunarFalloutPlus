@@ -1,5 +1,38 @@
 # Changelog
 
+# 3.2.1 : The cure for the common cold
+
+So, I came down with a cold this week, and it got me thinking about the survival diseases are a terrible gameplay mechanic, no real player interaction, just random punishment which you just ignore until you happen to be near a doctor again, so it's getting disabled. No survival diseases disables the effects of the disease, but you might still get notifications about contracting those - if you want just disable the mechanic in the SCM MCM menu to remove the notifications.
+
+- Added
+    * Food healing doesn't stack
+    * Arcadia Survival Tweaks
+    * Boston Airport Workbench Fix
+    * Institute Field Knife and Baton (and lunar patch)
+    * Institute Plasma Rifle (and lunar patch)
+    * Institute EM Rifle (and lunar patch)
+    * No Survival Diseases
+- Updated
+    * Inner City Ambience
+    * Diamond City Ambience
+    * Legendary Bosses Plutonium Redux
+    * Recruit Jenny K1-98
+    * LarannKiar Recruitment Mods All-In-One Archive Pack
+    * WSFW
+    * SS2
+    * SS2 Chpt2
+    * Unique Replacers - CryoAeternus
+    * Lunar Fallout Overhaul - Everyones Best Friend
+    * Fourville Exopatch
+    * Lunar Fallout Overhaul - Fourville
+    * True Perks
+- Removed
+    * More Doctors(For Survival Mode)
+    * Lunar Fallout Overhaul Plus - Survival Chems and Meds
+    * Lore Friendly Survival Chems
+- Misc
+    * Buffed Red Rocket faction NPCs
+
 # 3.2 - The Alias Project and True Perks
 
 A couple big changes here. First, Creative Perks Plus has been upgraded to True Perks, it's a major version change. I've also added my new Alias Project, which is a scripted replacer for True Legendary Enemies Redux. Players who want the full normal enemy renaming features can just disable the legendary modules (all it does is change the distribution of the spell, it's safe to toggle mid save). I've also swapped out some of the older sound mods for some updated on, updated a bunch of stuff, as well as some general new content additions.
