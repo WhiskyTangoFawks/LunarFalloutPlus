@@ -1,4 +1,46 @@
+
 # Changelog
+
+
+# 3.2.2
+
+With the addition of LFP - Food, it's recommended to turn SCM hunger and thirst from calculated by weight, back to the default calculated by value
+Healing values in Food Doesn't Stack have also been tweaked, food and water should have noticeable, but slow, healing, active only outside of combat.
+
+- Added
+    * Lunar Fallout Plus - Food
+    * Handmade Turrets
+    * Scrappy Turrets Replacer
+    * General Atomics Gallery Settlement
+    * Vault 81 Entrance Settlement
+    * Mystic Pines Settlement
+    * Goodneighbor Expanded
+    * Goodneighbor Expanded Faces
+- Updated
+    * True Perks
+    * SS2
+    * True Perks
+    * UNPC Standalone
+    * A Forest Tree Trim
+    * Far Object LOD Improvement Project
+    * UNPCs - Names Heights Weights
+    * Lunar - LAER
+    * Lunar - Charger Pistol
+    * See through scopes
+    * Lunar - Cross Courser Strigidae
+    * Food Doesn't Stack
+    * Radium Inc - Rare Radium Products
+    * Lunar - Ketaro's World
+- Removed
+    * Lunar Survival Configuration Menu (superceded by LFP - Food)
+    * Better Goodneighbor
+    * Better Goodneighbor Fixed ESP
+    * Better Goodneighbor - Previs
+- Misc
+    * Regenerated LOD
+    * Disabled survival drug crafting recipes
+    * Added crafting recipes to completely dissamble gun (this is to balance out moving the crafting perks to mid-tier, and to make disassembling looted guns viable without any crafting perks)
+    * Fixed service rifle animations
 
 # 3.2.1 : The cure for the common cold
 

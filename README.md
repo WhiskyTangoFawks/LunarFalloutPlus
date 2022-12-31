@@ -27,7 +27,7 @@ Requires wabbajack - https://www.wabbajack.org/#/
  
 ## Key Gameplay Mods To Be Aware Of
 - [Lunar Fallout Overhaul](https://www.nexusmods.com/fallout4/mods/34769)
-- [Creative Perks Plus](https://www.nexusmods.com/fallout4/mods/49400)
+- [True Perks](https://www.nexusmods.com/fallout4/mods/49400)
 - [Sim Settlements 2](https://www.nexusmods.com/fallout4/mods/47976)
 - [Lore Based Power Armor Changes](https://www.nexusmods.com/fallout4/mods/36251)
 - [Random Valuables Redux](https://www.nexusmods.com/fallout4/mods/60097)
@@ -98,7 +98,7 @@ See [How to Wabbajack](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob
     * `[NODELETE] Cross Skin Packs` : the downloaded cross skins go here
     * `QoL Tweaks` : Minor quality of life tweaks, disable any you don't want
     * `Abandoned Hub` : A mod that gives you a cheaty underground hub settlement, connected to fast travel points scattered throughout the world
-    * `SKK Dynamic Difficulty Manager`: If you want an easier or harder damage levels, enable this, and see the nexus modpage
+    * `SKK Dynamic Difficulty Manager`: If you want an easier or harder damage levels, enable this, and see the nexus modpage for setup. I recommend against increasing player damage, as it will mean you require less ammo, and therefore break the ammo loot balance of the list.
     * `Start Me Up - Skip Pre-War Prologue` Optional mod that allows you to skip the pre-war prologue
     * `Uneducated Shooter`: Recommended to only enable this after character creation, as it is known to cause a game freeze during new games.
     * `120FPS No VSYNC` : If you run a high refresh rate monitor with GSync/FreeSync, this will disable vsync, and cap the framerate at 120.
@@ -147,6 +147,7 @@ Settings here are going to be very system and driver specific, but some general 
 1. Mod Configuration Menu - Recommended Optional Setting
     - Survival Configuration Menu (recommended)
         * turn ON savegame -> timed save
+        * Turn off sleep healing
     - Sim Settlements 2 (optional)
         * Gameplay -> Resource Complexity to Scrap Categories (this will set SS2 to use a simplified scrap system of 4 scrap types, instead of requiring specific components, but instead of using items in your workbench, you will need to donate material at the city planner desk for your citizens to use them)
         * Gameplay -> Disease -> Settler disease off (this disables the optional settler disease mechanic, which is mostly just an annoying, extra level of management, but leave it on if you want).
@@ -156,9 +157,6 @@ Settings here are going to be very system and driver specific, but some general 
         * Show timebar -> on
     - Immersive HUD
         * I personally don't use it, but have included it in the list for people who want it.
- 
-3. (Optional) Craft a companion whistle at a chem lab bench, this will teleport any active companion to you, useful when you accidentally tell them to stay and can't find them, or they're screwing with NPC pathing during a quest
-4. (Optional) Craft the companion tracker holotape at the chem lab bench. This allows you to track inactive companions, for cases where you can't remember which settlement you sent them to. 
 
 ## Known Issues
 - Performance Issues: Infinite Loading Screens, Micro Stuttering, Textures not loading, or the Brown Face bug: 
