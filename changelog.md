@@ -1,16 +1,19 @@
 # Changelog
 
 
-# 3.2.2 Dinner's Ready
-With the addition of LFP - Food, it's suggested to turn SCM hunger and thirst from calculated by weight, back to the default calculated by value
+# 3.2.2 Happy Anniversary
 
-Healing values in Food Doesn't Stack have also been tweaked, food and water should have noticeable, but slow, healing, active only outside of combat.
+LitR turns 1 year old today, and so we're celebrating with some bug fixes, and a couple new mods.
+
+Food crafting and values have recieved an overhaul, it's suggested to turn SCM hunger and thirst from calculated by weight, back to the default calculated by value within the MCM.
+
+Healing values in Food Doesn't Stack have also been tweaked, food and water should have noticeable but slow healing, active only outside of combat.
 I've finally worked out the issues I was having with food healing, the TLDR is that in order to update the spell you have to remove and reapply it, users updating the list should run the following commands
-help food 4 spell
-player.removeSpell idFromFirstCommand
-player.addSpell idFromFirstCommand
+- help food 4 spell
+- player.removeSpell idFromFirstCommand
+- player.addSpell idFromFirstCommand
 
-Other things of note are changes to some of the workshop recipes. Lunar adds crafting perks to a bunch of recipes, generators, tables, etc, that with the recent changes in True Perks that makes those perks hard to get makes those recipes a pain- most of those recipes have now been reverted to their vanilla requirements.
+Other things of note are changes to some of the workshop recipes. Lunar adds crafting perks to a bunch of recipes, generators, tables, etc, that with the recent changes in True Perks that makes those perks hard to get makes those recipes a pain- most of those recipes have now been reverted to their vanilla requirements. I've also added recipes to dissassemble pieces from guns, which should make playthroughs without gunnut more viable.
 
 - Added
     * Lunar Fallout Plus - Food
