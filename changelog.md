@@ -1,11 +1,16 @@
-
 # Changelog
 
 
-# 3.2.2
+# 3.2.2 Dinner's Ready
+With the addition of LFP - Food, it's suggested to turn SCM hunger and thirst from calculated by weight, back to the default calculated by value
 
-With the addition of LFP - Food, it's recommended to turn SCM hunger and thirst from calculated by weight, back to the default calculated by value
 Healing values in Food Doesn't Stack have also been tweaked, food and water should have noticeable, but slow, healing, active only outside of combat.
+I've finally worked out the issues I was having with food healing, the TLDR is that in order to update the spell you have to remove and reapply it, users updating the list should run the following commands
+help food 4 spell
+player.removeSpell idFromFirstCommand
+player.addSpell idFromFirstCommand
+
+Other things of note are changes to some of the workshop recipes. Lunar adds crafting perks to a bunch of recipes, generators, tables, etc, that with the recent changes in True Perks that makes those perks hard to get makes those recipes a pain- most of those recipes have now been reverted to their vanilla requirements.
 
 - Added
     * Lunar Fallout Plus - Food
@@ -20,6 +25,7 @@ Healing values in Food Doesn't Stack have also been tweaked, food and water shou
     * True Perks
     * SS2
     * True Perks
+    * True Perks Lunar Fallout Overhaul
     * UNPC Standalone
     * A Forest Tree Trim
     * Far Object LOD Improvement Project
@@ -31,6 +37,10 @@ Healing values in Food Doesn't Stack have also been tweaked, food and water shou
     * Food Doesn't Stack
     * Radium Inc - Rare Radium Products
     * Lunar - Ketaro's World
+    * Lunar - Salvaged Sentrybot Gun
+    * Radium, a music mod
+    * Whisky's Tunes
+    * Flicker Fixer
 - Removed
     * Lunar Survival Configuration Menu (superceded by LFP - Food)
     * Better Goodneighbor
@@ -39,7 +49,7 @@ Healing values in Food Doesn't Stack have also been tweaked, food and water shou
 - Misc
     * Regenerated LOD
     * Disabled survival drug crafting recipes
-    * Added crafting recipes to completely dissamble gun (this is to balance out moving the crafting perks to mid-tier, and to make disassembling looted guns viable without any crafting perks)
+    * Added crafting recipes to completely dissaassemble guns (this is to balance out moving the crafting perks to mid-tier, and to make disassembling looted guns viable without any crafting perks)
     * Fixed service rifle animations
 
 # 3.2.1 : The cure for the common cold
