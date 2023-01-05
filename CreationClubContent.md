@@ -15,6 +15,7 @@ Faction members will wear appropriate paint, thanks to Faction Distribution Fram
 | Gunners               | Gunners               |
 | Vault Tec             | Vault Tec             |
 | Brotherhood of Steel  | Brotherhood of Steel  |
+| Minutemen             | Minutemen             |
 | Institute             | Institute             |
 | Railroad              | Railroad              |
 | Children of Atom      | Children of Atom      |
