@@ -1,6 +1,24 @@
 # Changelog
 
 
+# 3.2.3
+
+Minor update, with mostly bug fixes and a roll back of the food changes, they need more polishing before they're ready, if you want to help test them I'll have a pre-release up soon with them. But for now they're coming out of the main list
+
+- Added
+    * Lunar - SCM
+- Updated
+    * True Perks
+- Removed
+    * Food Healing Doesn't Stack
+    * Lunar Fallout Plus - Food and Foraging
+- Misc
+    * Fixed load order issue with Aloot's Cambridge Police Station
+    * Fixed a couple minor load order issues
+    * Fixed cat outfits mistakenly being applied to people (e.g. Maisie from Tales from the Commonwealth in DC getting Maisie the abernathy's cat's outfit)
+    * Removed auto axe loading screen
+    * Removed rusty weapon loading screens
+
 # 3.2.2 Happy Anniversary
 
 LitR turns 1 year old today, and so we're celebrating with some bug fixes, and a couple new mods.
