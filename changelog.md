@@ -1,6 +1,44 @@
 # Changelog
 
 
+
+# 3.2.4
+
+With the update to Random Valuables Redux, if you revisit places you've already explored you may find new collectibles there (randomization spawn happens on cell load, so if you don't load the cell, nothing will spawn)
+
+- Added
+    * LooksMenu Customization Compendium Fix
+    * Base Object Swapper
+    * Puddle Swap
+- Updated
+    * ENB
+    * WSFW
+    * SS2
+    * SS2 Chpt2
+    * Cat Variants
+    * True Perks - Survival addon module (provisioner bugfix, and removed end penalty from encumbrance)
+    * True Perks
+    * People Live in USAF
+    * Less Loot - People Live In USAF
+    * Fourville - Exopatch
+    * Institute EM Rifle (added small fix)
+    * Lunar - Skewer Launcher
+    * Random Valuables Redux (and patches)
+    * People Live in Dark Hollows Pond (and patches)
+    * Diamond City Radio Extended
+- Removed
+    * Diamond City Extended Holidays
+    * New Bobbleheads (Balance, plus I think these don't work as well as a set with the Vault Boy and Girl ones)
+    * Puddle Replacer
+- Misc
+    * Disabled Complex Vendor patches for Vault 4 and SS2
+    * Added Food Healing Doesn't Stack to the optional section
+    * Regenerated LOD (Should solve LOD issue with radium inc billboards)
+    * Swapped Clarity patches over to synthsis patch
+    * Changed default ENB screenshot format to PNG
+    * Updated RegionalSaves - SotS with the updated previs data
+    * Removed 0003B381 related precombines from Fourville Exoclyps to resolve fenstreet sewer precombine conflict
+
 # 3.2.3
 
 Minor update, with mostly bug fixes and a roll back of the food changes, they need more polishing before they're ready, if you want to help test them I'll have a pre-release up soon with them. But for now they're coming out of the main list
