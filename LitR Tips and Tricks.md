@@ -7,6 +7,9 @@
 - Dogmeat doesn't count as a companion for the Lone Wanderer Perk
 - Companions heal themselves, and don't need to be stimpacked/repaired when they go down in combat
 
+## Sleeping
+- While there are no camping mods included, Sofa Surfing will let you rest on any sofa or armchair.
+
 ## Settlements
 - Don't use Sanctuary/RedRocket/Abernathy as your home base. 
     * These settlements have the potential performance issues, don't use a SS2 city plan on more than 1 of them.
@@ -17,7 +20,7 @@
 - If you haven't used True Perks before, don't worry too much about specials at character creation, just put something in, and then after you get the pip boy, spend some time looking at the perks, find a few you want to try, and rebuild your specials around getting them before exiting the vault.
 - There is a purchasable perk point respec that will allow you to reset your invested perks, but it won't allow you to respec your specials.
 - Because "required" perks have lower requirements, pretty much any build is viable, as long as you have a good mix of offense and defense. 
-- If there's a specific perk you want though, make sure your starting SPECIALS are high enough to get it. Remember that you can only invest in your specials every 7 levels.
+- If there's a specific perk you want though, make sure your starting SPECIALS are high enough to get it. Remember that special training perks now have level requirements.
 
 ## Survival Fast Travel
 - Local Leader offers fast travel by talking to provisioners at level 2 (to their home or destination settlements).
