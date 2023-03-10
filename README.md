@@ -9,19 +9,19 @@ Requires wabbajack - https://www.wabbajack.org/#/
 [Support me on Patreon](https://www.patreon.com/user?u=4257489)
 
 ## Modlist Goals
-- RPG Balance, Scaling, and Progression - brought to you by Lunar Fallout Overhaul
-- Survival Mechanics, with non-survival damage levels and balance
+- RPG Balance, Scaling, and Progression - brought to you by Lunar Fallout Overhaul.
+- Survival Mechanics, with non-survival damage levels and balance.
 - A vibrant, forested, inhabited, but still uncivilised wasteland. Neglected areas should feel fleshed out, but it should still feel lonely.
 - Increased variety in Creatures, Weapons and Armors by mods that add variety to existing content, rather than mods that add a ton of new unbalanced items and monsters
-- Extra high-quality content with the same style and tone as vanilla (no pointlessly skimpy outfits, no tacti-cool weapons)
-- Full controller support (no extra configuration required)
+- Extra high-quality content with the same style and tone as vanilla (no pointlessly skimpy outfits, no tacti-cool weapons).
+- Full controller support (no extra configuration required).
 - Smooth performance on mid-range gaming hardware
  
  ### This is not...
 - a hardcore, nitty-gritty survival simulator - if you want that go play a Horizon based list.
-- a twitch shooter - if you want that, go play one of the Better Locational Damage based lists
-- Fallout New Vegas - if you want that, go play Fallout New Vegas
-- an "everything but the kitchen sink" list with every mod out there - if you want that, go play Magnum Opus or MOFAM
+- a twitch shooter - if you want that, go play one of the Better Locational Damage based lists.
+- Fallout New Vegas - if you want that, go play Fallout New Vegas.
+- an "everything but the kitchen sink" list with every mod out there - if you want that, go play Magnum Opus.
 - a super-difficult make-the-game-impossible list for people who've played FO4 100x and know it like the back of their hand
 - a good base-list for building on top of - if you want that try Welcome to Paradise or Fusion
  
@@ -38,7 +38,7 @@ Requires wabbajack - https://www.wabbajack.org/#/
 - [Unique NPCs Creatures and Monsters](https://www.nexusmods.com/fallout4/mods/24357)
 - [Super Mutant Redux](https://www.nexusmods.com/fallout4/mods/11853)
 - [Tales from the Commonwealth](https://www.nexusmods.com/fallout4/mods/8704)
-- [The Bleachers](https://www.nexusmods.com/fallout4/mods/40267)
+- [The Bleachers: Fens Sheriffs Dept](https://www.nexusmods.com/fallout4/mods/68276)
 - [Gunmetal Weapon and Armor Skins](https://www.nexusmods.com/fallout4/mods/51233)
 - plus more than you can easily count...
  
@@ -87,18 +87,17 @@ See [How to Wabbajack](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob
     -  Creation Club Profile - Copy the creation club files from your `fallout4/data directory` into a new mod folder named, for example, `[NODELETE] CreationClub Paint Jobs` mod folder. 
     - If you CTD immediately on load on the Creation Club profile, but not on the regular profile, then you've hit your BSA limit, and need to repack the creation club content, [see here for more details](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob/main/CreationClubContent.md)
 2. (Recommended) Download and install into a new mod folder named something like `[NODELETE] Cross Skin Packs`, placed at the bottom of the load order, the following skin packs from https://gumroad.com/niero. They're available for free (use the discount code), but a donation is suggested. The man makes some fantastic mods, and you can probably afford to buy him a coffee. The links for the 2k version are provided below, however the 4k are also available.
-    * [Cross Courser Strigidae Full 2k](https://niero.gumroad.com/l/512512)
-    * [Institute Expeditionary Suit Full 2k](https://niero.gumroad.com/l/MlzmT)
     * [Break Action Laser Skin Pack](https://niero.gumroad.com/l/fhdhdh)
-    * [Brotherhood Recon Full 2k](https://niero.gumroad.com/l/enrbl)
     * [Cross Archimedes II](https://niero.gumroad.com/l/archimedesii)
     * [Cross Cryolance](https://niero.gumroad.com/l/mQKCt)
     Not following this step will result in the alternate skins for these mods being very low res.
 3. The `Difficulty and Customisation` section in Mod Organizer - for people who want to tweak thing a little.
     * `[NODELETE] Cross Skin Packs` : the downloaded cross skins go here
+    * `Lunar Survival Damage`: If you want an easier or harder damage in survival, this lets you adjust in in the MCM.
+    * `Lucky 7 - Hardcore Start`: You get 7 points to spend at start, and get an extra perk point every 7 levels. For players who want a real challenge.
     * `QoL Tweaks` : Minor quality of life tweaks, disable any you don't want
+    * `Food Healing Doesn't Stack` : Instead of directly healing you, food fills a buffer, that very slowly heals you over time, as a result, eating 12 steaks doesn't heal you faster than a stimpak.
     * `Abandoned Hub` : A mod that gives you a cheaty underground hub settlement, connected to fast travel points scattered throughout the world
-    * `SKK Dynamic Difficulty Manager`: If you want an easier or harder damage levels, enable this, and see the nexus modpage for setup. I recommend against increasing player damage, as it will mean you require less ammo, and therefore break the ammo loot balance of the list.
     * `Start Me Up - Skip Pre-War Prologue` Optional mod that allows you to skip the pre-war prologue
     * `Uneducated Shooter`: Recommended to only enable this after character creation, as it is known to cause a game freeze during new games.
     * `120FPS No VSYNC` : If you run a high refresh rate monitor with GSync/FreeSync, this will disable vsync, and cap the framerate at 120.
@@ -119,7 +118,7 @@ How to Setup your own ini files with Bethini
 The following default settings have now been set for you, courtesy of the bethini presets that ship with the list
    * These have been disabled by default `motion blur`, `godrays`, `lense flare`, and `depth of field`
    * `fBlendSplitDirShadow` - has been set to 0 on medium, 192 on high and ultra
-   * `iDirShadowSplits` has been set to 1 on medium, set to 3 on high and ultra
+   * `iDirShadowSplits` has been set to 1 on medium, set to 3 on high and ultra (3 is an expensive setting, but the shadows are seizure-inducing without it)
    * `fUpdateBudgetMS` - has been set to 2.4 (normally, messing with the budget settings will degrade performance, but because HighFPSPhysics is able to dynamically turn this down, this gives the scripting engine more resources, but only when it needs it)
 
 #### Video Memory And ENBoost
@@ -164,9 +163,7 @@ Settings here are going to be very system and driver specific, but some general 
     2. Try setting the resolution to 1920x1080 if you're running above that
     3. Try enabling forceVideoMemory in installation folder > stock game > enblocal.ini
     4. Make sure you've set iNumHWThreads, as specified in the Bethini section of this readme.
-    4. For the brown face bug specifically, configure a hot key for Rusty Face Fix Redux in the MCM, it won't stop it from occuring, but using it should fix the issue at least temporarily.
-- SS2 script failures on new game are the result of going through the opening sequence too quickly. After you finish character creation, wait a 30 seconds or so before exiting the bathroom.
-- Silver Shroud Quest not starting after listening to the radio: while in goodneighbor, use the console command `setStage MS04 25`
+- SS2 script failures on new game are the result of going through the opening sequence too quickly. After you finish character creation, wait for 30 seconds or so before exiting the bathroom.
 
 ## Crashlog Scanner
 
@@ -176,6 +173,7 @@ The list includes the [Buffout 4 Crashlog Auto Scanner](https://www.nexusmods.co
 ## Notable Missing Mods
 - Scrap Mods : I personally don't use them, and am not going to add something to the list I haven't test. I recommend SS2's city plans if you want more automation for settlement development.
 - VAFS: I play the game on my couch, with an xbox controller, using VATS pretty much exclusively. If you want slow time aiming, take the sniper perk (which has a weak slow time effect), and stockpile JET.
+- See Through Scopes: Because some weapons support this and other don't you end up with a different weapons having different control schemes, which is confusing. Players used to STS can add it back, with the replacer version and my [Lunar Patch](https://www.nexusmods.com/fallout4/mods/61585) for it
 - AWKCR - Yes, this is an AWKCR-free modlist. Faction Distribution Framework does have an ArmorKeywords dummy plugin it uses for some keywords, but it does not include any of the bloat or unexpected features of the full AWKCR mod.
 - Beantown Interiors - It's a compatibility nightmare, both because it breaks precombines, and because it destroys the loot balance of the list
 - CBBE- I find barbie doll proportions un-immersive, and annoying.
@@ -185,8 +183,7 @@ The list includes the [Buffout 4 Crashlog Auto Scanner](https://www.nexusmods.co
 ### If you want to add stuff to the list, you do so at your own risk. You're on your own, but if you're really nice about it we'll offer advice in the discord.  If you choose to do so, there are a couple things to know.
 0. The correct way (IMHO) to add stuff to an existing modlist, is to use the `[NODELETE]` tag, this will cause wabbajack to ignore it. New mods should be added near the END of the modlist, but BEFORE the plugins in the `Previs` sections, the whole point of adding a mod is to override the existing changes in the list, so at the end is *probably* where you want it. I recommend also adding a tag to order the mods you add alphabetically in the order you want, so that when you update the base list the folders will be added to the end, in the order you want them, and you just have to re-enable them, and then rerun the sorter patch. So, when you add a new mod, it will look like this in the left hand pane `[NODELETE] 01 Default Mod Name`. This allows you to apply critical updates from the main list, while keeping it relatively easy to maintain your additions. The `[NODELETE]` tag applies to any folder, including profiles. So if you want to do something more complex with load order, you can copy the existing profile, rename it and include the `[NODELETE]` tag at the start, and when the installer runs when you update it will leave your custom profile untouched.
 1. Lunar Fallout Overhaul has a specific balance, adding new weapons, armors, monsters, or items is NOT RECOMMENDED. It probably won't break it, but it will screw with the balance, in most cases the weapon will be kinda useless due to the way lunar scales. If you want to patch it in, information on how the mod works and it's balance can be found on Moonracer's Lunar Fallout Overhaul mod page.
-2. This modlist has a staggering amount of custom patching, and even completely custom mods, all with the vision of integrating everything together into a cohesive whole. The answer to "does this mod conflict with the Life in the Ruins" is ALWAYS going to be yes, there are very few things that haven't been touched, tweaked, or reworked. If you don't know how to do conflict resolution in xedit, turn back now.
+2. This modlist has a staggering amount of custom patching, and even completely custom mods, all with the vision of integrating everything together into a cohesive whole. The answer to "does this mod conflict with the Life in the Ruins" is almost always going to be yes, there are very few things that haven't been touched, tweaked, or reworked. If you don't know how to do conflict resolution in xedit, turn back now.
 3. The mod uses M8r98a4f2's Complex Item Sorte v1.9, with 4estGimps Item Sorter Enhancements. The sorting plugin can be regenerated by running the script in xEdit (which is shipped with the modlist). When you run the script, it will ask you to activate the AWKCR addon- *DO NOT DO SO*. The AWKCR plugin in this list is NOT the normal AWKCR, and does not require special patching by the sorter.
 4. As stated above, the AWKCR plugin in this list is NOT the normal AWKCR. AWKCR Dependent mods will not work with it.
 5. This modlist includes custom precombines for the Downtown Boston, and Diamond City areas. If you break them or override them, it will destroy performance, and you will get flickering.
-6. This list is near the BSA limit, if you add mods and experience CTDs immediately on loading, that is a likely cause.

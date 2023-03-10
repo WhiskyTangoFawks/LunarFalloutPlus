@@ -1,6 +1,153 @@
 # Changelog
 
+# 4.0.0 - A Big Update
 
+The big new thing here is of course the Fens Sheriff's Dept. I've also have some new crafting overhauls: Feast & Famine, which is my rebuild of the food and cooking systems, and True Perks Diversified Crafting, which overhauls weapon and armor crafting. We also have a big update to Unique NPCs Creatures, which removes Radspiders, as well as a few other things. They may return as a separate mod in a future version of the list, but for now, I've de-merged them out of UNCPs. We also have a new Lighting and ENB setup.
+
+This is a major update, that removes quite a few mods.
+- Several outdated/broken weapons
+- See Through Scopes (I know this one will be contraversial, but having some weapons support it and other not is confusing so I'm removing it - it is safe to add back, and the replacer version doesn't require any conflict resolution other than my lunar patch to do so- feel free to put it back if you want it). 
+- A few of the SS2 addon packs - due primarily to wanting to tighten up the options there, and not overload newer players with too much too quickly
+- Cross Armors - They diverge from vanilla too much, both in asthetic and in mechanics
+- Broken Settlement mods
+
+- Added
+    * Feast & Famine
+    * Less Dungeon Loot
+    * Mine Swapper
+    * SS2 FallUI Icons
+    * Reversed Workshop Highlight Fix
+    * Reaver Fever HD - Scavenged Metal Ghoul Armor in 2K
+    * Ketaro's World - Base Object Swapper
+    * Mechanist Lair Pathfinding Fix
+    * 4estGimp - Atom's Glory Threads SotS Atom's Storm patch
+    * Rusty Face Fix
+    * True Grass - Floating Grass Fix
+    * The Fens Sheriffs Department
+    * Voiced Protagonist for The Fens Sheriff's Department - Bleachers 2
+    * LBPAC - The Fens Sheriffs Dept
+    * Lunar - The Fens Sheriffs Dept
+    * Raider Armor Paints Redux
+    * Robot Armor Paints (and lunar patch)
+    * Marine Armor Paints (And lunar patch)
+    * Adjustable Survival mode damage
+    * South of the Sea - Fungal Forest Patch
+    * Recruit the Mariner as Settler
+    * Recruit Amelia and Old Man Stockton
+    * Wood finishes for the Lever Action rifle (and lunar patch)
+    * That's Gunner Life
+    * Horrorghouls sound pack
+    * FO4 Particle Patch - No More Glowing Objects
+    * Lightweight Lighting
+    * City Plans for SS2 - The Pack
+    * MGEF bug fix
+    * Boat from Nahant to the Castle
+    * Spectrum ENB
+    * New Bottlecap Tin
+    * Armor Penetration Bugfix
+    * Puddle Replacer
+    * More Where That Came From
+- Updated
+    * Updated Unique NPCs Creatures and Monsters Standalone (Big update, see the nexus changelog for details)
+    * Updated Lunar Fallout Plus - When Freedom Calls
+    * Crash Log Auto Scanner
+    * Lunar - UFO4P
+    * Diamond City Radio Extended
+    * A Forest Tree Trim
+    * Diamond City Ambience
+    * People Live In - Roadside Pines Motel
+    * Less Loot - People Live In - Roadside Pines Motel
+    * Lunar - Zap Gun
+    * True Perks (and patches)
+    * 4estGimp - M8r Complex Item Sorter Enhancements
+    * ENBSeries
+    * Fallout 4 HD Overhaul 2k
+    * Lunar Fallout Overhaul
+    * Power Armor to the People
+    * Super Mutant - AWKCR-free and Scaling Fixes
+    * Lunar - Grease Rats Garb
+    * Unique Replacer - Hunting Gainer
+    * Random Valuables Redux - Fourville
+    * Legendary Bosses - Plutonium Redux (bosses now have some loot drops, but also some better defenses)
+    * Lunar Fallout Plus - When Freedom Calls
+    * Lunar Fallout Plus - Ballistic Weaves Overhaul
+    * Lunar Fallout Plus - Whisky's Tweaks
+    * FallUI Hud
+    * FallUI Inventory
+    * Uneducated Shooter
+    * Fourville Exopatch
+    * Diamond City ExoPatch
+    * A Storywealth Diamond City
+    * Random Valuables Redux
+    * Random Valuables Redux - Vault 4
+    * Radium Inc Redux
+    * Sim Settlements 2
+    * SS2 Chapter 2
+    * Workshop Framework
+    * Far Harbour 3d Tree Lods
+    * Optimised vanilla tree lods
+    * Lunar Fallout Plus - Wasteland Weave (formerly LFP - None Ballistic Weaves)
+    * Previsibines Repair Pack Lite (PRPFX)
+    * LBPAC - The Bleachers
+    * Unique Replacers - Capital Wasteland Autoaxe
+    * Immersive Animations Framework
+    * ENB Helper
+    * Lunar - Pipe Shotgun
+    * Radium Inc Redux
+- Removed
+    * 10mm Pistol Resized (Causing CTDs with CHW)
+    * Lunar - SCM
+    * Service Rifle (and patches)
+    * Crossbows of the Commonwealth (and patches)
+    * T6Ms Pump Shotgun Rifle (and patches)
+    * Handmade AntiMaterial Rifle Redux (and patches)
+    * Salvaged Sentrybot Microgun (and patches)
+    * See Through Scopes (and patches)
+    * Plant Silt Beans
+    * Scavver Faction Red Rocket workshops by SKK
+    * Laser Gun Reanimation (Conflict with modded weapons)
+    * Fixed Alpha Maps (superceded by Fallout 4 HD Overhaul Fixed Alpha Maps)
+    * Wasteland Ventures (and patches)
+    * Apocalyptic Additions
+    * Rusty Face Fix Redux
+    * Advanced Animation Framework
+    * Variety of the Fusion Flea (removed from the nexus)
+    * The Bleacher's Facegen data (incompatible with FSD)
+    * DCGuard Extended Wardrobe (incompatible with FSD)
+    * Gunmetal Armor Skins - Raider Paint Pack (replaced with new Raider Paints Redux)
+    * SKK Dynamic Damage Manager
+    * Unbogus Lunchboxes
+    * Lodfix for Salem Museum
+    * N.O.N.E - Ballistic Weave Overhaul
+    * Combat Zone Restored
+    * Combat Zone Restored Restored
+    * See region names on save files (and patches)
+    * Clarity (and patches)
+    * True Nights (and patches)
+    * True Sight ENB
+    * Mystic Pines Settlement
+    * Vault 81 Entrance Settlement
+    * General Atomic Galleria Settlement
+    * Cross Brotherhood Recon (and pathes)
+    * Look at me Institute Edition (and patches)
+    * Cross Courser Strigidae (and patches)
+    * Cross Institute Expeditionary Suit (and patches)
+    * More Toys
+    * Dynamic Vendor Restock
+    * Puddle swapper
+    * Shortcut to Curie
+    * Diamond City Radio Extended
+    * Wastelander's Melee Weapons
+    * Rsiyo's Location Pack
+- Misc
+    * Moved CHW Fix to Fixes section, disabled by default
+    * Fixed Riot Shotgun animation issues (reinstalled Riot Shotgun Animations)
+    * Repacked base game BA2s
+    * Replaced the Complex data structure fix with the Long Save Bug Fix (as it's finally been hosted on the nexus)
+    * Regenerated LODs
+    * Re-enabled sneak HUD by default (it's too much a required piece of feedback for players trying to sneak, especially due to the different settings around sneaking)
+    * Reduced gun volume
+    
 
 # 3.2.4
 
