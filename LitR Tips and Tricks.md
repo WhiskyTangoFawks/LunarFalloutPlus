@@ -3,6 +3,9 @@
 ## Ammo    
 - Use a melee weapon to conserve ammo on lower level enemies. Ammo is scarce, you will probably need to buy some at some point, so don't waste it. Automatics have their own perk, which grants the chance for extra ammo, it's powerful, but difficult to play with automatics.
 
+## Crafting
+- Perk requirements for crafting have been diversified. Recievers require Scrapper (for pipe weapons), Gun Nut (for proper guns) or Science (for lasers and high tech weapons). Other weapons parts are generally require whatever perk buffs the weapons damage, with exceptions for Scopes which require awareness or sniper, and supressors which require infiltrator. In general, even if you're going a high int build, don't expect to be able to just craft everything.
+
 ## Companions in Survival
 - Dogmeat doesn't count as a companion for the Lone Wanderer Perk
 - Companions heal themselves, and don't need to be stimpacked/repaired when they go down in combat
@@ -16,7 +19,7 @@
     * Without fast travel getting to the edge of the map is a pain, pick somewhere more central (e.g., Starlight Drivein, Mystic Pines, )
     * You don't have to start the SS2 quest (build your first recruitment beacon) in sanctuary, Jake will find you at other settlements. I recommend picking somewhere more central.
 
-## True Perks
+## True Perks Builds
 - If you haven't used True Perks before, don't worry too much about specials at character creation, just put something in, and then after you get the pip boy, spend some time looking at the perks, find a few you want to try, and rebuild your specials around getting them before exiting the vault.
 - There is a purchasable perk point respec that will allow you to reset your invested perks, but it won't allow you to respec your specials.
 - Because "required" perks have lower requirements, pretty much any build is viable, as long as you have a good mix of offense and defense. 
