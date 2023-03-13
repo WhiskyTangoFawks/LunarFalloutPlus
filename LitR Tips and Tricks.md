@@ -6,6 +6,10 @@
 ## Crafting
 - Perk requirements for crafting have been diversified. Recievers require Scrapper (for pipe weapons), Gun Nut (for proper guns) or Science (for lasers and high tech weapons). Other weapons parts are generally require whatever perk buffs the weapons damage, with exceptions for Scopes which require awareness or sniper, and supressors which require infiltrator. In general, even if you're going a high int build, don't expect to be able to just craft everything.
 
+## Power Armor
+- Power Armor is VERY powerful. You can basically completely ignore small arms file, but watch out for heavy weaponry and armor piercing munitions, as they deal extra damage to power armor.
+- Power armor is very difficult to maintain. Repairing it is expensive, and fusion cores are rare.
+
 ## Companions in Survival
 - Dogmeat doesn't count as a companion for the Lone Wanderer Perk
 - Companions heal themselves, and don't need to be stimpacked/repaired when they go down in combat
