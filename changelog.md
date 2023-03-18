@@ -27,6 +27,8 @@ This is a major update, that removes quite a few mods.
     * Voiced Protagonist for The Fens Sheriff's Department - Bleachers 2
     * LBPAC - The Fens Sheriffs Dept
     * Lunar - The Fens Sheriffs Dept
+    * The Fens Sheriff's Dept - Declutterer
+    * The Fens Sherif's Dept - Vanilla DC Guards
     * Raider Armor Paints Redux
     * Robot Armor Paints (and lunar patch)
     * Marine Armor Paints (And lunar patch)
@@ -47,6 +49,16 @@ This is a major update, that removes quite a few mods.
     * Armor Penetration Bugfix
     * Puddle Replacer
     * More Where That Came From
+    * Jamaica Plains Pathfinding Fix
+    * Sanctuary Navmesh Update
+    * Egret Tours Navmesh Update
+    * Greentop Nursery Navemesh Update
+    * Kingsport Lighthouse Updated Navmesh
+    * County Crossing Updated Navmesh
+    * Costal Cottage Navmesh Update
+    * Murkwater Construction Updated Navmesh
+    * Lush but not Green - Diamond City
+    * Lush but not Green - Goodneighbor
 - Updated
     * Updated Unique NPCs Creatures and Monsters Standalone (Big update, see the nexus changelog for details)
     * Updated Lunar Fallout Plus - When Freedom Calls
@@ -94,12 +106,18 @@ This is a major update, that removes quite a few mods.
     * ENB Helper
     * Lunar - Pipe Shotgun
     * Radium Inc Redux
+    * South of the Sea - Atom's Storm
+    * 4estGimp - M8r Complex Item Sorter Enhancements
+    * Wattz Laser Gun - Unofficial Update
+    * T6M's Pump Action Shotgun Rifle (and patches)
+    * Ownership Fixes
+    * Lunar Fallout Plus - Backpacks of the Commonwealth
+    * Unnofficial Fallout 4 Patch
 - Removed
     * 10mm Pistol Resized (Causing CTDs with CHW)
     * Lunar - SCM
     * Service Rifle (and patches)
     * Crossbows of the Commonwealth (and patches)
-    * T6Ms Pump Shotgun Rifle (and patches)
     * Handmade AntiMaterial Rifle Redux (and patches)
     * Salvaged Sentrybot Microgun (and patches)
     * See Through Scopes (and patches)
@@ -121,7 +139,6 @@ This is a major update, that removes quite a few mods.
     * N.O.N.E - Ballistic Weave Overhaul
     * Combat Zone Restored
     * Combat Zone Restored Restored
-    * See region names on save files (and patches)
     * Clarity (and patches)
     * True Nights (and patches)
     * True Sight ENB
@@ -139,6 +156,9 @@ This is a major update, that removes quite a few mods.
     * Diamond City Radio Extended
     * Wastelander's Melee Weapons
     * Rsiyo's Location Pack
+    * Jamaica Plains Navmesh Fix
+    * Goodneighbor Expanded
+    * UFO4P Gray Garden Workshop Border Patch
 - Misc
     * Moved CHW Fix to Fixes section, disabled by default
     * Fixed Riot Shotgun animation issues (reinstalled Riot Shotgun Animations)
