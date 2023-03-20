@@ -20,7 +20,7 @@
 ## Settlements
 - Don't use Sanctuary/RedRocket/Abernathy as your home base. 
     * These settlements have the potential performance issues, don't use a SS2 city plan on more than 1 of them.
-    * Without fast travel getting to the edge of the map is a pain, pick somewhere more central (e.g., Starlight Drivein, Mystic Pines, )
+    * Without fast travel getting to the edge of the map is a pain, pick somewhere more central (e.g., Starlight Drivein)
     * You don't have to start the SS2 quest (build your first recruitment beacon) in sanctuary, Jake will find you at other settlements. I recommend picking somewhere more central.
 
 ## True Perks Builds
