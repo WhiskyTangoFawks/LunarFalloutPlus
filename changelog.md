@@ -1,5 +1,40 @@
 # Changelog
 
+# 4.1.0 - 
+
+If updating an existing save, you need to run the following console command
+player.setvalue level x
+where x = your level / 100
+So, a level 5 player should use 0.05
+
+Additionally, if updating an existing save I recommend adding a [NODELETE] tag to the Makeshift SMG and the Lunar patch for it before updating.
+
+- Added
+    * Protectron HD
+    * The Slog Navmesh Update
+    * Diamond City Owns it Crops
+- Updated
+    * The Fens Sheriffs Dept
+    * The Fungal Forest
+    * South of the Sea - Atom's Storm
+    * A Storywealth Location - Diamond City
+    * Publik Occurences Expanded - UFO4P
+    * Buffout 4 Crashlog Scanner
+    * LFP - Wasteland Weaves - Greaserat Garb
+    * Lunar Riot Shotgun
+    * Lunar Desert Eagle
+    * Lunar Wattz Laser Gun
+    * Lunar Pump Shotgun Rifle
+    * True Perks (and lunar patch)
+- Removed
+    * Companion stealth distance fix
+    * Makeshift SMG (and patches)
+- Misc
+    * Repacked base game textures
+    * Swapped Buffout 4 with Buffout 4 NG
+    * Scopes now craft with steady aim, instead of awareness
+    * Added a copyright free version of the music patch to allow user's to disable 'Musical Lore - Wasteland Edition (Soundtrack Mod By Nir Shor)'
+
 # 4.0.0 - A Big Update
 
 The big new thing here is of course the Fens Sheriff's Dept. I've also have some new crafting overhauls: Feast & Famine, which is my rebuild of the food and cooking systems, and True Perks Diversified Crafting, which overhauls weapon and armor crafting. We also have a big update to Unique NPCs Creatures, which removes Radspiders, as well as a few other things. They may return as a separate mod in a future version of the list, but for now, I've de-merged them out of UNCPs. We also have a new Lighting and ENB setup.
@@ -159,6 +194,7 @@ This is a major update, that removes quite a few mods.
     * Jamaica Plains Navmesh Fix
     * Goodneighbor Expanded
     * UFO4P Gray Garden Workshop Border Patch
+    * Railroad Redone (and patches)
 - Misc
     * Moved CHW Fix to Fixes section, disabled by default
     * Fixed Riot Shotgun animation issues (reinstalled Riot Shotgun Animations)
