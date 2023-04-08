@@ -1,5 +1,43 @@
 # Changelog
 
+# 4.1.1 - Power Armor Cleanup
+
+The main feature here is my new LBPAC redux, which merges a handful of smaller PA Tweaks mods together, and improved the player feedback for the mods Fusion Core drain changes and perk repair requirements. I've also opted to include Glitchfinder's Who's the General, so players doing the minutemen questline should notice changes in how Preston hands you quests.
+
+This update is save safe from 4.1.0.
+
+- Added
+    * Random Encounter Framework
+    * Random Encounter Framework -  FSD Patch
+    * Random Encounter Framework -  Decreased Automatron Encounters PAtch
+    * Starlight Drive In Vanilla Navmesh Fix
+    * Who's The General - Minutemen Quest Cleanup
+    * Retro Institute Overhaul
+    * Retextures for Turrets - Seen Some Shit 2k
+    * Faster Workbench Exit
+    * Less Loot - A Far Harbour Story
+    * LBPAC - Redux
+- Updated
+    * True Perks
+    * SS2
+    * That's Gunner Life
+    * A Storywealth Location - Diamond City
+    * The Fens Sheriff's Dept
+    * Rusty Face Fix
+    * LarannKiar Recruitment Mods All-In-One Archive Pack
+    * Power Armor to the People
+    * Unique Replacers - Virgil's Laer
+    * Subversion
+    * Lightweight Lighting
+- Removed
+    * No Door Animations (Conflict with FSD)
+- Misc
+    * Downgraded Lunar - Everyone's Best Friend patch to 1.1
+    * Backed up Fens Sheriffs Dept Player Voice files (they are still included for now)
+    * Removed my changes to the minutemen quests (letting Who's the General handle it now)
+    * Repacked base game textures
+    * Merged a lot of the smaller Power Armor tweaks mods into LBPAC redux
+
 # 4.1.0 - 
 
 If updating an existing save, you need to run the following console command
