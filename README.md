@@ -50,6 +50,7 @@ Requires wabbajack - https://www.wabbajack.org/#/
 ## Things you should know...
 - Check out the [LitR Survival Tips and Tricks](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob/main/LitR%20Tips%20and%20Tricks.md)
 - Perks have increasing SPECIAL requirements, and specials can be trained past 10.
+- Crafting requirements have been completely overhauled, Gun Nut and Armorer are no longer the only perk you'll need to craft.
 - Power armour is more powerful, but rare, and fusion cores are harder to come by and won't always be full. You also don't get to keep the T45 you find in Concord, other power armor frames will be fine though. Repairing PA now [requires perks](https://www.nexusmods.com/fallout4/mods/62273)
 - Shoot/Kick/Explode locks open. Read the nexus page for [LockyBastard](https://www.nexusmods.com/fallout4/mods/13380).
 - Survival fast travel is available early game by taking the Local Leader Perk and building a provisioner network, or later on by building the SS2 Caravan plot. If you want an easier fast travel just enable it fully via unlimited survival.
@@ -167,7 +168,7 @@ Settings here are going to be very system and driver specific, but some general 
 
 ## Crashlog Scanner
 
-The list includes the [Buffout 4 Crashlog Auto Scanner](https://www.nexusmods.com/fallout4/mods/56255), found inside the tools folder. To use, first install [Python 3.10+](https://www.python.org/downloads/), then simply copy paste the crashlog from your `my documents/my games/fallout 4/f4se`, into the `tools/Scan Crash Logs Script` folder inside your LitR installation, and run `scan crashlogs.py`. See the readme.md in the same folder for information on how to interpret the results.
+The list includes the [Buffout 4 Crashlog Auto Scanner](https://www.nexusmods.com/fallout4/mods/56255), found inside the tools folder. To use simply copy paste the crashlog from your `my documents/my games/fallout 4/f4se`, into the `tools/Scan Crash Logs Script` folder inside your LitR installation, and run `scan crashlogs.py`. See the readme.md in the same folder for information on how to interpret the results.
 - The script will throw a lot of warnings in the `CHECKING FOR MODS THAT CAN CAUSE FREQUENT CRASHES...`. These can all be safely ignored, I have already dealt with all of them. You do not need to make any modifications to the mod list to deal with CTDs- these are almost always either random instability (which is expected in heavily modded FO4, but should be minimal), mis-configurations on the user end, or modifications that the user has made to the list.
  
 ## Notable Missing Mods
