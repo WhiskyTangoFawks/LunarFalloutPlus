@@ -1,7 +1,60 @@
 # Changelog
 
-# 4.1.1 - Power Armor Cleanup
+# 4.2.0 - The Weapon Crafting and Condition Overhaul
 
+The big thing this update, in addition to a bunch of shuffling and updating of the weapons, is a completely new system for weapon mods crafting: Weapon Component Crafting And Receiver Degredation. Pipe weapons are mostly unchanged, however pre-war weapon mods can no longer be crafted from scratch components. They instead have to be scavenged- however weapon mods now scrap to components, e.g. the misc mod "10mm Short Scope" now scraps to a "Short Scope" component- and you can take that component, and a couple of screws, and attach it to ANY weapon, not just another 10mm. Coming along with this new system is a new degredation mechanic for any weapon with a Receiver. Receivers will now degrade over time- every time they're fired the weapon has a small chance for the receiver to degrade down a level, unless the player has either Gun Nut or Science.
+
+The effect of these new systems, should be that the player needs to engage more in looting and scavenging, to upgrade and maintain their weapons. This also means that players who choose to not take the crafting perks can still upgrade Unique weapons by finding compatible parts.
+
+
+- Added
+    * Weapon Component Crafting And Receiver Degredation
+    * Riot Shotgun Unofficial Update
+    * Vanillafied McMillan CS5
+    * Vanillafied Cross Break Action Laser
+    * Vanillafied Cross Cryolance
+    * Cryolance uses Cryo Cells
+    * Railway Spike Driver (And lunar patch)
+    * The Heavy Weapons Pack - A Unique Weapons Concept (And lunar patch)
+    * PBW-LAER (And lunar patch, and Unique Replacer Patch)
+    * Institute Heavy Laser (And lunar patch)
+    * Institute EM Sniper Rifle (And lunar patch)
+    * Dak's Shoulder Mounted Machine Gun (And lunar patch)
+    * Institute Assassin Sword (And lunar patch)
+    * Sim Settlements 2 Previsibines Expansion Pack
+    * Varmint Rifle - The Return (And Lunar Patch, and Unique Replacer Patch)
+    * 10mm SMG (and Lunar Patch, and Unique Replacer Patch)
+- Updated
+    * Lunar Weapons Patches
+    * Unique Replacers - Virgil's LAER (swapped for the PBW version)
+    * True Perks (and patches)
+    * Fallout Priority
+    * Survival Configuration Menu
+    * Lunar Fallout Overhaul
+    * A Storywealth Diamond City
+    * The Fens Sheriffs Dept
+    * Aloot's Better Cambridge Police Station
+    * Fourville - eXoPatch
+    * A StoryWealth Location - The Crab Shack
+    * Feast and Famine
+- Removed
+    * True Perks - Diversified Crafting
+    * PJAR
+    * Zap Gun
+    * Institute Carbine
+    * Archimedes II
+    * Makeshift Nail Gun (replaced by Railway Spike Driver)
+    * Wasteland Flamer Standalone (replaced by Heavy Weapons Pack version)
+    * LAER (replaced by PBW Laer)
+    * Instutute EM Rifle (Replace by Institute EM Sniper Rifle)
+    * Magnum Revolver Rifle (and Patches) (Replaced by Dak's Shoulder Mounted Macine Gun)
+    * Plasma Saber (Replaced with the Institute Assassin Sword)
+    * Hunting Shotgun (Replaced with Varmint Rifle)
+    * Bullpup Bozar (replaced with the 10mm SMG)
+- Misc
+    * Moved Classic Holstered Weapons to the Optional section (Suspected that it can cause freezing for some users)
+
+# 4.1.1 - Power Armor Cleanup
 The main feature here is my new LBPAC redux, which merges a handful of smaller PA Tweaks mods together, and improved the player feedback for the mods Fusion Core drain changes and perk repair requirements. I've also opted to include Glitchfinder's Who's the General, so players doing the minutemen questline should notice changes in how Preston hands you quests.
 
 This update is save safe from 4.1.0.
