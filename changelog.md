@@ -32,11 +32,18 @@ The effect of these new systems, should be that the player needs to engage more 
     * Survival Configuration Menu
     * Lunar Fallout Overhaul
     * A Storywealth Diamond City
-    * The Fens Sheriffs Dept
+    * The Fens Sheriffs Dept (And Lunar Patch)
     * Aloot's Better Cambridge Police Station
     * Fourville - eXoPatch
     * A StoryWealth Location - The Crab Shack
     * Feast and Famine
+    * Mineswapper
+    * ENBSeries
+    * Far Harbour Boat Fast Travel
+    * Random Valuables Redux
+    * Lunar Fallout Plus - Wasteland Weaves
+    * Lore Based Power Armor Changes - REDUX
+    * Lunar Fallout Plus - Backpacks of the Commonwealth
 - Removed
     * True Perks - Diversified Crafting
     * PJAR
@@ -53,6 +60,8 @@ The effect of these new systems, should be that the player needs to engage more 
     * Bullpup Bozar (replaced with the 10mm SMG)
 - Misc
     * Moved Classic Holstered Weapons to the Optional section (Suspected that it can cause freezing for some users)
+    * Swapped More Radiant Locations for the UFO4P / KRitC version
+    * Fixed glowing sea static radiation
 
 # 4.1.1 - Power Armor Cleanup
 The main feature here is my new LBPAC redux, which merges a handful of smaller PA Tweaks mods together, and improved the player feedback for the mods Fusion Core drain changes and perk repair requirements. I've also opted to include Glitchfinder's Who's the General, so players doing the minutemen questline should notice changes in how Preston hands you quests.
