@@ -89,7 +89,6 @@ See [How to Wabbajack](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob
     - If you CTD immediately on load on the Creation Club profile, but not on the regular profile, then you've hit your BSA limit, and need to repack the creation club content, [see here for more details](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob/main/CreationClubContent.md)
 2. (Recommended) Download and install into a new mod folder named something like `[NODELETE] Cross Skin Packs`, placed at the bottom of the load order, the following skin packs from https://gumroad.com/niero. They're available for free (use the discount code), but a donation is suggested. The man makes some fantastic mods, and you can probably afford to buy him a coffee. The links for the 2k version are provided below, however the 4k are also available.
     * [Break Action Laser Skin Pack](https://niero.gumroad.com/l/fhdhdh)
-    * [Cross Archimedes II](https://niero.gumroad.com/l/archimedesii)
     * [Cross Cryolance](https://niero.gumroad.com/l/mQKCt)
     Not following this step will result in the alternate skins for these mods being very low res.
 3. The `Difficulty and Customisation` section in Mod Organizer - for people who want to tweak thing a little.
