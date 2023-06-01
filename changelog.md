@@ -1,10 +1,79 @@
 # Changelog
 
-# 4.2.0 - The Weapon Crafting and Condition Overhaul
+# 4.3.0 - Stop saying LitR doesn't have enough weapons Part III
+    The big add this patch is a bunch of new weapons and armor, most of which are coming in as replacers for the Vendor Aspirational, aka, the legendaries you can buy from vendors. This is save game safe, however getting the new purchaseable uniques requires a new game.
 
-The big thing this update, in addition to a bunch of shuffling and updating of the weapons, is a completely new system for weapon mods crafting: Weapon Component Crafting And Receiver Degredation. Pipe weapons are mostly unchanged, however pre-war weapon mods can no longer be crafted from scratch components. They instead have to be scavenged- however weapon mods now scrap to components, e.g. the misc mod "10mm Short Scope" now scraps to a "Short Scope" component- and you can take that component, and a couple of screws, and attach it to ANY weapon, not just another 10mm. Coming along with this new system is a new degredation mechanic for any weapon with a Receiver. Receivers will now degrade over time- every time they're fired the weapon has a small chance for the receiver to degrade down a level, unless the player has either Gun Nut or Science.
+- Added
+    * Army Combat Rifle Replacer Standalone (+ lunar patch)
+    * Assault Rifle Mk II Standalone (+ lunar patch)
+    * Combat Rifle Lore Fix Remesh
+    * Combat Rifle Remesh Standalone (+ lunar patch)
+    * Combat Shotgun Remesh (+ lunar patch)
+    * Combat Rifle Remesh (+ lunar patch)
+    * Hunting Rifle Short Stock
+    * Uradium Rifle (+lunar patch, +Unique Replacer)
+    * Zap Gun (And lunar patch, and Unique Replacer)
+    * Unique Replacer - Automatic Laser Musket (And lunar patch)
+    * Pew Pew - New Vegas Unique (+lunar patch, +Unique Replacer)
+    * Jury Rigged Antimaterial Rifle (+lunar patch, +Unique Replacer)
+    * Streetsweeper Shotgun (+vanillafied patch, +lunar patch, +Unique Replacer)
+    * Security SMG (+lunar patch, +Unique Replacer)
+    * JOKR (+Unique Replacer)
+    * Colt Mothman N Series Pistols Pack (+lunar patch, +Unique Replacer)
+    * Photon Cannon (+lunar patch, +Unique Replacer)
+    * P94 Plasma Rifle (+Unoffical Update Patch, +lunar patch, +Unique Replacer)
+    * Homemade SMG (+lunar patch, +Unique Replacer)
+    * The Mare Level Action Pistol (+lunar patch, +Unique Replacer)
+    * PBW Tesla Cannon (+lunar patch, +Unique Replacer)
+    * PBW Plasma Defender (+lunar patch, +Unique Replacer)
+    * Murdering Chainsaw (+lunar patch, +Unique Replacer)
+    * European Assault Rifle (+lunar patch, +Unique Replacer)
+    * Duplet (+lunar patch, +Unique Replacer)
+    * The Zombie Slayer (+Unique Replacer)
+    * The Dadao 2.0 (+Unique Replacer)
+    * Classic Combat Armor (+Unique Replacer)
+    * Toxic Raider Leather (+Unique Replacer)
+    * Stealth Suit - New Vegas (+Unique Replacer)
+    * Graf's Assaultron Armor (+Unique Replacer)
+    * Vault Tec Armor Redux (+Unique Replacer)
+    * Cross Wasteland Ronin (+Unique Replacer)
+    * Cross Brotherhood Recon (+Unique Replacer)
+    * NCR Veteran Redux (+Unique Replacer)
+    * FAO Jetpacks (+Unique Replacer)
+    * Cross Courser Strigidae (+Unique Replacer)
+    * K9 Tactical Harness (+Unique Replacer)
+    * Dogmeat's Backpack (+Unique Replacer)
+    * Corpus Praesidium Heavy Courser Armor (+Unique Replacer)
+    * Cross Pre-War Cybernetics (+Unique Replacer)
+    * Capital Wasteland Brotherhood Outfit (+Unique Replacer)
+    * Cross Wasteland Ronin (+Unique Replacer)
+    * West Tec Tactical Optics (+Unique Replacer)
+    * Riot Armor Redux (+Unique Replacer)
+    * Dak's Ballistic Mask (+Unique Replacer)
+    * Very Zen Dak's Ballistic Mask
+- Updated
+    * A bunch of lunar weapons patches
+    * Nuka world monorail fast travel
+    * Lunar Fallout Overhaul
+    * Lunar Ketaro's World
+- Removed
+    * Alternative Chameleon Visuals
+    * 10mm SMG (swapped for the 10mm Security SMG)
+    * Yog Mad Can
+- Misc
+    * New Optional File : Harder Vats decreases VATS hit chance by 1/3rd, for VATS players who find the game too easy.
+    * Nerfed McReady's companion perk down to 5% from 20%
+    * Swapped BaseUniqueIDs for my forked version -> Unique Replacer Framework
+    * Re-added min level 20 to retake the castle
+    * Nerfed legendaries on Righteous Authority, and Kellog's Pistol
+
+# 4.2.0 - Weapon Crafting and Degredation
+
+The big thing this update, in addition to a bunch of shuffling and updating of the weapons, is a completely new system for weapon mods crafting: Weapon Component Crafting And Receiver Degredation. Pipe weapons are mostly unchanged, however pre-war weapon mods can no longer be crafted from scratch components. They instead have to be scavenged- however weapon mods now scrap to components, e.g. the misc mod "10mm Short Scope" now scraps to a "Short Scope" component- and you can take that component, and a couple of screws, and attach it to ANY weapon that can have a short scope, not just another 10mm. Coming along with this new system is a new degredation mechanic for any weapon with a Receiver. Receivers will now degrade over time- every time they're fired the weapon has a small chance for the receiver to degrade down a level, unless the player has either Gun Nut or Science.
 
 The effect of these new systems, should be that the player needs to engage more in looting and scavenging, to upgrade and maintain their weapons. This also means that players who choose to not take the crafting perks can still upgrade Unique weapons by finding compatible parts.
+
+Updating an existing save is possible, none of the removed mods have scripts, but the uniques with changed replacers will be broken in an existing game (and require fixing at a crafting bench). However, due to the scale of balance changes around crafting, you may want to start an new game anyway.
 
 
 - Added

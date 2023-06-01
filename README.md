@@ -13,6 +13,7 @@ Requires wabbajack - https://www.wabbajack.org/#/
 - Survival Mechanics, with non-survival damage levels and balance.
 - A vibrant, forested, inhabited, but still uncivilised wasteland. Neglected areas should feel fleshed out, but it should still feel lonely.
 - Increased variety in Creatures, Weapons and Armors by mods that add variety to existing content, rather than mods that add a ton of new unbalanced items and monsters
+- New Uniques - almost every single quest reward and vendor unique is now a mod item, instead of a vanilla item
 - Extra high-quality content with the same style and tone as vanilla (no pointlessly skimpy outfits, no tacti-cool weapons).
 - Full controller support (no extra configuration required).
 - Smooth performance on mid-range gaming hardware
@@ -21,7 +22,7 @@ Requires wabbajack - https://www.wabbajack.org/#/
 - a hardcore, nitty-gritty survival simulator - if you want that go play a Horizon based list.
 - a twitch shooter - if you want that, go play one of the Better Locational Damage based lists.
 - Fallout New Vegas - if you want that, go play Fallout New Vegas.
-- an "everything but the kitchen sink" list with every mod out there - if you want that, go play Magnum Opus.
+- A list full of tactical modern equipment - If you want that, go play CoD
 - a super-difficult make-the-game-impossible list for people who've played FO4 100x and know it like the back of their hand
 - a good base-list for building on top of - if you want that try Welcome to Paradise or Fusion
  
@@ -89,7 +90,6 @@ See [How to Wabbajack](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob
     - If you CTD immediately on load on the Creation Club profile, but not on the regular profile, then you've hit your BSA limit, and need to repack the creation club content, [see here for more details](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob/main/CreationClubContent.md)
 2. (Recommended) Download and install into a new mod folder named something like `[NODELETE] Cross Skin Packs`, placed at the bottom of the load order, the following skin packs from https://gumroad.com/niero. They're available for free (use the discount code), but a donation is suggested. The man makes some fantastic mods, and you can probably afford to buy him a coffee. The links for the 2k version are provided below, however the 4k are also available.
     * [Break Action Laser Skin Pack](https://niero.gumroad.com/l/fhdhdh)
-    * [Cross Archimedes II](https://niero.gumroad.com/l/archimedesii)
     * [Cross Cryolance](https://niero.gumroad.com/l/mQKCt)
     Not following this step will result in the alternate skins for these mods being very low res.
 3. The `Difficulty and Customisation` section in Mod Organizer - for people who want to tweak thing a little.
@@ -103,6 +103,8 @@ See [How to Wabbajack](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob
     * `Start Me Up - Skip Pre-War Prologue` Optional mod that allows you to skip the pre-war prologue
     * `Uneducated Shooter`: Recommended to only enable this after character creation, as it is known to cause a game freeze during new games.
     * `120FPS No VSYNC` : If you run a high refresh rate monitor with GSync/FreeSync, this will disable vsync, and cap the framerate at 120.
+4. Field of View (FOV)
+    It is recommended to leave the FoV vanilla. If you have to change it, use BethINI or edit the ini manually. The setting can be found under Details. Setting the FoV higher than 90 has been known to cause weird visual issues with armor mods in the list. Do not use the game console to change the FOV, it will not work.
 
 ### Game INI Settings with BethINI
 How to Setup your own ini files with Bethini
