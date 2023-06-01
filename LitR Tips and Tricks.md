@@ -7,6 +7,7 @@
 Gun crafting works completely differently in LitR. Weapons fall into two categories - Pipe/Handmade, and Pre-War
 - Pipe/Handmade weapons use vanilla crafting, mods are crafted from scrap components, and require the Scrapper perk.
 - Pre-war weapons use a new crafting mechanic. Instead of being crafted from scratch, you have to scavenge compatible parts from other guns. For example, a scope from a 10mm Pistol can be removed (by crafting a NONE scope in it's place), and then you can put that scope on any other weapon that can have a scope. Doing so have no perk requirements.
+- Gun Nut and Science are still required for some crafting, however their primary purpose now is to prevent your weapon receiver from degrading. Weapon receivers now randomly degrade, similar to a condition system. There is a very small chance every time you fire the weapon that the receiver will degrade a step. Receivers cannot degrade below Standard.
 
 ## Power Armor
 - Power Armor is VERY powerful. You can basically completely ignore small arms file, but watch out for heavy weaponry and armor piercing munitions, as they deal extra damage to power armor.
