@@ -3,8 +3,10 @@
 ## Ammo    
 - Use a melee weapon to conserve ammo on lower level enemies. Ammo is scarce, you will probably need to buy some at some point, so don't waste it. Automatics have their own perk, which grants the chance for extra ammo, it's powerful, but difficult to play with automatics.
 
-## Crafting
-- Perk requirements for crafting have been diversified. Recievers require Scrapper (for pipe weapons), Gun Nut (for proper guns) or Science (for lasers and high tech weapons). Other weapons parts are generally require whatever perk buffs the weapons damage, with exceptions for Scopes which require awareness or sniper, and supressors which require infiltrator. In general, even if you're going a high int build, don't expect to be able to just craft everything.
+## Gun Crafting
+Gun crafting works completely differently in LitR. Weapons fall into two categories - Pipe/Handmade, and Pre-War
+- Pipe/Handmade weapons use vanilla crafting, mods are crafted from scrap components, and require the Scrapper perk.
+- Pre-war weapons use a new crafting mechanic. Instead of being crafted from scratch, you have to scavenge compatible parts from other guns. For example, a scope from a 10mm Pistol can be removed (by crafting a NONE scope in it's place), and then you can put that scope on any other weapon that can have a scope. Doing so have no perk requirements.
 
 ## Power Armor
 - Power Armor is VERY powerful. You can basically completely ignore small arms file, but watch out for heavy weaponry and armor piercing munitions, as they deal extra damage to power armor.
