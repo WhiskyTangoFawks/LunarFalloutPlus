@@ -1,9 +1,10 @@
 # Changelog
 
 # 4.3.0 - Stop saying LitR doesn't have enough weapons Part III
-    The big add this patch is a bunch of new weapons and armor, most of which are coming in as replacers for the Vendor Aspirational, aka, the legendaries you can buy from vendors. This is save game safe, however getting the new purchaseable uniques requires a new game.
 
-- Added
+The big add this patch is a bunch of new weapons and armor, most of which are coming in as replacers for the Vendor Aspirational, aka, the legendaries you can buy from vendors. This is save game safe, however getting the new purchaseable uniques requires a new game.
+
+- Added (weapons)
     * Army Combat Rifle Replacer Standalone (+ lunar patch)
     * Assault Rifle Mk II Standalone (+ lunar patch)
     * Combat Rifle Lore Fix Remesh
@@ -31,6 +32,7 @@
     * Duplet (+lunar patch, +Unique Replacer)
     * The Zombie Slayer (+Unique Replacer)
     * The Dadao 2.0 (+Unique Replacer)
+- Added (Armor)
     * Classic Combat Armor (+Unique Replacer)
     * Toxic Raider Leather (+Unique Replacer)
     * Stealth Suit - New Vegas (+Unique Replacer)
@@ -51,11 +53,29 @@
     * Riot Armor Redux (+Unique Replacer)
     * Dak's Ballistic Mask (+Unique Replacer)
     * Very Zen Dak's Ballistic Mask
+- Added (other)
+    * Beyond the Commonwealth (A music expansion project)
+    * Fabulout Fire Extinguishers
+    * Sweet Roll 5000
+    * Imposing Gunner Skulls
+    * MM Asthetic (selected textures)
+    * Cracked and Smudged Pip Boy Screen (added to optional section)
+    * Show No Mercy - Fort Strong Expansion
+    * No More Car Explosions
+    * Shadow Wastelands SS2 World Repopulation Cells Starter Pack
+    * Shaikujin's Better warning for settlements being attacked
+    * Railroad Travel Agent - A Vertibird Fast Travel Alternative
 - Updated
     * A bunch of lunar weapons patches
     * Nuka world monorail fast travel
     * Lunar Fallout Overhaul
     * Lunar Ketaro's World
+    * True Perks (and lunar patch)
+    * LarannKiar Recruitment Mods All-In-One Archive Pack
+    * LBPAC-Redux
+    * Lunar - Fens Sheriffs Dept
+    * PRPX
+    * South of the Sea - Atom's Storm
 - Removed
     * Alternative Chameleon Visuals
     * 10mm SMG (swapped for the 10mm Security SMG)
@@ -66,6 +86,7 @@
     * Swapped BaseUniqueIDs for my forked version -> Unique Replacer Framework
     * Re-added min level 20 to retake the castle
     * Nerfed legendaries on Righteous Authority, and Kellog's Pistol
+    * Water should no longer give a glass bottle after drinking (requries a new game)
 
 # 4.2.0 - Weapon Crafting and Degredation
 
