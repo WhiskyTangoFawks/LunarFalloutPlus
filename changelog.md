@@ -2,7 +2,9 @@
 
 # 4.3.0 - Stop saying LitR doesn't have enough weapons Part III
 
-The big add this patch is a bunch of new weapons and armor, most of which are coming in as replacers for the Vendor Aspirational, aka, the legendaries you can buy from vendors. This is save game safe, however getting the new purchaseable uniques requires a new game.
+The big add this patch is a bunch of new weapons and armor, most of which are coming in as replacers for the Vendor Aspirationals, aka, the legendaries you can buy from vendors. This is save game safe, however getting the new purchaseable uniques requires a new game (in an existing game, the base item will be replaced, but the mods on it won't so it will be weird, but in most cases can be fixed at a workbench by changing the mods out).
+
+I've also done some refinement on the new weapon crafting. There's a wider variety of "attachment" components (screws, adhesive, lead, etc), and they're more varied based on weapon and attachment point. The number of adhesive and screws required have been reduced.  At the same time, the scrapper perk has been reworked so that it functions more like scrounger- you find more in containers, rather than having a near infinite source of rare components, but it also now allows you to find uncommon and rare weapon components.
 
 - Added (weapons)
     * Army Combat Rifle Replacer Standalone (+ lunar patch)
@@ -52,7 +54,7 @@ The big add this patch is a bunch of new weapons and armor, most of which are co
     * West Tec Tactical Optics (+Unique Replacer)
     * Riot Armor Redux (+Unique Replacer)
     * Dak's Ballistic Mask (+Unique Replacer)
-    * Very Zen Dak's Ballistic Mask
+    * Very Zen Dak's Ballistic Mask(+Unique Replacer)
 - Added (other)
     * Beyond the Commonwealth (A music expansion project)
     * Fabulout Fire Extinguishers
@@ -65,6 +67,13 @@ The big add this patch is a bunch of new weapons and armor, most of which are co
     * Shadow Wastelands SS2 World Repopulation Cells Starter Pack
     * Shaikujin's Better warning for settlements being attacked
     * Railroad Travel Agent - A Vertibird Fast Travel Alternative
+    * Curated Companions - Cait
+    * Curated Companions - Piper
+    * Vanilla Armor Material Crafting Exploit Fix
+    * Grease Rat Medic Curie
+    * Classic Vault Scientist
+    * Goodneighbor View
+    * Diamond City Billboards
 - Updated
     * A bunch of lunar weapons patches
     * Nuka world monorail fast travel
@@ -80,13 +89,14 @@ The big add this patch is a bunch of new weapons and armor, most of which are co
     * Alternative Chameleon Visuals
     * 10mm SMG (swapped for the 10mm Security SMG)
     * Yog Mad Can
+    * Cait - Full Body Tattoos
+    * Fill'em Up Again (Dynamic Bottle Recyclation)
 - Misc
     * New Optional File : Harder Vats decreases VATS hit chance by 1/3rd, for VATS players who find the game too easy.
     * Nerfed McReady's companion perk down to 5% from 20%
     * Swapped BaseUniqueIDs for my forked version -> Unique Replacer Framework
     * Re-added min level 20 to retake the castle
     * Nerfed legendaries on Righteous Authority, and Kellog's Pistol
-    * Water should no longer give a glass bottle after drinking (requries a new game)
 
 # 4.2.0 - Weapon Crafting and Degredation
 
