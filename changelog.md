@@ -1,7 +1,42 @@
 # Changelog
 
-# 4.3.0 - Stop saying LitR doesn't have enough weapons Part III
+# 4.3.1 - Just a little update
 
+I've done some rebalancing of the ballistic weaves, leather weaves are more protective, combat weaves are craftable without joining the BoS and can be found on Gunners, and a few outfits have been tweaked. Full body suits that weight > 20 lbs no longer qualify for Gumshoe02 or Dressed for the Apocalypse (if it's that heavy, it's armor). Expect Gunners to be even harder than they already were.
+
+For anyone on the pre-release, I've decided to push the economy changes off for now, until they can be tested more thoroughly.
+
+- Added
+    * Tales from the Commonwealth Exopatch
+    * PRPX - Concord
+    * Heavy Support Weapons (+Lunar patch, + Unique Replacer patch)
+    * Lunar - Complex Vendors
+- Updated
+    * Vanilla Unique Frameworks
+    * Unique Replacer - December's Child
+    * Lunar Fallout Plus - Wasteland Weaves (And patches)
+    * True Perks (and Lunar patch)
+    * Lunar - European Assault Rifle
+    * Riot Armor Redux
+    * Lunar Fallout Plus - Backpacks of the Commonwealth
+    * Lunar - Pump Action Shotgun
+    * Fourville Exopatch
+    * Diamond City Expanded Exopatch
+    * Lunar - Tales from the Commonwealth
+    * The Fens Sheriff's Dept - Vanilla DC Security
+    * That's Gunner's Life
+    * Lunar - Wattz Laser
+    * Mine Swapper
+    * Random Valuables Redux
+- Removed
+    * Egret Tours Navmesh Update (conflict with Convenient Bridges)
+    * Handmade Unique Eyes
+- Misc
+    * Removed unnessary plugins leftover from texture repacking
+    * Swapped Convenient Bridges Lite for Full version
+    * Removed some textures from the main repack
+
+# 4.3.0 - Stop saying LitR doesn't have enough weapons Part III
 The big add this patch is a bunch of new weapons and armor, most of which are coming in as replacers for the Vendor Aspirationals, aka, the legendaries you can buy from vendors. This is save game safe, however getting the new purchaseable uniques requires a new game (in an existing game, the base item will be replaced, but the mods on it won't so it will be weird, but in most cases can be fixed at a workbench by changing the mods out).
 
 I've also done some refinement on the new weapon crafting. There's a wider variety of "attachment" components (screws, adhesive, lead, etc), and they're more varied based on weapon and attachment point. The number of adhesive and screws required have been reduced.  At the same time, the scrapper perk has been reworked so that it functions more like scrounger- you find more in containers, rather than having a near infinite source of rare components, but it also now allows you to find uncommon and rare weapon components.
@@ -85,6 +120,7 @@ I've also done some refinement on the new weapon crafting. There's a wider varie
     * Lunar - Fens Sheriffs Dept
     * PRPX
     * South of the Sea - Atom's Storm
+    * Random Valuables Redux
 - Removed
     * Alternative Chameleon Visuals
     * 10mm SMG (swapped for the 10mm Security SMG)
