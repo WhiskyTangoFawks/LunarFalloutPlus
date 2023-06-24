@@ -12,11 +12,11 @@ Requires wabbajack - https://www.wabbajack.org/#/
 - RPG Balance, Scaling, and Progression - brought to you by Lunar Fallout Overhaul.
 - Survival Mechanics, with non-survival damage levels and balance.
 - A vibrant, forested, inhabited, but still uncivilised wasteland. Neglected areas should feel fleshed out, but it should still feel lonely.
-- Increased variety in Creatures, Weapons and Armors by mods that add variety to existing content, rather than mods that add a ton of new unbalanced items and monsters
+- Increased variety in Creatures, Weapons, and Armors by mods that add variety to existing content, rather than mods that add a ton of new unbalanced items and monsters
 - New Uniques - almost every single quest reward and vendor unique is now a mod item, instead of a vanilla item
 - Extra high-quality content with the same style and tone as vanilla (no pointlessly skimpy outfits, no tacti-cool weapons).
 - Full controller support (no extra configuration required).
-- Smooth performance on mid-range gaming hardware
+- Smooth performance on mid-range modern gaming hardware
  
  ### This is not...
 - a hardcore, nitty-gritty survival simulator - if you want that go play a Horizon based list.
@@ -40,7 +40,6 @@ Requires wabbajack - https://www.wabbajack.org/#/
 - [Super Mutant Redux](https://www.nexusmods.com/fallout4/mods/11853)
 - [Tales from the Commonwealth](https://www.nexusmods.com/fallout4/mods/8704)
 - [The Bleachers: Fens Sheriffs Dept](https://www.nexusmods.com/fallout4/mods/68276)
-- [Gunmetal Weapon and Armor Skins](https://www.nexusmods.com/fallout4/mods/51233)
 - plus more than you can easily count...
  
 ### Optional Creation Club Content Compatibility
@@ -68,7 +67,7 @@ The modlist is designed for relatively modern, middle range hardware. A high end
 #### If you have less than 6gb of vram or the list otherwise performs badly for you
 - Do not try to run the list above 1080p, 1440 in fallout is a performance killer
 - Reducing the grass density/diversity by editting the ini file in the True Grass mod
-- Disable the ENB (press * to show FPS, then press shift + F12 to disable ENB processing to see if it makes a difference).
+- Disable the ENB (press F8 to show FPS, then press shift + F10 to disable ENB processing to see if it makes a difference).
 
 Some or all of these tweaks may allow the list to run better below the minimum requirements.
 
