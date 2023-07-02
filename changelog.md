@@ -1,4 +1,56 @@
 # Changelog
+# 4.3.2 - More bugfixes
+
+A bunch of bug fixes, and some behind the scenes archive cleanup.
+
+This update is save safe, unless you've recruited Kat and Gus- if you have, I recommend you add a [NoDelete] tag to the recruit kat and gus as settlers mods before updating.
+
+- Added
+    * Bosses get Legendaries
+    * essen_Vault-Tec Security Armor (And Unique Replacer patch)
+- Updated
+    * Vanilla Uniques Framework (and Lunar patch)
+    * Unique Replacers - Limitless Potential Charger Pistol
+    * Unique Replacers - Wazer Pwistol
+    * Unique Replacers - Lucky Eddie's Lever Action Shotgun
+    * Unique Replacers - Auto Musket Lunar Patch
+    * Unique Replacers - NCR Mantis
+    * Unique Replacers - Quad Splatter Cannon
+    * Unique Replacers - Throatslicer
+    * Unique Replacers - Destroyer's Combat Armor
+    * Unique Replacers - Wattz Survivors Special
+    * Vanillafied Syringer Rifle Overhaul (and lunar patch)
+    * Vanillafied Break Action Laser (and lunar patch)
+    * Lunar - Institute Assassin's Sword
+    * Lunar - Mica's Wasteland Service Rifle
+    * Lunar - Zap Gun
+    * Lunar - Streetsweeper
+    * Lunar - Fourville
+    * Lunar - Fens Sheriff's Dept
+    * Lunar - Jury Rigged anti-material rifle
+    * Lunar - Webley Fosbery
+    * Lunar - Grease Gun SMG
+    * Lunar - Gatling Rifle
+    * Lunar - Mare's Leg
+    * Lunar - wattz Laser gun
+    * Classic Wasteland Bobbleads - Fourville Edition
+    * The Fens Sheriff's Dept - Vanilla DC Security
+    * LBPAC - PATTP
+    * LBPAC - Fens Sheriffs Dept
+    * True Perks - Freeze Intimidation Addon
+    * Lunar Fallout Overhaul
+    * Railroad Travel Agent
+    * True Perks
+    * SS2 Icons FallUI Plugin
+    * A Forest Tree Trim
+- Removed
+    * Vault Tec Armor Redux (Swapped for the Vault Tec Security Armor)
+    * Recruit Kat and Gus as Settlers
+- Misc
+    * Lunar - Chem Redux patch swapped to Plugin Replacer
+    * Swapped DC Vendor Clutter - Lite to Interiors Only version patch (even the lite version is just too heavy in DC)
+    * Fixed a bug with double barrel shotguns being called pistols
+    * Cleanup on texture packing
 
 # 4.3.1 - Just a little update
 
@@ -11,6 +63,7 @@ For anyone on the pre-release, I've decided to push the economy changes off for 
     * PRPX - Concord
     * Heavy Support Weapons (+Lunar patch, + Unique Replacer patch)
     * Lunar - Complex Vendors
+    * Bosses get Legendaries
 - Updated
     * Vanilla Unique Frameworks
     * Unique Replacer - December's Child
@@ -28,6 +81,7 @@ For anyone on the pre-release, I've decided to push the economy changes off for 
     * Lunar - Wattz Laser
     * Mine Swapper
     * Random Valuables Redux
+    * True Perks (And Lunar Patch)
 - Removed
     * Egret Tours Navmesh Update (conflict with Convenient Bridges)
     * Handmade Unique Eyes
