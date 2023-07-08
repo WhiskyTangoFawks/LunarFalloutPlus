@@ -25,6 +25,7 @@ This update is save safe, although if you've recruited the NPCs from the remove 
     * Buffed vanilla quest rewards
     * Nerfed chem weight and value
     * Repacked some of the archives, should fix issue with missing weapon models
+    * Health bar is segmented into quarters now
 
 # 4.3.2 - More bugfixes
 
