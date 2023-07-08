@@ -1,4 +1,31 @@
 # Changelog
+
+# 4.3.3 - Economics of the Post Apocalypse
+
+The major change this update is the new mod Barter - Vendor Restrictions, which reworks what you can and can't sell to vendors, and the amount of caps they have.
+
+This update is save safe, although if you've recruited the NPCs from the remove "Recruit" mods, you should tag that mod with a [NODELETE] prior to updating.
+
+- Added
+    * Barter - Vendor Restrictions
+- Updated
+    * Lunar Fallout Plus
+    * True Perks (and lunar patch)
+    * Unique Replacers - TheAutoHarvester
+    * Unique Replacers - Survivors Wattz
+    * Unique Replacers - Break Action Authority
+    * Lunar - Tinkerer's Raygun
+- Removed
+    * Complex Vendors
+    * Recruit Katelyn Alden
+    * Recruit Cora
+    * Recruit the Wounded Dog
+    * Reunions (Sisters Edition)
+- Misc
+    * Buffed vanilla quest rewards
+    * Nerfed chem weight and value
+    * Repacked some of the archives, should fix issue with missing weapon models
+
 # 4.3.2 - More bugfixes
 
 A bunch of bug fixes, and some behind the scenes archive cleanup.
