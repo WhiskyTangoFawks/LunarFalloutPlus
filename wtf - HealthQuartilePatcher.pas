@@ -55,7 +55,7 @@ begin
                 addMessage('Found no conditions');
 					      
                 //For reasons I can't figure out, add isn't working here.
-                conditions := add(ref, 'Effects\Effect\Conditions', true); //and all variations thereof
+                conditions := add(ref, 'Conditions', true); //and all variations thereof
                 //conditions := InsertElement(effect, nil, 3);
                 
 			      		
