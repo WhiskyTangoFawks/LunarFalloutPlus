@@ -170,7 +170,7 @@ Settings here are going to be very system and driver specific, but some general 
 
 ## Crashlog Scanner
 
-The list includes the [Buffout 4 Crashlog Auto Scanner](https://www.nexusmods.com/fallout4/mods/56255), found inside the tools folder. To use simply copy paste the crashlog from your `my documents/my games/fallout 4/f4se`, into the `tools/Scan Crash Logs Script` folder inside your LitR installation, and run `scan crashlogs.py`. See the readme.md in the same folder for information on how to interpret the results.
+The list includes the [Buffout 4 Crashlog Auto Scanner](https://www.nexusmods.com/fallout4/mods/56255), found inside the tools folder. To use simply copy paste the crashlog from your `my documents/my games/fallout 4/f4se`, into the `tools/Scan Crash Logs Script` folder inside your LitR installation, and run the crashlog scanner from the dropdown in MO2. See the readme.md in the same folder for information on how to interpret the results.
 - The script will throw a lot of warnings in the `CHECKING FOR MODS THAT CAN CAUSE FREQUENT CRASHES...`. These can all be safely ignored, I have already dealt with all of them. You do not need to make any modifications to the mod list to deal with CTDs- these are almost always either random instability (which is expected in heavily modded FO4, but should be minimal), mis-configurations on the user end, or modifications that the user has made to the list.
  
 ## Notable Missing Mods
