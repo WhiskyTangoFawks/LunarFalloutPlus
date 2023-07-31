@@ -32,6 +32,8 @@ Requires wabbajack - https://www.wabbajack.org/#/
 - [Sim Settlements 2](https://www.nexusmods.com/fallout4/mods/47976)
 - [Lore Based Power Armor Changes](https://www.nexusmods.com/fallout4/mods/36251)
 - [Random Valuables Redux](https://www.nexusmods.com/fallout4/mods/60097)
+- [Feast and Famine](https://www.nexusmods.com/fallout4/mods/68528)
+- [Stimpacked](https://www.nexusmods.com/fallout4/mods/72818)
  
 ### The Extra Spice
 - [Fallout 4 HD Overhaul 2k](https://www.nexusmods.com/fallout4/mods/65720)

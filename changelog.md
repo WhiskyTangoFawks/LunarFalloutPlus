@@ -1,5 +1,68 @@
 # Changelog
 
+# 4.4.0 Stimpacked
+
+The big change this patch is the new Stimpacked health overhaul mod. It changes the way health and healing work, I recommend checking out the modpage. Alongside it is an update to Feast and Famine that removes healing from drinking water and replaces it with an AP buff, as well as new mods for removing healing on levelup, and the potential for interruptions while trying to sleep in unprotected areas (which has some nice synergy with sofa surfer and the new healing changes).
+
+The other large change is the removal of Diamond City Expansion. The mod is just too heavy on performance, in addition to balance issues. Also coming out in this update is the SS2 plans pack - this is due to memory issues with having to much in script memory- I recommend only downloading and installing plans you want to use. If you're using plans in the pack and want to update, add a [NODELETE] tag before doing so. I've also pulled a few other mods, in an effort to generally improve maintainability, and reduce the amount of custom conflict resolution I have to do.
+
+I recommend starting a new game for this update if you've already visited Diamond City. However as long as you're not in the middle of a DCE quest it shouldn't corrupt your save to remove DCE as it's not a scripted mod, no promises though.
+
+- Added
+    * Stimpacked - A Health Overhaul
+    * No Level up Healing
+    * Sleepless Nights
+    * Interior Navcut Fix
+    * Weird Mattress Fix
+    * Diamond City Shanty Town
+    * Robco Patcher
+    * More Realistic Dismember and Explode Robco Patch
+    * Whisper's Workbench Storage
+    * Cora and her Family Actually Go To Diamond City
+- Updated
+    * True Perks (and patches)
+    * Barter Vendor Restrictions
+    * Vanilla Uniques Framework (and lunar patch)
+    * Unique Replacers - NCR Mantis
+    * Unique Replacers - Wastelander's K9
+    * Unique Replacers - Throatslicer
+    * Feast and Famine (and patches)
+    * Baka Framework
+    * Vault Boy and Girl Bobbleheads - Fourville Edition
+    * Lunar Fallout Plus - Backpacks
+    * Wattz Laser Unofficial Update
+    * PBW LAER
+    * PBW Plasma Defender (And lunar patch)
+    * Lunar Institute P90smg
+    * Lunar Institute Heavy Assault Laser
+    * Lunar Security SMG
+    * Lunar - Cross Break Action Laser
+    * Lunar - Bull Dozier
+    * Lunar UFO4P Patch
+    * Random Encounter Framework - Capital Wasteland AutoAxe
+    * Vault Boy and Girl Bobbleheads
+    * Diamond City Outskirts Lite
+    * Super Mutant Redux - AWKCR and Scaling Fixes
+    * Vanillified - Cross Break Action Laser
+    * ENB Series
+    * Buffout 4
+- Removed
+    * Introducing Radium Inc
+    * Diamond City Expansion
+    * Diamond City Expansion Exopatch
+    * A Storywealth Diamond City Patch
+    * City Plans for SS2 The Pack (having too many city plans loaded causes script memory issues, so no packs are included- download individual plans you want to use)
+    * Spitfire (and all patches)
+    * Hollywood Institute Lasers
+    * Recruit Katelyn Alden
+    * Recruit the Wounded Dog
+- Misc
+    * Reorganized some of the seperator sections
+    * Bugfixes to receiver degredation
+    * Bugfix for throatslicer model
+    * Increased average caps per vendor
+    * Swapped Starlight Drive Navmesh Update for ESL flagged ESP version
+
 # 4.3.3 - Economics of the Post Apocalypse
 
 The major change this update is the new mod Barter - Vendor Restrictions, which reworks what you can and can't sell to vendors, and the amount of caps they have.
@@ -17,9 +80,7 @@ This update is save safe, although if you've recruited the NPCs from the remove 
     * Lunar - Tinkerer's Raygun
 - Removed
     * Complex Vendors
-    * Recruit Katelyn Alden
     * Recruit Cora
-    * Recruit the Wounded Dog
     * Reunions (Sisters Edition)
 - Misc
     * Buffed vanilla quest rewards
