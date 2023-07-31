@@ -15,8 +15,6 @@ I recommend starting a new game for this update if you've already visited Diamon
     * Interior Navcut Fix
     * Weird Mattress Fix
     * Diamond City Shanty Town
-    * Robco Patcher
-    * More Realistic Dismember and Explode Robco Patch
     * Whisper's Workbench Storage
     * Cora and her Family Actually Go To Diamond City
 - Updated
