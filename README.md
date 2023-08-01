@@ -54,7 +54,6 @@ Requires wabbajack - https://www.wabbajack.org/#/
 - Perks have increasing SPECIAL requirements, and specials can be trained past 10.
 - Crafting requirements have been completely overhauled, Gun Nut and Armorer are no longer the only perk you'll need to craft.
 - Power armour is more powerful, but rare, and fusion cores are harder to come by and won't always be full. You also don't get to keep the T45 you find in Concord, other power armor frames will be fine though. Repairing PA now [requires perks](https://www.nexusmods.com/fallout4/mods/62273)
-- Shoot/Kick/Explode locks open. Read the nexus page for [LockyBastard](https://www.nexusmods.com/fallout4/mods/13380).
 - Survival fast travel is available early game by taking the Local Leader Perk and building a provisioner network, or later on by building the SS2 Caravan plot. If you want an easier fast travel just enable it fully via unlimited survival.
 - You don't need to stimpack your companions after combat, the survival requirement to use a stimpack to get them up is disabled.
 - The [SS2 Triangle of Death](https://simsettlements.com/site/index.php?threads/understanding-ctds-in-the-triangle-of-death-sanctuary-abernathy-farm-and-red-rocket.6964/) is still a problem, and always will be. Do not heavily develop more than one of those three settlements.
@@ -133,8 +132,9 @@ The following default settings have now been set for you, courtesy of the bethin
     - The following values are recommeneded for use with this list: 16384, 12288 and 8192
         * Higher values might work for users with a lot of ram, but are unnessary, for most users will actually reduce performance and stability
     - VRAM Size Test for DX11 is included in the list, can can be run through the mod organizer executable drop down- however most of the time it will lie to you about what your value should be. It frequently give values much higher than will work. If you experience instability (CTD, freezing, stuttering), test with the following values 16384, 12288 and 8192, one of them should work for you.
+    - Set AreYouSureYouKnowWhatItIs=True
 
-ENBoost is a feature of ENB that allows your FO4 to extend your system's VRAM with your regular RAM. It's not as fast, but it's better than nothing. AMD users with resizable BAR enabled should see even better performance improvements with this setting, and it's recommended to try it out. However this is a HIGHLY system specific setting. What works great for a user with a 3090, will crash for a user with less, which is why it's not turned on for you by default. Please note that updating the list will erase any changes made to enblocal.ini, so make a backup before updating.
+ENBoost is a feature of ENB that allows your FO4 to extend your system's VRAM with your regular RAM. It's not as fast, but it's better than nothing. AMD users with resizable BAR enabled should see even better performance improvements with this setting, and it's recommended to try it out. However this is a HIGHLY system specific setting. What works great for a user with a 3090, will crash for a user with less, which is why it's not turned on for you by default. Please note that updating the list will erase any changes made to enblocal.ini, so make a backup before updating, or just redo the changes afterwards.
 
 If you have issues with textures not loading, stuttering, or the brown face bug, it is recommended to try this.
 
