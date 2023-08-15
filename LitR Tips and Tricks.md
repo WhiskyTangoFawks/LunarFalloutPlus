@@ -3,12 +3,18 @@
 ## Damage, Health and Healing
 - LitR is balanced for default lunar survival damage levels (1 and 1.3), but can be adjusted in the MCM to whatever you want, just make sure you've fought some synths and super mutants before tweaking (because they WILL wreck you). This is an RPG, the early game enemies are supposed to be easy.
 - In LitR, the player has a lot more health, and combat should not generally feel super lethal. Horizon players should be familiar with this balance approach. The sweet spot LitR tries to hit is that you can get through most encounters without dying, but you do have to use healing resources. This is specifically to combat the respawn-try again style gameplay vanilla survival has.
-- Food can only heal you up to the segment thresholds in your health bar- if you lose an entire segment of health, you need a stimpak, a doctor, or a bed to get it back.
+- Food can only heal you up to the segment thresholds in your health bar- if you lose an entire segment of health, you need a stimpak, a medpak, or a doctor to get it back.
 
 ## Ammo    
 - Use a melee weapon to conserve ammo on lower level enemies. Ammo is scarce, you will probably need to buy some at some point, so don't waste it. Automatics have their own perk, which grants the chance for extra ammo, it's powerful, but difficult to play with automatics.
+- Because Ammo is scarce, don't expect to be able to use a single weapon type and ignore everything else.
 
-## Gun Crafting and Condition
+## Crafting
+### Armor
+- There is no armor crafting at the Chemistry bench, if you want something, you have to find it.
+- Pocketed mods are disabled- if you want to increase your carry weight find a backpack.
+
+### Guns
 Gun crafting works a little differently in LitR. Weapons fall into two categories - Pipe/Handmade, and Pre-War
 - Pipe/Handmade weapons use vanilla-style crafting, mods are crafted from scrap components, and require the Scrapper perk.
 - Pre-war weapons use a new crafting mechanic. Instead of being crafted from scratch, you have to scavenge compatible parts from other guns. For example, a scope from a 10mm Pistol can be removed (by crafting a NONE scope in it's place), and then you can put that scope on any other weapon that can have a scope. Doing so normally has no perk requirements.
@@ -51,12 +57,14 @@ Gun crafting works a little differently in LitR. Weapons fall into two categorie
 - There is a purchasable perk point respec called "Mindwipe" that will allow you to reset your invested perks, but it won't allow you to respec your specials.
 - Because "required" perks have lower requirements, pretty much any build is viable, as long as you have a good mix of offense and defense.
 - Endurance 1 is not a good idea
+- Specials can be trained past 10
 - Special training perks now have a level requirement- you can take the 1st rank at level 7, the 2nd at level 14, etc.
-- If there's a specific perk you want though, make sure your starting SPECIALS are high enough to get it. Remember that special training perks now have level requirements.
+- If there's a specific perk you want though, make sure your starting SPECIALS are high enough to get it.
 
 ## Survival Fast Travel
 - Local Leader offers fast travel by talking to provisioners at level 2 (to their home or destination settlements).
 - When upgraded to level 2, SS2's caravan plots allow fast travel to linked settlements.
+- Full fast travel can be enabled in survival mode in the Unlimited Survival MCM.
 
 ## Collectibles
 - Magazines and Bobblehead locations are randomized
