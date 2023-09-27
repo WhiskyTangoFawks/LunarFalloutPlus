@@ -1,5 +1,145 @@
 # Changelog
 
+# 5.0 - Praxinator Gets Upstaged
+
+Praxinator over on the discord has been doing some work on consistency, bugfixes, and sorting for the modlist. Big thanks to him, for doing things I have neither the time or patience to do. But I'm guessing most of you are here for SS2 chpt 3, and not that. This release also marks the modlist moving from active development into maintenance. As such, there are a lot of changes around making the list more maintanable in the long run. Also coming in are a few new content mods I've had had on my todo list for a while. A lot of mods have also come out, either due to precombine issues, or general tone/quality. My goal is that this will be the last major content update for the list.
+
+In other news, I've decided to remove Locky Bastard and Ultimate Hacking- they end up devaluing the perks because players who have mastered the minigames just skip the perks, and the removal of the level gate on higher level content is problematic (e.g. LBPACs changes to Power Armor Obtainability, and Lunar's level gating of loot). I've added lock/terminal bypassing to the perks instead.
+
+PRPX has been replaced for the full PRP. This is accompanied by the removal of several quest and content mods that had precombine issues.
+
+New Settings - With the new MCM settings manager, I'm shipping a LitR default settings that need to be loaded when starting a new game. I've also swapped the list over to use Rootbuilder for managing ENB and ENBoost - see the updated readme sections for details. Users wanting to use a seperate ENB should also have a much easier time of it now.
+
+This requires a new game if updating from 4.x
+
+- Added
+    * SS2 Chapter 3
+    * Boat From Warwick Homestead To The Castle
+    * Radspider Redux
+    * Fast Travel from Quest Hubs (Throwing a bone to non-survival players here)
+    * Supplementary Weapon Icon Library for FIS
+    * FGEP
+    * FGEP - Legendary Bosses
+    * FGEP - Very Zen Textures
+    * Skip Dima Memories (optional)
+    * Skip Kellog Memories (optional)
+    * Atomic Radio
+    * Atomic Radio - Base Object Swapper
+    * SotS - A Fungal Forest
+    * MCM Categorizer
+    * MCM Settings Manager
+    * MCM Booster
+    * Baka MaxPapyrusOps
+    * Beantown Interiors
+    * Tales from the Commonwealth - Precombined Visibility Patch
+    * The Beantown Interiors Project - Precombined Visibility Patches
+    * Lush Ambience - Far Harbour
+    * Minimal Minutemen Radiants
+    * Accessible Bridges
+    * People Live in - Harbourmaster Hotel (and less loot patch)
+    * The Rooftops
+    * Tribal Power Armor (And LBPAC patch)
+    * Unique Replacers - Tessa's Tribal Fist
+    * T51c Airforce Power Armor (And LBPAC patch)
+    * Unique Replacers - Brotherhood T51c
+    * Evil Detective Outfit
+    * Unique Replacer - Railroad Special Agent
+    * M79 Grenade Launcher
+    * Unique Replacers - M79 Big Boy
+    * Pjar Makeshift Pistol (And lunar patch)
+    * Unique Replacer - Arturo's Silenced PJAR
+    * Garbing Series of mods
+    * Automatron Caravan Fixes
+    * Disk cache enabler
+    * Community Fixes Merged
+- Updated
+    * Stimpacked
+    * True Perks
+    * Baka Framework
+    * SS2
+    * SS2 Chpt 2
+    * Workshop Framework
+    * Lunar SS2
+    * Lunar Weaves SS2
+    * SS2 Previsibine Upgrade
+    * SS2 - Ruined Homes and Gardens
+    * Lunar - PBW Plasma Defender
+    * Lunar - Jury Rigged Antimaterial
+    * Lunar Fallout Overhaul - The Wasteland Service Rifle
+    * The Pipe Shotgun Collection Redux
+    * Lunar Fallout Overhaul - The Pipe Shotgun Colletion Redux
+    * Lunar - Wattz Laser Gun
+    * Lunar Fallout Overhaul - McMillan CS5 Sniper Rifle
+    * Lunar Fallout Overhaul - The Zap Gun
+    * Lunar Fallout Overhaul - The Charger Pistol
+    * Lunar Fallout Overhaul - Wasteland Heavy Weapons Pack
+    * Lunar Fallout Overhaul - Institute SMG p90
+    * Lunar Fallout Overhaul - Institute Heavy Assault Laser
+    * Lunar Fallout Overhaul - Institute Plasma Rifle
+    * Lunar Fallout Overhaul - BUllpup HMR
+    * Lunar Fallout Overhaul - Heavy Tesla Cannon
+    * Vanillafied - CS5 Sniper Rifle
+    * Lunar - Photon Disruptor
+    * Lunar P94 Plasma Rifle
+    * Recruit Jenny (K1-98) as a Settler ESL
+    * Recruit Shelly Tiller as Settler
+    * Recruit Scribe Haylen as Settler
+    * Recruit Timothy as Settler
+    * LarannKiar Recruitment Mods All-In-One Archive Pack
+    * Bosses get Legendaries
+    * Lunar - Tales from the Commonwealth
+    * That's Gunners Life
+    * Lunar - Raider Overhaul Forged
+    * LBPAC Redux
+    * Unique Replacers - Hunting Gainer
+    * Even more immersive burning molotvs and flamers
+    * Legendaries they can use
+    * Unique Replacers - Black Ops Stealth Suit
+    * Unique Replacers - Corpus Praseidium
+    * Unique Replacers - Mk3 institute Gadgets
+    * Vanilla Uniques Framework (and lunar patch)
+- Removed
+    * Locky Bastard (And Patch)
+    * Ultimate Hacking (And Patch)
+    * Less Loot - People Live In - USAF Satellite Station Olivia (Replaced by Glitchfinder's Sparsified patch)
+    * Melee Bangs (and lunar patch)
+    * Gun Smoke
+    * Level up healing removal (no longer necessary with Stimpacked 2.0)
+    * Lunar LBPAC Patch (no longer necessary with the update to LBPAC Redux)
+    * Sleepless Nights
+    * Lunar Fallout Plus - Logical Weapons Dismemberment
+    * Container Swap - UFO4P Patch (replaced by synthesis patcher)
+    * Better Atom Cat's Garage
+    * Fourville
+    * The Secret of Huntress Manor - A Far Harbour Story (and pataches)
+    * David Hunter - A Brotherhood Story (and patches)
+    * Vault 494 - A Vault tec story (and patches)
+    * Hilda Hughes - An Institute Story (and patches)
+    * Vertibird Faction Paint Schemes
+    * Convenient Bridges
+    * Diamond City Outskirts Lite
+    * The Crab Shack
+    * Immersive Drumlin Diner (and patches)
+    * Tales from the Commonwealth - Facegen Data
+    * Slaughtering Buzz axe (and patch)
+    * Gravity Fist (and patch)
+    * Another One Kukri (and patch)
+    * Bowie Knives (and patch)
+    * Raiders of the Pink Paste
+    * The Gorski Dilemma
+    * Raider's Lament
+- Misc
+    * Updated generated patches
+    * Rearranged some of the seperators
+    * Swapped Start Me up for Fast Start
+    * Regenerated LOD
+    * Swapped armor penetration bugfix over the F4SE version
+    * Nerfed base burning damage from Molotovs and Flamers, but it now scales with the Demolition perk
+    * Swapped PRPX for full PRP
+    * Swapped Vault Boy and Girl bobbleheads over to non-fourville version
+    * Bugfixes to various patches
+
+
 # 4.4.0 Stimpacked
 
 The big change this patch is the new Stimpacked health overhaul mod. It changes the way health and healing work, I recommend checking out the modpage. Alongside it is an update to Feast and Famine that removes healing from drinking water and replaces it with an AP buff, as well as new mods for removing healing on levelup, and the potential for interruptions while trying to sleep in unprotected areas (which has some nice synergy with sofa surfer and the new healing changes).
