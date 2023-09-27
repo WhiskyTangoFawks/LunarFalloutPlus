@@ -12,6 +12,8 @@ New Settings - With the new MCM settings manager, I'm shipping a LitR default se
 
 This requires a new game if updating from 4.x
 
+Users updating from one of the 5.0 prereleases should enable Immersive Hud in the optional section (it's been moved to the optional section, and disabled by default). Also make sure that you're enabling one of the ENBoost presets (I've added root builder, to make managing that easier), and loading the MCM settings in MCM Settings Manager.
+
 - Added
     * SS2 Chapter 3
     * Boat From Warwick Homestead To The Castle
