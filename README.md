@@ -33,7 +33,7 @@ Notice to Streamers: If you want to stream the list, join the discord and give m
 - [Feast and Famine](https://www.nexusmods.com/fallout4/mods/68528)
 - [Stimpacked](https://www.nexusmods.com/fallout4/mods/72818)
 - [Barter Vendor Restrictions](https://www.nexusmods.com/fallout4/mods/72654)
-- [Weapon Component Crafting and Receiver Degredation](https://www.nexusmods.com/fallout4/mods/71211)
+- [Degrade And Salvage - New Weapon Mechanics](https://www.nexusmods.com/fallout4/mods/71211)
   
 ## New Content Highlights
 - [Sim Settlements 2 - Chpts 1, 2 and 3](https://www.nexusmods.com/fallout4/mods/47976)
