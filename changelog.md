@@ -1,5 +1,22 @@
 # Changelog
 
+# 5.0.1
+
+- Added
+    * Tales from the Commonwealth Facegen Data (repacked into main mod)
+- Updated
+    * SS2
+    * Workshop Framework
+    * T6Ms Pump Shotgun (and lunar patch)
+    * CLASSIC - Crash log auto scanner
+- Removed
+- Misc
+    * Repacked FGEP zen textures into FGEP, disabled plugin
+    * Repacked Fallout4 2k HD LOD Textures into Stock Game archives
+    * Swapped SMR HD for SD
+    * Packed TexGen output into the LOD archive
+    * Swapped Buffout 4 NG for Buffout 4
+
 # 5.0 - Praxinator Gets Upstaged
 
 Praxinator over on the discord has been doing some work on consistency, bugfixes, and sorting for the modlist. Big thanks to him, for doing things I have neither the time or patience to do. But I'm guessing most of you are here for SS2 chpt 3, and not that. This release also marks the modlist moving from active development into maintenance. As such, there are a lot of changes around making the list more maintanable in the long run. Also coming in are a few new content mods I've had had on my todo list for a while. A lot of mods have also come out, either due to precombine issues, or general tone/quality. My goal is that this will be the last major content update for the list.
