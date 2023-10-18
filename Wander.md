@@ -34,10 +34,11 @@ I'm not a big fan of settlement building in FO4. With Life in the Ruins, I built
 ### How to hard-install the modlist
 0) Rename `F4SELoader.exe` to `Fallout4Launcher` in the stock game folder
 1) copy the contents of the exported stock game folder to the fallout 4 folder on your steam deck, with your method of choice (I use winscp, but a usbc thumb drive also works)
-2) Copy the files `Wander - Modlist` folder to `/home/deck/.steam/steam/steamapps/compatdata/APP_ID/pfx/377160/drive_c/users/steamuser/AppData/Local/Fallout4`
-2) From the litr installation `profiles/LitR - Wander`, copy `Fallout4.ini`, `Fallout4Custom.ini`, and `Fallout4prefs.ini` to `/home/deck/.steam/steam/steamapps/compatdata/APP_ID/pfx/377160/drive_c/users/steamuser/Documents/My Games/Fallout 4`
+2) Copy the files `Wander - Modlist` folder to `/home/deck/.steam/steam/steamapps/compatdata/377160/pfx/drive_c/users/steamuser/AppData/Local/Fallout4`
+2) From the litr installation `profiles/LitR - Wander`, copy `Fallout4.ini`, `Fallout4Custom.ini`, and `Fallout4prefs.ini` to `/home/deck/.steam/steam/steamapps/compatdata/377160/pfx/drive_c/users/steamuser/Documents/My Games/Fallout 4`
 
 ### Post Installation
+The list ships with a HighFPSPhysic COnfig file that disables vsync, and caps the FPS at 40.
 - Disable VSYNC in the steam deck settings
 - Set framerate to unlimited (The list includes a high fps physics ini that caps framerate to 30, except during lockpicking and loading screens)
 - Enable FSR (The default INIs the list ships with set the resolution to 960x600)

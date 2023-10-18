@@ -1,5 +1,31 @@
 # Changelog
 
+# 5.0.2 Updates and Unique Replacers
+
+    CREATION CLUB USERS BACKUP YOUR SAVES BEFORE THIS UPDATE - they're stored in the profiles folder inside your litr installation. I've removed the seperate creation club profile, it's now been integrated into the default profile, if you are using the creation club paint jobs, copy your saves from the cc profile folder into a folder outside the litr install, update, then paaste the saves into the saves folder in the main profile, and enable the [CC] tagged mods for them- they can be at the end of the load order.
+
+    The main update here are a few new Unique Replacers and the SS2 update. This is save-safe to update, however the changed uniques will need to have their mods fixed at the weapons bench.
+
+ - Added
+    * Wasteland Melodies Chinese Assault Rifle (+Lunar and Unique Replacer Patches)
+    * Mad Can Fury Beans (+Lunar and Unique Replacer Patches)
+    * AnotherOne Kukri (+Lunar and Unique Replacer Patches)
+    * The Gravity Fist (+Lunar and Unique Replacer Patches)
+    * The Vintage Pistol - Mauser C96 (+Lunar and Unique Replacer Patches)
+    * Rhino M1 Revolver (+Lunar and Unique Replacer Patches)
+    * Remington New Army Revolver (+Lunar and Unique Replacer Patches)
+    * Makeshift Nailgun (+Lunar and Unique Replacer Patches)
+ - Updated
+    * Lunar - UFO4P
+    * Unique Replacer - Splattercannon
+    * SS2
+    * Workshop Framework
+    * Community Fixes Merged
+    * ENBSeries
+- Removed
+- Misc
+    * Swapped Danse and Nick Valentine back to their vanilla weapons (req new game to see effects)
+
 # 5.0.1
 
 - Added

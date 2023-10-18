@@ -2,7 +2,7 @@
 
 A massively overhauled and rebalanced Fallout 4 survival experience. Designed to rebalance survival mode so that the challenge comes from scarcity of resources and not massively unbalanced combat, while staying true to the vanilla asthetic.
 
-Notice to Streamers: If you want to stream the list, join the discord and give me a heads up. I'll add you to the stream notificions for the server.
+Notice to Streamers: If you want to stream the list, join the discord and give me a heads up. I'll add you to the stream notificions for the server. I've also included a copyright free version of the music merge patch in the customisation section.
 
 [Join the Community on Discord](https://discord.gg/HUNWVBjZPg)
 [Support me on Patreon](https://www.patreon.com/user?u=4257489)
@@ -73,9 +73,8 @@ See [How to Wabbajack](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob
   
 ## Additional Setup (post wabbajack installation)
 ### Customisation
-1. Pick your Profile: "Life in the Ruins", or "Life in the Ruins - CreationClubPaints" if you have the required set of creation club paint jobs
-    -  Creation Club Profile - Copy the creation club files from your `fallout4/data directory` into a new mod folder named, for example, `[NODELETE] CreationClub Paint Jobs` mod folder. 
-2. (Recommended) Download and install into the `[NODELETE] Cross Skin Packs` (found in the difficulty and customization section),  the following skin packs from https://gumroad.com/niero. They're available for free (use the discount code), but a donation is suggested. The man makes some fantastic mods, and you can probably afford to buy him a coffee. The links for the 2k version are provided below, however the 4k are also available.
+1. Creation Club: If you want to use the creation club paint job support, copy the [required Creation Club paint jobs](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob/main/CreationClubContent.md) files from your `fallout4/data directory` into the `[NODELETE][CC] CreationClub Paint Jobs` mod folder, and enable the 5 [CC] tagged mods. Otherwise, you can skip this step.
+2. (Recommended) Download and install into the `[NODELETE] Cross Skin Packs` (found in the difficulty and customization section),  the following skin packs from https://gumroad.com/niero. They're available for free (use the discount code which can be found on the checkout page), but a donation is suggested. The man makes some fantastic mods, and you can probably afford to buy him a coffee. The links for the 2k version are provided below, however the 4k are also available.
     * [Break Action Laser Skin Pack](https://niero.gumroad.com/l/fhdhdh)
     * [Cross Cryolance](https://niero.gumroad.com/l/mQKCt)
     * [Cross Brotherhood Recon](https://niero.gumroad.com/l/enrbl)
@@ -88,6 +87,7 @@ See [How to Wabbajack](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob
     * `Fast Start - Skip Pre-War Sanctuary` Optional mod that allows you to skip the pre-war prologue
     * `Uneducated Shooter`: Recommended to only enable this after character creation, as it is known to cause a game freeze during new games.
     * `120FPS No VSYNC` : If you run a high refresh rate monitor with GSync/FreeSync, this will disable vsync, and cap the framerate at 120.
+    * `Nvidia Reflex Support` and `Nvidia Weapon Debris Crash Fix` - users with nvidia graphics cards should enable these, users with AMD graphics cards can ignore them
 4. Field of View (FOV)
     It is recommended to leave the FoV vanilla. If you have to change it, use BethINI or edit the ini manually. The setting can be found under Details. Setting the FoV higher than 90 has been known to cause weird visual issues with armor mods in the list. Do not use the game console to change the FOV, it will not work.
 
@@ -130,6 +130,11 @@ Settings here are going to be very system and driver specific, but some general 
     * MCM Manager: Load the LitR Default settings
     * Enable Immersive Hud if you want to use it
 2. Once you're out of the vault, use the Beantown Interiors Settings holotape to enable Hardcore Clutter, and Disable The Mad Bomber's Workshop and Colletibles crafting (these are recommended settings, but aren't required)
+
+## Updating the Modlist
+To Update the modlist, just rerun the wabbajack installer with the updated download from the wabbajack gallery (or prerelease from my patreon).
+You do not need to rerun Bethini, as with Life in the Ruins the the game settings are stored in their default location, not inside the list.
+You may need to reapply any MCM settings that you changed. If you're making extensive MCM changes, it is recommended to export these and back them up before updating.
 
 ## Known Issues
 - Performance Issues: Infinite Loading Screens, Micro Stuttering, Textures not loading, or the Brown Face bug: 
