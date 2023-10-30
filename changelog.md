@@ -1,6 +1,25 @@
 # Changelog
 
-# 5.0.2 Updates and Unique Replacers
+# 5.0.3
+
+- Added
+    * Escape Freeze
+    * Merchant of Dreth Dialogue Fix
+    * Radio in a Junk Pile Floating Object Fix
+    * More Doctors (For Survival Mode)
+    * Diamond City Supplements
+- Updated
+    * True Perks
+    * Community Fixes Merged
+- Removed
+    * Baka ScrapHeap
+    * Diamond City Shanty Town
+- Misc
+    * Swapped Interior Navcut fix over to non-multithreaded version
+    * Enabled Buffout4 Memory Manager
+    * Increased Baka MaxPapyrusOps to 2000
+
+# 5.0.2 A few more uniques
 
     CREATION CLUB USERS BACKUP YOUR SAVES BEFORE THIS UPDATE - they're stored in the profiles folder inside your litr installation. I've removed the seperate creation club profile, it's now been integrated into the default profile, if you are using the creation club paint jobs, copy your saves from the cc profile folder into a folder outside the litr install, update, then paaste the saves into the saves folder in the main profile, and enable the [CC] tagged mods for them- they can be at the end of the load order.
 
