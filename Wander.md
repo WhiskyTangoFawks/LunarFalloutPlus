@@ -15,6 +15,7 @@ I'm not a big fan of settlement building in FO4. With Life in the Ruins, I built
 	* replaces similiar functionality in SS2
 - Added [Baka Full Screen Pip Boy](https://www.nexusmods.com/fallout4/mods/73560)
 	* As much as I love the asthetic of the pip boy, this works better on a small screen, and it solves the map cursor issue and allows us to run at decreased resolution and use FSR for better performance
+- Textures downscaled to 1k, for better performance
 
 ## How To Install (WIP)
 ### Pre-requisites
@@ -23,8 +24,12 @@ I'm not a big fan of settlement building in FO4. With Life in the Ruins, I built
 - Several mods in the list require VC++ 2019
 	* [How to Install VC++ 2019 with Proton Tricks](https://www.youtube.com/watch?v=8q2HuokqJo4) - The video demonstrates vc++2022, just select the vc++2019
 
+### Wabbajack Installation
+1)  Follow the standard wabbajack installation steps
+2)  Manually download and install the [downscaled textures](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=291438&nmm=1&game_id=1151), tag the mod with [NODELETE] so that if you update the list it won't be uninstalled.
+
 ### How to Export the modlist From MO2
-0) Make sure you're on the Wander or Wander - CreationClubPaints profile (if you want the creation club paints, you need to install them following the standard LitR instructions). Make sure you've completed any additional changes or setup.
+0) Make sure you're on the Wander profile (if you want the creation club paints, you need to install them following the standard LitR instructions). Make sure you've completed any additional changes or setup.
 1) Select 'Explore Virtual Folder' from the executables dropdown in MO2
 2) Go up two levels, select the folder `stock game folder`, then from the toolbar edit --> copy to folder, select a location to copy the entire list (this will take 10-15 minutes on a decent SSD)
 3) In the address bar of the virtual folder explorer, ender `%appdata%`, navigate up a level, --> local, --> fallout 4, select the 4 files here, and edit --> copy to folder and copy them to a folder named `Wander - Modlist`. These are the files that tell fo4 to load all your mods.
