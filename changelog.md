@@ -1,5 +1,25 @@
 # Changelog
 
+# 5.0.4
+- Added
+    * Companion Weapon Proficiency
+    * Stash and Company Dialogue Fix
+- Updated
+    * Sim Settlements 2
+    * Workshop Framework
+    * Who's the General
+    * Community Fixes Merged
+    * Energy weapon calculation fix
+    * Less Loot - Inside Jobs
+    * Feast and Famine
+    * European Assault Rifle
+    * Duplet
+- Removed
+    * Companion Weapon Mod Swaps
+- Misc
+    * Repacked FSD Meshes without pocket watch override, should fix the broken watch textures
+    
+
 # 5.0.3
 
 - Added
