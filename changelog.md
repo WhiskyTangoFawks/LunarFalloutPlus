@@ -1,5 +1,32 @@
 # Changelog
 
+# 5.1.0 Video Killed the Radio Star
+
+Two major mods are removed in this update. First is True Storms, which is removed for compatibility reasons with Lightweight Lighting - I don't want to have to maintain compatibility between multiple weather mods. Before running the update, just make sure that in the MCM settings for True Storms settings -> Enable True Storms Effects -> Off, and save the game in an interior cell. The second is More Where That Came From, which seems to have been completely removed from the nexus, rendering the list uninstallable until I remove it. If you want to keep it around, just add a [NODELETE] tag.
+
+This update is save safe as long as you follow the instructions above.
+
+- Added
+    * Lunar Tutorial Armor
+    * People Live in - Unmarked Locations Raider Camps 2
+- Updated
+    * Railroad Travel Agent
+    * Lightweight Lighting
+    * True Perks
+    * Settlers Go Shopping
+    * True Perks - Freeze Intimidation Replacer
+    * Beantown Interiors - Disable Magazines
+    * Sim Settlements 2
+    * Workshop Framework
+    * Lunar Fallout Plus - Backpacks of the Commonwealth (and patches)
+    * Unique Replacer - M79 Big Boy
+- Removed
+    * True Storms
+    * More Where That Came From
+- Misc
+    * Re-ran Barter patcher to fix unpatched vendors
+
+
 # 5.0.4
 - Added
     * Companion Weapon Proficiency
