@@ -1,5 +1,43 @@
 # Changelog
 
+# 5.2.0 And then there were 3...
+
+Big change this update is the shift from 4 health segments down to 3. This should make resource management around healing a little more forgiving. After updating, the healing system should re-sync to the 3 segments, but if you experience any weirdness, healing from a doctor should reset the system fully.
+
+This update also includes an update to the Unique Replacers Project that swaps the legendary omods on Uniques over to new unique omods that are copies of the vanilla (or lunar) effect. This will not have any noticeable effect in game, and will only affect new games, but in the long term makes targetted tweaks to the balance of individual Uniques possible.
+
+This update is save-safe, however updating an existing game will cause the following Vendor Uniques to loose their legendary effects: Vengence, Honor, and the Wastelander's Collar.
+
+- Added
+    * Cheaper Vendor Unique Armor
+    * Let Me Use That
+    * Disable Companion Collision
+- Updated
+    * Mod Organizer 2
+    * FO4Edit
+    * Stimpacked
+    * Base Object Swapper
+    * Vanilla Uniques Framework
+    * Unique Replacers - Protectors Armguards (swap Toxic Raiders for DC Guards)
+    * Unique Replacers Project (Minor updates to every mod)
+    * Community Fixes Merged
+    * True Perks
+    * SS2 FallUI Icons
+    * The Rooftops
+    * Feast and Famine
+    * Lunar Scaling Tweaks
+    * Super Mutant Redux - AWKCR Free Version
+    * Unique Creatures and Monsers - AWKCR Free Version
+    * Legendaries They Can Use
+    * Unique NPCs LITE
+    * Lunar - Fens Sheriffs Dept
+- Removed
+    * Toxic Raider Leathers
+    * RAW Input (incorporated into Lunar Fallout Plus)
+- Misc
+    * Disabled companion heal prompt quest objective
+    * Tweaked valuable sorting
+
 # 5.1.0 Video Killed the Radio Star
 
 Two major mods are removed in this update. First is True Storms, which is removed for compatibility reasons with Lightweight Lighting - I don't want to have to maintain compatibility between multiple weather mods. Before running the update, just make sure that in the MCM settings for True Storms settings -> Enable True Storms Effects -> Off, and save the game in an interior cell. The second is More Where That Came From, which seems to have been completely removed from the nexus, rendering the list uninstallable until I remove it. If you want to keep it around, just add a [NODELETE] tag.
