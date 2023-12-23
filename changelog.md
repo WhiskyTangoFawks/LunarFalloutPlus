@@ -1,5 +1,21 @@
 # Changelog
 
+# 5.2.1
+
+- Added
+    * Fort Hagen Prydwen Flyover Fix
+- Updated
+    * SS2 FallUI Icons a CIS Plugin
+    * SS2
+    * Workshop Framework
+    * PRP SS2 Previsibines Upgrade
+    * FGEP
+    * FGEP Legendary Bosses
+    * Uneducated Shooter
+- Removed
+- Misc
+    * fixed crashlog scanner default paths
+
 # 5.2.0 And then there were 3...
 
 Big change this update is the shift from 4 health segments down to 3. This should make resource management around healing a little more forgiving. After updating, the healing system should re-sync to the 3 segments, but if you experience any weirdness, healing from a doctor should reset the system fully.
