@@ -81,13 +81,10 @@ See [How to Wabbajack](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob
     Not following this step will result in the alternate skins for these items being very low res.
 3. The `Difficulty and Customisation` section in Mod Organizer - for people who want to tweak thing a little.
     * `Lucky 7 - Hardcore Start`: You get 7 points to spend at start instead of the regular 24, and get an extra perk point every 7 levels. For players who want a real challenge.
-    * `Classic Holstered Weapons` : Recommended to enable it, seems fine for most users but in rare cases some users have had problems with the game freezing during combat using it, so it's in the optional section.
-    * `Bullets Counted Reloaded` Also rarely seems to cause combat freezes for some users- disable if you have problems.
-    * `Abandoned Hub` : A mod that gives you a cheaty underground hub settlement, connected to fast travel points scattered throughout the world
     * `Fast Start - Skip Pre-War Sanctuary` Optional mod that allows you to skip the pre-war prologue
-    * `Uneducated Shooter`: Recommended to only enable this after character creation, as it is known to cause a game freeze during new games.
+    * `Uneducated Shooter`: Recommended to only enable this after character creation, as it is known to cause a game freeze during new games. Default setup disables leaning, and just includes the improved hit box.
     * `120FPS No VSYNC` : If you run a high refresh rate monitor with GSync/FreeSync, this will disable vsync, and cap the framerate at 120.
-    * `Nvidia Reflex Support` and `Nvidia Weapon Debris Crash Fix` - users with nvidia graphics cards should enable these, users with AMD graphics cards can ignore them
+    * `Nvidia Reflex Support` and `Nvidia Weapon Debris Crash Fix` - users with nvidia graphics cards should enable these, users with AMD graphics cards can ignore them.
 4. Field of View (FOV)
     It is recommended to leave the FoV vanilla. If you have to change it, use BethINI or edit the ini manually. The setting can be found under Details. Setting the FoV higher than 90 has been known to cause weird visual issues with armor mods in the list. Do not use the game console to change the FOV, it will not work.
 
@@ -134,18 +131,18 @@ Settings here are going to be very system and driver specific, but some general 
 ## Updating the Modlist
 To Update the modlist, just rerun the wabbajack installer with the updated download from the wabbajack gallery (or prerelease from my patreon).
 You do not need to rerun Bethini, as with Life in the Ruins the the game settings are stored in their default location, not inside the list.
-You may need to reapply any MCM settings that you changed. If you're making extensive MCM changes, it is recommended to export these and back them up before updating.
+You may need to reapply any MCM settings that you changed. If you're making extensive MCM changes, it is recommended to export these and back them up outside your LitR install before updating.
 
 ## Known Issues
 - Performance Issues: Infinite Loading Screens, Micro Stuttering, Textures not loading, or the Brown Face bug: 
     1. Stop other processes to free up RAM, browser windows are especially a problem here
     2. Try setting the resolution to 1920x1080 if you're running above that
-    3. Try enabling forceVideoMemory in installation folder > stock game > enblocal.ini
-    4. Make sure you've set iNumHWThreads, as specified in the Bethini section of this readme.
+    3. Make sure you've set iNumHWThreads, as specified in the Bethini section of this readme.
 - SS2 script failures on new game are the result of going through the opening sequence too quickly. After you finish character creation, wait for 30 seconds or so before exiting the bathroom.
-- Freezes in combat - Both Classic Holstered Weapons and Bullets Counted Reloaded have been known to cause freezing for some users in rare circumstances. If you're having issues, try disabling these mods.
+
 
 ## Crashlog Scanner
 
 The list includes the [Buffout 4 Crashlog Auto Scanner](https://www.nexusmods.com/fallout4/mods/56255), found inside the tools folder. To use simply copy paste the crashlog from your `my documents/my games/fallout 4/f4se`, into the `tools/Scan Crash Logs Script` folder inside your LitR installation, and run the crashlog scanner from the dropdown in MO2. See the readme.md in the same folder for information on how to interpret the results.
+- Disable the `FRS` option in the scanner
 - The script will throw a lot of warnings in the `CHECKING FOR MODS THAT CAN CAUSE FREQUENT CRASHES...`. These can all be safely ignored, I have already dealt with all of them. You do not need to make any modifications to the mod list to deal with CTDs- these are almost always either random instability (which is expected in heavily modded FO4, but should be minimal), mis-configurations on the user end, or modifications that the user has made to the list.
