@@ -1,6 +1,6 @@
-# Life In The Ruins: A Lunar Fallout Plus Modlist
+# Life In The Ruins: A Selection of Lunar Fallout Plus Modlists
 
-A massively overhauled and rebalanced Fallout 4 survival experience. Designed to rebalance survival mode so that the challenge comes from scarcity of resources and not massively unbalanced combat, while staying true to the vanilla asthetic.
+A massively overhauled and finely tuned Fallout 4 experience. Designed to rebalance the game so that the challenge comes primarily from scarcity of resources, while staying true to the vanilla asthetic. With options for a more vanilla+ style playthrough, as well as an even more challenging survival experience.
 
 Notice to Streamers: If you want to stream the list, join the discord and give me a heads up. I'll add you to the stream notificions for the server. I've also included a copyright free version of the music merge patch in the customisation section.
 
@@ -10,7 +10,7 @@ Notice to Streamers: If you want to stream the list, join the discord and give m
 ## Modlist Goals
 - Difficulty comes from scarcity of resources, not bullet sponges.
 - RPG Balance, Scaling, and Progression - brought to you by Lunar Fallout Overhaul.
-- Survival Mechanics, with with customizable damage levels.
+- Survival Mechanics without without the bullshit bullet sponges.
 - Strategic rather than tactical combat - prepare in advance for difficult encounters, instead of respawning until you get it right.
 - A vibrant, forested, inhabited, and uncivilised wasteland. Neglected areas should feel fleshed out, but it should still feel lonely.
 - New Uniques - almost every single quest reward and vendor unique is now a modded weapon or armor.
@@ -19,7 +19,7 @@ Notice to Streamers: If you want to stream the list, join the discord and give m
 - Smooth performance on mid-range modern gaming hardware.
  
  ### This is not...
-- A hardcore, nitty-gritty survival simulator
+- A hardcore, nitty-gritty, track-everything-with-a-spreadsheet survival simulator
 - A tactical shooter
 - Fallout New Vegas
 - A good base-list for building on top of - if you want that try Welcome to Paradise or Fusion
@@ -28,10 +28,10 @@ Notice to Streamers: If you want to stream the list, join the discord and give m
 ## Key Gameplay Mods To Be Aware Of
 - [Lunar Fallout Overhaul](https://www.nexusmods.com/fallout4/mods/34769)
 - [True Perks](https://www.nexusmods.com/fallout4/mods/49400)
-- [Lore Based Power Armor Changes](https://www.nexusmods.com/fallout4/mods/36251)
+- [Lore Based Power Armor Changes Redux](https://www.nexusmods.com/fallout4/mods/70262)
 - [Random Valuables Redux](https://www.nexusmods.com/fallout4/mods/60097)
-- [Feast and Famine](https://www.nexusmods.com/fallout4/mods/68528)
-- [Stimpacked](https://www.nexusmods.com/fallout4/mods/72818)
+- [Feast and Famine - a survival food mod](https://www.nexusmods.com/fallout4/mods/68528)
+- [Stimpacked - a health overhaul mod](https://www.nexusmods.com/fallout4/mods/72818)
 - [Barter Vendor Restrictions](https://www.nexusmods.com/fallout4/mods/72654)
 - [Degrade And Salvage - New Weapon Mechanics](https://www.nexusmods.com/fallout4/mods/71211)
   
@@ -43,6 +43,12 @@ Notice to Streamers: If you want to stream the list, join the discord and give m
 - [South of the Sea: Atom's Storm](https://www.nexusmods.com/fallout4/mods/36251)
 - [Nuka World Plus](https://www.nexusmods.com/fallout4/mods/31164)
 
+## Profiles
+There are 3 profiles available
+ * `Life in the Ruins` : the default profile, which provides a massively overhauled and rebalanced game, including Sim Settlements 2.
+ * [Wander](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob/main/Wander.md) A more survival focussed profile, which makes a handful of small changes (compared to the core modlist) geared towards the game being less settlement focussed, including the removal of SS2. This profile has steam deck support.
+ * LunarPlus - A more vanilla+ style profile, focussed on letting Lunar Fallout Overhaul shine, without all the additional tweaks I've made to game balance. Does not include True Perks, LBPAC, or any of my survival mods.
+
 ### Optional Creation Club Content Compatibility
 - [Weapons and Armour Skins](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob/main/CreationClubContent.md) Faction Distribution Framework will distribute faction based weapon and armour skins into the world- see the link for more details
  
@@ -53,14 +59,13 @@ Notice to Streamers: If you want to stream the list, join the discord and give m
 
 ### Technical Requirements
 - This modlist should be installed on an SSD for performance reasons (the wabbajack download folder can be on an HDD though).
-- This modlist requires at least 6gb of Vram.
+- The main profile requires at least 6gb of Vram.
 
-The modlist is designed for relatively modern, middle range hardware. A high end graphics card is not required, but it does help (I am currently playing with a 6500xt on the medium preset, and FPS is mostly capped above 90 outside of Diamond City and Boston Commons, where it does drop for me).
+The modlist is designed for relatively modern, middle range hardware. A high end graphics card is not required, but it does help. There are performance options available, including a steam deck installation guide for the Wander Profile (I don't recommend trying to run SS2 if your hardware is going to limit your performance).
 
 #### If you have less than 6gb of vram or the list otherwise performs badly for you
 - Do not try to run the list above 1080p, 1440 in fallout is a performance killer
-- Reducing the grass density/diversity by editting the ini file in the True Grass mod
-- Disable the ENB.
+- See the readme for the wander profile- the list has a selection of performance tweaks designed to get it running on the steam deck.
 
 ## Wabbajack Installation
 See [How to Wabbajack](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob/main/How%20To%20Wabbajack.md) for detailed instructions on using wabbajack to install the modlist
@@ -82,7 +87,6 @@ See [How to Wabbajack](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob
 3. The `Difficulty and Customisation` section in Mod Organizer - for people who want to tweak thing a little.
     * `Lucky 7 - Hardcore Start`: You get 7 points to spend at start instead of the regular 24, and get an extra perk point every 7 levels. For players who want a real challenge.
     * `Fast Start - Skip Pre-War Sanctuary` Optional mod that allows you to skip the pre-war prologue
-    * `Uneducated Shooter`: Recommended to only enable this after character creation, as it is known to cause a game freeze during new games. Default setup disables leaning, and just includes the improved hit box.
     * `120FPS No VSYNC` : If you run a high refresh rate monitor with GSync/FreeSync, this will disable vsync, and cap the framerate at 120.
     * `Nvidia Reflex Support` and `Nvidia Weapon Debris Crash Fix` - users with nvidia graphics cards should enable these, users with AMD graphics cards can ignore them.
 4. Field of View (FOV)

@@ -1,5 +1,52 @@
 # Changelog
 
+# 5.2.2 New Year, New Profiles
+
+This update marks the launch of the Wander and LunarPlus profiles.
+
+ Wander is an alternate profile based around Start Me Up, Player Undead Death Recovery, and Home Unimprovement instead of SS2. The wander profile also has support for the Steam Deck (because that's what I'm playing it on currently). As such, this update includes quite a few new mods in the main list that I wanted for Wander, primarily as part of trying to keep these profiles in sync as much as possible.
+
+ LunarPlus is a more vanilla+ profile, with a lot of the survival focussed gameplay changes I've made over the years disabled. So, no Stimpacked, No Feast and Famine, No True Perks, etc. The idea is to just let LFO be LFO, with a bunch of extra weapons and quests.
+
+- Added
+    * Tales from the Commonwealth UFO4P Patch
+    * Concord Resurrected
+    * Dr Goodneighbor
+    * Gangs of Lexington - A lightweight Raider Storyhaul
+    * Radiant Redundance - Posiden Offices
+    * Pipboy Arm Fix for Grafs Assaultron Armor
+    * Police Riot Shotgun (and Lunar patch)
+    * Unique Replacers - Zynx's Police Riot Shotgun
+    * Wasteland Chaingun (and lunar patch)
+    * Unique Replacer - Ack Ack's Chaingun
+    * Flashlight Stealth Fix
+    * Minutemen Watchtowers
+    * More Railroad Tunnels
+    * Nordic Europa
+    * Caves of the Commonwealth
+    * The Wild Key Chase
+    * Bradberton Interiors
+    * Fens Sheriffs Dept - Load Screen Fixes
+    * 10mm Debulker remesh replacer (and Lunar Patch)
+    * [Wander] Home Unimprovement
+    * [Wander] PlayerUndead Death Recovery (and MCM patch)
+    * [Wander] Start Me Up Redux - An Update for Alternate Start and Dialogue Overhaul
+    * [SteamDeck] Baka Fullscreen Pip-Boy and Quick-Boy
+    * [SteamDeck] Lighter Lightweight Lighting
+    * [SteamDeck] Fallout 4 Upscaler - DLSS FSR2 XeSS
+- Updated
+    * Uneducated Shooter
+    * ENBSeries
+    * SS2 - Scrappers
+    * Plutonium Creatures
+    * Lunar Fallout Plus - Backpacks of the Commonwealth
+    * T6Ms Pump Shotgun
+- Removed
+    * More Doctors for Survival (replaced by Concord Resurrected, and Dr Goodneighbor)
+- Misc
+    * added bEnablePlatform=0 to all bethini presets (disables CC news on the load screen)
+    * Uneducated shooter enabled by default (new version fixes the startup problems)
+
 # 5.2.1
 
 - Added

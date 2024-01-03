@@ -31,9 +31,11 @@ Gun upgrading works a little differently in LitR. Weapons fall into two categori
 - Gun Nut and Science are still required for some crafting, however their primary purpose now is to prevent your weapon receiver from degrading. Weapon receivers now randomly degrade, similar to a condition system. There is a very small chance every time you fire the weapon that the receiver will degrade a step e.g Hardened --> Standard. There is no broken state, receivers cannot degrade below Standard.
 
 ## Buying & Selling
+- The economy in LitR is based primarily on trade, not on currency. Don't expect to accumulate caps by hoovering up all the garbage you see and dragging it to a vendor.
 - Vendors have significantly less caps, and there are no ways to increase the amount of caps they have. If you want caps, then you have to go find them the old fashion way: ask for a quest.
 - Keep an eye out for valuable items, they're useful when you want to trade with a vendor for something expensive.
 - Vendors will typically only buy items they're interested in selling. E.g. weapons vendors aren't interested in buying your chems anymore, you'll need to find a chems dealer to offload them.
+
 
 ## Food
 - Keep your eye out for unique food items at vendors, eating them can unlock a new recipe.
@@ -86,6 +88,7 @@ Gun upgrading works a little differently in LitR. Weapons fall into two categori
 ## Companions
 - Dogmeat doesn't count as a companion for the Lone Wanderer Perk
 - Companions heal themselves (assuming you've loaded the default MCM settings), and don't need to be stimpacked/repaired when they go down in combat.
+- Companions can use weapons similar to their default weapon without expending ammo (they just need 1 ammo in their inventory, like settlers)
 
 ## Survival Disease
 - Survival disease is completely disabled. It is a poorly implemented mechanic that distracts from the core gameplay loop of exploration.
