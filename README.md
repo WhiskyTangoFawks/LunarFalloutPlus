@@ -40,7 +40,7 @@ Notice to Streamers: If you want to stream the list, join the discord and give m
 - [Tales from the Commonwealth](https://www.nexusmods.com/fallout4/mods/8704)
 - [The Fens Sheriffs Dept](https://www.nexusmods.com/fallout4/mods/68276)
 - [Subversion](https://www.nexusmods.com/fallout4/mods/50975)
-- [South of the Sea: Atom's Storm](https://www.nexusmods.com/fallout4/mods/36251)
+- [South of the Sea: Atom's Storm](https://www.nexusmods.com/fallout4/mods/63152)
 - [Nuka World Plus](https://www.nexusmods.com/fallout4/mods/31164)
 
 ## Profiles

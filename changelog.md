@@ -1,5 +1,45 @@
 # Changelog
 
+# 5.2.3 Another Maintenance Update
+
+This update includes some tweaks to unique weapon legendaries that should make them more interesting, for the most part. As well as an SS2 update.
+
+- Added
+    * South of the Sea - Heavy Weapons Pack
+- Updated
+    * ENBSeries
+    * Vanilla Uniques Framework
+    * Unique Replacers - Overseers Armguards
+    * Unique Replacers - Black Ops Suit
+    * Unique Replacers - Overseers 10mm SMG
+    * Unique Replacers - Splatter Hand Cannon
+    * Unique Replacers - The Farmer's Fish Catcher
+    * Unique Replacers - Eddie's New Piece
+    * Unique Replacers - Heavy Support Last Minute
+    * Unique Replacers - Chao's Dadao
+    * Unique Replacers - Old Reliable Mare
+    * Unique Replacers - Railroad Special Agent
+    * Unique Replacers - Ack Ack's Chaingun
+    * Unique Replacers - Break Action Authority
+    * Unique Replacers - Pickman's Select Balisong
+    * Unique Replacers - CryoAeternus
+    * Unique Replacers - SynthMk4BrotherhoodGadge
+    * Unique Replacers - DefendersNailgun
+    * Unique Replacers - Homemade Spray and Pray
+    * Unique Replacers - Survivor's Special
+    * Unique Replacers - SynthMk2CorpusPraesidium
+    * Lunar Fallout Overhaul - 10mm Pistol debulked remesh
+    * Lunar Fallout Overhaul - Wasteland Heavy Weapons Pack
+    * FGEP
+    * Random Valuables Redux (ESLified)
+    * Vault Boy and Girl Bobbleheads
+    * More Railroad Tunnels - A Small Dungeon
+    * [Wander] Home Unimprovement
+    * [Settle] Sim Settlements 2 - All Chapters Pack
+- Removed
+- Misc
+    * Fixed bethini default paths
+
 # 5.2.2 New Year, New Profiles
 
 This update marks the launch of the Wander and LunarPlus profiles.
