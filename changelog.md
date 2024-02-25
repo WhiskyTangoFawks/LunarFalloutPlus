@@ -1,5 +1,78 @@
 # Changelog
 
+# 5.3.0 Load Out & Lock Up
+
+The major changes this update,are [Load Out](https://www.nexusmods.com/fallout4/mods/78015) replacing the old backpacks balance mod, the return of Locky Bastard and a new Hacking Minigame bypass option that uses Mentats. See Through Scopes has been enabled for supporting weapons. This update also shuffles some of the unique armor sets around, and introduces set bonuses for them.
+
+This update is not save safe, primarily due to the game setting changes required to get Load Out working properly on companions, and also due to the renaming of profiles, which will cause loss of save games.
+
+- Added
+    * Load Out (and patches)
+    * Fatigue
+    * Commonwealth Encounters Pack
+    * Secret Service Armor
+    * Unique Replacers - Classic Commando
+    * Unique Replacers - Assaultron Destroyers
+    * Unique Replacers - SS Recon Armor
+    * Unique Replacers - Champions Mutant Armor
+    * Robco Patcher
+    * Robco More Realistic Dismember
+    * Discord Rich Presence (with a custom Life in the Ruins status)
+    * Curie Weapon Fix 2023 Redux SPID
+    * Map Marker Overhaul
+    * South of the Sea - Atomic Embrace
+    * True Perks - Locky Bastard
+    * Vanillification - See Through Scopes
+    * [Wander] Knockout Framework - Death Alterative (configured just for player respawning)
+- Updated
+    * True Perks
+    * Home Unimprovement
+    * Degrade and Salvage
+    * Feast and Famine- A survival food mod
+    * Very Zen FGEP Textures
+    * Vanilla Uniques Framework (and Lunar Patch)
+    * Unique Replacers - Protector's Armguards
+    * Lush But Not Green - Diamond City Edition
+    * Lush But Not Green - Autumn In Goodneighbor - Trees and Leaves
+    * Random Valuables Redux
+    * Lunar Fallout Plus - Whisky's Tweaks
+    * UNPCs - Names Heights Weights
+    * Grease Rat Garbing - Captain Wire
+    * Grease Rat Garbing - Tower Tom
+    * Random Encounter Framework - The Fens Sheriff's Department - Bleachers 2
+    * Kezyma's Profile Sync for Mod Organizer
+    * Kezyma's Root Builder for Mod Organizer
+    * A Forest Tree Trim
+    * Lunar Fallout Overhaul - Hunting Revolver and Ranger Sequoia
+    * Lunar Fallout Overhaul - South of the Sea
+    * Community Fixes Merged
+    * Feral Ghoul Expansion Project
+    * FGEP - Legendary Bosses
+    * [Settle] PRP SS2 Previsibines Upgrade
+    * [Settle] Shadow Wastelands SS2 World Repopulation Cells Starter Pack
+    * [Settle] Sim Settlements 2 - All Chapters Pack
+    * [Settle] Lunar Fallout Overhaul - Sim Settlements 2
+    * [Wander] Start Me Up Redux 
+    * [Wander] Home Unimprovement - True Perks
+- Removed
+    * Immersive Backpack Redux (and patches)
+    * Riot Armor Redux
+    * Cross Brotherhood Recon
+    * UniqueReplacer - Commando Brotherhood Recon
+    * UniqueReplacer - Recon Riot Armor (and lunar patch)
+    * UniqueReplacer - Classic Destroyer
+    * UniqueReplacer - Champion Assaultron Armor
+    * FSD Random Encounters Patch
+    * [Wander] Skk Player Undead
+- Misc
+    * Renamed default "Life in the Ruins" profile to "Settle"
+    * Furious legendary effect nerfed from 15% increased damage down to 3%
+    * ASAMs now weight 0.5
+    * Swapped Bosses get Legendaries for the Robco Version
+    * [LunarPlus] Disabled SS2 (and all related mods)
+    * [Settle] Disabled DC Vendor Clutter due to a Conflict with SS2
+    * Tweaked prices for vendor uniques
+    
 # 5.2.3 Another Maintenance Update
 
 This update includes some tweaks to unique weapon legendaries that should make them more interesting, for the most part. As well as an SS2 update.
@@ -34,6 +107,7 @@ This update includes some tweaks to unique weapon legendaries that should make t
     * Random Valuables Redux (ESLified)
     * Vault Boy and Girl Bobbleheads
     * More Railroad Tunnels - A Small Dungeon
+    * Alias - Brotherhood of Steel
     * [Wander] Home Unimprovement
     * [Settle] Sim Settlements 2 - All Chapters Pack
 - Removed

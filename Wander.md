@@ -6,8 +6,8 @@ I'm not a big fan of settlement building in FO4. With Life in the Ruins, I origi
 - SS2, and all related mods are disabled
 - [Start Me Up - Redux](https://www.nexusmods.com/fallout4/mods/56984)
 	* This mod has a soft incompatibility with SS2, and isn't included in the main list
-- [PlayerUndead death recovery by SKK](https://www.nexusmods.com/fallout4/mods/41002)
-	* SS2 is a terrifyingly script heavy mod, but with it out of the way we have a few more options
+- [Knockout Framework - Death Alternative](https://www.nexusmods.com/fallout4/mods/27086)
+	* SS2 is a terrifyingly script heavy mod, but with it out of the way we have a few more options, this mod causes the player to respawn at their last used bed, instead reloading their last save.
 - [Home Unimprovement - Survival Settlement Crafting Restictions](https://www.nexusmods.com/fallout4/mods/76837)
 	* Disables most settlement building, and heavily tweaks the remaining settlement crafting
  - Support for Steam Deck installations - including FSR2 Upscaling support
@@ -55,11 +55,9 @@ The list ships with a HighFPSPhysic Config files that disables vsync, and caps t
 - Disable VSYNC in the steam deck settings
 - Disable frame limit (The list includes a high fps physics ini that caps framerate, except during lockpicking and loading screens, so we need the system fps cap to be disabled)
 
-## Settings (WIP)
-
 
 ## FAQ
 
 
 ## List Status: Beta.
-I've not done much testing of this beyond making sure it loads in game. However as it's still very close to core LitR, I'm relatively confident there won't be any new issues. I hope to eventually build a ready-to-copy export of the virtual folder wabbajack install, however step one is to get through intial testing and performance optimisation.
+I've not done much testing of this beyond making sure it loads in game on my steam deck. However as it's still very close to core LitR, I'm relatively confident there won't be any new issues. I hope to eventually build a ready-to-copy export of the virtual folder wabbajack install, however step one is to get through intial testing and performance optimisation.

@@ -17,7 +17,7 @@ Whether or not you play in Survival Mode, the core philosophy of Life in the Rui
 - Use a melee weapon to conserve ammo on lower level enemies. Ammo is scarce, you will probably need to buy some at some point, so don't waste it.
 - Commando grants the chance for extra ammo with automatics, if you want to spray bullets, you're going to need it.
 - Because Ammo is scarce, don't expect to be able to use a single weapon and ignore everything else the way you can in vanilla.
-- The only ammo crafting available is through the Contraptions DLC.
+- (Settle Profile only) The only ammo crafting available is through the Contraptions DLC.
 
 ## Crafting
 ### Armor
@@ -53,6 +53,10 @@ Gun upgrading works a little differently in LitR. Weapons fall into two categori
     * T60 : lower armor, better energy resist, and easier to maintain than the T51
     * X01 : Super-rare experimental prototypes, not very strong without upgrading, requires finding unique schematics to upgrade, but with investment can be the best in the game.
 
+## Hacking and Lockpicking
+- As long as you have the locksmith perk of the required level, Lockpicking can be bypassed by kicking, shooting, or exploding (based on whether the lock is a door, container, or safe) with Locky Bastard.
+- Hacking can be bypassed with Mentats, as long as you have the hacker perk of the required level.
+
 ## Settlements
 ### Choosing where to build you home base
 - Don't use Sanctuary/RedRocket/Abernathy as your home base. 
@@ -81,9 +85,10 @@ Gun upgrading works a little differently in LitR. Weapons fall into two categori
 
 # Survival Mode
 ## Carry Weight
-- Carry weight is restricted in survival.
-- Pocketed mods for armor are disabled, if you want carry weight, build the ultralight versions, it effectively does the same thing.
-- Backpacks can be found on enemies or purchased. However, they do give you a stamina penalty.
+- Carry weight is heavily reduced, BUT encumbrance is now manageable
+- The player can run while over-encumbered, but it drains AP. Grab a backpack for extra carry-weight, and to decrease the drain rate while encumbered.
+- You still take periodic damage while over-encumbered, but you don't take any limb damage.
+- The overall effect of these changes, is that encumbrance isn't much of problem outside of combat
 
 ## Companions
 - Dogmeat doesn't count as a companion for the Lone Wanderer Perk

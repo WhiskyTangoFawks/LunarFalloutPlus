@@ -10,7 +10,6 @@ Notice to Streamers: If you want to stream the list, join the discord and give m
 ## Modlist Goals
 - Difficulty comes from scarcity of resources, not bullet sponges.
 - RPG Balance, Scaling, and Progression - brought to you by Lunar Fallout Overhaul.
-- Survival Mechanics without without the bullshit bullet sponges.
 - Strategic rather than tactical combat - prepare in advance for difficult encounters, instead of respawning until you get it right.
 - A vibrant, forested, inhabited, and uncivilised wasteland. Neglected areas should feel fleshed out, but it should still feel lonely.
 - New Uniques - almost every single quest reward and vendor unique is now a modded weapon or armor.
@@ -45,9 +44,9 @@ Notice to Streamers: If you want to stream the list, join the discord and give m
 
 ## Profiles
 There are 3 profiles available
- * `Life in the Ruins` : the default profile, which provides a massively overhauled and rebalanced game, including Sim Settlements 2.
- * [Wander](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob/main/Wander.md) A more survival focussed profile, which makes a handful of small changes (compared to the core modlist) geared towards the game being less settlement focussed, including the removal of SS2. This profile has steam deck support.
- * LunarPlus - A more vanilla+ style profile, focussed on letting Lunar Fallout Overhaul shine, without all the additional tweaks I've made to game balance. Does not include True Perks, LBPAC, or any of my survival mods.
+ * `Settle` : the original profile, which provides a massively overhauled and rebalanced game, including Sim Settlements 2.
+ * [Wander](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob/main/Wander.md) A less settlement focussed profile, which makes a handful of small changes (compared to the Settle modlist) geared towards the game being less settlement focussed, including the removal of SS2, and the addition of Start Me Up and an Alternate Death mod. This profile has steam deck support.
+ * LunarPlus - A more vanilla+ style profile, focussed on letting Lunar Fallout Overhaul shine, without all the additional tweaks I've made to game balance. Does not include True Perks, LBPAC, SS2, or any of my survival mods. This profile also has steam deck support.
 
 ### Optional Creation Club Content Compatibility
 - [Weapons and Armour Skins](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob/main/CreationClubContent.md) Faction Distribution Framework will distribute faction based weapon and armour skins into the world- see the link for more details
@@ -75,6 +74,8 @@ See [How to Wabbajack](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob
 ### Solving Common Wabbajack Installation Problems
 * Set your game language to English if you have the game in another language- the installer does not work in other languages (it needs to find and copy the base game video files)
 * Verify you game files in steam, then run the game through steam, then repeat the installation
+* Make sure you have at least 300gb free before starting, the modlist needs some extra working space to unpack and repack the archives
+* If installation fails, and the log has "data error cyclic redundancy check", then you're file paths are too long, try something shorter like "C:\modlists\LitR"
   
 ## Additional Setup (post wabbajack installation)
 ### Customisation
@@ -82,8 +83,6 @@ See [How to Wabbajack](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob
 2. (Recommended) Download and install into the `[NODELETE] Cross Skin Packs` (found in the difficulty and customization section),  the following skin packs from https://gumroad.com/niero. They're available for free (use the discount code which can be found on the checkout page), but a donation is suggested. The man makes some fantastic mods, and you can probably afford to buy him a coffee. The links for the 2k version are provided below, however the 4k are also available.
     * [Break Action Laser Skin Pack](https://niero.gumroad.com/l/fhdhdh)
     * [Cross Cryolance](https://niero.gumroad.com/l/mQKCt)
-    * [Cross Brotherhood Recon](https://niero.gumroad.com/l/enrbl)
-    Not following this step will result in the alternate skins for these items being very low res.
 3. The `Difficulty and Customisation` section in Mod Organizer - for people who want to tweak thing a little.
     * `Lucky 7 - Hardcore Start`: You get 7 points to spend at start instead of the regular 24, and get an extra perk point every 7 levels. For players who want a real challenge.
     * `Fast Start - Skip Pre-War Sanctuary` Optional mod that allows you to skip the pre-war prologue
@@ -150,3 +149,17 @@ You may need to reapply any MCM settings that you changed. If you're making exte
 The list includes the [Buffout 4 Crashlog Auto Scanner](https://www.nexusmods.com/fallout4/mods/56255), found inside the tools folder. To use simply copy paste the crashlog from your `my documents/my games/fallout 4/f4se`, into the `tools/Scan Crash Logs Script` folder inside your LitR installation, and run the crashlog scanner from the dropdown in MO2. See the readme.md in the same folder for information on how to interpret the results.
 - Disable the `FRS` option in the scanner
 - The script will throw a lot of warnings in the `CHECKING FOR MODS THAT CAN CAUSE FREQUENT CRASHES...`. These can all be safely ignored, I have already dealt with all of them. You do not need to make any modifications to the mod list to deal with CTDs- these are almost always either random instability (which is expected in heavily modded FO4, but should be minimal), mis-configurations on the user end, or modifications that the user has made to the list.
+
+## FAQ
+
+Q: Where are all the bobbleheads and magazines?
+A: [Random Valuables Redux](https://www.nexusmods.com/fallout4/mods/60097)
+
+Q: Where are all the modded weapons
+A: Most of the modded weapons and armor in the list are replacers for vanilla Uniques, check the unique replacer sections in MO2 if you want to check for an exact mod
+
+Q: Why is my loading time so long
+A: Probably because you didn't enable one of the ENBoost Presets
+
+Q: What's up with See Thru Scopes?
+A: It's included as a resource for one of the mod added weapons, but not enabled. It was removed from the list when I started expanding the number of weapons - there are just too many that don't support it, and it was causing confusion. If you want to try and re-enable it, ask for help in the modified litr channel in the discord.
