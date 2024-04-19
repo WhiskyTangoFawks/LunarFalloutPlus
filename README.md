@@ -76,6 +76,7 @@ See [How to Wabbajack](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob
 * Verify you game files in steam, then run the game through steam, then repeat the installation
 * Make sure you have at least 300gb free before starting, the modlist needs some extra working space to unpack and repack the archives
 * If installation fails, and the log has "data error cyclic redundancy check", then you're file paths are too long, try something shorter like "C:\modlists\LitR"
+* Unable to download all mods - long out and then back in to the nexus in the wabbajack settings
   
 ## Additional Setup (post wabbajack installation)
 ### Customisation
