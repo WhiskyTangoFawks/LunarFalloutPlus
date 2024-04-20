@@ -143,6 +143,8 @@ You may need to reapply any MCM settings that you changed. If you're making exte
     2. Try setting the resolution to 1920x1080 if you're running above that
     3. Make sure you've set iNumHWThreads, as specified in the Bethini section of this readme.
 - SS2 script failures on new game are the result of going through the opening sequence too quickly. After you finish character creation, wait for 30 seconds or so before exiting the bathroom.
+- Crashing
+    - Medal.TV is incompatible with ENB, disable one or the other.
 
 
 ## Crashlog Scanner
