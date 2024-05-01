@@ -22,7 +22,7 @@ Power Armor
 
 These changes are made to further encourage the explore/loot gameplay loops, and get players out of the boring menus that this game uses as an excuse for a crafting system. And to create more of a niche for pipe style weapons within the game.
 
-This update is save-safe if you use a mindwipe before updating. There will potentially be a few broken weapons if you migrate an existing save, but these can safely be fixed with console commands (Including Wastelander's Friend and Problem Solver, due to the removal of their base weapon mod), or just ignored, it won't hurt your save. You will also need to rebuild any power armor repair stations (they have to be reset to pick up the changed crafting requirements).
+This update is save-safe if you use a mindwipe before updating (console 'help mindwipe', then use the formId from that with 'player.addItem'). There will potentially be a few broken weapons if you migrate an existing save, but these can safely be fixed with console commands (Including Wastelander's Friend and Problem Solver, due to the removal of their base weapon mod), or just ignored, it won't hurt your save. You will also need to rebuild any power armor repair stations (they have to be reset to pick up the changed crafting requirements).
 
 This update is compiled against the latest version of FO4. This means that you need to update your game to install the update. LitR will create a downgraded copy of FO4 in the stock game folder as part of the installation.
 
