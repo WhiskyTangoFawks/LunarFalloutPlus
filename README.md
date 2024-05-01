@@ -133,9 +133,14 @@ Settings here are going to be very system and driver specific, but some general 
 2. Once you're out of the vault, use the Beantown Interiors Settings holotape to enable Hardcore Clutter, and Disable The Mad Bomber's Workshop and Colletibles crafting (these are recommended settings, but aren't required)
 
 ## Updating the Modlist
-To Update the modlist, just rerun the wabbajack installer with the updated download from the wabbajack gallery (or prerelease from my patreon).
-You do not need to rerun Bethini, as with Life in the Ruins the the game settings are stored in their default location, not inside the list.
-You may need to reapply any MCM settings that you changed. If you're making extensive MCM changes, it is recommended to export these and back them up outside your LitR install before updating.
+Before updating the modlist, [see the full changelog](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob/main/changelog.md) for the latest release. Make sure to follow any additional instructions in the changelog regarding the update process. If an update is marked as save safe, then a new save is not required.
+
+To Update the modlist, just rerun the wabbajack installer with the updated download from the wabbajack gallery (or prerelease from my patreon). Check "overwrite" during the installation process.
+
+- You do not need to rerun Bethini, as with Life in the Ruins the the game settings are stored in your my documents folder, not inside the list.
+- You do need to reapply any MCM settings that you changed. If you're making extensive MCM changes, it is recommended to export these and back them up outside your LitR install before updating.
+
+If you still have the downloads, wabbajack will detect them and you will not need to download the entire modlist again. If you deleted them, then yes, you will need to download them again.
 
 ## Known Issues
 - Performance Issues: Infinite Loading Screens, Micro Stuttering, Textures not loading, or the Brown Face bug: 
