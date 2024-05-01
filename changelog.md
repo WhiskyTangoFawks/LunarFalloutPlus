@@ -1,5 +1,7 @@
 # Changelog
 
+# 5.4.0 Degrade & Salvage V2
+
 The big changes this update are some shuffling of perks, and changes to the crafting systems. I've also done a decent amount of under the hood work on the progression of weapons within the pack, see Lunar Fallout Arsenal and the Degrade and Salvage mod pages for details.
 
 Also note, that Rifleman now works for "manual-action rifles and shotguns", and commando "full and semi-auto rifles and shotguns", (yes, this means the vanilla laser rifle is now under commando).
@@ -24,7 +26,6 @@ This update is save-safe if you use a mindwipe before updating. There will poten
 
 This update is compiled against the latest version of FO4. This means that you need to update your game to install the update. LitR will create a downgraded copy of FO4 in the stock game folder as part of the installation.
 
-# 5.4.0 Degrade & Salvage V2
 - Added
     * Lunar Fallout Arsenal (plus patches)
     * Varmint Revolver (and patches)
