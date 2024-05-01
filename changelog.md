@@ -1,5 +1,94 @@
 # Changelog
 
+The big changes this update are some shuffling of perks, and changes to the crafting systems. I've also done a decent amount of under the hood work on the progression of weapons within the pack, see Lunar Fallout Arsenal and the Degrade and Salvage mod pages for details.
+
+Also note, that Rifleman now works for "manual-action rifles and shotguns", and commando "full and semi-auto rifles and shotguns", (yes, this means the vanilla laser rifle is now under commando).
+
+Summary of Crafting Changes
+Weapons
+- Attachments (mags/scopes/muzzles) are still swappable, but the "body" of the weapon (reciever/barrel/grip) are no longer swappable. 
+- Barrels/Grips are now only craftable on pipe/handmade weapons. 
+- Recievers are crafted with Weapon Scrap parts that are obtained by scrapping the weapon (make sure to pull off any attachments you want first)
+- weapons that have degraded have an extra "repair" recipe added to them that allows the player to craft a replacement reciever even if they don't have the perks normally required. 
+- Paints are no longer craftable.
+- Scrapper is no longer a crafting perk
+- Melee weapons are no longer modifyable.
+
+Power Armor
+- Now uses the swappable mod system (like weapons attachents)
+- repair perk requirement has been moved from Armorer to Blacksmith.
+
+These changes are made to further encourage the explore/loot gameplay loops, and get players out of the boring menus that this game uses as an excuse for a crafting system. And to create more of a niche for pipe style weapons within the game.
+
+This update is save-safe if you use a mindwipe before updating. There will potentially be a few broken weapons if you migrate an existing save, but these can safely be fixed with console commands (Including Wastelander's Friend and Problem Solver, due to the removal of their base weapon mod), or just ignored, it won't hurt your save. You will also need to rebuild any power armor repair stations (they have to be reset to pick up the changed crafting requirements).
+
+This update is compiled against the latest version of FO4. This means that you need to update your game to install the update. LitR will create a downgraded copy of FO4 in the stock game folder as part of the installation.
+
+# 5.4.0 Degrade & Salvage V2
+- Added
+    * Lunar Fallout Arsenal (plus patches)
+    * Varmint Revolver (and patches)
+    * Vintage Revolver Rifle (and patches)
+    * Post Apocalyptic Homemade Weapons (and patches)
+    * Grease Rat Garbing - Wolfgang and Simone
+- Updated
+    * True Perks (plus various patches)
+    * Degrade and Salvage
+    * Load Out (and patches)
+    * Stimpacked
+    * Home Unmimprovement
+    * Immersive Legendary Mutations
+    * Unofficial Fallout 4 Patch
+    * Community Fixes Merged
+    * Tales from the Commonwealth - eXoPatch
+    * Workshop Framework
+    * Vanillification - See Through Scopes
+    * Ownership Fixes
+    * Public Occurences Expanded
+    * Tales from the Commonwealth - eXoPatch
+    * Recruit Amelia and Old Man Stockton
+    * LarannKiar Recruitment Mods All-In-One Archive Pack
+    * A Forest Tree Trim
+    * RobCo Patcher
+    * Rusty Face Fix
+    * Beretta M9-FS Pistol (92FS)
+    * Lunar Fallout Overhaul - Webley-Fosbery Autorevolver
+    * Power Armor to the People
+    * [Settle] Sim Settlements 2 - All Chapters Pack
+    * [Settle] PRP SS2 Previsibines Upgrade
+- Removed
+    * Chinese Assault Rifle (and patches)
+    * Unique Replacers - Problem Solver
+    * Lunar Fallout Plus - Moddable Codsworth (redundant)
+    * Flicker Fixer
+    * Combat Rifle Lore Fix Remesh
+    * Combat Shotgun Remesh
+    * Hunting Rifle Short stock
+    * Institute P90, EM Rifle, Heavy Laser, Plasma
+    * N6520 (and patches)
+    * Map Marker Overhaul
+    * Mare's Leg
+- Misc
+    * Nina's Pipe Guns moved to a standalone rechamber of the pipe in 10mm, and 45-70
+    * Micalov's Debulked 10mm moved to a standalone rechambered pistol in .45
+
+
+# 5.3.0
+
+- Added
+- Updated
+    * Home Unimprovement
+    * Unique Replacers - Old Pew Pew
+    * Unique Replacers - The Tesla Party Cannon
+    * Lunar Fallout Overhaul - Grease Gun SMG
+    * Lunar Fallout Overhaul - PJAR Pistol
+    * Unique Replacers - Arturo's Silenced PJAR
+    * Vanillification - See Through Scopes
+    * Extra Icons for FIS
+    
+- Removed
+- Misc
+
 # 5.3.0 Load Out & Lock Up
 
 The major changes this update,are [Load Out](https://www.nexusmods.com/fallout4/mods/78015) replacing the old backpacks balance mod, the return of Locky Bastard and a new Hacking Minigame bypass option that uses Mentats. See Through Scopes has been enabled for supporting weapons. This update also shuffles some of the unique armor sets around, and introduces set bonuses for them.

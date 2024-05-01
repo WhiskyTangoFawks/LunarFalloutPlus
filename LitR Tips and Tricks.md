@@ -25,14 +25,18 @@ Whether or not you play in Survival Mode, the core philosophy of Life in the Rui
 - Pocketed mods are disabled- if you want to increase your carry weight find a backpack- just be aware that they have a stamina penalty.
 
 ### Guns
-Gun upgrading works a little differently in LitR. Weapons fall into two categories - Pipe/Handmade, and Pre-War
-- Pipe/Handmade weapons use vanilla-style crafting: mods are crafted from scrap components, and require the Scrapper perk.
-- Pre-war weapons use a new crafting mechanic. Instead of being crafted from scratch, you have to scavenge compatible parts from other guns. For example, a scope from a 10mm Pistol can be removed (by crafting a NONE scope in it's place), and then you can put that scope on any other weapon that can have a scope. Doing so normally has no perk requirements.
-- Gun Nut and Science are still required for some crafting, however their primary purpose now is to prevent your weapon receiver from degrading. Weapon receivers now randomly degrade, similar to a condition system. There is a very small chance every time you fire the weapon that the receiver will degrade a step e.g Hardened --> Standard. There is no broken state, receivers cannot degrade below Standard.
+Weapon crafting works a little differently in LitR. Some basic customization is still available, but finding the perfect base weapon is more important.
+- Attachments (mags/scopes/muzzles) are swappable- just pull it off one weapon, and put it on another
+- Pipe class weapons are more customizable. They have lower perk requirements and can can have their barrel/grip modified. But they deal less damage than pre-war weapons of the same caliber. 
+- Recievers are crafted with Weapon Scrap that is obtained by scrapping weapons (make sure to pull off any attachments you want first)
+- Weapons that have degraded will have an extra "repair" recipe available to them that allows the player to craft a replacement reciever even if they don't have the perks normally required. 
 
 ## Buying & Selling
-- The economy in LitR is based primarily on trade, not on currency. Don't expect to accumulate caps by hoovering up all the garbage you see and dragging it to a vendor.
-- Vendors have significantly less caps, and there are no ways to increase the amount of caps they have. If you want caps, then you have to go find them the old fashion way: ask for a quest.
+- The economy in LitR is based primarily on trade, not on currency.
+- Don't expect to accumulate caps by mindless vacumming up all the garbage you see and dragging it to a vendor. 
+- Look for items with high value and low weight (e.g. Cigarette Packs are a great example of this), and use them in trade when you want to buy an expensive item.
+- Vendors have significantly fewer caps, and there are no ways to increase the amount of caps they have.
+- If you want caps, then you have to go find them the old fashion way: ask for a quest.
 - Keep an eye out for valuable items, they're useful when you want to trade with a vendor for something expensive.
 - Vendors will typically only buy items they're interested in selling. E.g. weapons vendors aren't interested in buying your chems anymore, you'll need to find a chems dealer to offload them.
 
@@ -40,7 +44,7 @@ Gun upgrading works a little differently in LitR. Weapons fall into two categori
 ## Food
 - Keep your eye out for unique food items at vendors, eating them can unlock a new recipe.
 - Crops have a lower harvest rate, don't expect to get something every time. If you want fruit and vegetables to cook with, your best bet is to build up a farm with enough extra production above and beyond what the settlers require that they'll leave some in the workbench for you.
-- Cola and other drinks are great for a quick AP boost.
+- Cola and other drinks are great for a quick AP boost, but no longer heal.
 
 ## Power Armor
 - Power Armor is VERY powerful. You can almost completely ignore small arms fire, but watch out for heavy weaponry and armor piercing munitions, as they deal extra damage to power armor.
@@ -51,7 +55,7 @@ Gun upgrading works a little differently in LitR. Weapons fall into two categori
     * T45 : decent protection, but eats fusion cores harder to repair
     * T51 : The gold standard PA, best resistances, but hardest to maintain
     * T60 : lower armor, better energy resist, and easier to maintain than the T51
-    * X01 : Super-rare experimental prototypes, not very strong without upgrading, requires finding unique schematics to upgrade, but with investment can be the best in the game.
+    * X01 : Super-rare, highly experimental prototypes, not very strong without upgrading, requires finding unique schematics to upgrade, but with investment can be the best in the game.
 
 ## Hacking and Lockpicking
 - As long as you have the locksmith perk of the required level, Lockpicking can be bypassed by kicking, shooting, or exploding (based on whether the lock is a door, container, or safe) with Locky Bastard.
@@ -86,9 +90,9 @@ Gun upgrading works a little differently in LitR. Weapons fall into two categori
 # Survival Mode
 ## Carry Weight
 - Carry weight is heavily reduced, BUT encumbrance is now manageable
-- The player can run while over-encumbered, but it drains AP. Grab a backpack for extra carry-weight, and to decrease the drain rate while encumbered.
-- You still take periodic damage while over-encumbered, but you don't take any limb damage.
-- The overall effect of these changes, is that encumbrance isn't much of problem outside of combat
+- The player can run while over-encumbered, but it drains AP. Grab a backpack for extra carry-weight, and to decrease the drain rate while encumbered. Or grab some nuka cola for the AP Regen buff.
+- You still take periodic damage while over-encumbered, but you don't take any limb damage. Make sure to bring some food with you.
+- The overall effect of these changes, is that encumbrance isn't much of problem outside of combat.
 
 ## Companions
 - Dogmeat doesn't count as a companion for the Lone Wanderer Perk
