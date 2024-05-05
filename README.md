@@ -69,6 +69,8 @@ The modlist is designed for relatively modern, middle range hardware. A high end
 ## Wabbajack Installation
 See [How to Wabbajack](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob/main/How%20To%20Wabbajack.md) for detailed instructions on using wabbajack to install the modlist
  
+See the [How To Install LitR video tutorial](https://discord.com/channels/885225427839369216/1236112171012718624/1236112171012718624)
+
 *This is a large modlist, with several large downloads, including several large sets of textures. Nexus Premium is __highly__ recommended for the initial download, expect the initial download and installation to take at least an hour with premium.*
 
 ### Solving Common Wabbajack Installation Problems
@@ -140,7 +142,7 @@ To Update the modlist, just rerun the wabbajack installer with the updated downl
 - You do not need to rerun Bethini, as with Life in the Ruins the the game settings are stored in your my documents folder, not inside the list.
 - You do need to reapply any MCM settings that you changed. If you're making extensive MCM changes, it is recommended to export these and back them up outside your LitR install before updating.
 
-If you still have the downloads, wabbajack will detect them and you will not need to download the entire modlist again. If you deleted them, then yes, you will need to download them again.
+If you still have the downloads, wabbajack will detect them and you will not need to download the entire modlist again, and the process should just take a couple minutes. If you deleted them, then yes, you will need to download all the files again.
 
 ## Known Issues
 - Performance Issues: Infinite Loading Screens, Micro Stuttering, Textures not loading, or the Brown Face bug: 
