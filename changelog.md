@@ -1,5 +1,31 @@
 # Changelog
 
+# 5.4.1 Crafting updates
+
+A few minor updates, and rollback/polishing on the weapon crafting system changes. Pre-war barrels and grips are now craftable again, but have higher perk reqs
+
+- Added
+- Updated
+    * Degrade and Salvage
+    * Lunar Fallout Arsenal
+    * Vanillafied Streetsweeper (and patches)
+    * LFArsenal - Wattz Laser
+    * LFArselan - LAER
+    * LFArsenal - PBW Tesla cannon
+    * Workshop Framework
+    * [Settle] Sim Settlements 2 - All Chapters Pack
+- Removed
+- Misc
+    * general bugfixes
+    * Reworked grip/stock crafting
+    * Re-enabled paint crafting (I want to add some sort of interesting crafting restriction here in the future, but for now it's fully enabled)
+    * Re-enabled semi/auto reciever swapping
+    * Reworked barrel crafting
+    * Added recipe to remove gun magazines
+    * Updated perk descriptions for perks that affect degredation rate
+
+
+
 # 5.4.0 Degrade & Salvage V2
 
 The big changes this update are some shuffling of perks, and changes to the crafting systems. I've also done a decent amount of under the hood work on the progression of weapons within the pack, see Lunar Fallout Arsenal and the Degrade and Salvage mod pages for details.
