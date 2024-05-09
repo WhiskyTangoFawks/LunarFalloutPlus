@@ -74,3 +74,5 @@ If this Modlist receives an update, please read the Changelog before doing anyth
 This means that any additional mods you have installed on top of the Modlist will be deleted. Your downloads folder will not be touched!
 
 If you wish for Wabbajack to ignore any additional mods you've installed, rename them to say `[NoDelete]` at the beginning of the name.
+
+Updating is the same as installing. Make sure that you select the same *Installation* and *Resource Downloads* paths and tick the _overwrite installation_ button.
