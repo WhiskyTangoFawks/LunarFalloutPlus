@@ -54,7 +54,9 @@ There are a lot of different scenarios where Wabbajack will produce an error. I 
 
 Wabbajack will not work with a pirated version of the game. If you own the game on Steam, go back to the [Pre-Installation](#pre-installation) step.
 
-If the Wabbajack Installation still fails, then join the Life in the Ruins Discord as noted in the Readme.  Post a Wabbajack log file in the *wabbjack-installation-help channel*.  You can find the log files in `C:\Wabbajack\3.5.0.1\logs`.  Drag the `wabbajack.current.log` file into the help channel.
+If the Wabbajack Installation still fails, then join the Life in the Ruins Discord as noted in the [Readme](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob/main/README.md).
+
+Post a Wabbajack log file in the *wabbjack-installation-help channel*.  You can find the log files in `C:\Wabbajack\3.5.0.1\logs`.  Drag the `wabbajack.current.log` file into the help channel.
 
 ## Updating
 
