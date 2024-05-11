@@ -47,6 +47,7 @@ Notice to Streamers: If you want to stream the list, join the discord and give m
 - [Stimpacked - a health overhaul mod](https://www.nexusmods.com/fallout4/mods/72818)
 - [Barter Vendor Restrictions](https://www.nexusmods.com/fallout4/mods/72654)
 - [Degrade And Salvage - New Weapon Mechanics](https://www.nexusmods.com/fallout4/mods/71211)
+- [Load Out - An Encumbrance Overhaul Mod](https://www.nexusmods.com/fallout4/mods/78015)
 
 ## New Content Highlights
 
