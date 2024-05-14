@@ -1,5 +1,29 @@
 # Changelog
 
+# 5.4.2
+
+Mostly minor changes and bugfixes, and getting the list installable against the new update. A small buff to carry weight at low strength to bring it closer to vanilla survival values.
+
+- Added
+- Updated
+    * Load Out
+    * Home Unimprovement
+    * Lunar Fallout Arsenal
+    * LFArsenal - The Zap Gun
+    * Lunar Fallout Overhaul - Varmint Revolver
+    * Unique Replacers - Friendly Varmint Revolver
+    * Profilesync
+    * Diamond City Ambience
+    * [Wander] Home Unimprovement
+- Removed
+    * [Settle] Sim Settlements 2 Chapter 2 - Tales From the Commonwealth - Warehouse Door Patch
+    * [Settle] Sim Settlers 2 Go Shopping
+- Misc
+    * Fixes for standalone 10mm pipe, 45-70 pipe bolt action, 45 Pistol (10mm Remesh), and Service Rifle.
+    * Wander: Removed mattress and sleeping bag items, beds now require pillows to craft
+    * Turret recipes now require weapon scrap to craft
+
+
 # 5.4.1 Crafting updates
 
 A few minor updates, and rollback/polishing on the weapon crafting system changes. Pre-war barrels and grips are now craftable again, but have higher perk reqs
