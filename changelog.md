@@ -1,6 +1,19 @@
 # Changelog
 
-# 5.4.2
+# 5.4.3
+- Added
+- Updated
+- Removed
+    * Lunar Fallout Plus
+    * Cheaper Vendor Unique
+- Misc
+    * General cleanup, updating, and eslification of several older mods
+    * Reworked barter modifiers
+    * Adjusted default SCM Sleep settings for sleeping bags and dirty mattresses (you should now get more rest on them)
+
+
+
+# 5.4.2 
 
 Mostly minor changes and bugfixes, and getting the list installable against the new update. A small buff to carry weight at low strength to bring it closer to vanilla survival values.
 
