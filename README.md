@@ -2,39 +2,26 @@
 
 A massively overhauled and finely tuned Fallout 4 experience. Designed to rebalance the game so that the challenge comes primarily from scarcity of resources, while staying true to the vanilla aesthetic. With options for a more vanilla+ style playthrough, as well as an even more challenging survival experience.
 
-Notice to Streamers: If you want to stream the list, join the discord and give me a heads up. I'll add you to the stream notifications for the server. I've also included a copyright free version of the music merge patch in the customization section.
-
 [Join the Community on Discord](https://discord.gg/HUNWVBjZPg)
 [Support me on Patreon](https://www.patreon.com/user?u=4257489)
 
 ## Modlist Goals
 
 - Difficulty comes from scarcity of resources, not bullet sponges.
-
 - RPG Balance, Scaling, and Progression - brought to you by Lunar Fallout Overhaul.
-
 - Strategic rather than tactical combat - prepare in advance for difficult encounters, instead of respawning until you get it right.
-
 - A vibrant, forested, inhabited, and uncivilized wasteland. Neglected areas should feel fleshed out, but it should still feel lonely.
-
 - New Uniques - almost every single quest reward and vendor unique is now a modded weapon or armor.
-
 - Extra high-quality content with the same style and tone as vanilla (no pointlessly skimpy outfits, no tacti-cool weapons).
-
 - Full controller support (no extra configuration required).
-
 - Smooth performance on mid-range modern gaming hardware.
   
   ### This is not...
 
 - A hardcore, nitty-gritty, track-everything-with-a-spreadsheet survival simulator
-
 - A tactical shooter
-
 - Fallout New Vegas
-
 - A good base-list for building on top of - if you want that try Welcome to Paradise or Fusion
-
 - A modlist that has every mod on the nexus- this is a huge list, but everything in it is hand picked, and carefully integrated to provide a focused experience, based around an enhanced and expanded vanilla game.
 
 ## Key Gameplay Mods To Be Aware Of
@@ -43,28 +30,24 @@ Notice to Streamers: If you want to stream the list, join the discord and give m
 - [True Perks](https://www.nexusmods.com/fallout4/mods/49400)
 - [Lore Based Power Armor Changes Redux](https://www.nexusmods.com/fallout4/mods/70262)
 - [Random Valuables Redux](https://www.nexusmods.com/fallout4/mods/60097)
+- [Start Me Up Redux](https://www.nexusmods.com/fallout4/mods/56984)
+- [PlayerUndead death recovery by SKK](https://www.nexusmods.com/fallout4/mods/41002)
 - [Feast and Famine - a survival food mod](https://www.nexusmods.com/fallout4/mods/68528)
 - [Stimpacked - a health overhaul mod](https://www.nexusmods.com/fallout4/mods/72818)
 - [Barter Vendor Restrictions](https://www.nexusmods.com/fallout4/mods/72654)
 - [Degrade And Salvage - New Weapon Mechanics](https://www.nexusmods.com/fallout4/mods/71211)
 - [Load Out - An Encumbrance Overhaul Mod](https://www.nexusmods.com/fallout4/mods/78015)
+- [Home Unimprovement](https://www.nexusmods.com/fallout4/mods/76837)
+
 
 ## New Content Highlights
 
-- [Sim Settlements 2 - Chapters 1, 2 and 3](https://www.nexusmods.com/fallout4/mods/47976)
 - [Tales from the Commonwealth](https://www.nexusmods.com/fallout4/mods/8704)
 - [The Fens Sheriffs Dept](https://www.nexusmods.com/fallout4/mods/68276)
 - [Subversion](https://www.nexusmods.com/fallout4/mods/50975)
 - [South of the Sea: Atom's Storm](https://www.nexusmods.com/fallout4/mods/63152)
 - [Nuka World Plus](https://www.nexusmods.com/fallout4/mods/31164)
-
-## Profiles
-
-There are 3 profiles available
-
-* Settle : the original profile, which provides a massively overhauled and rebalanced game, including Sim Settlements 2.
-* [Wander](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob/main/Wander.md) A less settlement focused profile, which makes a handful of small changes (compared to the Settle modlist) geared towards the game being less settlement focused, including the removal of SS2, and the addition of Start Me Up and an Alternate Death mod. This profile has steam deck support.
-* LunarPlus - A more vanilla+ style profile, focused on letting Lunar Fallout Overhaul shine, without all the additional tweaks I've made to game balance. Does not include True Perks, LBPAC, SS2, or any of my survival mods. This profile also has steam deck support.
+- plus loads more...
 
 ### Optional Creation Club Content Compatibility
 
@@ -81,12 +64,12 @@ There are 3 profiles available
 - This modlist should be installed on an SSD for performance reasons (the Wabbajack download folder can be on an HDD though).
 - The main profile requires at least 6gb of VRAM.
 
-The modlist is designed for relatively modern, middle range hardware. A high end graphics card is not required, but it does help. There are performance options available, including a steam deck installation guide for the Wander Profile (I don't recommend trying to run SS2 if your hardware is going to limit your performance).
+The modlist is designed for relatively modern, middle range hardware. A high end graphics card is not required, but it does help. There are performance options available, including a [steam deck installation guide](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob/main/SteamDeck.md).
 
 #### If you have less than 6gb of VRAM or the list otherwise performs badly for you
 
 - Do not try to run the list above 1080p, 1440 in fallout is a performance killer
-- See the readme for the wander profile- the list has a selection of performance tweaks designed to get it running on the steam deck.
+- See the steam deck installation guide tweaks (ignore the hard install information), even if you're not running on a steam deck, these performance tweaks can help.
 
 ## Wabbajack Installation
 
@@ -167,8 +150,9 @@ Run modorganizer.exe located in the Life in the Ruins installation folder you cr
    For People that want to tweak things a little.  Not all options are listed here.  See the section in Mod Organizer for all options
    
    - `Lucky 7 - Hardcore Start`: You get 7 points to spend at start instead of the regular 24, and get an extra perk point every 7 levels. For players who want a real challenge.
-   - `Fast Start - Skip Pre-War Sanctuary`: Optional mod that allows you to skip the pre-war prologue
-   - `Immersive HUD`: HUD when you need. HIDE when you don't.
+   - `Home Unimprovement - Vanilla Crafting` : for people who want vanilla settlement 
+   - `Abandoned Hub` - an undeground hub settlement, provided as a fast travel alternative
+
 
 3. **Configuration** 
    
@@ -219,6 +203,8 @@ If you still have the downloads, Wabbajack will detect them and you will not nee
   * Medal.TV is incompatible with ENB, disable one or the other.
 - Infinite Loading Screen
   * Having your config ini's synced to one-drive. Try setting MO2 to use profile specific INIs in the profile manager dropdown.
+  * Try alt-tabbing a couple times
+  * Make sure you've enabled an ENBoost preset
 
 ## Crashlog Scanner
 
@@ -229,17 +215,3 @@ The list includes the [Buffout 4 Crashlog Auto Scanner](https://www.nexusmods.co
 - The script will throw a lot of warnings in the `CHECKING FOR MODS THAT CAN CAUSE FREQUENT CRASHES...`. These can all be safely ignored, I have already dealt with all of them. You do not need to make any modifications to the mod list to deal with CTDs- these are almost always either random instability (which is expected in heavily modded FO4, but should be minimal), mis-configurations on the user end, or modifications that the user has made to the list.
 
 See the readme.md in the tools\Classic Portable folder for information on how to interpret the results.
-
-## FAQ
-
-Q: Where are all the bobbleheads and magazines?
-A: [Random Valuables Redux](https://www.nexusmods.com/fallout4/mods/60097)
-
-Q: Where are all the modded weapons
-A: Most of the modded weapons and armor in the list are replacers for vanilla Uniques, check the unique replacer sections in MO2 if you want to check for an exact mod
-
-Q: Why is my loading time so long
-A: Probably because you didn't enable one of the ENBoost Presets
-
-Q: What's up with See Thru Scopes?
-A: It's included as a resource for one of the mod added weapons, but not enabled. It was removed from the list when I started expanding the number of weapons - there are just too many that don't support it, and it was causing confusion. If you want to try and re-enable it, ask for help in the modified litr channel in the discord.

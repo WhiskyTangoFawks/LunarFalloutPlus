@@ -1,6 +1,35 @@
 # Changelog
 
-# 5.4.3
+# 6.0 All those who Wander are not lost...
+
+In this update, both the Settle and LunarPlus profiles have been removed. For context on this, check out the public post on my patreon. If you are playing one of those profiles and want to continue doing so, do not install this update, just keep enjoying your current game.
+
+For those of you wanting to update an existing wander playthrough, BACK UP YOUR SAVE BEFORE INSTALLING. I've renamed the profile to a single default Life in the Ruins profile, and this will result in wabba deleting your saves if you don't back them up outside the LitR directory. Also, you need to uninstall Knockout Framework from the MCM before updating.
+
+- Added
+    * SKK Player Undeath
+    * Companion Weapon Mod Swaps
+- Updated
+    * Handmade Turrets
+    * Radium A Music Mod (and patch)
+- Removed
+    * Profile Sync
+    * Police Riot Shotgun (and patches)
+    * Riot Shotgun (and patches)
+    * Mad Can Fury Beans (and patches)
+    * The Rooftops - No Toys
+    * Rusty Face Fix (was causing inf load screen with StartMeUpRedux)
+    * Knock out framework (Replaced with SKK Player undeath, which is more compatible)
+    * Companion Weapon Proficiency (replaced with Companion Weapon Mod Swaps, which is more reliable)
+- Misc
+    * Consolidated a lot of nexus patch pages, this will require some redownloading of most of the lunar patches. 
+    * Swapped Pipe Shotgun Redux for Pipe Shotgun Diacuted
+    * Swapped Le Fusil Riot for Pipe Revolver Shotgun
+
+# 5.4.3 QoL
+
+Just a few minor QoL changes I didn't have time to get into 5.4.2, primarily some vendor buy/sell price tweaks (stuff should be more affordable, and your junk is worth more, to the right merchant), and default survival setting tweaks to make sleeping easier on the Wander profile.
+
 - Added
 - Updated
 - Removed
