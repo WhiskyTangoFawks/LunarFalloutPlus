@@ -62,7 +62,7 @@ A massively overhauled and finely tuned Fallout 4 experience. Designed to rebala
 ### Technical Requirements
 
 - This modlist should be installed on an SSD for performance reasons (the Wabbajack download folder can be on an HDD though).
-- The main profile requires at least 6gb of VRAM.
+- Recommmended at least 6gb of VRAM.
 
 The modlist is designed for relatively modern, middle range hardware. A high end graphics card is not required, but it does help. There are performance options available, including a [steam deck installation guide](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob/main/SteamDeck.md).
 
@@ -166,20 +166,17 @@ Run modorganizer.exe located in the Life in the Ruins installation folder you cr
 
 Launch modorganizer.exe from the Life in the Ruins installation folder.
 
-1. Choose the [profile](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob/main/README.md#profiles) you wish to use.  The default can change after an update of the list, so please check to make sure you are on your desired profile.
+1. Make sure the drop down next to the Run button says "Play Life in the Ruins"
 
-2. Make sure the drop down next to the Run button says "Play Life in the Ruins"
+2. Press Run and wait for the game to launch.  Initial launch can take several minutes even on high end systems.  Do NOT press the unlock button. If it seems frozen, try alt-tabbing a couple times.
 
-3. Press Run and wait for the game to launch.  Initial launch can take several minutes even on high end systems.  Do NOT press the unlock button.
+3. Start a new survival game (strongly recommended, but not required).  The list is balanced around survival.  There are options in the MCM in game to adjust survival settings and damage settings.
 
-4. Start a new survival game (strongly recommended, but not required).  The list is balanced around survival.  There are options in the MCM in game to adjust survival settings and damage settings.
-
-5. Mod Configuration Menu
+4. Mod Configuration Menu
    
    * MCM Settings Manager: Load the LitR Default settings
-   * If you have enabled the Immersive HUD mod, you must also enable Immersive Hud in MCM if you want to use it
 
-6. Once you're out of the vault, use the Beantown Interiors Settings holotape to enable Hardcore Clutter, and Disable The Mad Bomber's Workshop and Collectibles crafting (these are recommended settings, but aren't required)
+5. Once you're out of the vault, use the Beantown Interiors Settings holotape to enable Hardcore Clutter, and Disable The Mad Bomber's Workshop and Collectibles crafting (these are recommended settings, but aren't required)
 
 ## Updating the Modlist
 
