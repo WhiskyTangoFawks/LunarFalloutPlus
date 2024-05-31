@@ -61,6 +61,7 @@ A massively overhauled and finely tuned Fallout 4 experience. Designed to rebala
 
 ### Technical Requirements
 
+- This modlist requires the latest version of Fallout 4 on Steam. (1.10.984 as of the time of writing this)
 - This modlist should be installed on an SSD for performance reasons (the Wabbajack download folder can be on an HDD though).
 - Recommmended at least 6gb of VRAM.
 
