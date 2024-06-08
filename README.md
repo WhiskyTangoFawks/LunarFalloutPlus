@@ -43,10 +43,10 @@ A massively overhauled and finely tuned Fallout 4 experience. Designed to rebala
 ## New Content Highlights
 
 - [Tales from the Commonwealth](https://www.nexusmods.com/fallout4/mods/8704)
-- [The Fens Sheriffs Dept](https://www.nexusmods.com/fallout4/mods/68276)
 - [Subversion](https://www.nexusmods.com/fallout4/mods/50975)
 - [South of the Sea: Atom's Storm](https://www.nexusmods.com/fallout4/mods/63152)
 - [Nuka World Plus](https://www.nexusmods.com/fallout4/mods/31164)
+- [You And What Army 2](https://www.nexusmods.com/fallout4/mods/78925)
 - plus loads more...
 
 ### Optional Creation Club Content Compatibility
@@ -70,7 +70,7 @@ The modlist is designed for relatively modern, middle range hardware. A high end
 #### If you have less than 6gb of VRAM or the list otherwise performs badly for you
 
 - Do not try to run the list above 1080p, 1440 in fallout is a performance killer
-- See the steam deck installation guide tweaks (ignore the hard install information), even if you're not running on a steam deck, these performance tweaks can help.
+- See the steam deck installation guide tweaks (ignore the hard install information), even if you're not running on a steam deck, these performance tweaks can help user with lower end rigs.
 
 ## Wabbajack Installation
 
