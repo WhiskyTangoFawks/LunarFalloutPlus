@@ -5,7 +5,7 @@ A massively overhauled and finely tuned Fallout 4 experience. Designed to rebala
 [Join the Community on Discord](https://discord.gg/HUNWVBjZPg)
 [Support me on Patreon](https://www.patreon.com/user?u=4257489)
 
-## Modlist Goals
+### Modlist Goals
 
 - Difficulty comes from scarcity of resources, not bullet sponges.
 - RPG Balance, Scaling, and Progression - brought to you by Lunar Fallout Overhaul.
@@ -16,7 +16,7 @@ A massively overhauled and finely tuned Fallout 4 experience. Designed to rebala
 - Full controller support (no extra configuration required).
 - Smooth performance on mid-range modern gaming hardware.
   
-  ### This is not...
+### This is not...
 
 - A hardcore, nitty-gritty, track-everything-with-a-spreadsheet survival simulator
 - A tactical shooter
