@@ -1,5 +1,59 @@
 # Changelog
 
+# 6.1.0 Rise of the Minutemen
+
+The two big changes this update are the removal of Fens Sheriffs Dept, and the inclusion of a bunch of new pre-built settlement crafting, paired with You and What Army 2. I've also added a new Linked Dropbox to settlement crafting, that should make setting up a forward operating base easier. Several of the redundant uniques have been swapped out for new modded weapons that offer unique rechambers for their weapon class. 
+
+This update is not save safe.
+
+- Added
+    * Settler Build Settlements
+    * C.R.P Minutemen Radio Relay Network
+    * You And What Army 2 (And patches)
+    * Salvage Beacons (And patch locking them behind Taking Independence)
+    * 5.56 Pistol (And patches)
+    * Sig Sauer 12.7 (and patches)
+    * Vintage Repeater (and patches)
+    * Assault Pistol (And Patches)
+    * Mare's Leg (And Patches)
+    * T6M's AShot (And Patches)
+    * Handmade Bolt Action 5.56 (Tinker Tom's replacer)
+    * Rat Runners Pipe Carbine (and patches)
+    * Rat Runners Gatling Gun (and patches)
+    * Unique Replacers - LFArsenal Wazer Pwistol
+    * Magic Effect and Spell Engine Fixes - F4SE
+    * Empty Vendor List Bug Fix - F4SE
+    * No Door Animations - Instant Doors
+    
+    * Not Just for Christmas - Companion Perks Apply Only While Following
+- Updated
+    * Home Unimprovement
+    * The Rooftops - For Jumpers and Snipers
+    * Concord Resurrected - No Longer A Ghost Town
+    * Who's the General
+- Removed
+    * Fens Sheriffs Dept (and patches)
+    * New Army Revolver
+    * Rhino M1
+    * Handmade Lever Action Shotgun
+    * European Assault Rifle
+    * Post Apocalyptic Handmade Weapons
+    * Grease Gun SMG
+    * Bullpup Handmade Rifle
+    * JuryRigged Antimaterial Rifle
+    * Gatling Rifle
+    * Nordic Europa
+    * Caves of the Commonwealth
+    * Minimal Minutemen - Radiants for the Returning General
+- Misc
+    * Rechambered the varmint rifle in .223
+    * Rechambered Homemade SMG to .45
+    * Fixed broken turrets
+    * Bugfixes for .223 vendor spawn rates
+    * Rolled back Raider Forged Standalone changes
+    * Swapped main menu
+    
+    
 # 6.0 All those who Wander are not lost...
 
 In this update, both the Settle and LunarPlus profiles have been removed. For context on this, check out the public post on my patreon. If you are playing one of those profiles and want to continue doing so, do not install this update, just keep enjoying your current game.
