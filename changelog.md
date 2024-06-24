@@ -1,5 +1,22 @@
 # Changelog
 
+# 6.2.0 
+
+The major feature this update is a big shuffle of the perk poster, which should finish out the major work on Perks I wanted to do.
+
+This update is save safe, but you need to [use a mindwipe](https://discord.com/channels/885225427839369216/1234624150589407253) first
+
+- Added
+- Updated
+    * True Perks
+    * UNPCs Lite
+    * You and What Army 2
+    * Dangerous Deathclaws
+    * Who's The General - Minutemen Quest Cleanup
+- Removed
+    * True Perks Survival module
+- Misc
+    
 # 6.1.0 Rise of the Minutemen
 
 The two big changes this update are the removal of Fens Sheriffs Dept, and the inclusion of a bunch of new pre-built settlement crafting, paired with You and What Army 2. I've also added a new Linked Dropbox to settlement crafting, that should make setting up a forward operating base easier. Several of the redundant uniques have been swapped out for new modded weapons that offer unique rechambers for their weapon class. 
