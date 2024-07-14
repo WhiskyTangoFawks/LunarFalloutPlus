@@ -1,6 +1,6 @@
 # LitR Survival - Tips
 
-Whether or not you play in Survival Mode, the core philosophy of Life in the Ruins is *Adapt To What The World Gives You*. A lot of things you took for granted in Vanilla, like near-infinite ammo or being able to get the perfect legendary weapon for your build, don't apply any more. LitR is designed to be a lite survival game, trying to hit the sweet spot where you need to care about your resources, but without the level of simulationist complexity where you need a spreadsheet to track everying, and have to check wiki-articles anytime you want to do something because there are a hundred different subsystems to learn. Playing on Survival mode adds hunger and thirst, as well as fast travel restrictions- but it does not massively decrease the player to enemy damage ratio the way it does in vanilla survival.
+Whether or not you play in Survival Mode, the core philosophy of Life in the Ruins is *Adapt To What The World Gives You*. A lot of things you took for granted in Vanilla, like near-infinite ammo, or being able to get the perfect legendary weapon for your build, don't apply any more. LitR is designed to be a lite survival game, trying to hit the sweet spot where you need to care about your resources, but without the level of simulationist complexity where you need a spreadsheet to track everying, and have to check wiki-articles anytime you want to do something because there are a hundred different subsystems to learn. Playing on Survival mode adds hunger and thirst, as well as fast travel restrictions- but it does not massively decrease the player to enemy damage ratio the way it does in vanilla survival.
 
 ## Pacing
 - Lunar Fallout Overhaul extends and rebalances the games progression. Early game lasts till around level 20-25, mid game lasts to around 50-60, and end game enemies cap out their scaling around level 100.
@@ -8,7 +8,8 @@ Whether or not you play in Survival Mode, the core philosophy of Life in the Rui
 
 ## Combat: Damage, Health and Healing
 - LitR is balanced for default lunar survival damage levels (1 and 1.3), but can be adjusted in the MCM to whatever you want, just make sure you've fought some synths and super mutants before tweaking (because they WILL wreck you). This is an RPG, the early game enemies are supposed to be easy.
-- In LitR, the player has a lot more health, and combat should not generally feel super lethal. Horizon players should be familiar with this strategic resource based rather than tactical balance approach. The sweet spot LitR tries to hit is that you can get through most encounters without dying, but you do have to use healing resources, and you need to prepare for difficult encounters. This is specifically to fix the tactical respawn-until-you-get-it-right style gameplay vanilla survival has.
+- In LitR, the player has a lot more health, and combat should not generally feel super lethal. Horizon players should be familiar with this strategic resource-based rather than tactical balance approach. The sweet spot LitR tries to hit is that you can get through most encounters without dying, but you do have to use healing resources, and you need to prepare for difficult encounters. This is specifically to fix the tactical respawn-until-you-get-it-right style gameplay vanilla survival has.
+- When you do die, you should respawn at the nearest settlement you control, instead of reloading your last save. You will lose 10% of your current caps.
 - Food can only heal you up to the segment thresholds in your health bar- if you lose an entire segment of health, you need a stimpak, a medpak, or a doctor to get it back.
 - Drinks now grant AP buffs, instead of healing.
 
@@ -73,10 +74,17 @@ Weapon crafting works a little differently in LitR. Some basic customization is 
 - Almost every single unique weapon and armor in the game has been replaced with a modded weapon, armor, or gadget, including the ones you can buy in shops. Some of them are very powerful end game items, so check them out when you're shopping. You will want to buy some of them now.
 - If a mod is used as a Unique Replacer, then you will not find that weapon, armor, or item anywhere else in the game. That is what "Unique" means.
 
+## Settlement Crafting
+- Settlement crafting in LitR is designed to be mostly hands-off, every settlement item that doesn't have a purpose has been disabled
+- Settler Building Supplies allow the player to quickly and easily set up a basic settlement layout, without having to painstakingly place each item.
+- Many settlement items now require specific pieces of scrap, these can be found in the world or purchased from vendors.
+- If you want vanilla settlement building, this can be re-enabled, see the optional config section in MO2.
+
 # Survival Mode
 ## Carry Weight
-- The player can run while over-encumbered, but it drains AP. Grab a backpack for extra carry-weight, and to decrease the drain rate while encumbered. Or grab some nuka cola for the AP Regen buff.
-- You still take periodic damage while over-encumbered, but you don't take any limb damage. Make sure to bring some food with you, or grab teh Adamantium Skeleton perk.
+- The player can run while over-encumbered, but it drains AP, and it drains more AP with your weapon drawn- so keep it holstered while over-encumbered.
+- Instead of getting 10 carry weight per strength for free, Backpacks/Pocketed armor mods now grant you 10 Carry Weight per Strength (up to their total bonus carry weight).
+- Over-encumbrance now damages your fatigue (the penalty to your AP), instead of your limbs and health, based on how much you are carrying.
 - The overall effect of these changes, is that encumbrance isn't much of problem outside of combat.
 
 ## Companions
@@ -91,7 +99,9 @@ Weapon crafting works a little differently in LitR. Some basic customization is 
 ## Camping
 - While there are no camping mods included, Sofa Surfing will let you rest on any sofa or armchair.
 
+## Adrenaline
+- Adrenaline is disabled. It's a weird, unintuitive mechanic with no player feedback to let you track how many ranks you have, that they added to the game to make up for the huge damage nerf they hit the player with in vanilla survival. We've removed that damage nerf, so the mechanic no longer makes sense.
+
 ## Survival Fast Travel
-- Local Leader offers fast travel by talking to provisioners at level 2 (to their home or destination settlements).
 - Full fast travel can be enabled in survival mode in the Unlimited Survival MCM, if walking isn't your cup of tea.
 

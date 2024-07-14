@@ -11,6 +11,7 @@ A massively overhauled and finely tuned Fallout 4 experience. Designed to rebala
 - RPG Balance, Scaling, and Progression - brought to you by Lunar Fallout Overhaul.
 - Strategic rather than tactical combat - prepare in advance for difficult encounters, instead of respawning until you get it right.
 - A vibrant, forested, inhabited, and uncivilized wasteland. Neglected areas should feel fleshed out, but it should still feel lonely.
+- De-emphasize settlement building, settlements are mostly a hands-off thing in this modlist.
 - New Uniques - almost every single quest reward and vendor unique is now a modded weapon or armor.
 - Extra high-quality content with the same style and tone as vanilla (no pointlessly skimpy outfits, no tacti-cool weapons).
 - Full controller support (no extra configuration required).
@@ -36,7 +37,7 @@ A massively overhauled and finely tuned Fallout 4 experience. Designed to rebala
 - [Stimpacked - a health overhaul mod](https://www.nexusmods.com/fallout4/mods/72818)
 - [Barter Vendor Restrictions](https://www.nexusmods.com/fallout4/mods/72654)
 - [Degrade And Salvage - New Weapon Mechanics](https://www.nexusmods.com/fallout4/mods/71211)
-- [Load Out - An Encumbrance Overhaul Mod](https://www.nexusmods.com/fallout4/mods/78015)
+- [Loaded Out - An Encumbrance Overhaul Mod](https://www.nexusmods.com/fallout4/mods/78015)
 - [Home Unimprovement](https://www.nexusmods.com/fallout4/mods/76837)
 
 
@@ -171,7 +172,7 @@ Launch modorganizer.exe from the Life in the Ruins installation folder.
 
 2. Press Run and wait for the game to launch.  Initial launch can take several minutes even on high end systems.  Do NOT press the unlock button. If it seems frozen, try alt-tabbing a couple times.
 
-3. Start a new survival game (strongly recommended, but not required).  The list is balanced around survival.  There are options in the MCM in game to adjust survival settings and damage settings.
+3. Start a new survival game (strongly recommended, but not required).  The list is balanced around survival.  There are options in the MCM in game to adjust survival settings and damage settings. If you want to use one of the alternate start options, there is a known bug where some of them randomly crash if you pick an option other than "just the clothes on my back".
 
 4. Mod Configuration Menu
    
@@ -202,6 +203,7 @@ If you still have the downloads, Wabbajack will detect them and you will not nee
   * Having your config ini's synced to one-drive. Try setting MO2 to use profile specific INIs in the profile manager dropdown.
   * Try alt-tabbing a couple times
   * Make sure you've enabled an ENBoost preset
+- Crash in character creation, after picking an alternate start with an option other than "the clothes on your back". Still not sure why this is.
 
 ## Crashlog Scanner
 

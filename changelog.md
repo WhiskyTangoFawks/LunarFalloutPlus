@@ -1,5 +1,41 @@
 # Changelog
 
+# 6.3.0 Re-Loaded Out
+
+The major change this update, is a rework of how backpacks and encumbrance work. See the updated Load Out mod page for a detailed description. The TLDR is that the vanilla 10CW per Strength has been moved to backpacks, you get 5% per strength armor weight reduction, and Over-Encumbrance accumulates fatigue damage instead of health.
+
+This update is save safe, however when updating an existing game 1) Backpacks that spawned in the existing game will be broken (their carry weight increase will be missing) and 2) you will probably need to reset your Carry Weight - the getAV carryWeight command should return 0 while you are not under the effects of any carryweight buffs for Load Out to function properly.
+
+- Added
+    * Companion Inventory Monitor
+    * VTA Armor (Swapped for Vault Tec Security Armor)
+- Updated
+    * True Perks
+    * Home Unimprovement
+    * True Perks (and lunar patch)
+    * Degrade and Salvage - A Crafting Overhaul
+    * Load Out
+    * Backpacks of the Commonwealth
+    * Simplified - Backpacks of the Commonwealth
+    * Feast and Famine
+    * Legendaries They Can Use
+    * Vault Boy and Girl Bobbleheads
+    * Alias - Framework, Raiders, Gunners, Triggermen
+    * Fallout 4 Particle Patch - No More Glowing Objects
+    * Unique Replacers - Railroad Special Agent
+    * Unique Replacers - Eddie's Webley-Fosbery
+    * Unique Replacers - Tinker Tom's Bolt Action 5.56
+    * Unique Replacers - The Farmer's Fish Catcher
+    * Lunar Assault Pistol
+    * LFArsenal - Yet Another Assault Rifle Remesh
+- Removed
+    * True Perks Survival module
+    * Load Out Backpack mod Patches (no longer required with Loaded Out v4)
+    * Vault Tec Security Armor
+- Misc
+    * Disabled Adrenaline in default settings
+    * Fixed some bugs with the cryolance installation
+
 # 6.2.0 
 
 The major feature this update is a big shuffle of the perk poster, which should finish out the major work on Perks I wanted to do.
@@ -14,7 +50,6 @@ This update is save safe, but you need to [use a mindwipe](https://discord.com/c
     * Dangerous Deathclaws
     * Who's The General - Minutemen Quest Cleanup
 - Removed
-    * True Perks Survival module
 - Misc
     
 # 6.1.0 Rise of the Minutemen
