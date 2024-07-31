@@ -1,5 +1,65 @@
 # Changelog
 
+# 6.4.0 - Home Sweet Home
+
+The major changes this update are the PRP upgrade to 7.4, and an update to Home Unimprovement. We've also got some new player home options and improvements, which should flesh out the alternatives to building your own primary base. Journey Survival Settlement Fast travel comes it, as a replacement for SS2's caravan system. I've also re-added True Storms, removed Lightweight Lighting, and swapped back to True Sight ENB.
+
+Due to the removal of NukaWorldPlus and The Danse Dilema, I'm marking this update as not safe-safe. It may be possible to continue a save where you've not started these questlines, however I've not tested it, and don't recommend it unless you're willing to take the risk.
+
+Of note the Home Unimprovement update is a major under-the-hood overhaul of the mod. An MCM menu is now included, to allow you to enable/disable categories of recipes, and the patch to re-enable the vanilla menu is no longer required. Barter has also had a major update, that will now randomize the time to vendor restocking, and the percentage of their goods that get restocked.
+
+
+- Added
+    * Journey - Survival Settlement Fast Travel (and mcm patch)
+    * Nai's Goodneighbor Overhaul and Player Home
+    * Diamond City Lights
+    * Elianora's Faction Housing Overhaul - All In One
+    * NoRespawn's Home Plate
+    * Drumlin Diner (Settlement and Trudy and others as settlers)
+    * Peabody Home (Settlement and Peabodys as settlers)
+    * SBS - PerfektMind's Sanctuary
+    * Better Vendor Stalls    
+    * Keeer of the Commonwealth Radiants
+    * White Car Fix
+    * Integrated Automatron
+    * True Storms
+    * True Nights
+    * True Sight
+    * People Live In - Federal Ration Stockpile
+    * Companion Weapon Proficiency
+- Updated
+    * Home Unimprovement
+    * Barter
+    * Loaded Out
+    * Vanilla Uniques Framework
+    * Unique Replacers - Murderers Reckoning
+    * Bradberton Interiors
+    * PRP
+    * Tales from the Commonwealth - Precombined Visibility Patch
+    * The Beantown Interiors Project - Precombined Visibility Patches
+    * South of the Sea - Atom's Storm
+    * Show No Mercy - Fort Strong Expansion
+    * PRP - People Live In - Roadside Pines Motel
+    * PRP - People Live In - Dark Hollow Pond
+    * Better Third Rail - PATCH Pre-Vis and Navmesh
+    * Super Mutant Redux No AWKCR (and lunar patch)
+    * Power Armor HUD - paHUD
+- Removed
+    * Home Unimprovement - Vanilla Crafting Menu (Replaced with MCM options)
+    * Nuka World Plus
+    * Danse Dilemma
+    * Recruit Dixie from Nuka-World
+    * Immersive Drumlin Diner
+    * Keep Radiants in the Commonwealth
+    * Kid in a fridge - Peabody Family Settlers
+    * Dr Goodneighbor
+    * Concrete Sledgehammer
+    * Frying Pan
+    * Companion Weapon Mod Swaps
+- Misc
+    * Fixed commando and heavy gunner description bugs
+    * Balance pass on mod added melee weapons (includes updates for most of the Lunar melee patches)
+
 # 6.3.0 Re-Loaded Out
 
 The major change this update, is a rework of how backpacks and encumbrance work. See the updated Load Out mod page for a detailed description. The TLDR is that the vanilla 10CW per Strength has been moved to backpacks, you get 5% per strength armor weight reduction, and Over-Encumbrance accumulates fatigue damage instead of health.
@@ -76,7 +136,6 @@ This update is not save safe.
     * Magic Effect and Spell Engine Fixes - F4SE
     * Empty Vendor List Bug Fix - F4SE
     * No Door Animations - Instant Doors
-    
     * Not Just for Christmas - Companion Perks Apply Only While Following
 - Updated
     * Home Unimprovement

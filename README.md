@@ -1,6 +1,6 @@
 # Life In The Ruins: A Selection of Lunar Fallout Plus Modlists
 
-A massively overhauled and finely tuned Fallout 4 experience. Designed to rebalance the game so that the challenge comes primarily from scarcity of resources, while staying true to the vanilla aesthetic. With options for a more vanilla+ style playthrough, as well as an even more challenging survival experience.
+A massively overhauled and finely tuned Fallout 4 experience. Designed to rebalance the game so that the challenge comes primarily from scarcity of resources, while staying true to the vanilla aesthetic.
 
 [Join the Community on Discord](https://discord.gg/HUNWVBjZPg)
 [Support me on Patreon](https://www.patreon.com/user?u=4257489)
@@ -46,7 +46,6 @@ A massively overhauled and finely tuned Fallout 4 experience. Designed to rebala
 - [Tales from the Commonwealth](https://www.nexusmods.com/fallout4/mods/8704)
 - [Subversion](https://www.nexusmods.com/fallout4/mods/50975)
 - [South of the Sea: Atom's Storm](https://www.nexusmods.com/fallout4/mods/63152)
-- [Nuka World Plus](https://www.nexusmods.com/fallout4/mods/31164)
 - [You And What Army 2](https://www.nexusmods.com/fallout4/mods/78925)
 - plus loads more...
 
