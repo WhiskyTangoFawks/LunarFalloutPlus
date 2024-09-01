@@ -1,8 +1,56 @@
 # Changelog
 
+# 6.5.0 Energy Weapon Overhaul
+The big change this update is a full overhaul of energy weapons- see [Lunar Arsenal modpage](https://www.nexusmods.com/fallout4/mods/81133) for details, and Patreon Supporters can check out the full [Dev Blog](https://www.patreon.com/posts/devblog-6-5-110742157) on the subject.
+
+This update is technically save-safe, however due to all the balance changes for energy weapons, and the removed weapons, a new save is recommended. Any of the removed weapons in the existing save will be either missing or broken in an updated game- using the uniques placement runner file in the misc section of Vanilla Unique Framework will rerun the unique placement quest which should regenerate most uniques in the world, but it won't fix any you've already found/bought.
+
+- Added
+    * Bastion (and lunar patch)
+    * Vanillafied - The Zap Gun
+    * F4NV AEP-7 Classic Laser Pistol (and Lunar Arsenal Patch)
+    * Institute Plasma Defender (and Lunar Arsenal Patch)
+    * Institute Plasma Incinerator BFG (and Lunar Arsenal Patch, and unique replacer)
+    * Heavy Energy Weapon Combo Deal (and Lunar Arsenal Patch, and unique replacers)
+    * Handmade Energy Pistol (and Lunar Arsenal Patch, and unique replacer)
+    * Dak's Lolife Pistol (and lunar patch, and unique replacer)
+    * True Storms - MCM Settings Menu with Hotkeys
+    * SBS - FalloutTheBed's Castle
+- Updated
+    * Lunar Fallout Arsenal
+    * LFArsenal - Tinkerer's Raygun
+    * LFArsenal - Cross Break Action Laser
+    * LFArsenal - PBW LAER
+    * LBPAC-R
+    * Vanilla Uniques Framework
+    * .38 Machine Pistol (Mac-11)
+    * Radiant Redundance - Poseidon Offices
+    * Who's the General
+    * Backpacks of the Commonwealth - Simplified
+    * Diamond City Supplements
+    * Workshop Framework
+    * Unique Replacers - Tinker Tom's Bolt Action 5.56
+- Removed
+    * Damage Threshold Fix
+    * PBW Tesla Cannon (and patches)
+    * Wattz Laser (and patches)
+    * Photon Disruptor (and patches)
+    * FNV Uniques - Pew Pew (and patches)
+    * Tesla Heavy Autocannon (and patches)
+    * Vintage Pistol - Mauser C96 - Another Another Millenia (and patches)
+- Misc
+    * Fixed ENB default parallax setting
+    * Pistols can no longer have scopes (just sights), commando class weapons can no longer have medium/long scopes.
+    * Bugfix to shotgun turret crafting
+    * Bugfix for mattress crafting
+    * Display containers are now enabled by the Enable Decorations options in the Home Unimprovement MCM
+    * Reduced unarmed power armor damage 40 -> 15
+    * Bugfix to PA HUD - PA Hud should now correctly use Gopher's PA HUD
+    * Bugfix for Unique PA repair (requires a new save)
+
 # 6.4.0 - Home Sweet Home
 
-The major changes this update are the PRP upgrade to 7.4, and an update to Home Unimprovement. We've also got some new player home options and improvements, which should flesh out the alternatives to building your own primary base. Journey Survival Settlement Fast travel comes it, as a replacement for SS2's caravan system. I've also re-added True Storms, removed Lightweight Lighting, and swapped back to True Sight ENB.
+The major changes this update are the PRP upgrade to 7.4, and an update to Home Unimprovement. We've also got some new player home options and improvements, which should flesh out the alternatives to building your own primary base. Journey Survival Settlement Fast travel comes in, as a replacement for SS2's caravan system. I've also re-added True Storms, removed Lightweight Lighting, and swapped back to True Sight ENB.
 
 Due to the removal of NukaWorldPlus and The Danse Dilema, I'm marking this update as not safe-safe. It may be possible to continue a save where you've not started these questlines, however I've not tested it, and don't recommend it unless you're willing to take the risk.
 

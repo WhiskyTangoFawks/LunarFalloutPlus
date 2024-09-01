@@ -4,7 +4,7 @@ Whether or not you play in Survival Mode, the core philosophy of Life in the Rui
 
 ## Pacing
 - Lunar Fallout Overhaul extends and rebalances the games progression. Early game lasts till around level 20-25, mid game lasts to around 50-60, and end game enemies cap out their scaling around level 100.
-- The early game is significantly harder if you try to rush the main quest. Trying to go downtown before level 10 is asking for trouble, and don't try to go after Kellog before at least level 15. Gunners, Super Mutants, and Synths are all SIGNIFICANTLY more difficult, those are fights you will need to prepare for.
+- The early game is significantly harder if you try to rush the main quest, don't try to go after Kellog before at level 15. Raiders are ok, but Gunners, Super Mutants, and Synths are all SIGNIFICANTLY more difficult, those are fights you will need to prepare for.
 
 ## Combat: Damage, Health and Healing
 - LitR is balanced for default lunar survival damage levels (1 and 1.3), but can be adjusted in the MCM to whatever you want, just make sure you've fought some synths and super mutants before tweaking (because they WILL wreck you). This is an RPG, the early game enemies are supposed to be easy.
@@ -103,5 +103,6 @@ Weapon crafting works a little differently in LitR. Some basic customization is 
 - Adrenaline is disabled. It's a weird, unintuitive mechanic with no player feedback to let you track how many ranks you have, that they added to the game to make up for the huge damage nerf they hit the player with in vanilla survival. We've removed that damage nerf, so the mechanic no longer makes sense.
 
 ## Survival Fast Travel
+- Journey Survival Fast Travel allows you to fast travel to/from settlements linked by supply lines.
 - Full fast travel can be enabled in survival mode in the Unlimited Survival MCM, if walking isn't your cup of tea.
 
