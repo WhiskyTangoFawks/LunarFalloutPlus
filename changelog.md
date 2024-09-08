@@ -1,5 +1,18 @@
 # Changelog
 
+# 6.5.1 
+
+- Added
+    * Power Armor Damage Threshold
+- Updated
+    * UNPCs - AWKCR Free
+    * Whisky's Localized Damage
+- Removed
+    * Bastion
+    * Crashlog Scanner (since the removall of SS2, the number of crash reports have dropped to basically zero)
+    * Abandoned Hub (with Journey in the list, I'm no longer providing this as a default option- feel free to install it seperately though)
+- Misc
+
 # 6.5.0 Energy Weapon Overhaul
 The big change this update is a full overhaul of energy weapons- see [Lunar Arsenal modpage](https://www.nexusmods.com/fallout4/mods/81133) for details, and Patreon Supporters can check out the full [Dev Blog](https://www.patreon.com/posts/devblog-6-5-110742157) on the subject.
 

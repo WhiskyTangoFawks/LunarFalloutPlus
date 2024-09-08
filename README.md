@@ -151,8 +151,6 @@ Run modorganizer.exe located in the Life in the Ruins installation folder you cr
    For People that want to tweak things a little.  Not all options are listed here.  See the section in Mod Organizer for all options
    
    - `Lucky 7 - Hardcore Start`: You get 7 points to spend at start instead of the regular 24, and get an extra perk point every 7 levels. For players who want a real challenge.
-   - `Home Unimprovement - Vanilla Crafting` : for people who want vanilla settlement 
-   - `Abandoned Hub` - an undeground hub settlement, provided as a fast travel alternative
 
 
 3. **Configuration** 
@@ -161,7 +159,7 @@ Run modorganizer.exe located in the Life in the Ruins installation folder you cr
    
    - `120FPS no VSYNC`: Enable this mod if you are using a higher refresh rate Gsync/Freesync monitor.  This mod increases the FPS cap from the High Performance Physics Fix mod  and disables vsync.  You can edit the ini file if you need additional changes, or create you own configuration file.
    - `Whisky's Tunes`: Copyright free music for streamers
-   - `Nvidia Reflex support` and `Nvidia Weapon Debris Crash Fix`: Enable these if you have an Nvidia card.
+   - `Nvidia Reflex support` and `Nvidia Weapon Debris Crash Fix`: Enable these if you have an Nvidia card. If you crash after enabling them, try disabling them.
 
 ## Launching the Game and Additional in Game Setup
 
@@ -169,7 +167,7 @@ Launch modorganizer.exe from the Life in the Ruins installation folder.
 
 1. Make sure the drop down next to the Run button says "Play Life in the Ruins"
 
-2. Press Run and wait for the game to launch.  Initial launch can take several minutes even on high end systems.  Do NOT press the unlock button. If it seems frozen, try alt-tabbing a couple times.
+2. Press Run and wait for the game to launch.  Initial launch can take several minutes even on high end systems.  Do NOT press the unlock button. If it seems frozen, try alt-tabbing a couple times, or hitting the enter key.
 
 3. Start a new survival game (strongly recommended, but not required).  The list is balanced around survival.  There are options in the MCM in game to adjust survival settings and damage settings. If you want to use one of the alternate start options, there is a known bug where some of them randomly crash if you pick an option other than "just the clothes on my back".
 
@@ -203,13 +201,3 @@ If you still have the downloads, Wabbajack will detect them and you will not nee
   * Try alt-tabbing a couple times
   * Make sure you've enabled an ENBoost preset
 - Crash in character creation, after picking an alternate start with an option other than "the clothes on your back". Still not sure why this is.
-
-## Crashlog Scanner
-
-The list includes the [Buffout 4 Crashlog Auto Scanner](https://www.nexusmods.com/fallout4/mods/56255), found inside the tools\Classic Portable folder. To use it simply run the Crash Log Scanner from the dropdown in MO2. 
-
-- Disable the `FCX Mode` option in the scanner
-- Press the Scan Crash Logs button.  The scanner will automatically copy your crash logs over to it's own folder and scan them.  If your crash logs are not in the default location for some reason, you can use the Custom Scan Folder browse button to set the path.
-- The script will throw a lot of warnings in the `CHECKING FOR MODS THAT CAN CAUSE FREQUENT CRASHES...`. These can all be safely ignored, I have already dealt with all of them. You do not need to make any modifications to the mod list to deal with CTDs- these are almost always either random instability (which is expected in heavily modded FO4, but should be minimal), mis-configurations on the user end, or modifications that the user has made to the list.
-
-See the readme.md in the tools\Classic Portable folder for information on how to interpret the results.
