@@ -1,5 +1,21 @@
 # Changelog
 
+# 6.5.2
+
+- Added
+- Updated
+    * True Perks
+    * Home Unimprovement (and patches)
+    * Random Valuables Redux
+    * Simplified - Backpacks of the Commonwealth
+- Removed
+- Misc
+    * Radio beacon is now built with Local Leader 01
+    * Replaced Beantown Interior mag spawns with chance for vanilla magazines
+    * Enabled Beantown Interior hardcore clutter, and disabled toy crafting by default (you no longer need to do this manually in the holotape on a new game)
+    * Bugfix to Automatic Laser Musket capacity
+    * Tweaked default sleep restrictions, and sleeping bag recipe
+
 # 6.5.1 
 
 - Added
@@ -12,6 +28,7 @@
     * Crashlog Scanner (since the removall of SS2, the number of crash reports have dropped to basically zero)
     * Abandoned Hub (with Journey in the list, I'm no longer providing this as a default option- feel free to install it seperately though)
 - Misc
+    
 
 # 6.5.0 Energy Weapon Overhaul
 The big change this update is a full overhaul of energy weapons- see [Lunar Arsenal modpage](https://www.nexusmods.com/fallout4/mods/81133) for details, and Patreon Supporters can check out the full [Dev Blog](https://www.patreon.com/posts/devblog-6-5-110742157) on the subject.
