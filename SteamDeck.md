@@ -10,10 +10,11 @@ For the steam deck, I've included performance presets, FSR2 upscaling, and Baka 
 - Several mods in the list require VC++ 2019
 	* [How to Install VC++ 2019 with Proton Tricks](https://www.youtube.com/watch?v=8q2HuokqJo4) - The video demonstrates vc++2022, just select the vc++2019
 
-### Steam Deck extra installation steps
+### Steam Deck extra installation steps and recommended mods
 1)  Manually download and install the [downscaled textures](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=291438&nmm=1&game_id=1151), tag the mod with [NODELETE] so that if you update the list it won't be uninstalled.
-2) Manually download and install the [Upscaler Base Plugin](https://www.nexusmods.com/site/mods/502). This is a requirement for the FSR2 mod we're using, but wabbajack doesn't allow automated installation of the mod, so it needs to be done manually. Tag the mod with [NODELETE] to prevent wabba from removing it if you update the list. (The Required sAMD dlls have already been installed for you)
-3) Disable all mods tagged with [PC], and enable the [SteamDeck] tagged mods, choose EITHER the 30fps config or the 40 fps config.
+2) Download and install [Baka Fullscreen Pip boy](https://www.nexusmods.com/fallout4/mods/73560), this is a workaround for a bug with the map running at reduced resolution (aka, with FSR2), and makes the pip boy interface actually readable on the steam deck.
+3) Download and install the [Fallout 4 Upscaler](https://www.nexusmods.com/fallout4/mods/68586), and download and install the [Upscaler Base Plugin](https://www.nexusmods.com/site/mods/502). Tag the mod with [NODELETE] to prevent wabba from removing it if you update the list. Download and install teh FSR2 Dlls from the webpage.
+4) Disable all mods tagged with [PC], and enable the [SteamDeck] tagged mods, choose EITHER the 30fps config or the 40 fps config.
 
 ### How to Export the modlist From MO2
 0) Test the game before you export it. Make sure you can fully load into the game (not just the main menu, actually in game), make sure that FSR is working (press the END key to check the menu).
