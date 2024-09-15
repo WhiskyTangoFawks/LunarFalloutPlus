@@ -15,6 +15,7 @@
     * Enabled Beantown Interior hardcore clutter, and disabled toy crafting by default (you no longer need to do this manually in the holotape on a new game)
     * Bugfix to Automatic Laser Musket capacity
     * Tweaked default sleep restrictions, and sleeping bag recipe
+    * Disabled downloads of the scripted patchers previously included in the list. If you want to use them, just download them from their nexus page, and unzip into the tools/fo4edit/edit scripts folder
 
 # 6.5.1 
 
