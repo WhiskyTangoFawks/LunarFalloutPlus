@@ -1,5 +1,68 @@
 # Changelog
 
+# 7.0.0 Lunar Fallout Plus
+
+This is (yet another) major restructuring of the list, to a significantly more vanilla+ balance, letting Lunar Fallout Overhaul handle almost all of the balance.
+
+Due to the update of MO2, you probably will need to update the C++ Redistributables https://aka.ms/vs/17/release/vc_redist.x64.exe
+
+This is a major update, and so requires a new game.
+
+- Added
+    * Gauss and Tesla re-textured (Tesla only)
+    * X-Cell
+    * The Bleachers - A Diamond City Story (and patches)
+    * Garden of Eden Papyrus Extender
+    * Hit Those Objects
+    * Hit Those Explosives
+    * VATS Activation Cost
+    * Bosses Get Legendaries
+    * Tumbajamba's Synth Combat Armor (and standalone patch, and Unique Replacer)
+    * Lunar - Fix for Power Armor Repair Requirements
+    * Lunar - Survival Configuration Menu
+    * Lunar Power Armor Patchapalooza
+    * Fast Start - Skip Sanctuary Prologue
+- Updated
+    * Fo4Edit
+    * Mod Organizer 2
+    * Lunar Fallout Overhaul (v110)
+    * Lunar - South of the Sea
+    * Super Mutant Redux AWKCR Free
+    * Energy Weapon Calculation Fix
+    * Armor Penetration Bug Fix
+- Removed
+    * Scrappable Skeletons
+    * Robco Patcher
+    * Robco Patcher - Bosses Get Legendaries
+    * Fallout Priority (replaced by X-Cell)
+    * Disk Cache Enabler (replaced by X-Cell)
+    * Start Me Up Redux
+    * FAO Jetpacks
+    * Corpus Praesidium
+    * CROSS Courser Strigidae
+    * CROSS Pre-War Cybernetics
+    * Degrade and Salvage
+    * Home Unimprovement
+    * Loaded Out
+    * Barter
+    * Feast And Famine
+    * Stimpacked
+    * Mineswapper
+    * Whisky's Locational Damage
+    * True Perks/Freeze/Locky Bastard
+    * LBPAC
+    * PA - DT
+    * Damage Threshold Fix
+    * Excavator Power Armor
+    * Red Shift Power Armor
+    * Minutemen Paint Job
+    * Lunar Fallout Plus - Wasteland Weaves
+    * Dangerous Deathclaws
+    * Makeshift Tents
+- Misc
+    * Added custom face gen data
+    * Removed stealth HUD notification
+
 # 6.5.2
 
 - Added
