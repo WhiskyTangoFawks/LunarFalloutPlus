@@ -48,7 +48,7 @@
 - Sodas and Alcohol now have rads
 - Lunch boxes now always drop a food item, and a drink.
 
-### Weapons
+### Weapons (Degrade and Salvage)
 - Weapons are sorted into two categories, Pre-War and Improvised(aka Pipe guns). 
     * Pre-War weapons deal more damage, but are harder to modify than improvised
 - Scopes, Muzzles, and Magazines use universal component MiscMods, which can be removed and attached on other weapons.
@@ -79,7 +79,7 @@
 - PA Crafting now requires Blacksmith instead of Armorer
 - Power Armor Repair now requires Blacksmith/Science
 
-### Settlements
+### Settlements (Home Unimprovement)
 - The player is forced to use what already exists in a settlement, instead of terraforming it from the ground up into a new city. Almost all the structures, furniture, and decorations have been completely disabled from the build menu.
 - Most quest-locked and faction locked recipes are still available
 - Looted scrap has a purpose, a lot of items that were previously scrapped down to smaller components are now unscrappable and are used in crafting, like Fuses, Lighters, and Lightbulbs. Some other Misc items have been made uncraftable, and left as valuables
@@ -95,7 +95,15 @@
 - The first rank of all weapon damage perks now grants you a scaling bonus, based on your level.
 - Bladed weapons (swords, knives, etc) now gain bonus damage from Agility, instead of strength, and you gain proficiency with them from the Backstab perk, instead of Big Leagues.
 
-# Combat
+# Economy (Barter)
+- Vendors only Buy items that they can possibly sell, no more dumping your junk at every vendor for caps
+- Vendors have fewer caps, so you'll need to trade items they want to buy
+- Dynamic Restock Time/Percentage
+    * Vendors restock on a random timer (based on a MCM configurable value +/- 50%).
+    * Instead of respawning completely, vendors will now restock a percentage of their stock, equal to the following formula percentRestock = totalCapsBeforeRestock/totalRestockCaps * averageRestockPercent(configurable in MCM)
+- Buy/Sell Rates tweaked
+
+## Combat
 - Synths and robots take different limb damage
 - Ghouls take less body damage
 - Tweaked locational damage multipliers
@@ -103,3 +111,4 @@
 - Sneaking in power armor is significantly harder
 - Adjusted minimum damage parameters, this results in Power Armor almost completely ignoring small arms fire
 - Caps stashes randomly replaced with mines
+
