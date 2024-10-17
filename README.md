@@ -75,8 +75,7 @@ See the [How To Install LitR video tutorial](https://discord.com/channels/885225
 
 ### Optional Mods and Downloads
 
-1. Creation Club: If you want to use the creation club paint job support, copy the [required Creation Club paint jobs](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob/main/CreationClubContent.md) files from your `fallout4/data directory` into the `[NODELETE][CC] CreationClub Paint Jobs` mod folder, and enable the 5 [CC] tagged mods. Otherwise, you can skip this step.
-2. (Recommended) Download and install into the `[NODELETE] Cross Skin Packs` (found in the difficulty and customization section), the following skin packs from https://gumroad.com/niero. They're available for free (use the discount code which can be found on the checkout page), but a donation is suggested. The man makes some fantastic mods, and you can probably afford to buy him a coffee. The links for the 2k version are provided below, however the 4k are also available.
+1. (Recommended) Download and install into the `[NODELETE] Cross Skin Packs` (found in the difficulty and customization section), the following skin packs from https://gumroad.com/niero. They're available for free (use the discount code which can be found on the checkout page), but a donation is suggested. The man makes some fantastic mods, and you can probably afford to buy him a coffee. The links for the 2k version are provided below, however the 4k are also available.
  * [Break Action Laser Skin Pack](https://niero.gumroad.com/l/fhdhdh)
  * [Cross Cryolance](https://niero.gumroad.com/l/mQKCt)
 
@@ -141,6 +140,7 @@ Launch modorganizer.exe from the Life in the Ruins installation folder.
 1. Make sure the drop down next to the Run button says "Play Life in the Ruins"
 2. Press Run and wait for the game to launch. Initial launch can take several minutes even on high end systems. Do NOT press the unlock button. If it seems frozen, try alt-tabbing a couple times, or hitting the enter key.
 3. Start a new survival game (strongly recommended, but not required). The list is balanced around survival. There are options in the MCM in game to adjust survival settings and damage settings. It is recommended to use the vanilla start, but if you want to use one of the alternate start options, there is a known bug where some of them randomly crash if you pick an option other than "just the clothes on my back".
+  * Some users experience the game getting stuck while loading a new game. Alt-tabbing, waiting a minute or two, then going back in, or pressing 'enter' or 'e' a few times resolves the issue for most users.
 4. Mod Configuration Menu 
  * MCM Settings Manager: Load the LitR Default settings
 
@@ -159,12 +159,18 @@ If you still have the downloads, Wabbajack will detect them and you will not nee
 ## Known Issues
 
 - Performance Issues: Infinite Loading Screens, Micro Stuttering, Textures not loading, or the Brown Face bug: 
- * Stop other processes to free up RAM, browser windows are especially a problem here
- * Try setting the resolution to 1920x1080 if you're running above that
- * Make sure you've set iNumHWThreads, as specified in the Bethini section of this readme.
+  * Stop other processes to free up RAM, browser windows are especially a problem here
+  * Try setting the resolution to 1920x1080 if you're running above that
+  * Make sure you've set iNumHWThreads, as specified in the Bethini section of this readme.
 - Crashing
- * Medal.TV is incompatible with ENB, disable one or the other.
+  * Medal.TV is incompatible with ENB, disable one or the other.
 - Infinite Loading Screen
- * Having your config ini's synced to one-drive. Try setting MO2 to use profile specific INIs in the profile manager dropdown.
- * Try alt-tabbing a couple times
- * Make sure you've enabled an ENBoost preset
+  * Having your config ini's synced to one-drive. Try setting MO2 to use profile specific INIs in the profile manager dropdown.
+  * Try alt-tabbing a couple times, or pressing enter several times
+  * Make sure you've enabled an ENBoost preset
+
+## Paid Content Addons
+ ## Creation Club Paint Jobs
+ - If you want to use the creation club paint job support, copy the [required Creation Club paint jobs](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob/main/CreationClubContent.md) files from your `fallout4/data directory` into a `[NODELETE] CreationClub Paint Jobs` mod folder, and download install the patch pack from the Nexus mod page.
+ ## Radfall
+ Interested in a more challenging survival experience? Check out Radfall
