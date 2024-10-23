@@ -8,6 +8,7 @@ A massively overhauled and finely tuned Fallout 4 RPG experience. Designed to im
 ### Modlist Goals
 
 - RPG Balance, Scaling, and Progression - brought to you by Lunar Fallout Overhaul.
+- Scarcity of resources makes the player try new things.
 - A vibrant, forested, inhabited, and uncivilized wasteland. Neglected areas should feel fleshed out, but it should still feel lonely.
 - New Uniques - almost every single quest reward and vendor unique is now a modded weapon or armor.
 - Extra high-quality content with the same style and tone as vanilla (no pointlessly skimpy outfits, no tacti-cool weapons).
@@ -17,7 +18,7 @@ A massively overhauled and finely tuned Fallout 4 RPG experience. Designed to im
 ### This is not...
 
 - A hardcore grindy survival simulator
-- A tactical shooter
+- A tactical shooter with modern guns
 - Fallout New Vegas
 - A good base-list for building on top of - if you want that try Welcome to Paradise or Fusion
 - A modlist that has every mod on the nexus- this is a huge list, but everything in it is hand picked, and carefully integrated to provide a focused experience, based around an enhanced and expanded vanilla game.
@@ -86,15 +87,18 @@ See the [How To Install LitR video tutorial](https://discord.com/channels/885225
  * Check that the game path is pointing to the folder called `Stock Game Folder`, inside your installation folder and not your steam installation
  * Check that the mod organizer path is pointing to the modorganizer.exe in your installation folder for Life in the Ruins.
  * Check that your game settings path is set to `my documents/my games/fallout 4`
+ 
 3. `Basic` Tab
  * Choose a profile at least one step lower than you would use for vanilla fallout. For most users with less than a 3090 I recommend medium or high, LitR is significantly heavier than vanilla fallout. (The shorter draw distances on medium make A Forest much easier to run, and A Forest makes it so you can't see stuff way in the distance anyway)
  * For most users, 1920x1080 resolution is recommended.
  * Enable `VSync` unless you're using Gsync/FreeSync (the `High FPS Physics Fix` mod controls VSync and this settings should be ignored, but having it match here doesn't hurt)
+ * If you want to change the Full Screen/Boarderless setting, by default this is controlled in the High FPS Physics config file (normal or 120fps version if you're using it)
  * On the custom tab, select `general` in the section drop down, and `iNumHWThreads` in the settings drop down. Set this to the number of cores your CPU has, doubling that number if it has hyperthreading. For more information on this setting, see https://stepmodifications.org/wiki/Guide:Skyrim_INI/General#iNumHWThreads
-
+ 
 4. `Details` tab 
   * Field of View (FOV)
  It is recommended to leave the FoV vanilla. Setting the FoV higher than 90 has been known to cause weird visual issues with armor mods in the list. It can also effect the pipboy and scopes. Do not use the game console to change the FOV, it will not work. 
+
 
 ### Nvidia/AMD Control Center
 
@@ -139,10 +143,10 @@ Launch modorganizer.exe from the Life in the Ruins installation folder.
 
 1. Make sure the drop down next to the Run button says "Play Life in the Ruins"
 2. Press Run and wait for the game to launch. Initial launch can take several minutes even on high end systems. Do NOT press the unlock button. If it seems frozen, try alt-tabbing a couple times, or hitting the enter key.
-3. Start a new survival game (strongly recommended, but not required). The list is balanced around survival. There are options in the MCM in game to adjust survival settings and damage settings. It is recommended to use the vanilla start, but if you want to use one of the alternate start options, there is a known bug where some of them randomly crash if you pick an option other than "just the clothes on my back".
-  * Some users experience the game getting stuck while loading a new game. Alt-tabbing, waiting a minute or two, then going back in, or pressing 'enter' or 'e' a few times resolves the issue for most users.
+3. Start a new game. 
+  * Some users experience the game getting stuck on new game. Alt-tabbing, waiting a minute or two, then going back in, or pressing 'enter' or 'e' a few times resolves the issue for most users. A few users have reported that hooking up buttons on the gamepad also resolves the issue for them. If none of these work, try disabling `Intro Tweaks`, or `Fast Start`.
 4. Mod Configuration Menu 
- * MCM Settings Manager: Load the LitR Default settings
+  * MCM Settings Manager: Load the LitR Default settings once you're outside of the vault.
 
 
 ## Updating the Modlist
