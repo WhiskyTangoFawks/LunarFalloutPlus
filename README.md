@@ -58,6 +58,8 @@ The modlist is designed for relatively modern, middle range hardware. A high end
 
 ## Wabbajack Installation
 
+Make sure you update the C++ Redistributables https://aka.ms/vs/17/release/vc_redist.x64.exe
+
 See [How to Wabbajack](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob/main/How%20To%20Wabbajack.md) for detailed instructions on using Wabbajack to install the modlist
 
 See the [How To Install LitR video tutorial](https://discord.com/channels/885225427839369216/1236112171012718624/1236112171012718624)
