@@ -1,5 +1,35 @@
 # Changelog
 
+# 7.0.1
+A couple updates, and a few tweaks to Power Armor progression. T60 is now BoS only with T45 defenses but more efficient core usage, and the X01 is a single unique suit scattered across the commonwealth, with T51 defenses and more efficient core usage. 
+
+- Added
+    * Lunar AltT60X01
+    * Put Ur Gun In - Immersive Weapon Switch
+- Updated
+    * Who's The General - Minutemen Quest Cleanup
+    * X-Cell Fallout 4
+    * People Live In - USAF
+    * ENBSeries
+    * Companion Tracker
+    * Simplified - Backpacks of the Commonwealth
+    * People Live In - Dark Hollow Pond
+    * People Live In - Roadside Pines Motel
+    * Fast Travel From Quest Hubs
+    * Workshop Framework
+    * Tales from the Commonwealth - eXoPatch
+- Removed
+    * Tina De Luca and Doctor Penske FACE FIX (included in litr facegen pack)
+    * No Survival Diseases
+    * Companion Whistle
+    * Fast Start - Skip Sanctuary Prologue
+- Misc
+    - Rolled back to SMR AWKCR-free 1.10
+    - exp rates back to lunar defaults
+    - Updated default MCM settings
+    - Bugfix to vault girl bobbleheads not stacking with vault boy bobbleheads
+    - True Storms minor conflict resolution
+
 # 7.0.0 Lunar Fallout Plus
 
 This is (yet another) major restructuring of the list, to a significantly more vanilla+ balance, letting Lunar Fallout Overhaul handle almost all of the balance.
