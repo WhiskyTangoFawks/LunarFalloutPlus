@@ -32,10 +32,12 @@ A massively overhauled and finely tuned Fallout 4 RPG experience. Designed to im
 
 ## New Content Highlights
 
+- [America Rising 2](https://www.nexusmods.com/fallout4/mods/75767)
 - [Tales from the Commonwealth](https://www.nexusmods.com/fallout4/mods/8704)
 - [Subversion](https://www.nexusmods.com/fallout4/mods/50975)
 - [South of the Sea: Atom's Storm](https://www.nexusmods.com/fallout4/mods/63152)
 - [You And What Army 2](https://www.nexusmods.com/fallout4/mods/78925)
+
 
 ### OptionalPaid Content Compatibility
 
@@ -176,8 +178,8 @@ If you still have the downloads, Wabbajack will detect them and you will not nee
   * Make sure you've enabled an ENBoost preset
 
 ## Paid Content Addons
- ## Creation Club Paint Jobs
+### Creation Club Paint Jobs
  - If you want to use the creation club paint job support, copy the [required Creation Club paint jobs](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob/main/CreationClubContent.md) files from your `fallout4/data directory` into a `[NODELETE] CreationClub Paint Jobs` mod folder, and download install the patch pack from the Nexus mod page.
  
- ## Radfall
+ ### Radfall
  Interested in a more challenging survival experience? Check out [Radfall](https://www.patreon.com/posts/what-is-radfall-114027472)

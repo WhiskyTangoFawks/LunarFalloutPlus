@@ -1,5 +1,67 @@
 # Changelog
 
+# 7.0.2 America Rising 2
+
+6 new weapon mods. 8 new power armor mods. 6 new location mods. And America Rising 2.
+
+- Added
+    * Terminals Lock Up
+    * Doombased Desert Eagle Reborn (and patches)
+    * Riot Shotgun - New Vegas (and patches)
+    * Dak's Rolling Block Rifle (and patches)
+    * Concrete Sledhammer (and patches)
+    * Institute P90 smg (and patches)
+    * Rhino M1 Redux (and patches)
+    * Tumbajamba's Raider Power Armor (and patches)
+    * Tumbajamba's Gunner Power Armor (and patches)
+    * Excavator Power Armor (and patches)
+    * Submersible Power Armor Redux (and patches)
+    * Red Shift Power Armor (and patches)
+    * Hellcat Power Armor (and patches)
+    * Enclave X02 Power Armor (and patches)
+    * Hellfire X03 Power Armor (and patches)
+    * Deadly Coursers
+    * Dangerous Deathclaws
+    * Ashlands Station (and patches)
+    * TG'z Fens Interiors
+    * TG'z Cambridge Interiors
+    * The Roadside Repository
+    * Hoistway Hideaway
+    * Subterrainean Skirmish
+    * Shady Motives (and patch)
+    * Trunk's Malfunction
+    * America Rising (and patches)
+    * Art of War
+- Updated
+    * Scrappy Turrets Replacer
+    * People Live In - Unmarked Raider Camps Pack 1
+    * Tales from the Commonwealth - eXoPatch
+    * Community Fixes Merged 1.10.163 (Pre Next Gen Backport)
+    * Garden of Eden Papyrus Script Extender
+    * Faction Distribution Framework
+    * .38 Machine Pistol (Mac-11)
+    * Hit Those Explosives
+    * Hit Those Objects
+    * Ownership Fixes
+    * Fast Travel From Quest Hubs
+    * South of the Sea - Atomic Embrace
+    * See Through Scopes - Night Vision
+    * Lunar Fallout Arsenal
+- Removed
+    * Desert Eagle - Standalone Handgun (and patches)
+    * Streetsweeper (and patches)
+    * Courser Crusher
+    * Weird Mattress Fix (included in community fixes merged)
+    * FDF - C.R.A.P.
+    * FDF - Gunmetal Immersive Paintjob Unlocks
+- Misc
+    * Quantum X01 PA now spawns with 1% health
+    * Legendary Bosses Plutonium Redux shifted to standalone replacer
+    * Fixed The Bleachers load screen frequency
+    * Fixed inf. load screen on new game
+    * Fixed a bug with turret spawns
+    * Fixed Combat Knife handles
+
 # 7.0.1
 A couple updates, and a few tweaks to Power Armor progression. T60 is now BoS only with T45 defenses but more efficient core usage, and the X01 is a single unique suit scattered across the commonwealth, with T51 defenses and more efficient core usage. 
 
