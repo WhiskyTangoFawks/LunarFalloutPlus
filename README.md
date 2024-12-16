@@ -172,10 +172,10 @@ If you still have the downloads, Wabbajack will detect them and you will not nee
   * Make sure you've set iNumHWThreads, as specified in the Bethini section of this readme.
 - Crashing
   * Medal.TV is incompatible with ENB, disable one or the other.
-- Infinite Loading Screen
-  * Having your config ini's synced to one-drive. Try setting MO2 to use profile specific INIs in the profile manager dropdown.
-  * Try alt-tabbing a couple times, or pressing enter several times
-  * Make sure you've enabled an ENBoost preset
+- Infinite Loading Screen on a New Game
+  * Having your config ini's synced to one-drive is known to cause issues. Try setting MO2 to use profile specific INIs in the profile manager dropdown.
+  * Try alt-tabbing a couple times, or pressing enter or E several times.  If you have a controller, try presing A (or whatever the default activation is)
+  * If none of those work, try downloading this save file [Save File](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=342910&game_id=1151). Play through the value, and you can redo your character before exitting the vault.
 
 ## Paid Content Addons
 ### Creation Club Paint Jobs
