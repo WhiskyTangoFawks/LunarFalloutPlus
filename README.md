@@ -41,7 +41,12 @@ A massively overhauled and finely tuned Fallout 4 RPG experience. Designed to im
 
 ### OptionalPaid Content Compatibility
 
-- [Creation Club Weapons and Armour Skins](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob/main/CreationClubContent.md) Faction Distribution Framework will distribute faction based weapon and armour skins into the world- see the link for more details
+### Creation Club Paint Jobs
+ - If you want to use the creation club paint job support, copy the [required Creation Club paint jobs](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob/main/CreationClubContent.md) files from your `fallout4/data directory` into a `[NODELETE] CreationClub Paint Jobs` mod folder, and download install the patch pack from the Nexus mod page.
+ 
+ ### Radfall
+ Interested in a more challenging survival experience? Check out [Radfall](https://www.patreon.com/posts/what-is-radfall-114027472)
+
 
 ### [Full List of Mods at LoadOrderLibrary](https://loadorderlibrary.com/lists/life-in-the-ruins-2)
 
@@ -176,10 +181,3 @@ If you still have the downloads, Wabbajack will detect them and you will not nee
   * Having your config ini's synced to one-drive is known to cause issues. Try setting MO2 to use profile specific INIs in the profile manager dropdown.
   * Try alt-tabbing a couple times, or pressing enter or E several times.  If you have a controller, try presing A (or whatever the default activation is)
   * If none of those work, try downloading this save file [Save File](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=342910&game_id=1151). Play through the value, and you can redo your character before exitting the vault.
-
-## Paid Content Addons
-### Creation Club Paint Jobs
- - If you want to use the creation club paint job support, copy the [required Creation Club paint jobs](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob/main/CreationClubContent.md) files from your `fallout4/data directory` into a `[NODELETE] CreationClub Paint Jobs` mod folder, and download install the patch pack from the Nexus mod page.
- 
- ### Radfall
- Interested in a more challenging survival experience? Check out [Radfall](https://www.patreon.com/posts/what-is-radfall-114027472)
