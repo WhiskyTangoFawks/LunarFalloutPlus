@@ -1,5 +1,28 @@
 # Changelog
 
+# 7.0.3
+
+- Added
+    * Facial Expression and Eyetracking Engine Fixes - F4SE
+    * More Weathervanes
+    * Real Windows
+    * Real Persistent Weather
+    * Extended Fake Interiors
+- Updated
+    * ENB Binary
+    * High FPS Physics Fix
+    * X-Cell
+    * Community Fixes Merged 1.10.163 (Pre Next Gen Backport)
+    * Far Object LOD Improvement Project
+    * Workshop Framework
+    * Diverse Enclave
+- Removed
+- Misc
+    * Regenerated AR2 Face data
+    * Regenerated LOD
+    * Fixed paint job distribution for service rifles and combat carbines
+
+
 # 7.0.2 America Rising 2
 
 6 new weapon mods. 8 new power armor mods. 6 new location mods. And America Rising 2.
