@@ -1,5 +1,30 @@
 # Changelog
 
+# 7.0.4 Signs
+
+The only major change this update is swapping out Journey for Settlement Fast Travel Signs.
+
+This update is save safe.
+
+- Added
+    * Garden of Eden Papyrus Script Extender
+    * Less Loot - America Rising 2
+    * Settlement Fast Travel Signs
+- Updated
+    * Tales from the Commonwealth - eXoPatch
+    * 4estGimp - M8r Complex Item Sorter Enhancements
+    * Workshop Framework
+    * The Handmade Pistol (Metro Lolife)
+    * The Assault Pistol (Colt SCAMP)
+    * Commonwealth Encounter Pack
+- Removed
+    * Real Windows (due to bugs)
+    * Journey
+    * Fast Travel From Quest Hubs (incompatible with settlment signs fast travel)
+- Misc
+    * Buffed Secret Service armor
+
+
 # 7.0.3
 
 - Added
