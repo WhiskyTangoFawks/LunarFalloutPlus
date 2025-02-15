@@ -1,5 +1,17 @@
 # Changelog
 
+#7.0.5
+Tiny update, mainly to integrate Exoclyp's fix for the AR2 questline.
+
+- Added
+    * AR2 Exopatch - delayed kickout
+- Updated
+    * Garden of Eden Papyrus Script Extender
+    * Extra Icons for FIS
+    * Papyrus Common Library
+- Removed
+- Misc
+
 # 7.0.4 Signs
 
 The only major change this update is swapping out Journey for Settlement Fast Travel Signs.
