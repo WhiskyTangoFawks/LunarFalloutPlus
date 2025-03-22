@@ -1,5 +1,44 @@
 # Changelog
 
+
+#7.0.6
+
+- Added
+    * Subway Runner Revival
+    * Customizable Combat AI Nearby Object Search - F4SE
+    * Better Fusion Core Management - F4SE
+    * Robot Workbench Fix
+    * Nuka World Radio Fix
+    * Dead Pickman Cannot Kill
+    * Engine Fixes - F4SE
+    * Follower AI Approach Reaction Fix - F4SE
+    * Integrated Automaton - Community Fixes Merged Patch
+    * FOMOD Plus
+- Updated
+    * Papyrus Common Library
+    * Community Fixes Merged 1.10.163 (Pre Next Gen Backport)
+    * Pipe Carbine - Rat Runners Arsenal
+    * Power Armor to the People
+    * Tales from the Commonwealth - eXoPatch
+    * Integrated Automatron
+    * Doombased Desert Eagle - Reborn
+    * True Storms
+    * Art of War
+    * X-Cell Fallout 4
+    * Facial Expression and Eyetracking Engine Fixes - F4SE
+- Removed
+    * Magic Effect Condition Fix (superceded by Engine Fixes)
+- Misc
+    * Nerf damage for Righteous Authority
+    * Bugfix for machine guns equipped NPCs not having ammo
+    * Bugfixes for Strong and Curie
+    * Bugfix for Champion Armor taking up legs instead of arm
+    
+Radfall
+    * Typo fixes for perks
+    * Fix for unarmed weapons getting double strength bonus
+    * Bugfix for broken stoves
+
 #7.0.5
 Tiny update, mainly to integrate Exoclyp's fix for the AR2 questline.
 
@@ -11,6 +50,7 @@ Tiny update, mainly to integrate Exoclyp's fix for the AR2 questline.
     * Papyrus Common Library
 - Removed
 - Misc
+
 
 # 7.0.4 Signs
 
