@@ -88,6 +88,7 @@ See the [How To Install LitR video tutorial](https://discord.com/channels/885225
 1. (Recommended) Download and install into the `[NODELETE] Cross Skin Packs` (found in the difficulty and customization section), the following skin packs from https://gumroad.com/niero. They're available for free (use the discount code which can be found on the checkout page), but a donation is suggested. The man makes some fantastic mods, and you can probably afford to buy him a coffee. The links for the 2k version are provided below, however the 4k are also available.
  * [Break Action Laser Skin Pack](https://niero.gumroad.com/l/fhdhdh)
  * [Cross Cryolance](https://niero.gumroad.com/l/mQKCt)
+2. Ultra Wide Support: The list does not have official utlrawide support (because I don't have an official ultrawide monitor), but there is a user maintained [thread on the topic](https://discord.com/channels/885225427839369216/1030877815559684137) in the discord.
 
 ### Game INI Settings with BethINI
 
@@ -160,7 +161,7 @@ Launch modorganizer.exe from the Life in the Ruins installation folder.
 
 ## Updating the Modlist
 
-Before updating the modlist, [see the full changelog](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob/main/changelog.md) for the latest release. Make sure to follow any additional instructions in the changelog regarding the update process. If an update is marked as save safe, then a new save is not required.
+Before updating the modlist, [see the full changelog](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob/main/changelog.md) for the latest release. Make sure to follow any additional instructions in the changelog regarding the update process. The list uses Semantic versioning, so if only the last number updates, then an update is save-safe, otherwise instructions will be provided.
 
 To Update the modlist, just rerun the Wabbajack installer with the updated download from the Wabbajack gallery (or prerelease from my Patreon). Check "overwrite" during the installation process.
 
@@ -172,7 +173,7 @@ If you still have the downloads, Wabbajack will detect them and you will not nee
 ## Known Issues
 
 - Performance Issues: Infinite Loading Screens, Micro Stuttering, Textures not loading, or the Brown Face bug: 
-  * Stop other processes to free up RAM, browser windows are especially a problem here
+  * Stop other processes to free up RAM
   * Try setting the resolution to 1920x1080 if you're running above that
   * Make sure you've set iNumHWThreads, as specified in the Bethini section of this readme.
 - Crashing
