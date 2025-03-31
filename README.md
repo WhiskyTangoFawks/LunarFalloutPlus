@@ -28,7 +28,8 @@ A massively overhauled and finely tuned Fallout 4 RPG experience. Designed to im
 - [Lunar Fallout Overhaul](https://www.nexusmods.com/fallout4/mods/34769)
 - [Random Valuables Redux](https://www.nexusmods.com/fallout4/mods/60097)
 - [PlayerUndead death recovery by SKK](https://www.nexusmods.com/fallout4/mods/41002)
-- [Journey Survival Settlement Fast Travel](https://www.nexusmods.com/fallout4/mods/12685)
+- [Settlement Fast Travel Signs](https://www.nexusmods.com/fallout4/mods/89580)
+- [Settler Built Settlements](https://www.nexusmods.com/fallout4/mods/84015)
 
 ## New Content Highlights
 
