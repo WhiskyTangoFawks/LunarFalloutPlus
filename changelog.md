@@ -1,5 +1,36 @@
 # Changelog
 
+#7.0.7
+
+The primary change here is the update to PRP, and some previs related changes to the Cambridge Police Station and Ameria Rising 2, that should fix some previs related bugs reported in the discord.
+
+- Added
+    * Miscellanous Performance Optimization - America Rising 2
+    * Follower AI Approach Reaction Fix - F4SE
+    * Lucy's Vault-Tec Backpack (and simplified patch)
+    * Super Mutant Redux Dismemberment Fix
+    * A Forest Trim - Show No Mercy Fort Stronger
+- Updated
+    * Previsibine Repair Pack
+    * South of the Sea - Atom's Storm
+    * South of the Sea - Atomic Embrace
+    * Tales from the Commonwealth - eXoPatch
+    * Engine Fixes - F4SE
+    * Simplified - Backpacks of the Commonwealth
+    * Who's The General - Minutemen Quest Cleanup
+    * See-Through-Scopes
+    * Ownership Fixes
+    * Standalone Tumba Synth Armour
+- Removed
+    * America Rising 2 - PRP (replaced with full PRP patch)
+- Misc
+    * Swapped America Rising Exocompat Delayed Kickout for Delayed
+    * rebalanced hats and helmets from GreaseRatGarb
+    * Fixed obstructed DC fast travel sign
+    
+- Radfall
+    * Doubled Power Armor Scrap from Power Armor
+    * Fixed bug where the player would gain perk tokens from scrapping PA
 
 #7.0.6
 
