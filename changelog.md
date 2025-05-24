@@ -1,5 +1,53 @@
 # Changelog
 
+#7.1.0 - Creation Clubbing
+
+This is a minor update, bringing in the the backported NG Creation Club Content, as well as a handful of new weapons and armor.
+
+While this update is technically save safe, users updating can expect some weirdness around the removed content, nothing game breaking, and forcing a cell reset should fix most of it.
+
+- Added
+    * Backported NG Creation Club Content
+    * Integrated Addons
+    * Anti-Materiel Rifle - Rat Runners Arsenal
+    * Handmade Assault Shotgun (Raider Saiga)
+    * Radvolver - A Makeshift Gamma Revolver
+    * Cycling Rifle - Rat Runners Arsenal
+    * Children of Atom Power Armor
+    * Trapper Power Armor
+    * Rust Devil Barbarian Armor
+    * True Nights for Far Harbor and Nuka World
+    * Wasteland Wonderglue AR2 Facegen
+    * Dried Blood
+- Updated
+    * NCR Veteran Ranger - F4NV REDUX (swapped for new redux-redux version)
+    * Lunar Fallout Overhaul
+    * X-Cell Fallout 4
+    * Unofficial Fallout 4 Patch
+    * Community Fixes Merged
+    * Workshop Framework
+    * Power Armor to the People
+    * ENBSeries
+    * Terminals Lock Up
+    * 10mm Pistol debulked remesh replacer
+    * Real Interiors - Presistent Weather
+- Removed
+    * Submersible Power Armor
+    * Enclave X-02 Power Armor
+    * Hellfire X-03 Power Armor
+    * Trunk's Malfunction
+    * McMillan CS5
+    * LitR - MWGS - Modded Weapons
+    * AR2 Facegen
+    * Recoil Rebalance
+    * Integrated Automatron
+- Misc
+    * Lots of patching updates
+    * Repacked the Roadside Repository to resolve incorrect archive version error
+    * Patched 3DNPC - Vanilla Uniques Framework
+
+
+
 #7.0.7
 
 The primary change here is the update to PRP, and some previs related changes to the Cambridge Police Station and Ameria Rising 2, that should fix some previs related bugs reported in the discord.
