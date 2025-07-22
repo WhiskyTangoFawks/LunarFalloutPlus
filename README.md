@@ -72,7 +72,7 @@ See [How to Wabbajack](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob
 
 See the [How To Install LitR video tutorial](https://discord.com/channels/885225427839369216/1236112171012718624/1236112171012718624)
 
-*This is a large modlist, with several large downloads, including several large sets of textures. Nexus Premium is __highly__ recommended for the initial download, expect the initial download and installation to take at least an hour with premium.*
+*Nexus Premium is __highly__ recommended for the initial download.  Without premium you will need to click to download every file individually.  In addition, this is a large modlist, with several large downloads, including several large sets of textures. Nexus Premium will greatly speed up the download time.  Expect the initial download and installation to take at least an hour with premium.*
 
 ### Solving Common Wabbajack Installation Problems
 
