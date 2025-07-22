@@ -42,9 +42,6 @@ A massively overhauled and finely tuned Fallout 4 RPG experience. Designed to im
 
 ### OptionalPaid Content Compatibility
 
-### Creation Club Paint Jobs
- - If you want to use the creation club paint job support, copy the [required Creation Club paint jobs](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob/main/CreationClubContent.md) files from your `fallout4/data directory` into a `[NODELETE] CreationClub Paint Jobs` mod folder, and download install the patch pack from the Nexus mod page.
- 
  ### Radfall
  Interested in a more challenging survival experience? Check out [Radfall](https://www.patreon.com/posts/what-is-radfall-114027472)
 
