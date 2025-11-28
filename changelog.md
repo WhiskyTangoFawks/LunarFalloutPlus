@@ -1,5 +1,55 @@
 # Changelog
 
+#8.0.0
+
+The major change here is a complete rebuild of Lunar Arsenal, which is the core weapon distribution framework for the mod into an All-In-One weapons overhaul. There are several new "classes" of weapons available, and Automatics and Lasers in particular have a lot of changes, and everything with open permissions has been merged into a single download. On top of that is the new Faction Paintjob Distribution patcher, which handles distribution of paintjobs for armor, power armor, and weapons
+
+- Added
+    * Lunar Arsenal 2
+    + Faction Paintjob Distribution Patcher
+    * Simpler Everyone's Best Friend
+    * Tesla Heavy Autocannon (and patches)
+    * Selakii's Plasma Autocannon Revised (and patches)
+    * Handmade style Grenade and Mine replacer
+    * Grease Gun
+    * You And What Army 2 Patch Hub
+    * People Live In - Roadside Pines Motel Patch Hub
+    * 4estGimp - Submersible PA Redux CIS INNR ini
+    * Jurttu's Interiors - Far Harbor
+    * Diamond City Delayed
+- Updated
+    * True Storms
+    * Lunar Arsenal
+    * Daks Vintage Repeater
+    * Workshop Framework
+    * You and What Army 2
+    * Garden of Eden Papyrus Script Extender
+    * Anti-Materiel Rifle - Rat Runners Arsenals
+    * Vanilla Uniques Framework
+    * Tales from the Commonwealth - eXoPatch
+    * Settlement Fast Travel Signs
+    * That's Gunner's Life
+    * Accessible Bridges
+    * Jurttu's Interiors
+    * Jurttu's Interiors - Nuka-World
+    * 4estGimp - Tumbajamba Raider PA CIS INNR ini
+    * 4estGimp - M8r Complex Item Sorter Enhancements
+    * Who's The General - Minutemen Quest Cleanup
+    * X-Cell
+    * Xedit
+    * Complex Sorter
+- Removed
+    * A ton of weapons and armors
+    * Everyone's Best Friend
+    * Vanillafication - See Through Scopes
+    * See Through Scopes - Night Vision
+- Misc
+    * Balance tweaks to Break Action Laser
+    * Replaced Creation Club Tesla Cannon with the Tesla Heavy Autocannon (because the CC Tesla Cannon is super janky)
+    * Reworked and Merged Lunar Arsenal patches
+    * Reverted See thru Scopes to a resource only
+    * Reduced default cost for Fast Travel Sign City Travel to 10%
+
 #7.1.0 - Creation Clubbing
 
 This is a minor update, bringing in the the backported NG Creation Club Content, as well as a handful of new weapons and armor.
