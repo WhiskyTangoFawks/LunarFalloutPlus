@@ -85,7 +85,6 @@ See the [How To Install LitR video tutorial](https://discord.com/channels/885225
 
 1. (Recommended) Download and install into the `[NODELETE] Cross Skin Packs` (found in the difficulty and customization section), the following skin packs from https://gumroad.com/niero. They're available for free (use the discount code which can be found on the checkout page), but a donation is suggested. The man makes some fantastic mods, and you can probably afford to buy him a coffee. The links for the 2k version are provided below, however the 4k are also available.
  * [Break Action Laser Skin Pack](https://niero.gumroad.com/l/fhdhdh)
- * [Cross Cryolance](https://niero.gumroad.com/l/mQKCt)
 2. Ultra Wide Support: The list does not have official utlrawide support (because I don't have an official ultrawide monitor), but there is a user maintained [thread on the topic](https://discord.com/channels/885225427839369216/1030877815559684137) in the discord.
 
 ### Game INI Settings with BethINI
@@ -180,3 +179,4 @@ If you still have the downloads, Wabbajack will detect them and you will not nee
   * Having your config ini's synced to one-drive is known to cause issues. Try setting MO2 to use profile specific INIs in the profile manager dropdown.
   * Try alt-tabbing a couple times, or pressing enter or E several times.  If you have a controller, try presing A (or whatever the default activation is)
   * If none of those work, try downloading this save file [Save File](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=342910&game_id=1151), it has both male and female saves in the download. Play through the vault, and you can redo your character before exitting the vault.
+
