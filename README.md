@@ -50,7 +50,7 @@ A massively overhauled and finely tuned Fallout 4 RPG experience. Designed to im
 
 ### Technical Requirements
 
-- This modlist requires the latest version of Fallout 4 on Steam. (1.10.984 as of the time of writing this)
+- This modlist requires the latest version of Fallout 4 on Steam. (After major FO4 updates are released, there may be a short period of time where I haven't updated the list yet).
 - This modlist should be installed on an SSD for performance reasons (the Wabbajack download folder can be on an HDD though).
 - Recommmended at least 6gb of VRAM.
 
@@ -179,4 +179,3 @@ If you still have the downloads, Wabbajack will detect them and you will not nee
   * Having your config ini's synced to one-drive is known to cause issues. Try setting MO2 to use profile specific INIs in the profile manager dropdown.
   * Try alt-tabbing a couple times, or pressing enter or E several times.  If you have a controller, try presing A (or whatever the default activation is)
   * If none of those work, try downloading this save file [Save File](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=342910&game_id=1151), it has both male and female saves in the download. Play through the vault, and you can redo your character before exitting the vault.
-
