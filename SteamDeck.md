@@ -1,5 +1,9 @@
 # Steam Deck Installation
 
+
+NOTE: THIS GUIDE IS OUTDATED
+This guide was written before the existance of Jackify. I've not updated it since then. While the method will still work, users will potentially be better off just using Jackify.
+
 For the steam deck, I've included performance presets, and instructions for adding Baka FullScreen Pipboy (which allows us to bypass the problems with Upscaling and the pipboy map menu), and FSR2 upscaling.
 
 ### Steam Deck Pre-requisites
@@ -34,4 +38,5 @@ For the steam deck, I've included performance presets, and instructions for addi
 The list ships with a HighFPSPhysic Config files that disables vsync, and caps the FPS at 30 or 40.
 - In the Steam Settings menu --> Display --> Advanced --> Advanced --> Disable "Enable Unified Frame Limit Management". This will allow us to set the refresh rate to 40, but leave the FPS limit disabled (it's handled by HighFPSPhysicsFix, which caps in game, but disables it during loading screens for faster loading)
 - Disable VSYNC in the steam deck settings
+
 - Disable frame limit (The list includes a high fps physics ini that caps framerate, except during lockpicking and loading screens, so we need the system fps cap to be disabled)
