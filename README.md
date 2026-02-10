@@ -154,7 +154,8 @@ Launch modorganizer.exe from the Life in the Ruins installation folder.
   * Some users experience the game getting stuck on new game. Alt-tabbing, waiting a minute or two, then going back in, or pressing 'enter' or 'e' a few times resolves the issue for most users. A few users have reported that hooking up buttons on the gamepad also resolves the issue for them. If none of these work, try disabling `Intro Tweaks`, or `Fast Start`.
 4. Mod Configuration Menu 
   * MCM Settings Manager: Load the LitR Default settings once you're outside of the vault.
-
+5. Wait a bit before venturing forth
+  * The base game needs a couple minutes to load the initialization scripts, it's best to let it do so. If the quests with Codsworth and Preston are bugged, then skipping waiting outside the vault is typically the reason.
 
 ## Updating the Modlist
 
@@ -168,7 +169,8 @@ To Update the modlist, just rerun the Wabbajack installer with the updated downl
 If you still have the downloads, Wabbajack will detect them and you will not need to download the entire modlist again, and the process should just take a couple minutes. If you deleted them, then yes, you will need to download all the files again.
 
 ## Known Issues
-
+- Codsworth/Preston Quests don't advance
+  * This is a vanilla bug where the first few quests don't advance. Reload a save from before you exit the vault, and after you exit the vault wait at least a few minutes before starting to play, to allow the game to properly start up.
 - Performance Issues: Infinite Loading Screens, Micro Stuttering, Textures not loading, or the Brown Face bug: 
   * Stop other processes to free up RAM
   * Try setting the resolution to 1920x1080 if you're running above that
