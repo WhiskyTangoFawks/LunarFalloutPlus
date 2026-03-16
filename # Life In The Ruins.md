@@ -1,0 +1,175 @@
+# Life In The Ruins
+![Life In The Ruins](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob/main/screenshots/banner.png)
+Life in the Ruins transforms Fallout 4 into a deeper, more dangerous RPG without losing the soul of the original game. The Commonwealth is greener, harsher, and more alive. Resources are scarce, exploration is rewarding, and your character build matters.
+
+Actively maintained and developed since 2022.
+
+[Join the Community on Discord](https://discord.gg/HUNWVBjZPg)
+[Support me on Patreon](https://www.patreon.com/user?u=4257489)
+
+### Key Features
+
+- RPG Balance, Scaling, and Progression - brought to you by Lunar Fallout Overhaul.
+- A vibrant, forested, and uncivilized wasteland. Neglected areas should feel fleshed out, but it should still feel lonely.
+- A fully overhauled weapon progression. Tons of new guns that feel like they should have been in the base game, and every single one of them has been rebalanced, and carefully integrated.
+- A tightly curated modlist where every mod is carefully chosen, and manually integrated to ensure balance and immersion.
+- Full controller support (no extra configuration required).
+- Smooth, stable performance on mid-range modern gaming hardware.
+ 
+
+### Life in the Ruins is not...
+
+- A grindy, hardcore survival simulator
+- A modern tactical shooter with real-world guns
+- Fallout New Vegas recreated in Fallout 4
+- A generic base to build your own list on top of
+
+## Key Gameplay Mods To Be Aware Of
+
+- [Lunar Fallout Overhaul](https://www.nexusmods.com/fallout4/mods/34769)
+- [Lunar Arsenal](https://www.nexusmods.com/fallout4/mods/101287)
+- [Random Valuables Redux](https://www.nexusmods.com/fallout4/mods/60097)
+- [PlayerUndead death recovery by SKK](https://www.nexusmods.com/fallout4/mods/41002)
+- [Settlement Fast Travel Signs](https://www.nexusmods.com/fallout4/mods/89580)
+- [Settler Built Settlements](https://www.nexusmods.com/fallout4/mods/84015)
+
+## New Content Highlights
+
+- [America Rising 2](https://www.nexusmods.com/fallout4/mods/75767)
+- [Tales from the Commonwealth](https://www.nexusmods.com/fallout4/mods/8704)
+- [Subversion](https://www.nexusmods.com/fallout4/mods/50975)
+- [South of the Sea: Atom's Storm](https://www.nexusmods.com/fallout4/mods/63152)
+- [You And What Army 2](https://www.nexusmods.com/fallout4/mods/78925)
+
+
+### Optional Paid Content Compatibility
+
+ ### Radfall
+ Interested in a more challenging survival experience? Check out [Radfall](https://www.patreon.com/posts/what-is-radfall-114027472)
+
+
+### [Full List of Mods at LoadOrderLibrary](https://loadorderlibrary.com/lists/life-in-the-ruins-2)
+
+### Technical Requirements
+
+- This modlist requires the latest version of Fallout 4 on Steam.
+- This modlist should be installed on an SSD for optimal performance (the Wabbajack download folder can be on an HDD though).
+- Recommmended at least 6gb of VRAM
+
+The modlist is designed for relatively modern, middle range hardware. A high end graphics card is not required, but it does help. There are performance options available, including a [steam deck installation guide](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob/main/SteamDeck.md).
+
+#### If you have less than 6gb of VRAM or the list otherwise performs badly for you
+
+- Do not try to run the list above 1080p, 1440 in fallout is a performance killer
+- See the steam deck installation guide tweaks (ignore the hard install information), even if you're not running on a steam deck, these performance tweaks can help user with lower end rigs.
+
+## Wabbajack Installation
+
+Make sure you update the C++ Redistributables https://aka.ms/vs/17/release/vc_redist.x64.exe
+
+See [How to Wabbajack](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob/main/How%20To%20Wabbajack.md) for detailed instructions on using Wabbajack to install the modlist
+
+See the [How To Install LitR video tutorial](https://discord.com/channels/885225427839369216/1236112171012718624/1236112171012718624)
+
+*Nexus Premium is __highly__ recommended for the initial download.  Without premium you will need to click to download every file individually.  In addition, this is a large modlist, with several large downloads, including several large sets of textures. Nexus Premium will greatly speed up the download time.  Expect the initial download and installation to take at least an hour with premium.*
+
+### Solving Common Wabbajack Installation Problems
+
+* Set your game language to English if you have the game in another language- the installer does not work in other languages (it needs to find and copy the base game video files)
+* Verify your game files in steam, then run the game through steam, then repeat the installation
+* Make sure you have at least 300gb free before starting, the modlist needs some extra working space to unpack and repack the archives
+* If installation fails, and the log has "data error cyclic redundancy check", then you're file paths are too long, try something shorter like "C:\LifeintheRuins"
+* Unable to download all mods - log out and then back in to the Nexus in the Wabbajack settings
+
+## Additional Setup (post Wabbajack installation)
+
+### Optional Mods and Downloads
+
+1. Ultra Wide Support: The list does not have official utlrawide support (because I don't have an official ultrawide monitor), but there is a user maintained [thread on the topic](https://discord.com/channels/885225427839369216/1030877815559684137) in the discord.
+
+### Game INI Settings with BethINI
+
+1. Make sure Mod Organizer is not running. Open BethINI from the `Tools` folder inside your LitR installation folder.
+2. `Setup` tab 
+ * Check that the game path is pointing to the folder called `Stock Game Folder`, inside your installation folder and not your steam installation
+ * Check that the mod organizer path is pointing to the modorganizer.exe in your installation folder for Life in the Ruins.
+ * Check that your game settings path is set to `my documents/my games/fallout 4`
+ 
+3. `Basic` Tab
+ * High or Ultra should be ok for most users, however LitR is significantly heavier than vanilla fallout. If it doesn't perform well for you, drop down to medium.
+ * For most users, 1920x1080 resolution is recommended.
+ * Enable `VSync` unless you're using Gsync/FreeSync
+ * On the custom tab, select `general` in the section drop down, and `iNumHWThreads` in the settings drop down. Set this to the number of cores your CPU has, doubling that number if it has hyperthreading. For more information on this setting, see https://stepmodifications.org/wiki/Guide:Skyrim_INI/General#iNumHWThreads
+ 
+4. `Details` tab 
+  * Field of View (FOV)
+ It is recommended to leave the FoV vanilla. Setting the FoV higher than 90 has been known to cause weird visual issues with armor mods in the list. It can also effect the pipboy and scopes. Do not use the game console to change the FOV, it will not work. 
+
+
+### Nvidia/AMD Control Center
+
+Settings here are going to be very system and driver specific, but some general things to be aware of
+
+* VSync settings MUST be set to application controlled 
+* Disable any framerate caps or limits
+* Make sure your drivers are up to date.
+* If you have FreeSync/Gsync enabled and an adaptive sync capable monitor, then you need either enable the 120 FPS NoVSYNC option in the Configuration section, or to make your own version of the HighFPSPhysicsFix configuration ini, to disable vsync and set the FPS cap to your desired value (however, due to the havok engine limitations, 60 or 120 is still recommended).
+
+### Mod Organizer Configuration
+
+Run modorganizer.exe located in the Life in the Ruins installation folder you created.
+
+1. **Video Memory And ENBoost**
+ 
+ - In the ENB section, are three presets to enable ENBoost 8k, 12k, and 16k, with the required files edited and ready to use, all you have to do is enable one of them. See these videos for help choosing what value works best for you.
+  - [Introduction to ENBoost](https://www.youtube.com/watch?v=Y4cz-lFXDo8)
+  - [How to find your optimal value with ENBoost](https://www.youtube.com/watch?v=xSz84F1kgkM)
+  - Higher values might work for users with a lot of VRAM, but are unnecessary. For most users this will actually reduce performance and stability. Even with high res textures, FO4 doesn't require that much memory.
+  - ENBoost is a feature of ENB that allows your FO4 to extend your system's VRAM with your regular RAM. It's not as fast, but it's better than nothing. AMD users with resizable BAR enabled should see even better performance improvements with this setting, and it's recommended to try it out. However this is a HIGHLY system specific setting. What works great for a user with a 3090, will crash for a user with less, which is why it's not turned on for you by default.
+  - If you have issues with textures not loading, stuttering, or the brown face bug, it is recommended to try this.
+
+3. **Configuration** 
+ 
+ Additional configuration options (see the section in MO2)
+ 
+ - `Lucky 7 - Hardcore Start`: You get 7 points to spend at start instead of the regular 24, and get an extra perk point every 7 levels. For players who want a real challenge.
+ - `Whisky's Tunes`: Copyright free music for streamers
+ - `Nvidia Reflex support` and `Nvidia Weapon Debris Crash Fix`: Enable these if you have an Nvidia card. If you crash after enabling them, try disabling them.
+
+## Launching the Game and Additional in Game Setup
+
+Launch modorganizer.exe from the Life in the Ruins installation folder.
+
+1. Make sure the drop down next to the Run button says "Play Life in the Ruins"
+2. Press Run and wait for the game to launch. Initial launch can take several minutes even on high end systems. Do NOT press the unlock button. If it seems frozen, try alt-tabbing a couple times, or hitting the enter key.
+3. Start a new game. 
+  * Some users experience the game getting stuck on new game. Alt-tabbing, waiting a minute or two, then going back in, or pressing 'enter' or 'e' a few times resolves the issue for most users. A few users have reported that hooking up buttons on the gamepad also resolves the issue for them. If none of these work, try disabling `Intro Tweaks`, or `Fast Start`.
+4. Mod Configuration Menu 
+  * MCM Settings Manager: Load the LitR Default settings once you're outside of the vault.
+5. Wait a bit before venturing forth
+  * The base game needs a couple minutes to load the initialization scripts, it's best to let it do so. If the quests with Codsworth and Preston are bugged, then skipping waiting outside the vault is typically the reason.
+
+## Updating the Modlist
+
+Before updating the modlist, [see the full changelog](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob/main/changelog.md) for the latest release. Make sure to follow any additional instructions in the changelog regarding the update process. The list uses Semantic versioning, so if only the last number updates, then an update is save-safe, otherwise instructions will be provided.
+
+To Update the modlist, just rerun the Wabbajack installer with the updated download from the Wabbajack gallery (or prerelease from my Patreon). Check "overwrite" during the installation process.
+
+- You do not need to rerun Bethini, as with Life in the Ruins the the game settings are stored in your my documents folder, not inside the list. However, it does no harm to check everything is still setup as expected.
+- You do need to reapply any MCM settings that you changed. If you're making extensive MCM changes, it is recommended to export these and back them up outside your LitR install before updating.
+
+If you still have the downloads, Wabbajack will detect them and you will not need to download the entire modlist again, and the process should just take a couple minutes. If you deleted them, then yes, you will need to download all the files again.
+
+## Known Issues
+- Codsworth/Preston Quests don't advance
+  * This is a vanilla bug where the first few quests don't advance. Reload a save from before you exit the vault, and after you exit the vault wait until you see the map marker for Codsworth start to move around.
+- Performance Issues: Infinite Loading Screens, Micro Stuttering, Textures not loading, or the Brown Face bug: 
+  * Stop other processes to free up RAM
+  * Try setting the resolution to 1920x1080 if you're running above that
+  * Make sure you've set iNumHWThreads, as specified in the Bethini section of this readme.
+- Crashing
+  * Medal.TV is incompatible with ENB, disable one or the other.
+- Infinite Loading Screen on a New Game
+  * Having your config ini's synced to one-drive is known to cause issues. Try setting MO2 to use profile specific INIs in the profile manager dropdown.
+  * Try alt-tabbing a couple times, or pressing enter or E several times.  If you have a controller, try presing A (or whatever the default activation is)
+  * If none of those work, try downloading this save file [Save File](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=342910&game_id=1151), it has both male and female saves in the download. Play through the vault, and you can redo your character before exitting the vault.
