@@ -1,31 +1,33 @@
-# Life In The Ruins: A Selection of Lunar Fallout Plus Modlists
+# Life In The Ruins
 ![Life In The Ruins](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob/main/screenshots/banner.png)
-A massively overhauled and finely tuned Fallout 4 RPG experience. Designed to improve and upgrade the game, all while staying true to the vanilla aesthetic.
+Life in the Ruins transforms Fallout 4 into a deeper, more dangerous RPG without losing the soul of the original game. The Commonwealth is greener, harsher, and more alive. Resources are scarce, exploration is rewarding, and your character build matters.
+
+Actively maintained and developed since 2022.
 
 [Join the Community on Discord](https://discord.gg/HUNWVBjZPg)
 [Support me on Patreon](https://www.patreon.com/user?u=4257489)
 
-### Modlist Goals
+### Key Features
 
 - RPG Balance, Scaling, and Progression - brought to you by Lunar Fallout Overhaul.
-- Scarcity of resources makes the player try new things.
-- A vibrant, forested, inhabited, and uncivilized wasteland. Neglected areas should feel fleshed out, but it should still feel lonely.
-- New Uniques - almost every single quest reward and vendor unique is now a modded weapon or armor.
-- Extra high-quality content with the same style and tone as vanilla (no pointlessly skimpy outfits, no tacti-cool weapons).
+- A vibrant, forested, and uncivilized wasteland. Neglected areas should feel fleshed out, but it should still feel lonely.
+- A fully overhauled weapon progression. Tons of new guns that feel like they should have been in the base game, and every single one of them has been rebalanced, and carefully integrated.
+- A tightly curated modlist where every mod is carefully chosen, and manually integrated to ensure balance and immersion.
 - Full controller support (no extra configuration required).
-- Smooth performance on mid-range modern gaming hardware.
+- Smooth, stable performance on mid-range modern gaming hardware.
  
-### This is not...
 
-- A hardcore grindy survival simulator
-- A tactical shooter with modern guns
-- Fallout New Vegas
-- A good base-list for building on top of - if you want that try Welcome to Paradise or Fusion
-- A modlist that has every mod on the nexus- this is a huge list, but everything in it is hand picked, and carefully integrated to provide a focused experience, based around an enhanced and expanded vanilla game.
+### Life in the Ruins is not...
+
+- A grindy, hardcore survival simulator
+- A modern tactical shooter with real-world guns
+- Fallout New Vegas recreated in Fallout 4
+- A generic base to build your own list on top of
 
 ## Key Gameplay Mods To Be Aware Of
 
 - [Lunar Fallout Overhaul](https://www.nexusmods.com/fallout4/mods/34769)
+- [Lunar Arsenal](https://www.nexusmods.com/fallout4/mods/101287)
 - [Random Valuables Redux](https://www.nexusmods.com/fallout4/mods/60097)
 - [PlayerUndead death recovery by SKK](https://www.nexusmods.com/fallout4/mods/41002)
 - [Settlement Fast Travel Signs](https://www.nexusmods.com/fallout4/mods/89580)
@@ -40,7 +42,7 @@ A massively overhauled and finely tuned Fallout 4 RPG experience. Designed to im
 - [You And What Army 2](https://www.nexusmods.com/fallout4/mods/78925)
 
 
-### OptionalPaid Content Compatibility
+### Optional Paid Content Compatibility
 
  ### Radfall
  Interested in a more challenging survival experience? Check out [Radfall](https://www.patreon.com/posts/what-is-radfall-114027472)
@@ -50,9 +52,9 @@ A massively overhauled and finely tuned Fallout 4 RPG experience. Designed to im
 
 ### Technical Requirements
 
-- This modlist requires the latest version of Fallout 4 on Steam. (After major FO4 updates are released, there may be a short period of time where I haven't updated the list yet).
-- This modlist should be installed on an SSD for performance reasons (the Wabbajack download folder can be on an HDD though).
-- Recommmended at least 6gb of VRAM.
+- This modlist requires the latest version of Fallout 4 on Steam.
+- This modlist should be installed on an SSD for optimal performance (the Wabbajack download folder can be on an HDD though).
+- Recommmended at least 6gb of VRAM
 
 The modlist is designed for relatively modern, middle range hardware. A high end graphics card is not required, but it does help. There are performance options available, including a [steam deck installation guide](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob/main/SteamDeck.md).
 
@@ -83,9 +85,7 @@ See the [How To Install LitR video tutorial](https://discord.com/channels/885225
 
 ### Optional Mods and Downloads
 
-1. (Recommended) Download and install into the `[NODELETE] Cross Skin Packs` (found in the difficulty and customization section), the following skin packs from https://gumroad.com/niero. They're available for free (use the discount code which can be found on the checkout page), but a donation is suggested. The man makes some fantastic mods, and you can probably afford to buy him a coffee. The links for the 2k version are provided below, however the 4k are also available.
- * [Break Action Laser Skin Pack](https://niero.gumroad.com/l/fhdhdh)
-2. Ultra Wide Support: The list does not have official utlrawide support (because I don't have an official ultrawide monitor), but there is a user maintained [thread on the topic](https://discord.com/channels/885225427839369216/1030877815559684137) in the discord.
+1. Ultra Wide Support: The list does not have official utlrawide support (because I don't have an official ultrawide monitor), but there is a user maintained [thread on the topic](https://discord.com/channels/885225427839369216/1030877815559684137) in the discord.
 
 ### Game INI Settings with BethINI
 
@@ -96,10 +96,9 @@ See the [How To Install LitR video tutorial](https://discord.com/channels/885225
  * Check that your game settings path is set to `my documents/my games/fallout 4`
  
 3. `Basic` Tab
- * Choose a profile at least one step lower than you would use for vanilla fallout. For most users with less than a 3090 I recommend medium or high, LitR is significantly heavier than vanilla fallout. (The shorter draw distances on medium make A Forest much easier to run, and A Forest makes it so you can't see stuff way in the distance anyway)
+ * High or Ultra should be ok for most users, however LitR is significantly heavier than vanilla fallout. If it doesn't perform well for you, drop down to medium.
  * For most users, 1920x1080 resolution is recommended.
- * Enable `VSync` unless you're using Gsync/FreeSync (the `High FPS Physics Fix` mod controls VSync and this settings should be ignored, but having it match here doesn't hurt)
- * If you want to change the Full Screen/Boarderless setting, by default this is controlled in the High FPS Physics config file (normal or 120fps version if you're using it)
+ * Enable `VSync` unless you're using Gsync/FreeSync
  * On the custom tab, select `general` in the section drop down, and `iNumHWThreads` in the settings drop down. Set this to the number of cores your CPU has, doubling that number if it has hyperthreading. For more information on this setting, see https://stepmodifications.org/wiki/Guide:Skyrim_INI/General#iNumHWThreads
  
 4. `Details` tab 
@@ -129,18 +128,11 @@ Run modorganizer.exe located in the Life in the Ruins installation folder you cr
   - ENBoost is a feature of ENB that allows your FO4 to extend your system's VRAM with your regular RAM. It's not as fast, but it's better than nothing. AMD users with resizable BAR enabled should see even better performance improvements with this setting, and it's recommended to try it out. However this is a HIGHLY system specific setting. What works great for a user with a 3090, will crash for a user with less, which is why it's not turned on for you by default.
   - If you have issues with textures not loading, stuttering, or the brown face bug, it is recommended to try this.
 
-2. **Difficulty and Customization**
- 
- For People that want to tweak things a little. Not all options are listed here. See the section in Mod Organizer for all options
- 
- - `Lucky 7 - Hardcore Start`: You get 7 points to spend at start instead of the regular 24, and get an extra perk point every 7 levels. For players who want a real challenge.
-
-
 3. **Configuration** 
  
- Additional configuration options
+ Additional configuration options (see the section in MO2)
  
- - `120FPS no VSYNC`: Enable this mod if you are using a higher refresh rate Gsync/Freesync monitor. This mod increases the FPS cap from the High Performance Physics Fix mod and disables vsync. You can edit the ini file if you need additional changes, or create you own configuration file.
+ - `Lucky 7 - Hardcore Start`: You get 7 points to spend at start instead of the regular 24, and get an extra perk point every 7 levels. For players who want a real challenge.
  - `Whisky's Tunes`: Copyright free music for streamers
  - `Nvidia Reflex support` and `Nvidia Weapon Debris Crash Fix`: Enable these if you have an Nvidia card. If you crash after enabling them, try disabling them.
 
@@ -170,7 +162,7 @@ If you still have the downloads, Wabbajack will detect them and you will not nee
 
 ## Known Issues
 - Codsworth/Preston Quests don't advance
-  * This is a vanilla bug where the first few quests don't advance. Reload a save from before you exit the vault, and after you exit the vault wait at least a few minutes before starting to play, to allow the game to properly start up.
+  * This is a vanilla bug where the first few quests don't advance. Reload a save from before you exit the vault, and after you exit the vault wait until you see the map marker for Codsworth start to move around.
 - Performance Issues: Infinite Loading Screens, Micro Stuttering, Textures not loading, or the Brown Face bug: 
   * Stop other processes to free up RAM
   * Try setting the resolution to 1920x1080 if you're running above that
