@@ -41,15 +41,6 @@ Actively maintained and developed since 2022.
 - [South of the Sea: Atom's Storm](https://www.nexusmods.com/fallout4/mods/63152)
 - [You And What Army 2](https://www.nexusmods.com/fallout4/mods/78925)
 
-
-### Optional Paid Content Compatibility
-
- ### Radfall
- Interested in a more challenging survival experience? Check out [Radfall](https://www.patreon.com/posts/what-is-radfall-114027472)
-
-
-### [Full List of Mods at LoadOrderLibrary](https://loadorderlibrary.com/lists/life-in-the-ruins-2)
-
 ### Technical Requirements
 
 - This modlist requires the latest version of Fallout 4 on Steam.
@@ -173,3 +164,13 @@ If you still have the downloads, Wabbajack will detect them and you will not nee
   * Having your config ini's synced to one-drive is known to cause issues. Try setting MO2 to use profile specific INIs in the profile manager dropdown.
   * Try alt-tabbing a couple times, or pressing enter or E several times.  If you have a controller, try presing A (or whatever the default activation is)
   * If none of those work, try downloading this save file [Save File](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=342910&game_id=1151), it has both male and female saves in the download. Play through the vault, and you can redo your character before exitting the vault.
+
+# Optional Paid Content Compatibility
+
+None of these are required to enjoy the modlist, but they're available for people that want them.
+
+ ## Creation Club Paint Jobs
+ Because the modlist includes [Faction Paintjob Distributor](https://www.nexusmods.com/fallout4/mods/97638), getting faction paintjobs distributed to their appropriate faction can be achieved by running the included Paintjob Distribution script, and then rerunning the Complex Sorter script.
+
+ ## Radfall
+ Interested in a more challenging survival experience? Check out [Radfall](https://www.patreon.com/posts/what-is-radfall-114027472).
