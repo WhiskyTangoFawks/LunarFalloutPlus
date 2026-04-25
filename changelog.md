@@ -1,8 +1,98 @@
 # Changelog
 
+#8.1.0
+
+After several months of work, we've finally arrived at the 8.1 update. This update includes major changes to the list weapon distribution, along with a tone of new mods and updates that have been backlogged while I work on other things. Additionally, I've also pulled Power Armor to the People, and replaced it with Some Assembly Required + Lore Based Power Armor Changes.
+
+This update is not save safe.
+
+- Added
+    * Magnetic Coils And Capacitors - A Gauss Rifle Retexture
+    * Pig's Wasteland Weaponry - A Best Of Pack (integrated via Lunar Arsenal)
+    * Mind Games - Handmade Laser Rifle
+    * Nina's Proper Pipe Guns Replacer (Lunar Arsenal resource)
+    * Jury Rigged Antimaterial
+    * Grabbing is Stealing
+    * FallUI Companion Carryweight Fix
+    * Blood Fixes
+    * Terminal Color Separator
+    * Companion Command Animations
+    * Simple Swinging Meat Bags
+    * Motion Vector Fixes
+    * A Forest - Marshland Border Fix
+    * More Diamond City Bounties
+    * Companion Status Enhanced
+    * Unique Holotapes
+    * Ragged Thunder (Armbands Only)
+    * VATS Freeze Fix - F4SE
+    * Disable Healing on Level-Up F4SE
+    * Pip-Boy Light Detection Fix - F4SE
+    * Pip-Boy Radio Detection - F4SE
+    * Glowing Sea Grass
+    * Colors to the "X" mod series
+    * "X" to BOS mod series
+    * Barrel Bonanza - Fire Barrel Mesh Replacer
+    * Scrap Heap - A Junk Mod
+    * Restore Worldspace Environment Maps
+    * Bunker Stories
+    * Boston Unsealed and More (B.U.M.)
+    * Junkernaught Raiders
+    * Sully's Junkernaught Raiders
+    * Reinforcements and Retribution
+    * Some Assembly Required: Instructions Not Included
+- Updated
+    * Lunar Arsenal
+    * Settlement Fast Travel Signs
+    * Far Object LOD Improvement Project
+    * True Storms Wasteland Edition v1.4
+    * High FPS Physics Fix
+    * Shadow Boost FO4
+    * Magic Effect and Spell Engine Fixes - F4SE
+    * Facial Expression and Eyetracking Engine Fixes - F4SE
+    * Who's The General - Minutemen Quest Cleanup
+    * Who's The General Patch Hub
+    * You And What Army 2 Patch Hub
+    * Random Encounter Framework
+    * Dried Blood
+    * No Door Animations - Instant Doors
+    * Empty Vendor List Bug Fix - F4SE
+    * Power Armor HUD - paHUD
+    * Reversed Workshop Highlight
+    * Vanilla Locations Plus
+    * TG'z East Boston Interiors
+    * Energy Weapon Calculation Fix
+    * Thats Gunner Life - Gunner Outfit Pack Distribution and Balance
+    * People Live In - Roadside Pines Motel Patch Hub
+    * Perception Bug Fix
+- Removed
+    * Dadao
+    * Select Balisong
+    * Grease Gun
+    * Syringer Rifle Overhaul
+    * ZapGun
+    * A Variety of Containers
+    * Gauss and Tesla re-textured
+    * Companion Active Wait
+    * Tesla Heavy Cannon
+    * Lunar Fix for PA
+    * Power Armor to the People
+    * Tumbajamba's Gunner Power Armor
+    * Tumbajamba's Raider Power Armor
+    * Excavator Power Armor
+    * Red Shift Power Armor
+    * T51C Airforce Power Armor
+    * Tribal Power Armor
+- Misc
+    * Rolled UFO4P and Communnity Fixes Merged back to GOG editions
+    * Remove 120FPS configuration preset (users wanting 120fps can either modify the highfpsconfiguration ini, or the default bethini settings)
+    
+
+
 #8.0.0
 
-The major change here is a complete rebuild of Lunar Arsenal, which is the core weapon distribution framework for the mod into an All-In-One weapons overhaul. There are several new "classes" of weapons available, and Automatics and Lasers in particular have a lot of changes, and everything with open permissions has been merged into a single download. On top of that is the new Faction Paintjob Distribution patcher, which handles distribution of paintjobs for armor, power armor, and weapons
+The major change here is a complete rebuild of Lunar Arsenal, which is the core weapon distribution framework for the modlist. There are several new "classes" of weapons available, and Automatics and Lasers have a lot mroe variety. On top of that is the new Faction Paintjob Distribution patcher, which handles distribution of paintjobs for armor, power armor, and weapons.
+
+This is a major update, and needs a new game for anyone coming from 7.x
 
 - Added
     * Lunar Arsenal 2
