@@ -2,7 +2,7 @@
 ![Life In The Ruins](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob/main/screenshots/banner.png)
 Life in the Ruins transforms Fallout 4 into a deeper, more dangerous RPG without losing the soul of the original game. The Commonwealth is greener, harsher, and more alive. Resources are scarce, exploration is rewarding, and your character build matters.
 
-Actively maintained and developed since 2022.
+Still active since 2022.
 
 [Join the Community on Discord](https://discord.gg/HUNWVBjZPg)
 [Support me on Patreon](https://www.patreon.com/user?u=4257489)
@@ -28,6 +28,7 @@ Actively maintained and developed since 2022.
 
 - [Lunar Fallout Overhaul](https://www.nexusmods.com/fallout4/mods/34769)
 - [Lunar Arsenal](https://www.nexusmods.com/fallout4/mods/101287)
+- [Some Assembly Required - Instructions Not Included](https://www.nexusmods.com/fallout4/mods/103268)
 - [Random Valuables Redux](https://www.nexusmods.com/fallout4/mods/60097)
 - [PlayerUndead death recovery by SKK](https://www.nexusmods.com/fallout4/mods/41002)
 - [Settlement Fast Travel Signs](https://www.nexusmods.com/fallout4/mods/89580)
@@ -76,7 +77,8 @@ See the [How To Install LitR video tutorial](https://discord.com/channels/885225
 
 ### Optional Mods and Downloads
 
-1. Ultra Wide Support: The list does not have official utlrawide support (because I don't have an official ultrawide monitor), but there is a user maintained [thread on the topic](https://discord.com/channels/885225427839369216/1030877815559684137) in the discord.
+1. Improved textures for Cross Break Action Laser: Download from [here](https://niero.gumroad.com/l/fhdhdh), and use the supplied discount code if you don't want to donate to the author
+2. Ultra Wide Support: The list does not have official utlrawide support (because I don't have an official ultrawide monitor), but there is a user maintained [thread on the topic](https://discord.com/channels/885225427839369216/1030877815559684137) in the discord.
 
 ### Game INI Settings with BethINI
 
