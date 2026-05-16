@@ -1,8 +1,40 @@
 # Changelog
 
-#8.1.0
+# 8.1.1
 
-After several months of work, we've finally arrived at the 8.1 update. This update includes major changes to the list weapon distribution, along with a tone of new mods and updates that have been backlogged while I work on other things. Additionally, I've also pulled Power Armor to the People, and replaced it with Some Assembly Required + Lore Based Power Armor Changes.
+This update brings replaces some of the engine level fixes with newer alternative, as well as a handful of new unique replacer weapons.
+
+Make sure you install the upgraded textures for the cross break action laser from GumRoad. See the modpage for more details.
+
+Added
+- Addictol
+- Cell Offset Generator
+- Dak's Vintage Revolver Rifle
+- Dak's Scrap Revolver
+- Support Laser Rifle - AESW3
+- Cross Break Action Laser
+- Landwer Interiors Project
+- Safes of the Commonwealth
+- Inertia - Physical Movement Response System - F4SE
+- Skin and Bones Supermutant Trunk
+Updated
+- Lunar Arsenal
+- Instructions Not Included
+Removed
+- X-Cell (replaced by Addictol)
+- Buffout 4 (replaced by Addictol)
+- Escape Freeze (replaced by Addictol)
+- Baka MaxPapyrusOps (replaced by Addictol)
+- Interior NavCut Fix (replaced by Addictol)
+- Long Save Bug Fix (replaced by Addictol)
+Misc
+- Removed gramaphone records from distribution, should resolve a recurring CTD
+- Made sniping fusion cores out of PA significantly harder
+
+
+# 8.1.0
+
+After several months of work, we've finally arrived at the 8.1 update. This update includes major changes to the list weapon distribution, along with a ton of new mods and updates that have been backlogged while I work on other things. Additionally, I've also pulled Power Armor to the People, and replaced it with Some Assembly Required + Lore Based Power Armor Changes.
 
 This update is not save safe.
 
