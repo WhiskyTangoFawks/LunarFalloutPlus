@@ -106,7 +106,6 @@ Settings here are going to be very system and driver specific, but some general 
 * VSync settings MUST be set to application controlled 
 * Disable any framerate caps or limits
 * Make sure your drivers are up to date.
-* If you have FreeSync/Gsync enabled and an adaptive sync capable monitor, then you need either enable the 120 FPS NoVSYNC option in the Configuration section, or to make your own version of the HighFPSPhysicsFix configuration ini, to disable vsync and set the FPS cap to your desired value (however, due to the havok engine limitations, 60 or 120 is still recommended).
 
 ### Mod Organizer Configuration
 
